@@ -157,3 +157,7 @@ For each unit of meaning, and for each learning goal, create a json in the corre
 - For all relationships, resolve them according to the used dictionary keys, and save them according to the type definitions above, using the generated `uid`.
     - Note: `UnitOfMeaning.translations` and `UnitOfMeaning.related` are automatically mutual: If in the input data *a* says that *b* is a translation of it, don't forget to also add *a* in the `translations` array of b (same for `.related`)
 - Default `.context` is "unknown" 
+
+## Notes
+
+- Make sure the JSON is a compressed as possible (no pretty print or unneeded whitespace)
