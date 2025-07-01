@@ -1,0 +1,56 @@
+{
+    "unitsOfMeaning": {
+        "a":{
+            "language": "en",
+            "content": "I couldn't say",
+            "linguType": "sentence",
+            "translations": ["b"]
+        },
+        "b": {
+            "language": "apc",
+            "content": "ما بعرفش",
+            "linguType": "sentence"
+        },
+        "c": {
+            "language": "en",
+            "content": "I have a cat.",
+            "linguType": "sentence",
+            "translations": ["d"]
+        },
+        "d": {
+            "language": "apc",
+            "content": "عندي بسة",
+            "linguType": "sentence"
+        },
+        "e": {
+            "language": "apc",
+            "content": "بسة",
+            "linguType": "noun",
+            "translations": ["f"]   
+        },
+        "f": {
+            "language": "en",
+            "content": "cat",
+            "linguType": "noun",
+            "related": ["c"]
+        }
+    },
+    "learningGoals": {
+        "a": {
+            "name": "Understand 'ما بعرفش'",
+            "language": "apc",
+            "unitsOfMeaning": ["b"]
+        },
+        "b": {
+            "name": "Understand 'عندي بسة'",
+            "language": "apc",
+            "unitsOfMeaning": ["d"]
+        },
+        "c": {
+            "name": "Know how to translate 'cat'",
+            "language": "apc",
+            "unitsOfMeaning": ["e", "f"],
+            "parents": ["b"]
+        }
+    }
+}
