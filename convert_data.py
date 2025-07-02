@@ -11,6 +11,7 @@ import logging
 import os
 import re
 import sys
+import shutil
 from pathlib import Path
 from typing import Dict, List, Set, Tuple, Optional
 from urllib.parse import quote
@@ -376,6 +377,13 @@ def main():
             log_level=args.log_level
         )
         converter.process_data_files()
+        # Copy everything from other_data/ to public/
+        other_data_dir = Path("other_data")
+        public_dir = Path(args.public_dir)
+        if other_data_dir.exists() and other_data_dir.is_dir():
+            for item in other_data_dir.iterdir():
+                if item.is_file():
+                    shutil.copy2(item, public_dir / item.name)
         print("Data conversion completed successfully!")
     except Exception as e:
         print(f"Error: {e}", file=sys.stderr)
