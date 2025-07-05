@@ -191,9 +191,26 @@ def create_learning_goals(sentences: List[Dict[str, Any]]) -> Dict[str, Dict[str
         eng_id = f"eng_{i+1}"
         ajp_id = f"ajp_{i+1}"
         
-        # Create a goal for each sentence pair
+        # Get the Arabic translation for the goal name
+        ajp_translation = ""
+        translations = sentence_pair.get('translations', [])
+        
+        for translation_group in translations:
+            for translation in translation_group:
+                if translation.get('lang') == TARGET_LANGUAGE:
+                    ajp_translation = translation.get('text', '')
+                    break
+            if ajp_translation:
+                break
+        
+        # Create a goal with the actual sentence content
+        if ajp_translation:
+            goal_name = f"Learn '{ajp_translation}'"
+        else:
+            goal_name = f"Learn sentence {i+1}"
+        
         goals[goal_id] = {
-            "name": f"Learn sentence {i+1}",
+            "name": goal_name,
             "language": "ajp",
             "unitsOfMeaning": [eng_id, ajp_id],
             "parents": ["meta"]
