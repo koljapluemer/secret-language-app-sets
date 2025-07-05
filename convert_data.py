@@ -49,8 +49,10 @@ class DataConverter:
         
         # Join with underscore
         uid = "_".join(uid_parts)
-        # Replace slashes with Unicode solidus (U+2044)
+        # Replace problematic characters with Unicode alternatives
         uid = uid.replace("/", "⧸")
+        uid = uid.replace("#", "ⵌ")
+        uid = uid.replace("?", "﹖")
         
         # Truncate to stay under filesystem limits (255 chars for filename)
         # Leave some room for .json extension and path
