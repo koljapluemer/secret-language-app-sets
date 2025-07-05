@@ -6,33 +6,36 @@ from the Tatoeba API and generate a JSON file in the specified format.
 
 import requests
 import json
-import time
 from typing import Dict, List, Any
-import uuid
 
-def fetch_sentences_with_ajp_translations(limit: int = 10) -> List[Dict[str, Any]]:
+# Constants
+FETCH_LIMIT = 20
+SOURCE_LANGUAGE = 'eng'  # English
+TARGET_LANGUAGE = 'ajp'  # South Levantine Arabic
+
+def fetch_sentences_with_ajp_translations() -> List[Dict[str, Any]]:
     """
-    Fetch English sentences that have South Levantine Arabic (ajp) translations.
+    Fetch {SOURCE_LANGUAGE} sentences that have {TARGET_LANGUAGE} translations.
     
     Args:
         limit: Number of sentence pairs to fetch
         
     Returns:
-        List of sentence pairs with English and ajp translations
+        List of sentence pairs with {SOURCE_LANGUAGE} and {TARGET_LANGUAGE} translations
     """
     # Tatoeba API endpoint for sentences
     base_url = "https://api.tatoeba.org/unstable/sentences"
     
-    # Parameters to get English sentences with ajp translations
+    # Parameters to get {SOURCE_LANGUAGE} sentences with {TARGET_LANGUAGE} translations
     params = {
-        'lang': 'eng',  # English sentences
-        'trans:lang': 'ajp',  # South Levantine Arabic translations
-        'limit': limit,
+        'lang': SOURCE_LANGUAGE,  # {SOURCE_LANGUAGE} sentences
+        'trans:lang': TARGET_LANGUAGE,  # {TARGET_LANGUAGE} translations
+        'limit': FETCH_LIMIT,
         'sort': 'random'  # Get random sentences
     }
     
     try:
-        print(f"Fetching {limit} English sentences with South Levantine Arabic translations...")
+        print(f"Fetching {FETCH_LIMIT} {SOURCE_LANGUAGE} sentences with {TARGET_LANGUAGE} translations...")
         response = requests.get(base_url, params=params)
         response.raise_for_status()
         
@@ -76,7 +79,7 @@ def create_units_of_meaning(sentences: List[Dict[str, Any]]) -> Dict[str, Dict[s
         eng_id = f"eng_{i+1}"
         ajp_id = f"ajp_{i+1}"
         
-        # English sentence metadata
+        # {SOURCE_LANGUAGE} sentence metadata
         eng_license = sentence_pair.get('license')
         eng_owner = sentence_pair.get('owner')
         eng_owner_link = f"https://tatoeba.org/en/user/profile/{eng_owner}" if eng_owner else None
@@ -84,7 +87,7 @@ def create_units_of_meaning(sentences: List[Dict[str, Any]]) -> Dict[str, Dict[s
         eng_sentence_link = f"https://tatoeba.org/en/sentences/show/{eng_sentence_id}" if eng_sentence_id else None
         
         eng_unit = {
-            "language": "en",
+            "language": SOURCE_LANGUAGE,
             "content": sentence_pair.get('text', ''),
             "linguType": "sentence",
             "translations": [ajp_id],
@@ -98,7 +101,7 @@ def create_units_of_meaning(sentences: List[Dict[str, Any]]) -> Dict[str, Dict[s
         }
         units[eng_id] = clean_dict(eng_unit)
         
-        # Find the South Levantine Arabic translation and its metadata
+        # Find the {TARGET_LANGUAGE} translation and its metadata
         ajp_translation = ""
         ajp_license = None
         ajp_owner = None
@@ -109,7 +112,7 @@ def create_units_of_meaning(sentences: List[Dict[str, Any]]) -> Dict[str, Dict[s
         
         for translation_group in translations:
             for translation in translation_group:
-                if translation.get('lang') == 'ajp':
+                if translation.get('lang') == TARGET_LANGUAGE:
                     ajp_translation = translation.get('text', '')
                     ajp_license = translation.get('license')
                     ajp_owner = translation.get('owner')
@@ -121,7 +124,7 @@ def create_units_of_meaning(sentences: List[Dict[str, Any]]) -> Dict[str, Dict[s
                 break
         
         ajp_unit = {
-            "language": "ajp",
+            "language": TARGET_LANGUAGE,
             "content": ajp_translation,
             "linguType": "sentence",
             "context": "Tatoeba API",
@@ -195,7 +198,7 @@ def main():
     """Main function to fetch data and generate JSON file."""
     
     # Fetch sentences from Tatoeba API
-    sentences = fetch_sentences_with_ajp_translations(limit=10)
+    sentences = fetch_sentences_with_ajp_translations()
     
     if not sentences:
         print("No sentences fetched. Exiting.")

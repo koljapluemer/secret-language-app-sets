@@ -1,11 +1,354 @@
 {
     "unitsOfMeaning": {
         "eng_1": {
-            "language": "en",
-            "content": "I remember it as if it were yesterday, but in reality it was fifteen years ago.",
+            "language": "eng",
+            "content": "Praise the Lord!",
             "linguType": "sentence",
             "translations": [
                 "ajp_1"
+            ],
+            "context": "Tatoeba API",
+            "license": "CC BY 2.0 FR",
+            "owner": "Hybrid",
+            "ownerLink": "https://tatoeba.org/en/user/profile/Hybrid",
+            "source": "Tatoeba",
+            "sourceLink": "https://tatoeba.org/",
+            "sentenceLink": "https://tatoeba.org/en/sentences/show/2594384"
+        },
+        "ajp_1": {
+            "language": "ajp",
+            "content": "الحمدلله!",
+            "linguType": "sentence",
+            "context": "Tatoeba API",
+            "license": "CC BY 2.0 FR",
+            "source": "Tatoeba",
+            "sourceLink": "https://tatoeba.org/",
+            "sentenceLink": "https://tatoeba.org/en/sentences/show/8905725"
+        },
+        "eng_2": {
+            "language": "eng",
+            "content": "Tom said he may walk to work tomorrow.",
+            "linguType": "sentence",
+            "translations": [
+                "ajp_2"
+            ],
+            "context": "Tatoeba API",
+            "license": "CC BY 2.0 FR",
+            "owner": "CK",
+            "ownerLink": "https://tatoeba.org/en/user/profile/CK",
+            "source": "Tatoeba",
+            "sourceLink": "https://tatoeba.org/",
+            "sentenceLink": "https://tatoeba.org/en/sentences/show/6430373"
+        },
+        "ajp_2": {
+            "language": "ajp",
+            "content": "توم قال إنه ممكن رح يمشي على الشغل بكرا.",
+            "linguType": "sentence",
+            "context": "Tatoeba API",
+            "license": "CC BY 2.0 FR",
+            "owner": "xahmie",
+            "ownerLink": "https://tatoeba.org/en/user/profile/xahmie",
+            "source": "Tatoeba",
+            "sourceLink": "https://tatoeba.org/",
+            "sentenceLink": "https://tatoeba.org/en/sentences/show/12299644"
+        },
+        "eng_3": {
+            "language": "eng",
+            "content": "I'm not a singer.",
+            "linguType": "sentence",
+            "translations": [
+                "ajp_3"
+            ],
+            "context": "Tatoeba API",
+            "license": "CC BY 2.0 FR",
+            "owner": "CK",
+            "ownerLink": "https://tatoeba.org/en/user/profile/CK",
+            "source": "Tatoeba",
+            "sourceLink": "https://tatoeba.org/",
+            "sentenceLink": "https://tatoeba.org/en/sentences/show/5902881"
+        },
+        "ajp_3": {
+            "language": "ajp",
+            "content": "أنا مش مغني.",
+            "linguType": "sentence",
+            "context": "Tatoeba API",
+            "license": "CC BY 2.0 FR",
+            "owner": "xahmie",
+            "ownerLink": "https://tatoeba.org/en/user/profile/xahmie",
+            "source": "Tatoeba",
+            "sourceLink": "https://tatoeba.org/",
+            "sentenceLink": "https://tatoeba.org/en/sentences/show/12299764"
+        },
+        "eng_4": {
+            "language": "eng",
+            "content": "He said that he was very cold.",
+            "linguType": "sentence",
+            "translations": [
+                "ajp_4"
+            ],
+            "context": "Tatoeba API",
+            "license": "CC BY 2.0 FR",
+            "owner": "CH",
+            "ownerLink": "https://tatoeba.org/en/user/profile/CH",
+            "source": "Tatoeba",
+            "sourceLink": "https://tatoeba.org/",
+            "sentenceLink": "https://tatoeba.org/en/sentences/show/7399717"
+        },
+        "ajp_4": {
+            "language": "ajp",
+            "content": "قال اِنُّه كْتير بَرْدان",
+            "linguType": "sentence",
+            "context": "Tatoeba API",
+            "license": "CC BY 2.0 FR",
+            "owner": "karimique",
+            "ownerLink": "https://tatoeba.org/en/user/profile/karimique",
+            "source": "Tatoeba",
+            "sourceLink": "https://tatoeba.org/",
+            "sentenceLink": "https://tatoeba.org/en/sentences/show/12041956"
+        },
+        "eng_5": {
+            "language": "eng",
+            "content": "Good morning.",
+            "linguType": "sentence",
+            "translations": [
+                "ajp_5"
+            ],
+            "context": "Tatoeba API",
+            "license": "CC BY 2.0 FR",
+            "owner": "_undertoad",
+            "ownerLink": "https://tatoeba.org/en/user/profile/_undertoad",
+            "source": "Tatoeba",
+            "sourceLink": "https://tatoeba.org/",
+            "sentenceLink": "https://tatoeba.org/en/sentences/show/2258234"
+        },
+        "ajp_5": {
+            "language": "ajp",
+            "content": "صباح الخير!",
+            "linguType": "sentence",
+            "context": "Tatoeba API",
+            "license": "CC BY 2.0 FR",
+            "owner": "xahmie",
+            "ownerLink": "https://tatoeba.org/en/user/profile/xahmie",
+            "source": "Tatoeba",
+            "sourceLink": "https://tatoeba.org/",
+            "sentenceLink": "https://tatoeba.org/en/sentences/show/12301130"
+        },
+        "eng_6": {
+            "language": "eng",
+            "content": "Soon you'll stop thinking of him.",
+            "linguType": "sentence",
+            "translations": [
+                "ajp_6"
+            ],
+            "context": "Tatoeba API",
+            "license": "CC BY 2.0 FR",
+            "owner": "shekitten",
+            "ownerLink": "https://tatoeba.org/en/user/profile/shekitten",
+            "source": "Tatoeba",
+            "sourceLink": "https://tatoeba.org/",
+            "sentenceLink": "https://tatoeba.org/en/sentences/show/10020661"
+        },
+        "ajp_6": {
+            "language": "ajp",
+            "content": "قريباً ما راح تفكر فيه.",
+            "linguType": "sentence",
+            "context": "Tatoeba API",
+            "license": "CC BY 2.0 FR",
+            "owner": "xahmie",
+            "ownerLink": "https://tatoeba.org/en/user/profile/xahmie",
+            "source": "Tatoeba",
+            "sourceLink": "https://tatoeba.org/",
+            "sentenceLink": "https://tatoeba.org/en/sentences/show/12299745"
+        },
+        "eng_7": {
+            "language": "eng",
+            "content": "How many kinds of insect are there?",
+            "linguType": "sentence",
+            "translations": [
+                "ajp_7"
+            ],
+            "context": "Tatoeba API",
+            "license": "CC BY 2.0 FR",
+            "owner": "sundown",
+            "ownerLink": "https://tatoeba.org/en/user/profile/sundown",
+            "source": "Tatoeba",
+            "sourceLink": "https://tatoeba.org/",
+            "sentenceLink": "https://tatoeba.org/en/sentences/show/9096894"
+        },
+        "ajp_7": {
+            "language": "ajp",
+            "content": "قديش أنواع الحشرات فيه؟",
+            "linguType": "sentence",
+            "context": "Tatoeba API",
+            "license": "CC BY 2.0 FR",
+            "owner": "xahmie",
+            "ownerLink": "https://tatoeba.org/en/user/profile/xahmie",
+            "source": "Tatoeba",
+            "sourceLink": "https://tatoeba.org/",
+            "sentenceLink": "https://tatoeba.org/en/sentences/show/12299732"
+        },
+        "eng_8": {
+            "language": "eng",
+            "content": "Turtles don't have teeth.",
+            "linguType": "sentence",
+            "translations": [
+                "ajp_8"
+            ],
+            "context": "Tatoeba API",
+            "license": "CC BY 2.0 FR",
+            "owner": "Balamax",
+            "ownerLink": "https://tatoeba.org/en/user/profile/Balamax",
+            "source": "Tatoeba",
+            "sourceLink": "https://tatoeba.org/",
+            "sentenceLink": "https://tatoeba.org/en/sentences/show/5308161"
+        },
+        "ajp_8": {
+            "language": "ajp",
+            "content": "السلاحف ما عندها أسنان.",
+            "linguType": "sentence",
+            "context": "Tatoeba API",
+            "license": "CC BY 2.0 FR",
+            "owner": "xahmie",
+            "ownerLink": "https://tatoeba.org/en/user/profile/xahmie",
+            "source": "Tatoeba",
+            "sourceLink": "https://tatoeba.org/",
+            "sentenceLink": "https://tatoeba.org/en/sentences/show/12299780"
+        },
+        "eng_9": {
+            "language": "eng",
+            "content": "My hobby is music.",
+            "linguType": "sentence",
+            "translations": [
+                "ajp_9"
+            ],
+            "context": "Tatoeba API",
+            "license": "CC BY 2.0 FR",
+            "owner": "CK",
+            "ownerLink": "https://tatoeba.org/en/user/profile/CK",
+            "source": "Tatoeba",
+            "sourceLink": "https://tatoeba.org/",
+            "sentenceLink": "https://tatoeba.org/en/sentences/show/251133"
+        },
+        "ajp_9": {
+            "language": "ajp",
+            "content": "هوايتي موسيقى",
+            "linguType": "sentence",
+            "context": "Tatoeba API",
+            "license": "CC BY 2.0 FR",
+            "owner": "danielestrigi",
+            "ownerLink": "https://tatoeba.org/en/user/profile/danielestrigi",
+            "source": "Tatoeba",
+            "sourceLink": "https://tatoeba.org/",
+            "sentenceLink": "https://tatoeba.org/en/sentences/show/11316505"
+        },
+        "eng_10": {
+            "language": "eng",
+            "content": "What's its name?",
+            "linguType": "sentence",
+            "translations": [
+                "ajp_10"
+            ],
+            "context": "Tatoeba API",
+            "license": "CC BY 2.0 FR",
+            "owner": "CK",
+            "ownerLink": "https://tatoeba.org/en/user/profile/CK",
+            "source": "Tatoeba",
+            "sourceLink": "https://tatoeba.org/",
+            "sentenceLink": "https://tatoeba.org/en/sentences/show/322937"
+        },
+        "ajp_10": {
+            "language": "ajp",
+            "content": "إيش إسمك؟",
+            "linguType": "sentence",
+            "context": "Tatoeba API",
+            "license": "CC BY 2.0 FR",
+            "source": "Tatoeba",
+            "sourceLink": "https://tatoeba.org/",
+            "sentenceLink": "https://tatoeba.org/en/sentences/show/8905722"
+        },
+        "eng_11": {
+            "language": "eng",
+            "content": "Yes!",
+            "linguType": "sentence",
+            "translations": [
+                "ajp_11"
+            ],
+            "context": "Tatoeba API",
+            "license": "CC BY 2.0 FR",
+            "owner": "cntrational",
+            "ownerLink": "https://tatoeba.org/en/user/profile/cntrational",
+            "source": "Tatoeba",
+            "sourceLink": "https://tatoeba.org/",
+            "sentenceLink": "https://tatoeba.org/en/sentences/show/1148358"
+        },
+        "ajp_11": {
+            "language": "ajp",
+            "content": "أيوة.",
+            "linguType": "sentence",
+            "context": "Tatoeba API",
+            "license": "CC BY 2.0 FR",
+            "owner": "xahmie",
+            "ownerLink": "https://tatoeba.org/en/user/profile/xahmie",
+            "source": "Tatoeba",
+            "sourceLink": "https://tatoeba.org/",
+            "sentenceLink": "https://tatoeba.org/en/sentences/show/12301124"
+        },
+        "eng_12": {
+            "language": "eng",
+            "content": "What's your name, please?",
+            "linguType": "sentence",
+            "translations": [
+                "ajp_12"
+            ],
+            "context": "Tatoeba API",
+            "license": "CC BY 2.0 FR",
+            "owner": "qislam",
+            "ownerLink": "https://tatoeba.org/en/user/profile/qislam",
+            "source": "Tatoeba",
+            "sourceLink": "https://tatoeba.org/",
+            "sentenceLink": "https://tatoeba.org/en/sentences/show/2566190"
+        },
+        "ajp_12": {
+            "language": "ajp",
+            "content": "إيش إسمك؟",
+            "linguType": "sentence",
+            "context": "Tatoeba API",
+            "license": "CC BY 2.0 FR",
+            "source": "Tatoeba",
+            "sourceLink": "https://tatoeba.org/",
+            "sentenceLink": "https://tatoeba.org/en/sentences/show/8905722"
+        },
+        "eng_13": {
+            "language": "eng",
+            "content": "How are you doing?",
+            "linguType": "sentence",
+            "translations": [
+                "ajp_13"
+            ],
+            "context": "Tatoeba API",
+            "license": "CC BY 2.0 FR",
+            "owner": "Zifre",
+            "ownerLink": "https://tatoeba.org/en/user/profile/Zifre",
+            "source": "Tatoeba",
+            "sourceLink": "https://tatoeba.org/",
+            "sentenceLink": "https://tatoeba.org/en/sentences/show/38926"
+        },
+        "ajp_13": {
+            "language": "ajp",
+            "content": "كيفك؟",
+            "linguType": "sentence",
+            "context": "Tatoeba API",
+            "license": "CC BY 2.0 FR",
+            "source": "Tatoeba",
+            "sourceLink": "https://tatoeba.org/",
+            "sentenceLink": "https://tatoeba.org/en/sentences/show/8905720"
+        },
+        "eng_14": {
+            "language": "eng",
+            "content": "I remember it as if it were yesterday, but in reality it was fifteen years ago.",
+            "linguType": "sentence",
+            "translations": [
+                "ajp_14"
             ],
             "context": "Tatoeba API",
             "license": "CC BY 2.0 FR",
@@ -15,7 +358,7 @@
             "sourceLink": "https://tatoeba.org/",
             "sentenceLink": "https://tatoeba.org/en/sentences/show/33519"
         },
-        "ajp_1": {
+        "ajp_14": {
             "language": "ajp",
             "content": "أنا بتذكره كأنه مبارح، بس بالحقيقة كان من خمستعش سنة.",
             "linguType": "sentence",
@@ -27,66 +370,12 @@
             "sourceLink": "https://tatoeba.org/",
             "sentenceLink": "https://tatoeba.org/en/sentences/show/12299672"
         },
-        "eng_2": {
-            "language": "en",
-            "content": "My sister likes to dance.",
-            "linguType": "sentence",
-            "translations": [
-                "ajp_2"
-            ],
-            "context": "Tatoeba API",
-            "license": "CC BY 2.0 FR",
-            "owner": "Sglod",
-            "ownerLink": "https://tatoeba.org/en/user/profile/Sglod",
-            "source": "Tatoeba",
-            "sourceLink": "https://tatoeba.org/",
-            "sentenceLink": "https://tatoeba.org/en/sentences/show/4748848"
-        },
-        "ajp_2": {
-            "language": "ajp",
-            "content": "أختي بتحب ترقص.",
-            "linguType": "sentence",
-            "context": "Tatoeba API",
-            "license": "CC BY 2.0 FR",
-            "owner": "xahmie",
-            "ownerLink": "https://tatoeba.org/en/user/profile/xahmie",
-            "source": "Tatoeba",
-            "sourceLink": "https://tatoeba.org/",
-            "sentenceLink": "https://tatoeba.org/en/sentences/show/12299772"
-        },
-        "eng_3": {
-            "language": "en",
-            "content": "Tom and Mary hid themselves under the bed.",
-            "linguType": "sentence",
-            "translations": [
-                "ajp_3"
-            ],
-            "context": "Tatoeba API",
-            "license": "CC BY 2.0 FR",
-            "owner": "CT",
-            "ownerLink": "https://tatoeba.org/en/user/profile/CT",
-            "source": "Tatoeba",
-            "sourceLink": "https://tatoeba.org/",
-            "sentenceLink": "https://tatoeba.org/en/sentences/show/6517201"
-        },
-        "ajp_3": {
-            "language": "ajp",
-            "content": "توم ومريم تتخبو تحت السرير.",
-            "linguType": "sentence",
-            "context": "Tatoeba API",
-            "license": "CC BY 2.0 FR",
-            "owner": "xahmie",
-            "ownerLink": "https://tatoeba.org/en/user/profile/xahmie",
-            "source": "Tatoeba",
-            "sourceLink": "https://tatoeba.org/",
-            "sentenceLink": "https://tatoeba.org/en/sentences/show/12299711"
-        },
-        "eng_4": {
-            "language": "en",
+        "eng_15": {
+            "language": "eng",
             "content": "Was it you who did it?",
             "linguType": "sentence",
             "translations": [
-                "ajp_4"
+                "ajp_15"
             ],
             "context": "Tatoeba API",
             "license": "CC BY 2.0 FR",
@@ -96,7 +385,7 @@
             "sourceLink": "https://tatoeba.org/",
             "sentenceLink": "https://tatoeba.org/en/sentences/show/6362231"
         },
-        "ajp_4": {
+        "ajp_15": {
             "language": "ajp",
             "content": "كان أنت اللي عمله؟",
             "linguType": "sentence",
@@ -108,12 +397,62 @@
             "sourceLink": "https://tatoeba.org/",
             "sentenceLink": "https://tatoeba.org/en/sentences/show/12299706"
         },
-        "eng_5": {
-            "language": "en",
-            "content": "Do you have a name?",
+        "eng_16": {
+            "language": "eng",
+            "content": "What do we call you?",
             "linguType": "sentence",
             "translations": [
-                "ajp_5"
+                "ajp_16"
+            ],
+            "context": "Tatoeba API",
+            "license": "CC BY 2.0 FR",
+            "owner": "belgavox",
+            "ownerLink": "https://tatoeba.org/en/user/profile/belgavox",
+            "source": "Tatoeba",
+            "sourceLink": "https://tatoeba.org/",
+            "sentenceLink": "https://tatoeba.org/en/sentences/show/1725998"
+        },
+        "ajp_16": {
+            "language": "ajp",
+            "content": "إيش إسمك؟",
+            "linguType": "sentence",
+            "context": "Tatoeba API",
+            "license": "CC BY 2.0 FR",
+            "source": "Tatoeba",
+            "sourceLink": "https://tatoeba.org/",
+            "sentenceLink": "https://tatoeba.org/en/sentences/show/8905722"
+        },
+        "eng_17": {
+            "language": "eng",
+            "content": "I do not know.",
+            "linguType": "sentence",
+            "translations": [
+                "ajp_17"
+            ],
+            "context": "Tatoeba API",
+            "license": "CC BY 2.0 FR",
+            "owner": "_undertoad",
+            "ownerLink": "https://tatoeba.org/en/user/profile/_undertoad",
+            "source": "Tatoeba",
+            "sourceLink": "https://tatoeba.org/",
+            "sentenceLink": "https://tatoeba.org/en/sentences/show/3378136"
+        },
+        "ajp_17": {
+            "language": "ajp",
+            "content": "ما بعرفش‎.",
+            "linguType": "sentence",
+            "context": "Tatoeba API",
+            "license": "CC BY 2.0 FR",
+            "source": "Tatoeba",
+            "sourceLink": "https://tatoeba.org/",
+            "sentenceLink": "https://tatoeba.org/en/sentences/show/9317155"
+        },
+        "eng_18": {
+            "language": "eng",
+            "content": "Mennad was in a horrible situation.",
+            "linguType": "sentence",
+            "translations": [
+                "ajp_18"
             ],
             "context": "Tatoeba API",
             "license": "CC BY 2.0 FR",
@@ -121,36 +460,11 @@
             "ownerLink": "https://tatoeba.org/en/user/profile/OsoHombre",
             "source": "Tatoeba",
             "sourceLink": "https://tatoeba.org/",
-            "sentenceLink": "https://tatoeba.org/en/sentences/show/6311448"
+            "sentenceLink": "https://tatoeba.org/en/sentences/show/8003599"
         },
-        "ajp_5": {
+        "ajp_18": {
             "language": "ajp",
-            "content": "إيش إسمك؟",
-            "linguType": "sentence",
-            "context": "Tatoeba API",
-            "license": "CC BY 2.0 FR",
-            "source": "Tatoeba",
-            "sourceLink": "https://tatoeba.org/",
-            "sentenceLink": "https://tatoeba.org/en/sentences/show/8905722"
-        },
-        "eng_6": {
-            "language": "en",
-            "content": "Tom was my hero.",
-            "linguType": "sentence",
-            "translations": [
-                "ajp_6"
-            ],
-            "context": "Tatoeba API",
-            "license": "CC BY 2.0 FR",
-            "owner": "CK",
-            "ownerLink": "https://tatoeba.org/en/user/profile/CK",
-            "source": "Tatoeba",
-            "sourceLink": "https://tatoeba.org/",
-            "sentenceLink": "https://tatoeba.org/en/sentences/show/1867749"
-        },
-        "ajp_6": {
-            "language": "ajp",
-            "content": "توم كان بطلي.",
+            "content": "مناد كان في وضع فظيع.",
             "linguType": "sentence",
             "context": "Tatoeba API",
             "license": "CC BY 2.0 FR",
@@ -158,26 +472,26 @@
             "ownerLink": "https://tatoeba.org/en/user/profile/xahmie",
             "source": "Tatoeba",
             "sourceLink": "https://tatoeba.org/",
-            "sentenceLink": "https://tatoeba.org/en/sentences/show/12299601"
+            "sentenceLink": "https://tatoeba.org/en/sentences/show/12299659"
         },
-        "eng_7": {
-            "language": "en",
-            "content": "Louder.",
+        "eng_19": {
+            "language": "eng",
+            "content": "Stop!",
             "linguType": "sentence",
             "translations": [
-                "ajp_7"
+                "ajp_19"
             ],
             "context": "Tatoeba API",
             "license": "CC BY 2.0 FR",
-            "owner": "Dejo",
-            "ownerLink": "https://tatoeba.org/en/user/profile/Dejo",
+            "owner": "CM",
+            "ownerLink": "https://tatoeba.org/en/user/profile/CM",
             "source": "Tatoeba",
             "sourceLink": "https://tatoeba.org/",
-            "sentenceLink": "https://tatoeba.org/en/sentences/show/30397"
+            "sentenceLink": "https://tatoeba.org/en/sentences/show/448320"
         },
-        "ajp_7": {
+        "ajp_19": {
             "language": "ajp",
-            "content": "بصوت أعلى.",
+            "content": "خلص!",
             "linguType": "sentence",
             "context": "Tatoeba API",
             "license": "CC BY 2.0 FR",
@@ -185,53 +499,26 @@
             "ownerLink": "https://tatoeba.org/en/user/profile/xahmie",
             "source": "Tatoeba",
             "sourceLink": "https://tatoeba.org/",
-            "sentenceLink": "https://tatoeba.org/en/sentences/show/12301086"
+            "sentenceLink": "https://tatoeba.org/en/sentences/show/12301111"
         },
-        "eng_8": {
-            "language": "en",
-            "content": "My sisters and I are Muslims.",
+        "eng_20": {
+            "language": "eng",
+            "content": "The news soon spread that he was on his way.",
             "linguType": "sentence",
             "translations": [
-                "ajp_8"
+                "ajp_20"
             ],
             "context": "Tatoeba API",
             "license": "CC BY 2.0 FR",
-            "owner": "Amastan",
-            "ownerLink": "https://tatoeba.org/en/user/profile/Amastan",
+            "owner": "dibdin",
+            "ownerLink": "https://tatoeba.org/en/user/profile/dibdin",
             "source": "Tatoeba",
             "sourceLink": "https://tatoeba.org/",
-            "sentenceLink": "https://tatoeba.org/en/sentences/show/8247699"
+            "sentenceLink": "https://tatoeba.org/en/sentences/show/3600817"
         },
-        "ajp_8": {
+        "ajp_20": {
             "language": "ajp",
-            "content": "اَنا وِخْواتي مُسْلِمين/مُسْلِمات",
-            "linguType": "sentence",
-            "context": "Tatoeba API",
-            "license": "CC BY 2.0 FR",
-            "owner": "karimique",
-            "ownerLink": "https://tatoeba.org/en/user/profile/karimique",
-            "source": "Tatoeba",
-            "sourceLink": "https://tatoeba.org/",
-            "sentenceLink": "https://tatoeba.org/en/sentences/show/12041970"
-        },
-        "eng_9": {
-            "language": "en",
-            "content": "Die.",
-            "linguType": "sentence",
-            "translations": [
-                "ajp_9"
-            ],
-            "context": "Tatoeba API",
-            "license": "CC BY 2.0 FR",
-            "owner": "mailohilohi",
-            "ownerLink": "https://tatoeba.org/en/user/profile/mailohilohi",
-            "source": "Tatoeba",
-            "sourceLink": "https://tatoeba.org/",
-            "sentenceLink": "https://tatoeba.org/en/sentences/show/6110536"
-        },
-        "ajp_9": {
-            "language": "ajp",
-            "content": "موت!",
+            "content": "الأخبار قريباً انتشر إنه كان عالطريقة.",
             "linguType": "sentence",
             "context": "Tatoeba API",
             "license": "CC BY 2.0 FR",
@@ -239,32 +526,7 @@
             "ownerLink": "https://tatoeba.org/en/user/profile/xahmie",
             "source": "Tatoeba",
             "sourceLink": "https://tatoeba.org/",
-            "sentenceLink": "https://tatoeba.org/en/sentences/show/12301101"
-        },
-        "eng_10": {
-            "language": "en",
-            "content": "What are you called?",
-            "linguType": "sentence",
-            "translations": [
-                "ajp_10"
-            ],
-            "context": "Tatoeba API",
-            "license": "CC BY 2.0 FR",
-            "owner": "candistyx",
-            "ownerLink": "https://tatoeba.org/en/user/profile/candistyx",
-            "source": "Tatoeba",
-            "sourceLink": "https://tatoeba.org/",
-            "sentenceLink": "https://tatoeba.org/en/sentences/show/1304610"
-        },
-        "ajp_10": {
-            "language": "ajp",
-            "content": "إيش إسمك؟",
-            "linguType": "sentence",
-            "context": "Tatoeba API",
-            "license": "CC BY 2.0 FR",
-            "source": "Tatoeba",
-            "sourceLink": "https://tatoeba.org/",
-            "sentenceLink": "https://tatoeba.org/en/sentences/show/8905722"
+            "sentenceLink": "https://tatoeba.org/en/sentences/show/12299725"
         }
     },
     "learningGoals": {
@@ -291,7 +553,27 @@
                 "eng_9",
                 "ajp_9",
                 "eng_10",
-                "ajp_10"
+                "ajp_10",
+                "eng_11",
+                "ajp_11",
+                "eng_12",
+                "ajp_12",
+                "eng_13",
+                "ajp_13",
+                "eng_14",
+                "ajp_14",
+                "eng_15",
+                "ajp_15",
+                "eng_16",
+                "ajp_16",
+                "eng_17",
+                "ajp_17",
+                "eng_18",
+                "ajp_18",
+                "eng_19",
+                "ajp_19",
+                "eng_20",
+                "ajp_20"
             ]
         },
         "goal_1": {
@@ -399,6 +681,116 @@
             "unitsOfMeaning": [
                 "eng_10",
                 "ajp_10"
+            ],
+            "parents": [
+                "meta"
+            ]
+        },
+        "goal_11": {
+            "name": "Learn sentence 11",
+            "language": "ajp",
+            "unitsOfMeaning": [
+                "eng_11",
+                "ajp_11"
+            ],
+            "parents": [
+                "meta"
+            ]
+        },
+        "goal_12": {
+            "name": "Learn sentence 12",
+            "language": "ajp",
+            "unitsOfMeaning": [
+                "eng_12",
+                "ajp_12"
+            ],
+            "parents": [
+                "meta"
+            ]
+        },
+        "goal_13": {
+            "name": "Learn sentence 13",
+            "language": "ajp",
+            "unitsOfMeaning": [
+                "eng_13",
+                "ajp_13"
+            ],
+            "parents": [
+                "meta"
+            ]
+        },
+        "goal_14": {
+            "name": "Learn sentence 14",
+            "language": "ajp",
+            "unitsOfMeaning": [
+                "eng_14",
+                "ajp_14"
+            ],
+            "parents": [
+                "meta"
+            ]
+        },
+        "goal_15": {
+            "name": "Learn sentence 15",
+            "language": "ajp",
+            "unitsOfMeaning": [
+                "eng_15",
+                "ajp_15"
+            ],
+            "parents": [
+                "meta"
+            ]
+        },
+        "goal_16": {
+            "name": "Learn sentence 16",
+            "language": "ajp",
+            "unitsOfMeaning": [
+                "eng_16",
+                "ajp_16"
+            ],
+            "parents": [
+                "meta"
+            ]
+        },
+        "goal_17": {
+            "name": "Learn sentence 17",
+            "language": "ajp",
+            "unitsOfMeaning": [
+                "eng_17",
+                "ajp_17"
+            ],
+            "parents": [
+                "meta"
+            ]
+        },
+        "goal_18": {
+            "name": "Learn sentence 18",
+            "language": "ajp",
+            "unitsOfMeaning": [
+                "eng_18",
+                "ajp_18"
+            ],
+            "parents": [
+                "meta"
+            ]
+        },
+        "goal_19": {
+            "name": "Learn sentence 19",
+            "language": "ajp",
+            "unitsOfMeaning": [
+                "eng_19",
+                "ajp_19"
+            ],
+            "parents": [
+                "meta"
+            ]
+        },
+        "goal_20": {
+            "name": "Learn sentence 20",
+            "language": "ajp",
+            "unitsOfMeaning": [
+                "eng_20",
+                "ajp_20"
             ],
             "parents": [
                 "meta"
