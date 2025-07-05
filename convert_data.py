@@ -40,18 +40,26 @@ class DataConverter:
     
     def url_safe_uid(self, language: str, content: str, lingu_type: str = "") -> str:
         """
-        Generate a URL-safe UID from language, content, and optionally lingu_type.
-        
-        Uses URL encoding to ensure safety while preserving readability.
+        Generate a UID from language, content, and optionally lingu_type.
+        Replace slashes with the Unicode solidus character, and truncate to stay within filesystem limits.
         """
         if lingu_type:
             uid_parts = [language, content, lingu_type]
         else:
             uid_parts = [language, content]
         
-        # Join with underscore and URL encode
+        # Join with underscore
         uid = "_".join(uid_parts)
-        return quote(uid, safe='')
+        # Replace slashes with Unicode solidus (U+2044)
+        uid = uid.replace("/", "⧸")
+        
+        # Truncate to stay under filesystem limits (255 chars for filename)
+        # Leave some room for .json extension and path
+        max_length = 200
+        if len(uid) > max_length:
+            uid = uid[:max_length]
+        
+        return uid
     
     def process_data_files(self) -> None:
         """Process all JSON files in the data directory."""

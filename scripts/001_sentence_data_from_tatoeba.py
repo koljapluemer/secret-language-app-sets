@@ -6,57 +6,85 @@ from the Tatoeba API and generate a JSON file in the specified format.
 
 import requests
 import json
+import time
+import logging
+import urllib.parse
+import re
 from typing import Dict, List, Any
 
 # Constants
-FETCH_LIMIT = 20
 SOURCE_LANGUAGE = 'eng'  # English
 TARGET_LANGUAGE = 'ajp'  # South Levantine Arabic
+
+# Set up logging
+logging.basicConfig(
+    level=logging.DEBUG,
+    format='%(asctime)s - %(levelname)s - %(message)s',
+    handlers=[
+        logging.FileHandler('api_responses.log', encoding='utf-8'),
+        logging.StreamHandler()  # Also log to console
+    ]
+)
+logger = logging.getLogger(__name__)
 
 def fetch_sentences_with_ajp_translations() -> List[Dict[str, Any]]:
     """
     Fetch {SOURCE_LANGUAGE} sentences that have {TARGET_LANGUAGE} translations.
     
-    Args:
-        limit: Number of sentence pairs to fetch
-        
     Returns:
         List of sentence pairs with {SOURCE_LANGUAGE} and {TARGET_LANGUAGE} translations
     """
-    # Tatoeba API endpoint for sentences
     base_url = "https://api.tatoeba.org/unstable/sentences"
-    
-    # Parameters to get {SOURCE_LANGUAGE} sentences with {TARGET_LANGUAGE} translations
+    all_sentences = []
+    page_count = 0
+    current_url = base_url
     params = {
-        'lang': SOURCE_LANGUAGE,  # {SOURCE_LANGUAGE} sentences
-        'trans:lang': TARGET_LANGUAGE,  # {TARGET_LANGUAGE} translations
-        'limit': FETCH_LIMIT,
-        'sort': 'random'  # Get random sentences
+        'lang': SOURCE_LANGUAGE,
+        'trans:lang': TARGET_LANGUAGE,
+        'sort': 'words',
+        'limit': 20
     }
-    
-    try:
-        print(f"Fetching {FETCH_LIMIT} {SOURCE_LANGUAGE} sentences with {TARGET_LANGUAGE} translations...")
-        response = requests.get(base_url, params=params)
+    after_value = None
+    logger.info("=== Starting Tatoeba API requests ===")
+    while True:
+        page_count += 1
+        logger.info(f"Fetching page {page_count}...")
+        if page_count == 1:
+            logger.debug(f"Request URL: {current_url}")
+            logger.debug(f"Request params: {params}")
+            response = requests.get(current_url, params=params)
+        else:
+            # Manually construct the URL to avoid encoding 'trans:lang'
+            query = f"lang={SOURCE_LANGUAGE}&trans:lang={TARGET_LANGUAGE}&sort=words&limit=20&after={after_value}"
+            full_url = f"{base_url}?{query}"
+            logger.debug(f"Request URL: {full_url}")
+            logger.debug(f"Request params: None (manual URL)")
+            response = requests.get(full_url)
         response.raise_for_status()
-        
         data = response.json()
-        print(f"API Response structure: {type(data)}")
-        print(f"API Response keys: {list(data.keys()) if isinstance(data, dict) else 'Not a dict'}")
-        
+        logger.debug(f"Response data: {json.dumps(data, indent=2, ensure_ascii=False)}")
         sentences = data.get('data', [])
-        print(f"Number of sentences fetched: {len(sentences)}")
-        
-        if sentences:
-            print(f"First sentence structure: {type(sentences[0])}")
-            print(f"First sentence keys: {list(sentences[0].keys()) if isinstance(sentences[0], dict) else 'Not a dict'}")
-            print(f"First sentence content: {sentences[0]}")
-        
-        print(f"Successfully fetched {len(sentences)} sentence pairs")
-        return sentences
-        
-    except requests.exceptions.RequestException as e:
-        print(f"Error fetching sentences: {e}")
-        return []
+        logger.info(f"Page {page_count}: fetched {len(sentences)} sentences")
+        all_sentences.extend(sentences)
+        paging = data.get('paging', {})
+        next_url = paging.get('next')
+        logger.info(f"Next URL: {next_url}")
+        if not next_url or len(sentences) == 0:
+            logger.info(f"No more pages available. Total sentences fetched: {len(all_sentences)}")
+            break
+        # Extract 'after' value from next_url
+        match = re.search(r'after=([^&]+)', next_url)
+        if match:
+            after_value = urllib.parse.unquote(match.group(1))
+            logger.info(f"Next page will use after={after_value}")
+        else:
+            logger.error("Could not extract 'after' value from next_url. Stopping pagination.")
+            break
+        logger.info("Sleeping 1 second before next page...")
+        time.sleep(1)
+        current_url = base_url
+    logger.info(f"Successfully fetched {len(all_sentences)} sentence pairs total")
+    return all_sentences
 
 def clean_dict(d: dict) -> dict:
     """Return a copy of the dict with all None or empty values removed."""
@@ -87,7 +115,7 @@ def create_units_of_meaning(sentences: List[Dict[str, Any]]) -> Dict[str, Dict[s
         eng_sentence_link = f"https://tatoeba.org/en/sentences/show/{eng_sentence_id}" if eng_sentence_id else None
         
         eng_unit = {
-            "language": SOURCE_LANGUAGE,
+            "language": SOURCE_LANGUAGE.replace("eng", "en"),
             "content": sentence_pair.get('text', ''),
             "linguType": "sentence",
             "translations": [ajp_id],
@@ -201,7 +229,7 @@ def main():
     sentences = fetch_sentences_with_ajp_translations()
     
     if not sentences:
-        print("No sentences fetched. Exiting.")
+        logger.error("No sentences fetched. Exiting.")
         return
     
     # Generate the JSON structure
@@ -214,12 +242,12 @@ def main():
         with open(output_filename, 'w', encoding='utf-8') as f:
             json.dump(json_data, f, ensure_ascii=False, indent=4)
         
-        print(f"Successfully generated {output_filename}")
-        print(f"Created {len(json_data['unitsOfMeaning'])} units of meaning")
-        print(f"Created {len(json_data['learningGoals'])} learning goals")
+        logger.info(f"Successfully generated {output_filename}")
+        logger.info(f"Created {len(json_data['unitsOfMeaning'])} units of meaning")
+        logger.info(f"Created {len(json_data['learningGoals'])} learning goals")
         
     except Exception as e:
-        print(f"Error saving file: {e}")
+        logger.error(f"Error saving file: {e}")
 
 if __name__ == "__main__":
     main()
