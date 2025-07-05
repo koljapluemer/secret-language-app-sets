@@ -67,6 +67,17 @@ class DataConverter:
         if not self.data_dir.exists():
             raise FileNotFoundError(f"Data directory {self.data_dir} does not exist")
         
+        # Delete and recreate public directory
+        if self.public_dir.exists():
+            shutil.rmtree(self.public_dir)
+            self.logger.info(f"Deleted existing {self.public_dir}")
+        
+        self.public_dir.mkdir(parents=True, exist_ok=True)
+        self.logger.info(f"Created {self.public_dir}")
+        
+        # Create Netlify _headers file
+        self._create_netlify_headers()
+        
         json_files = list(self.data_dir.glob("*.json"))
         if not json_files:
             self.logger.warning(f"No JSON files found in {self.data_dir}")
@@ -90,6 +101,16 @@ class DataConverter:
         """Create the necessary output directory structure."""
         self.learning_goals_dir.mkdir(parents=True, exist_ok=True)
         self.units_of_meaning_dir.mkdir(parents=True, exist_ok=True)
+    
+    def _create_netlify_headers(self) -> None:
+        """Create Netlify _headers file for CORS support."""
+        headers_file = self.public_dir / "_headers"
+        headers_content = """/*.json
+  Access-Control-Allow-Origin: *
+"""
+        with open(headers_file, 'w', encoding='utf-8') as f:
+            f.write(headers_content)
+        self.logger.info(f"Created Netlify _headers file: {headers_file}")
     
     def _process_single_file(self, file_path: Path) -> None:
         """Process a single JSON file."""
