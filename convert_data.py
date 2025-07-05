@@ -14,7 +14,6 @@ import sys
 import shutil
 from pathlib import Path
 from typing import Dict, List, Set, Tuple, Optional
-from urllib.parse import quote
 
 
 class DataConverter:
