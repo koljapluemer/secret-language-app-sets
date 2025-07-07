@@ -1,0 +1,324 @@
+{
+    "unitsOfMeaning": {
+        "a": {
+            "language": "ar",
+            "content": "موسيقى",
+            "linguType": "word",
+            "translations": [
+                "b"
+            ]
+        },
+        "b": {
+            "language": "en",
+            "content": "music",
+            "linguType": "word",
+            "related": [
+                "a"
+            ]
+        },
+        "c": {
+            "language": "ar",
+            "content": "قدامي",
+            "linguType": "word",
+            "translations": [
+                "d"
+            ]
+        },
+        "d": {
+            "language": "en",
+            "content": "in front of me",
+            "linguType": "word",
+            "related": [
+                "c"
+            ]
+        },
+        "e": {
+            "language": "ar",
+            "content": "خطين",
+            "linguType": "word",
+            "translations": [
+                "f"
+            ]
+        },
+        "f": {
+            "language": "en",
+            "content": "two lines",
+            "linguType": "word",
+            "related": [
+                "e"
+            ]
+        },
+        "g": {
+            "language": "ar",
+            "content": "تمام",
+            "linguType": "word",
+            "translations": [
+                "h"
+            ]
+        },
+        "h": {
+            "language": "en",
+            "content": "perfect",
+            "linguType": "word",
+            "related": [
+                "g"
+            ]
+        },
+        "i": {
+            "language": "ar",
+            "content": "حليتها",
+            "linguType": "word",
+            "translations": [
+                "j"
+            ]
+        },
+        "j": {
+            "language": "en",
+            "content": "I solved it",
+            "linguType": "word",
+            "related": [
+                "i"
+            ]
+        },
+        "k": {
+            "language": "ar",
+            "content": "صح",
+            "linguType": "word",
+            "translations": [
+                "l"
+            ]
+        },
+        "l": {
+            "language": "en",
+            "content": "correct",
+            "linguType": "word",
+            "related": [
+                "k"
+            ]
+        },
+        "m": {
+            "language": "ar",
+            "content": "لعبه",
+            "linguType": "word",
+            "translations": [
+                "n"
+            ]
+        },
+        "n": {
+            "language": "en",
+            "content": "game",
+            "linguType": "word",
+            "related": [
+                "m"
+            ]
+        },
+        "o": {
+            "language": "ar",
+            "content": "السلم",
+            "linguType": "word",
+            "translations": [
+                "p"
+            ]
+        },
+        "p": {
+            "language": "en",
+            "content": "ladder",
+            "linguType": "word",
+            "related": [
+                "o"
+            ]
+        },
+        "q": {
+            "language": "ar",
+            "content": "التعبان",
+            "linguType": "word",
+            "translations": [
+                "r"
+            ]
+        },
+        "r": {
+            "language": "en",
+            "content": "snake",
+            "linguType": "word",
+            "related": [
+                "q"
+            ]
+        },
+        "s": {
+            "language": "ar",
+            "content": "غلط",
+            "linguType": "word",
+            "translations": [
+                "t"
+            ]
+        },
+        "t": {
+            "language": "en",
+            "content": "wrong",
+            "linguType": "word",
+            "related": [
+                "s"
+            ]
+        },
+        "u": {
+            "language": "ar",
+            "content": "ايدك",
+            "linguType": "word",
+            "translations": [
+                "v"
+            ]
+        },
+        "v": {
+            "language": "en",
+            "content": "your hand",
+            "linguType": "word",
+            "related": [
+                "u"
+            ]
+        },
+        "w": {
+            "language": "ar",
+            "content": "عادي",
+            "linguType": "word",
+            "translations": [
+                "x"
+            ]
+        },
+        "x": {
+            "language": "en",
+            "content": "normal",
+            "linguType": "word",
+            "related": [
+                "w"
+            ]
+        },
+        "y": {
+            "language": "ar",
+            "content": "فرق",
+            "linguType": "word",
+            "translations": [
+                "z"
+            ]
+        },
+        "z": {
+            "language": "en",
+            "content": "difference",
+            "linguType": "word",
+            "related": [
+                "y"
+            ]
+        },
+        "{": {
+            "language": "ar",
+            "content": "خمسه",
+            "linguType": "word",
+            "translations": [
+                "|"
+            ]
+        },
+        "|": {
+            "language": "en",
+            "content": "five",
+            "linguType": "word",
+            "related": [
+                "{"
+            ]
+        },
+        "}": {
+            "language": "ar",
+            "content": "ستة",
+            "linguType": "word",
+            "translations": [
+                "~"
+            ]
+        },
+        "~": {
+            "language": "en",
+            "content": "six",
+            "linguType": "word",
+            "related": [
+                "}"
+            ]
+        },
+        "": {
+            "language": "ar",
+            "content": "حوار",
+            "linguType": "word",
+            "translations": [
+                ""
+            ]
+        },
+        "": {
+            "language": "en",
+            "content": "conversation",
+            "linguType": "word",
+            "related": [
+                ""
+            ]
+        },
+        "": {
+            "language": "ar",
+            "content": "خد",
+            "linguType": "word",
+            "translations": [
+                ""
+            ]
+        },
+        "": {
+            "language": "en",
+            "content": "take",
+            "linguType": "word",
+            "related": [
+                ""
+            ]
+        },
+        "": {
+            "language": "ar",
+            "content": "جنيه",
+            "linguType": "word",
+            "translations": [
+                ""
+            ]
+        },
+        "": {
+            "language": "en",
+            "content": "pound",
+            "linguType": "word",
+            "related": [
+                ""
+            ]
+        },
+        "": {
+            "language": "ar",
+            "content": "واحد",
+            "linguType": "word",
+            "translations": [
+                ""
+            ]
+        },
+        "": {
+            "language": "en",
+            "content": "one",
+            "linguType": "word",
+            "related": [
+                ""
+            ]
+        },
+        "": {
+            "language": "ar",
+            "content": "اثنين",
+            "linguType": "word",
+            "translations": [
+                ""
+            ]
+        },
+        "": {
+            "language": "en",
+            "content": "two",
+            "linguType": "word",
+            "related": [
+                ""
+            ]
+        }
+    }
+}
