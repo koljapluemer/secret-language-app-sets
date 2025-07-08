@@ -7,8 +7,24 @@ from collections import Counter, defaultdict
 # Create data directory if it doesn't exist
 os.makedirs('data', exist_ok=True)
 
+# Adjustable constants
+MAX_WORDS_PER_SENTENCE = 7  # Maximum allowed words in Arabic sentence
+MIN_SENTENCE_OCCURRENCES = 25  # Minimum number of different sentences a word must appear in
+MAX_SENTENCE_OCCURRENCES = 50  # Maximum number of different sentences a word can appear in
+FILE_CREATION_LIMIT = 5  # Set to an integer to limit number of files created, or None for no limit
+OVERWRITE_EXISTING_FILES = False  # Set to False to skip existing files instead of overwriting
+
 # Load the filtered CSV
-df = pd.read_csv('levanti_filtered_3cols.csv')
+df = pd.read_csv('scripts/003_handle_shamy_dataset/levanti_filtered_3cols.csv')
+
+# Filter out sentences with more than MAX_WORDS_PER_SENTENCE words in Arabic
+filtered_indices = []
+for idx, row in df.iterrows():
+    if pd.notna(row['arabic']):
+        arabic_text = str(row['arabic'])
+        if len(arabic_text.split()) <= MAX_WORDS_PER_SENTENCE:
+            filtered_indices.append(idx)
+df = df.loc[filtered_indices].reset_index(drop=True)
 
 # Count how many different sentences each word appears in
 word_sentence_count = defaultdict(set)  # word -> set of sentence indices
@@ -22,14 +38,21 @@ for idx, row in df.iterrows():
             if cleaned_word and len(cleaned_word) > 3:
                 word_sentence_count[cleaned_word].add(idx)
 
-# Find words that appear in 25-50 different sentences
+# Find words that appear in MIN_SENTENCE_OCCURRENCES to MAX_SENTENCE_OCCURRENCES different sentences
 target_words = [word for word, sentence_indices in word_sentence_count.items() 
-                if 25 <= len(sentence_indices) <= 50]
+                if MIN_SENTENCE_OCCURRENCES <= len(sentence_indices) <= MAX_SENTENCE_OCCURRENCES]
 
-print(f"Found {len(target_words)} words that appear in 25-50 different sentences")
+print(f"Found {len(target_words)} words that appear in {MIN_SENTENCE_OCCURRENCES}-{MAX_SENTENCE_OCCURRENCES} different sentences")
 
 # Process each target word
+files_created = 0
 for word in target_words:
+    if FILE_CREATION_LIMIT is not None and files_created >= FILE_CREATION_LIMIT:
+        break
+    filename = f"data/{word}.json"
+    if not OVERWRITE_EXISTING_FILES and os.path.exists(filename):
+        print(f"  Skipping {filename} (already exists)")
+        continue
     print(f"Processing word: {word} (appears in {len(word_sentence_count[word])} sentences)")
     
     # Find all sentences containing this word (exact match)
@@ -83,7 +106,7 @@ for word in target_words:
     
     # Create the JSON structure
     json_data = {
-        "language": "ar",
+        "language": "apc",
         "tasks": [
             f"Make a sentence with '{word}'."
         ],
@@ -96,10 +119,10 @@ for word in target_words:
         json_data["unitsOfMeaning"].append(pair["english"])
     
     # Save to JSON file
-    filename = f"data/{word}.json"
     with open(filename, 'w', encoding='utf-8') as f:
         json.dump(json_data, f, ensure_ascii=False, indent=2)
     
     print(f"  Created {filename} with {len(matching_sentences)} sentence pairs")
+    files_created += 1
 
 print("Done! All JSON files created in the data/ directory.")
