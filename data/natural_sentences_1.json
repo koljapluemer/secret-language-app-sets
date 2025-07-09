@@ -19,7 +19,7 @@
             }
           ],
           "translations": [
-            "en_I want to talk to you."
+            "en:I want to talk to you."
           ]
         },
         {
@@ -35,7 +35,7 @@
             }
           ],
           "translations": [
-            "apc_انا حابب احكي معك."
+            "apc:انا حابب احكي معك."
           ]
         },
         {
@@ -51,7 +51,7 @@
             }
           ],
           "translations": [
-            "en_But I want to show you the beauty of nature in our country."
+            "en:But I want to show you the beauty of nature in our country."
           ]
         },
         {
@@ -67,7 +67,7 @@
             }
           ],
           "translations": [
-            "apc_بس حابب اورجيكم جمال الطبيعة في بلدنا"
+            "apc:بس حابب اورجيكم جمال الطبيعة في بلدنا"
           ]
         },
         {
@@ -83,7 +83,7 @@
             }
           ],
           "translations": [
-            "en_Go ahead, Murshid, what would you like to talk about?"
+            "en:Go ahead, Murshid, what would you like to talk about?"
           ]
         },
         {
@@ -99,7 +99,7 @@
             }
           ],
           "translations": [
-            "apc_تفضل مرشد, عن شو حابب تحكيلنا؟"
+            "apc:تفضل مرشد, عن شو حابب تحكيلنا؟"
           ]
         },
         {
@@ -115,7 +115,7 @@
             }
           ],
           "translations": [
-            "en_I would like to join from San Diego."
+            "en:I would like to join from San Diego."
           ]
         },
         {
@@ -131,7 +131,7 @@
             }
           ],
           "translations": [
-            "apc_حابب أنضم من سان دييغو."
+            "apc:حابب أنضم من سان دييغو."
           ]
         },
         {
@@ -147,7 +147,7 @@
             }
           ],
           "translations": [
-            "en_I'm not really fond of these transparent curtains."
+            "en:I'm not really fond of these transparent curtains."
           ]
         },
         {
@@ -163,7 +163,7 @@
             }
           ],
           "translations": [
-            "apc_‏ما لي حابب كتير هالبرادي الشفافة ‎"
+            "apc:‏ما لي حابب كتير هالبرادي الشفافة ‎"
           ]
         },
         {
@@ -179,7 +179,7 @@
             }
           ],
           "translations": [
-            "en_Yeah, I want to read something."
+            "en:Yeah, I want to read something."
           ]
         },
         {
@@ -195,7 +195,7 @@
             }
           ],
           "translations": [
-            "apc_اه، حابب اقرأ إشي."
+            "apc:اه، حابب اقرأ إشي."
           ]
         },
         {
@@ -211,7 +211,7 @@
             }
           ],
           "translations": [
-            "en_I want to live in a place like this that is neutral in place..."
+            "en:I want to live in a place like this that is neutral in place..."
           ]
         },
         {
@@ -227,7 +227,7 @@
             }
           ],
           "translations": [
-            "apc_حابب اعيش بمحلّ هيك يكون محايد بمحلّ..."
+            "apc:حابب اعيش بمحلّ هيك يكون محايد بمحلّ..."
           ]
         },
         {
@@ -243,7 +243,7 @@
             }
           ],
           "translations": [
-            "en_Honestly, I really would like to live in Europe."
+            "en:Honestly, I really would like to live in Europe."
           ]
         },
         {
@@ -259,7 +259,7 @@
             }
           ],
           "translations": [
-            "apc_بالصّراحة كتير حابب اعيش باوروبا"
+            "apc:بالصّراحة كتير حابب اعيش باوروبا"
           ]
         },
         {
@@ -275,7 +275,7 @@
             }
           ],
           "translations": [
-            "en_My brothers, I want to clarify a small issue for you."
+            "en:My brothers, I want to clarify a small issue for you."
           ]
         },
         {
@@ -291,7 +291,7 @@
             }
           ],
           "translations": [
-            "apc_اخواني حابب اوضحكم شغله صغيره"
+            "apc:اخواني حابب اوضحكم شغله صغيره"
           ]
         },
         {
@@ -307,7 +307,7 @@
             }
           ],
           "translations": [
-            "en_I want to extract my tooth."
+            "en:I want to extract my tooth."
           ]
         },
         {
@@ -323,7 +323,7 @@
             }
           ],
           "translations": [
-            "apc_أنا حابب أخلع سني."
+            "apc:أنا حابب أخلع سني."
           ]
         },
         {
@@ -339,7 +339,7 @@
             }
           ],
           "translations": [
-            "en_I want to take that one."
+            "en:I want to take that one."
           ]
         },
         {
@@ -355,7 +355,7 @@
             }
           ],
           "translations": [
-            "apc_أنا حابب آخد هاد."
+            "apc:أنا حابب آخد هاد."
           ]
         },
         {
@@ -371,7 +371,7 @@
             }
           ],
           "translations": [
-            "en_I want to book an appointment with the doctor."
+            "en:I want to book an appointment with the doctor."
           ]
         },
         {
@@ -387,7 +387,7 @@
             }
           ],
           "translations": [
-            "apc_حابب أحجز موعد عند الدكتور."
+            "apc:حابب أحجز موعد عند الدكتور."
           ]
         },
         {
@@ -403,7 +403,7 @@
             }
           ],
           "translations": [
-            "en_I just want to show you the coronavirus in Israel."
+            "en:I just want to show you the coronavirus in Israel."
           ]
         },
         {
@@ -419,7 +419,7 @@
             }
           ],
           "translations": [
-            "apc_أنا حابب أورّيكم بسّ الكورونا في اسرائيل"
+            "apc:أنا حابب أورّيكم بسّ الكورونا في اسرائيل"
           ]
         },
         {
@@ -435,7 +435,7 @@
             }
           ],
           "translations": [
-            "en_Do you want to see Israel's innovation and progress?"
+            "en:Do you want to see Israel's innovation and progress?"
           ]
         },
         {
@@ -451,7 +451,7 @@
             }
           ],
           "translations": [
-            "apc_انت حابب تشوف من إسرائيل حداثتها, تقدّمها,"
+            "apc:انت حابب تشوف من إسرائيل حداثتها, تقدّمها,"
           ]
         },
         {
@@ -467,7 +467,7 @@
             }
           ],
           "translations": [
-            "en_I'm leaving early tomorrow, so I want to pay now."
+            "en:I'm leaving early tomorrow, so I want to pay now."
           ]
         },
         {
@@ -483,7 +483,7 @@
             }
           ],
           "translations": [
-            "apc_طالع بكير بكرا، لهيك حابب ادفع هلأ."
+            "apc:طالع بكير بكرا، لهيك حابب ادفع هلأ."
           ]
         },
         {
@@ -499,7 +499,7 @@
             }
           ],
           "translations": [
-            "en_What kind of juice do you like to drink?"
+            "en:What kind of juice do you like to drink?"
           ]
         },
         {
@@ -515,7 +515,7 @@
             }
           ],
           "translations": [
-            "apc_شو نوع العصير اللي حابب تشربه؟"
+            "apc:شو نوع العصير اللي حابب تشربه؟"
           ]
         },
         {
@@ -531,7 +531,7 @@
             }
           ],
           "translations": [
-            "en_First of all, I feel like taking a walk in the city."
+            "en:First of all, I feel like taking a walk in the city."
           ]
         },
         {
@@ -547,7 +547,7 @@
             }
           ],
           "translations": [
-            "apc_بالأول حابب أعمل لي مشية بالبلد ‎"
+            "apc:بالأول حابب أعمل لي مشية بالبلد ‎"
           ]
         },
         {
@@ -563,7 +563,7 @@
             }
           ],
           "translations": [
-            "en_I'm very sorry, but I'd like to postpone the meeting."
+            "en:I'm very sorry, but I'd like to postpone the meeting."
           ]
         },
         {
@@ -579,7 +579,7 @@
             }
           ],
           "translations": [
-            "apc_أنا كتير آسف، بس حابب أجل الموعد."
+            "apc:أنا كتير آسف، بس حابب أجل الموعد."
           ]
         },
         {
@@ -595,7 +595,7 @@
             }
           ],
           "translations": [
-            "en_I want to ride in a sports car."
+            "en:I want to ride in a sports car."
           ]
         },
         {
@@ -611,7 +611,7 @@
             }
           ],
           "translations": [
-            "apc_حابب أركب بسيارة سبورت."
+            "apc:حابب أركب بسيارة سبورت."
           ]
         },
         {
@@ -627,7 +627,7 @@
             }
           ],
           "translations": [
-            "en_I really want to travel to Japan."
+            "en:I really want to travel to Japan."
           ]
         },
         {
@@ -643,7 +643,7 @@
             }
           ],
           "translations": [
-            "apc_فكتير حابب إنّي أسافر ع اليابان."
+            "apc:فكتير حابب إنّي أسافر ع اليابان."
           ]
         },
         {
@@ -659,7 +659,7 @@
             }
           ],
           "translations": [
-            "en_I'd like to put this in a safe."
+            "en:I'd like to put this in a safe."
           ]
         },
         {
@@ -675,7 +675,7 @@
             }
           ],
           "translations": [
-            "apc_حابب أحط هدا في صندوق أمانات."
+            "apc:حابب أحط هدا في صندوق أمانات."
           ]
         },
         {
@@ -691,7 +691,7 @@
             }
           ],
           "translations": [
-            "en_What do you want to tell us? - Hello, Jalal."
+            "en:What do you want to tell us? - Hello, Jalal."
           ]
         },
         {
@@ -707,7 +707,7 @@
             }
           ],
           "translations": [
-            "apc_على شو حابب تحكيلنا؟ - سلامات جلال."
+            "apc:على شو حابب تحكيلنا؟ - سلامات جلال."
           ]
         },
         {
@@ -723,7 +723,7 @@
             }
           ],
           "translations": [
-            "en_I wanted to see what makes you so happy!"
+            "en:I wanted to see what makes you so happy!"
           ]
         },
         {
@@ -739,7 +739,7 @@
             }
           ],
           "translations": [
-            "apc_حابب اشوف شو اللي مفرحك"
+            "apc:حابب اشوف شو اللي مفرحك"
           ]
         },
         {
@@ -755,7 +755,7 @@
             }
           ],
           "translations": [
-            "en_I want to put this in the safe."
+            "en:I want to put this in the safe."
           ]
         },
         {
@@ -771,7 +771,7 @@
             }
           ],
           "translations": [
-            "apc_حابب حط هيدا بصندوق الأمانات ."
+            "apc:حابب حط هيدا بصندوق الأمانات ."
           ]
         },
         {
@@ -787,7 +787,7 @@
             }
           ],
           "translations": [
-            "en_Is there something you want to see?"
+            "en:Is there something you want to see?"
           ]
         },
         {
@@ -803,7 +803,7 @@
             }
           ],
           "translations": [
-            "apc_في شي حابب تشوفو؟"
+            "apc:في شي حابب تشوفو؟"
           ]
         },
         {
@@ -819,7 +819,7 @@
             }
           ],
           "translations": [
-            "en_Excuse me, but I would like to submit the theft report."
+            "en:Excuse me, but I would like to submit the theft report."
           ]
         },
         {
@@ -835,7 +835,7 @@
             }
           ],
           "translations": [
-            "apc_لو سمحت، بس حابب أسلم تقرير السرقة."
+            "apc:لو سمحت، بس حابب أسلم تقرير السرقة."
           ]
         },
         {
@@ -851,7 +851,7 @@
             }
           ],
           "translations": [
-            "en_I would like to order a dark-colored bag for myself."
+            "en:I would like to order a dark-colored bag for myself."
           ]
         },
         {
@@ -867,7 +867,7 @@
             }
           ],
           "translations": [
-            "apc_حابب أطلب شنتة لونها غامق لألي."
+            "apc:حابب أطلب شنتة لونها غامق لألي."
           ]
         },
         {
@@ -883,7 +883,7 @@
             }
           ],
           "translations": [
-            "en_I'm in love, not crazy."
+            "en:I'm in love, not crazy."
           ]
         },
         {
@@ -899,7 +899,7 @@
             }
           ],
           "translations": [
-            "apc_أنا حابب مو مجنون"
+            "apc:أنا حابب مو مجنون"
           ]
         },
         {
@@ -915,7 +915,7 @@
             }
           ],
           "translations": [
-            "en_He didn't want to go, but he was forced."
+            "en:He didn't want to go, but he was forced."
           ]
         },
         {
@@ -931,7 +931,7 @@
             }
           ],
           "translations": [
-            "apc_‏ما كان حابب يروح، بس انجبر ‎"
+            "apc:‏ما كان حابب يروح، بس انجبر ‎"
           ]
         },
         {
@@ -947,7 +947,7 @@
             }
           ],
           "translations": [
-            "en_What would you like to talk to us about?"
+            "en:What would you like to talk to us about?"
           ]
         },
         {
@@ -963,7 +963,7 @@
             }
           ],
           "translations": [
-            "apc_عن شو حابب تحكيلنا؟"
+            "apc:عن شو حابب تحكيلنا؟"
           ]
         },
         {
@@ -979,7 +979,7 @@
             }
           ],
           "translations": [
-            "en_In other words, you don't like the idea."
+            "en:In other words, you don't like the idea."
           ]
         },
         {
@@ -995,7 +995,7 @@
             }
           ],
           "translations": [
-            "apc_‏بعبارة تانية، ما لك حابب الفكرة ‎"
+            "apc:‏بعبارة تانية، ما لك حابب الفكرة ‎"
           ]
         },
         {
@@ -1011,7 +1011,7 @@
             }
           ],
           "translations": [
-            "en_No, this year I want to do something different."
+            "en:No, this year I want to do something different."
           ]
         },
         {
@@ -1027,7 +1027,7 @@
             }
           ],
           "translations": [
-            "apc_لا هاي السنة حابب أعمل إشي مختلف"
+            "apc:لا هاي السنة حابب أعمل إشي مختلف"
           ]
         },
         {
@@ -1043,7 +1043,7 @@
             }
           ],
           "translations": [
-            "en_I want to drive a sports car."
+            "en:I want to drive a sports car."
           ]
         },
         {
@@ -1059,7 +1059,7 @@
             }
           ],
           "translations": [
-            "apc_حابب أسوق سيارة رياضية."
+            "apc:حابب أسوق سيارة رياضية."
           ]
         },
         {
@@ -1075,7 +1075,7 @@
             }
           ],
           "translations": [
-            "en_I'm very sorry, but I would like to postpone the meeting."
+            "en:I'm very sorry, but I would like to postpone the meeting."
           ]
         },
         {
@@ -1091,7 +1091,7 @@
             }
           ],
           "translations": [
-            "apc_أنا كتير متأسف، بس حابب أأجل الموعد."
+            "apc:أنا كتير متأسف، بس حابب أأجل الموعد."
           ]
         },
         {
@@ -1107,7 +1107,7 @@
             }
           ],
           "translations": [
-            "en_I would love for us to put our minds together."
+            "en:I would love for us to put our minds together."
           ]
         },
         {
@@ -1123,7 +1123,7 @@
             }
           ],
           "translations": [
-            "apc_حابب نشغل مخنا مع بعض"
+            "apc:حابب نشغل مخنا مع بعض"
           ]
         },
         {
@@ -1139,7 +1139,7 @@
             }
           ],
           "translations": [
-            "en_You want to live a life like this."
+            "en:You want to live a life like this."
           ]
         },
         {
@@ -1155,7 +1155,7 @@
             }
           ],
           "translations": [
-            "apc_انت هيك حابب إنّك تعيش بهاي الحياة."
+            "apc:انت هيك حابب إنّك تعيش بهاي الحياة."
           ]
         },
         {
@@ -1171,7 +1171,7 @@
             }
           ],
           "translations": [
-            "en_I understood from his letter that he loves his job."
+            "en:I understood from his letter that he loves his job."
           ]
         },
         {
@@ -1187,7 +1187,7 @@
             }
           ],
           "translations": [
-            "apc_‏فهمت من مكتوبو إنو حابب شغلو ‎"
+            "apc:‏فهمت من مكتوبو إنو حابب شغلو ‎"
           ]
         },
         {
@@ -1203,7 +1203,7 @@
             }
           ],
           "translations": [
-            "en_I'd like to take the same course tomorrow, please."
+            "en:I'd like to take the same course tomorrow, please."
           ]
         },
         {
@@ -1219,7 +1219,7 @@
             }
           ],
           "translations": [
-            "apc_حابب أخد نفس الكورس بكرا، لو سمحت."
+            "apc:حابب أخد نفس الكورس بكرا، لو سمحت."
           ]
         },
         {
@@ -1235,7 +1235,7 @@
             }
           ],
           "translations": [
-            "en_I want to ride in a sports car."
+            "en:I want to ride in a sports car."
           ]
         },
         {
@@ -2421,7 +2421,7 @@
             }
           ],
           "translations": [
-            "en_I want to reassure you that we're okay..."
+            "en:I want to reassure you that we're okay..."
           ]
         },
         {
@@ -2437,7 +2437,7 @@
             }
           ],
           "translations": [
-            "apc_حابب اطمنكم علينا"
+            "apc:حابب اطمنكم علينا"
           ]
         },
         {
@@ -2453,7 +2453,7 @@
             }
           ],
           "translations": [
-            "en_I want to take that one."
+            "en:I want to take that one."
           ]
         },
         {
@@ -2469,7 +2469,7 @@
             }
           ],
           "translations": [
-            "apc_حابب أخد هداك."
+            "apc:حابب أخد هداك."
           ]
         },
         {
@@ -2485,7 +2485,7 @@
             }
           ],
           "translations": [
-            "en_I just want to remind you:"
+            "en:I just want to remind you:"
           ]
         },
         {
@@ -2501,7 +2501,7 @@
             }
           ],
           "translations": [
-            "apc_بس حابب أذكّركم:"
+            "apc:بس حابب أذكّركم:"
           ]
         },
         {
@@ -2517,7 +2517,7 @@
             }
           ],
           "translations": [
-            "en_I want to learn it."
+            "en:I want to learn it."
           ]
         },
         {
@@ -2533,7 +2533,7 @@
             }
           ],
           "translations": [
-            "apc_حابب أتعلم عليها"
+            "apc:حابب أتعلم عليها"
           ]
         },
         {
@@ -2549,7 +2549,7 @@
             }
           ],
           "translations": [
-            "en_I want to pull out my teeth."
+            "en:I want to pull out my teeth."
           ]
         },
         {
@@ -2565,7 +2565,7 @@
             }
           ],
           "translations": [
-            "apc_حابب أخلع سناني."
+            "apc:حابب أخلع سناني."
           ]
         }
       ]
@@ -2587,7 +2587,7 @@
             }
           ],
           "translations": [
-            "en_I want to talk to you."
+            "en:I want to talk to you."
           ]
         },
         {
@@ -2603,7 +2603,7 @@
             }
           ],
           "translations": [
-            "apc_انا حابب احكي معك."
+            "apc:انا حابب احكي معك."
           ]
         },
         {
@@ -2619,7 +2619,7 @@
             }
           ],
           "translations": [
-            "en_Ata, what's going on?"
+            "en:Ata, what's going on?"
           ]
         },
         {
@@ -2635,7 +2635,7 @@
             }
           ],
           "translations": [
-            "apc_عطا احكي شو في؟"
+            "apc:عطا احكي شو في؟"
           ]
         },
         {
@@ -2651,7 +2651,7 @@
             }
           ],
           "translations": [
-            "en_I want to talk to the students one by one."
+            "en:I want to talk to the students one by one."
           ]
         },
         {
@@ -2667,7 +2667,7 @@
             }
           ],
           "translations": [
-            "apc_‏حابب احكي مع الطلاب واحد واحد ‎"
+            "apc:‏حابب احكي مع الطلاب واحد واحد ‎"
           ]
         },
         {
@@ -2683,7 +2683,7 @@
             }
           ],
           "translations": [
-            "en_Speak good Palestinian Arabic."
+            "en:Speak good Palestinian Arabic."
           ]
         },
         {
@@ -2699,7 +2699,7 @@
             }
           ],
           "translations": [
-            "apc_احكي عربي فلسطيني منيح"
+            "apc:احكي عربي فلسطيني منيح"
           ]
         },
         {
@@ -2715,7 +2715,7 @@
             }
           ],
           "translations": [
-            "en_I myself want to speak to the parents who are intending to get divorced."
+            "en:I myself want to speak to the parents who are intending to get divorced."
           ]
         },
         {
@@ -2731,7 +2731,7 @@
             }
           ],
           "translations": [
-            "apc_انا نفسي احكي للاباء الي بوافقو يطلقو"
+            "apc:انا نفسي احكي للاباء الي بوافقو يطلقو"
           ]
         },
         {
@@ -2747,7 +2747,7 @@
             }
           ],
           "translations": [
-            "en_There is another point I wanted to talk about."
+            "en:There is another point I wanted to talk about."
           ]
         },
         {
@@ -2763,7 +2763,7 @@
             }
           ],
           "translations": [
-            "apc_في كمان نقطة كنت بدّي احكي فيها"
+            "apc:في كمان نقطة كنت بدّي احكي فيها"
           ]
         },
         {
@@ -2779,7 +2779,7 @@
             }
           ],
           "translations": [
-            "en_I want to make an international call to the Hilton Hotel in Boston."
+            "en:I want to make an international call to the Hilton Hotel in Boston."
           ]
         },
         {
@@ -2795,7 +2795,7 @@
             }
           ],
           "translations": [
-            "apc_بدي احكي مكالمة خارجية لفندق هيلتون ببوسطن."
+            "apc:بدي احكي مكالمة خارجية لفندق هيلتون ببوسطن."
           ]
         },
         {
@@ -2811,7 +2811,7 @@
             }
           ],
           "translations": [
-            "en_I am all ears, speak!"
+            "en:I am all ears, speak!"
           ]
         },
         {
@@ -2827,7 +2827,7 @@
             }
           ],
           "translations": [
-            "apc_‏أنا كلي أدان، احكي ‎"
+            "apc:‏أنا كلي أدان، احكي ‎"
           ]
         },
         {
@@ -2843,7 +2843,7 @@
             }
           ],
           "translations": [
-            "en_Lama made me start talking to myself."
+            "en:Lama made me start talking to myself."
           ]
         },
         {
@@ -2859,7 +2859,7 @@
             }
           ],
           "translations": [
-            "apc_لمى خلّتني احكي مع حالي"
+            "apc:لمى خلّتني احكي مع حالي"
           ]
         },
         {
@@ -2875,7 +2875,7 @@
             }
           ],
           "translations": [
-            "en_So I kept speaking to her in Hebrew."
+            "en:So I kept speaking to her in Hebrew."
           ]
         },
         {
@@ -2891,7 +2891,7 @@
             }
           ],
           "translations": [
-            "apc_فصرت احكي معها عبري"
+            "apc:فصرت احكي معها عبري"
           ]
         },
         {
@@ -2907,7 +2907,7 @@
             }
           ],
           "translations": [
-            "en_Okay, bring me my mobile so I can talk to the diesel truck."
+            "en:Okay, bring me my mobile so I can talk to the diesel truck."
           ]
         },
         {
@@ -2923,7 +2923,7 @@
             }
           ],
           "translations": [
-            "apc_طيب ‍جيبولي ‍موبايلي احكي مع تنك السولار"
+            "apc:طيب ‍جيبولي ‍موبايلي احكي مع تنك السولار"
           ]
         },
         {
@@ -2939,7 +2939,7 @@
             }
           ],
           "translations": [
-            "en_I would like to talk a bit about Nablus."
+            "en:I would like to talk a bit about Nablus."
           ]
         },
         {
@@ -2955,7 +2955,7 @@
             }
           ],
           "translations": [
-            "apc_انا حابة شوي احكي عن نابلس"
+            "apc:انا حابة شوي احكي عن نابلس"
           ]
         },
         {
@@ -2971,7 +2971,7 @@
             }
           ],
           "translations": [
-            "en_Is there something, darling? Tell me."
+            "en:Is there something, darling? Tell me."
           ]
         },
         {
@@ -2987,7 +2987,7 @@
             }
           ],
           "translations": [
-            "apc_في إشي حبيبي؟ احكي لي"
+            "apc:في إشي حبيبي؟ احكي لي"
           ]
         },
         {
@@ -3003,7 +3003,7 @@
             }
           ],
           "translations": [
-            "en_Issam, call the police quickly."
+            "en:Issam, call the police quickly."
           ]
         },
         {
@@ -3019,7 +3019,7 @@
             }
           ],
           "translations": [
-            "apc_عصام احكي مع الشرطة بسرعة"
+            "apc:عصام احكي مع الشرطة بسرعة"
           ]
         },
         {
@@ -3035,7 +3035,7 @@
             }
           ],
           "translations": [
-            "en_Yazan, don't go. I want to talk to you for a bit."
+            "en:Yazan, don't go. I want to talk to you for a bit."
           ]
         },
         {
@@ -3051,7 +3051,7 @@
             }
           ],
           "translations": [
-            "apc_يزن خليك بدي احكي معك شوي"
+            "apc:يزن خليك بدي احكي معك شوي"
           ]
         },
         {
@@ -3067,7 +3067,7 @@
             }
           ],
           "translations": [
-            "en_Please speak clearly."
+            "en:Please speak clearly."
           ]
         },
         {
@@ -3083,7 +3083,7 @@
             }
           ],
           "translations": [
-            "apc_‏اعمل معروف احكي بوضوح ‎"
+            "apc:‏اعمل معروف احكي بوضوح ‎"
           ]
         },
         {
@@ -3099,7 +3099,7 @@
             }
           ],
           "translations": [
-            "en_Who am I to say such a thing?"
+            "en:Who am I to say such a thing?"
           ]
         },
         {
@@ -3115,7 +3115,7 @@
             }
           ],
           "translations": [
-            "apc_مين انا عشان احكي هيك؟"
+            "apc:مين انا عشان احكي هيك؟"
           ]
         },
         {
@@ -3131,7 +3131,7 @@
             }
           ],
           "translations": [
-            "en_I want to talk purely about politics, without casting aspersions on anyone."
+            "en:I want to talk purely about politics, without casting aspersions on anyone."
           ]
         },
         {
@@ -3147,7 +3147,7 @@
             }
           ],
           "translations": [
-            "apc_بدي احكي سياسة صرف ومن دون تجريح."
+            "apc:بدي احكي سياسة صرف ومن دون تجريح."
           ]
         },
         {
@@ -3163,7 +3163,7 @@
             }
           ],
           "translations": [
-            "en_Come on, just speak, we're all women here."
+            "en:Come on, just speak, we're all women here."
           ]
         },
         {
@@ -3179,7 +3179,7 @@
             }
           ],
           "translations": [
-            "apc_خاس احكي محنا نسوان زي بعض"
+            "apc:خاس احكي محنا نسوان زي بعض"
           ]
         },
         {
@@ -3195,7 +3195,7 @@
             }
           ],
           "translations": [
-            "en_Call him and thank him."
+            "en:Call him and thank him."
           ]
         },
         {
@@ -3211,7 +3211,7 @@
             }
           ],
           "translations": [
-            "apc_احكي احكي معه اشكره"
+            "apc:احكي احكي معه اشكره"
           ]
         },
         {
@@ -3227,7 +3227,7 @@
             }
           ],
           "translations": [
-            "en_– No, it doesn't make sense! Raghid, talk to her!"
+            "en:– No, it doesn't make sense! Raghid, talk to her!"
           ]
         },
         {
@@ -3243,7 +3243,7 @@
             }
           ],
           "translations": [
-            "apc_– لا، ما معقولة! رغيد، احكي معها!"
+            "apc:– لا، ما معقولة! رغيد، احكي معها!"
           ]
         },
         {
@@ -3259,7 +3259,7 @@
             }
           ],
           "translations": [
-            "en_Get out and say a good word to the people!"
+            "en:Get out and say a good word to the people!"
           ]
         },
         {
@@ -3275,7 +3275,7 @@
             }
           ],
           "translations": [
-            "apc_اطلع احكي لك كلمة خير لهالشّعب!"
+            "apc:اطلع احكي لك كلمة خير لهالشّعب!"
           ]
         },
         {
@@ -3291,7 +3291,7 @@
             }
           ],
           "translations": [
-            "en_Dasha, we are filming.. say yes"
+            "en:Dasha, we are filming.. say yes"
           ]
         },
         {
@@ -3307,7 +3307,7 @@
             }
           ],
           "translations": [
-            "apc_داشا عم نصوّر.. احكي ايه"
+            "apc:داشا عم نصوّر.. احكي ايه"
           ]
         },
         {
@@ -3323,7 +3323,7 @@
             }
           ],
           "translations": [
-            "en_Can I talk to you?"
+            "en:Can I talk to you?"
           ]
         },
         {
@@ -3339,7 +3339,7 @@
             }
           ],
           "translations": [
-            "apc_ممكن احكي معك = ممكن احاكيك ‎؟"
+            "apc:ممكن احكي معك = ممكن احاكيك ‎؟"
           ]
         },
         {
@@ -3355,7 +3355,7 @@
             }
           ],
           "translations": [
-            "en_There is something very shocking, let me tell you."
+            "en:There is something very shocking, let me tell you."
           ]
         },
         {
@@ -3371,7 +3371,7 @@
             }
           ],
           "translations": [
-            "apc_فيها إشي كثير بيصدم خلينا احكي لكم"
+            "apc:فيها إشي كثير بيصدم خلينا احكي لكم"
           ]
         },
         {
@@ -3387,7 +3387,7 @@
             }
           ],
           "translations": [
-            "en_Speak Arabic with me, in front of me."
+            "en:Speak Arabic with me, in front of me."
           ]
         },
         {
@@ -3403,7 +3403,7 @@
             }
           ],
           "translations": [
-            "apc_احكي معي عربي قدّامي"
+            "apc:احكي معي عربي قدّامي"
           ]
         },
         {
@@ -3419,7 +3419,7 @@
             }
           ],
           "translations": [
-            "en_Tell me where the gold is or recite the Shahada before you die,"
+            "en:Tell me where the gold is or recite the Shahada before you die,"
           ]
         },
         {
@@ -3435,7 +3435,7 @@
             }
           ],
           "translations": [
-            "apc_احكي وين الدّهبات ولا تشاهدي على روحك،"
+            "apc:احكي وين الدّهبات ولا تشاهدي على روحك،"
           ]
         },
         {
@@ -3451,7 +3451,7 @@
             }
           ],
           "translations": [
-            "en_For God's sake, come out, say something."
+            "en:For God's sake, come out, say something."
           ]
         },
         {
@@ -3467,7 +3467,7 @@
             }
           ],
           "translations": [
-            "apc_منشان الله، اطلع، احكي لك أيّ كلمة"
+            "apc:منشان الله، اطلع، احكي لك أيّ كلمة"
           ]
         },
         {
@@ -3483,7 +3483,7 @@
             }
           ],
           "translations": [
-            "en_Tell us, Leila, what happened with them."
+            "en:Tell us, Leila, what happened with them."
           ]
         },
         {
@@ -3499,7 +3499,7 @@
             }
           ],
           "translations": [
-            "apc_احكي لنا ليلى وشو صار معهم"
+            "apc:احكي لنا ليلى وشو صار معهم"
           ]
         },
         {
@@ -3515,7 +3515,7 @@
             }
           ],
           "translations": [
-            "en_Tell me something about your youth."
+            "en:Tell me something about your youth."
           ]
         },
         {
@@ -3531,7 +3531,7 @@
             }
           ],
           "translations": [
-            "apc_احكي لي شي عن إيام صباك ‎"
+            "apc:احكي لي شي عن إيام صباك ‎"
           ]
         },
         {
@@ -3547,7 +3547,7 @@
             }
           ],
           "translations": [
-            "en_And why shouldn't I tell him?"
+            "en:And why shouldn't I tell him?"
           ]
         },
         {
@@ -3563,7 +3563,7 @@
             }
           ],
           "translations": [
-            "apc_وليش ما احكي له"
+            "apc:وليش ما احكي له"
           ]
         },
         {
@@ -3579,7 +3579,7 @@
             }
           ],
           "translations": [
-            "en_Please speak more clearly."
+            "en:Please speak more clearly."
           ]
         },
         {
@@ -3595,7 +3595,7 @@
             }
           ],
           "translations": [
-            "apc_‏اعمل معروف احكي بصوت مفهوم أكتر ‎"
+            "apc:‏اعمل معروف احكي بصوت مفهوم أكتر ‎"
           ]
         },
         {
@@ -3611,7 +3611,7 @@
             }
           ],
           "translations": [
-            "en_Call this friend."
+            "en:Call this friend."
           ]
         },
         {
@@ -3627,7 +3627,7 @@
             }
           ],
           "translations": [
-            "apc_احكي تليفون مع هذا الصديق"
+            "apc:احكي تليفون مع هذا الصديق"
           ]
         },
         {
@@ -3643,7 +3643,7 @@
             }
           ],
           "translations": [
-            "en_– What poem did you write for her? Tell us!"
+            "en:– What poem did you write for her? Tell us!"
           ]
         },
         {
@@ -3659,7 +3659,7 @@
             }
           ],
           "translations": [
-            "apc_– ايش كتبت لها شعر، احكي لنا!"
+            "apc:– ايش كتبت لها شعر، احكي لنا!"
           ]
         },
         {
@@ -3675,7 +3675,7 @@
             }
           ],
           "translations": [
-            "en_Can I talk to you?"
+            "en:Can I talk to you?"
           ]
         },
         {
@@ -3691,7 +3691,7 @@
             }
           ],
           "translations": [
-            "en_At the beginning of my daughter's life, I spoke to her in Arabic."
+            "en:At the beginning of my daughter's life, I spoke to her in Arabic."
           ]
         },
         {
@@ -3707,7 +3707,7 @@
             }
           ],
           "translations": [
-            "apc_اول حياة بنتي كنت احكي معها عربي"
+            "apc:اول حياة بنتي كنت احكي معها عربي"
           ]
         },
         {
@@ -3723,7 +3723,7 @@
             }
           ],
           "translations": [
-            "en_Tell us about your artistic activity."
+            "en:Tell us about your artistic activity."
           ]
         },
         {
@@ -3739,7 +3739,7 @@
             }
           ],
           "translations": [
-            "apc_احكي لنا عن نشاطك الفني ‎"
+            "apc:احكي لنا عن نشاطك الفني ‎"
           ]
         },
         {
@@ -3755,7 +3755,7 @@
             }
           ],
           "translations": [
-            "en_I want to make a call to Japan."
+            "en:I want to make a call to Japan."
           ]
         },
         {
@@ -3771,7 +3771,7 @@
             }
           ],
           "translations": [
-            "apc_بدي احكي مكالمة عاليابان."
+            "apc:بدي احكي مكالمة عاليابان."
           ]
         },
         {
@@ -3787,7 +3787,7 @@
             }
           ],
           "translations": [
-            "en_Please say that again."
+            "en:Please say that again."
           ]
         },
         {
@@ -3803,7 +3803,7 @@
             }
           ],
           "translations": [
-            "apc_احكي كمان مرة لو سمحت."
+            "apc:احكي كمان مرة لو سمحت."
           ]
         },
         {
@@ -3819,7 +3819,7 @@
             }
           ],
           "translations": [
-            "en_The last thing I can tell you about is"
+            "en:The last thing I can tell you about is"
           ]
         },
         {
@@ -3835,7 +3835,7 @@
             }
           ],
           "translations": [
-            "apc_اخر شيء ممكن احكي عنه انه"
+            "apc:اخر شيء ممكن احكي عنه انه"
           ]
         },
         {
@@ -3851,7 +3851,7 @@
             }
           ],
           "translations": [
-            "en_And I started speaking to her in Hebrew at the same time."
+            "en:And I started speaking to her in Hebrew at the same time."
           ]
         },
         {
@@ -3867,7 +3867,7 @@
             }
           ],
           "translations": [
-            "apc_وصرت احكي معها عبري بنفس الوقت"
+            "apc:وصرت احكي معها عبري بنفس الوقت"
           ]
         },
         {
@@ -3883,7 +3883,7 @@
             }
           ],
           "translations": [
-            "en_Can I speak with the manager?"
+            "en:Can I speak with the manager?"
           ]
         },
         {
@@ -3899,7 +3899,7 @@
             }
           ],
           "translations": [
-            "apc_فيني احكي مع المدير؟"
+            "apc:فيني احكي مع المدير؟"
           ]
         },
         {
@@ -5089,7 +5089,7 @@
             }
           ],
           "translations": [
-            "en_Talk to people."
+            "en:Talk to people."
           ]
         },
         {
@@ -5105,7 +5105,7 @@
             }
           ],
           "translations": [
-            "apc_احكي مع ناس"
+            "apc:احكي مع ناس"
           ]
         },
         {
@@ -5121,7 +5121,7 @@
             }
           ],
           "translations": [
-            "en_Let me tell you"
+            "en:Let me tell you"
           ]
         },
         {
@@ -5137,7 +5137,7 @@
             }
           ],
           "translations": [
-            "apc_خليني احكي لكم"
+            "apc:خليني احكي لكم"
           ]
         }
       ]

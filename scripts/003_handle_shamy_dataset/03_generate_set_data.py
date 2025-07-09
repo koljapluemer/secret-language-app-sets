@@ -78,7 +78,7 @@ for word in target_words:
                     "source": "Levanti Dataset",
                     "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti"
                 }],
-                "translations": [f"en_{english_text}"]
+                "translations": [f"en:{english_text}"]
             },
             "english": {
                 "language": "en",
@@ -90,7 +90,7 @@ for word in target_words:
                     "source": "Levanti Dataset",
                     "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti"
                 }],
-                "translations": [f"apc_{arabic_text}"]
+                "translations": [f"apc:{arabic_text}"]
             }
         }
         matching_sentences.append(sentence_pair)

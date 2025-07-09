@@ -19,7 +19,7 @@
             }
           ],
           "translations": [
-            "en_The time has come to hear a new voice, that of Jalal Ayoub."
+            "en:The time has come to hear a new voice, that of Jalal Ayoub."
           ]
         },
         {
@@ -35,7 +35,7 @@
             }
           ],
           "translations": [
-            "apc_أجا الوقت تسمع صوت جدید جلال أيوب."
+            "apc:أجا الوقت تسمع صوت جدید جلال أيوب."
           ]
         },
         {
@@ -133,7 +133,7 @@
             }
           ],
           "translations": [
-            "apc_جلال"
+            "apc:جلال"
           ]
         }
       ]
@@ -155,7 +155,7 @@
             }
           ],
           "translations": [
-            "en_And if they are not our relatives, they are our cousins!"
+            "en:And if they are not our relatives, they are our cousins!"
           ]
         },
         {
@@ -171,7 +171,7 @@
             }
           ],
           "translations": [
-            "apc_وإذا مش نسايبنا ولاد عمّنا!"
+            "apc:وإذا مش نسايبنا ولاد عمّنا!"
           ]
         },
         {
@@ -187,7 +187,7 @@
             }
           ],
           "translations": [
-            "en_Kids, let's go, we're late! What are you doing?"
+            "en:Kids, let's go, we're late! What are you doing?"
           ]
         },
         {
@@ -203,7 +203,7 @@
             }
           ],
           "translations": [
-            "apc_يا ولاد يلا تأخرنا، شو بتساوا؟"
+            "apc:يا ولاد يلا تأخرنا، شو بتساوا؟"
           ]
         },
         {
@@ -219,7 +219,7 @@
             }
           ],
           "translations": [
-            "en_Open, open, kids."
+            "en:Open, open, kids."
           ]
         },
         {
@@ -235,7 +235,7 @@
             }
           ],
           "translations": [
-            "apc_افتحوا افتحوا يا ولاد"
+            "apc:افتحوا افتحوا يا ولاد"
           ]
         },
         {
@@ -251,7 +251,7 @@
             }
           ],
           "translations": [
-            "en_That's it, don't worry.. What are we playing? Are we kids?"
+            "en:That's it, don't worry.. What are we playing? Are we kids?"
           ]
         },
         {
@@ -267,7 +267,7 @@
             }
           ],
           "translations": [
-            "apc_خلص، ولا يهمك.. شو منلعب؟ ولاد احنا؟"
+            "apc:خلص، ولا يهمك.. شو منلعب؟ ولاد احنا؟"
           ]
         },
         {
@@ -283,7 +283,7 @@
             }
           ],
           "translations": [
-            "en_Slowly, slowly, kids. Hahahaha."
+            "en:Slowly, slowly, kids. Hahahaha."
           ]
         },
         {
@@ -299,7 +299,7 @@
             }
           ],
           "translations": [
-            "apc_شوي شوي يا ولاد ههههههه"
+            "apc:شوي شوي يا ولاد ههههههه"
           ]
         },
         {
@@ -315,7 +315,7 @@
             }
           ],
           "translations": [
-            "en_Come on, kids, we're late."
+            "en:Come on, kids, we're late."
           ]
         },
         {
@@ -331,7 +331,7 @@
             }
           ],
           "translations": [
-            "apc_يلا يا ولاد تأخرنا"
+            "apc:يلا يا ولاد تأخرنا"
           ]
         },
         {
@@ -347,7 +347,7 @@
             }
           ],
           "translations": [
-            "en_Hi kids, why are you late?"
+            "en:Hi kids, why are you late?"
           ]
         },
         {
@@ -363,7 +363,7 @@
             }
           ],
           "translations": [
-            "apc_اهلين يا ولاد ليش تأخرتوا"
+            "apc:اهلين يا ولاد ليش تأخرتوا"
           ]
         },
         {
@@ -379,7 +379,7 @@
             }
           ],
           "translations": [
-            "en_What should I do with him, good people?"
+            "en:What should I do with him, good people?"
           ]
         },
         {
@@ -395,7 +395,7 @@
             }
           ],
           "translations": [
-            "apc_شو أعمل معه، يا ولاد الحلال؟"
+            "apc:شو أعمل معه، يا ولاد الحلال؟"
           ]
         },
         {
@@ -411,7 +411,7 @@
             }
           ],
           "translations": [
-            "en_If you marry twins, will your children be twins?"
+            "en:If you marry twins, will your children be twins?"
           ]
         },
         {
@@ -427,7 +427,7 @@
             }
           ],
           "translations": [
-            "apc_ازا تزوجتو توأم رح تجيبو ولاد توأم؟"
+            "apc:ازا تزوجتو توأم رح تجيبو ولاد توأم؟"
           ]
         },
         {
@@ -443,7 +443,7 @@
             }
           ],
           "translations": [
-            "en_Kids, why haven't you eaten your food?"
+            "en:Kids, why haven't you eaten your food?"
           ]
         },
         {
@@ -459,7 +459,7 @@
             }
           ],
           "translations": [
-            "apc_يا ولاد ليش مش ماكلين أكلكم ؟"
+            "apc:يا ولاد ليش مش ماكلين أكلكم ؟"
           ]
         },
         {
@@ -475,7 +475,7 @@
             }
           ],
           "translations": [
-            "en_The kids from the upper neighborhood"
+            "en:The kids from the upper neighborhood"
           ]
         },
         {
@@ -491,7 +491,7 @@
             }
           ],
           "translations": [
-            "apc_ولاد الحارة اللي فوق"
+            "apc:ولاد الحارة اللي فوق"
           ]
         },
         {
@@ -507,7 +507,7 @@
             }
           ],
           "translations": [
-            "en_Kids, come have lunch, we have pasta."
+            "en:Kids, come have lunch, we have pasta."
           ]
         },
         {
@@ -523,7 +523,7 @@
             }
           ],
           "translations": [
-            "apc_يا ولاد تعالوا تغذوا في معكرونا"
+            "apc:يا ولاد تعالوا تغذوا في معكرونا"
           ]
         },
         {
@@ -539,7 +539,7 @@
             }
           ],
           "translations": [
-            "en_She is married and has children."
+            "en:She is married and has children."
           ]
         },
         {
@@ -555,7 +555,7 @@
             }
           ],
           "translations": [
-            "apc_‏هي متجوزة وعندها ولاد ‎"
+            "apc:‏هي متجوزة وعندها ولاد ‎"
           ]
         },
         {
@@ -571,7 +571,7 @@
             }
           ],
           "translations": [
-            "en_Young people are causing a ruckus here in the West Bank."
+            "en:Young people are causing a ruckus here in the West Bank."
           ]
         },
         {
@@ -587,7 +587,7 @@
             }
           ],
           "translations": [
-            "apc_ولاد قاعدين هوني بالضّفّة بتبرطعوا تبرطع،"
+            "apc:ولاد قاعدين هوني بالضّفّة بتبرطعوا تبرطع،"
           ]
         },
         {
@@ -603,7 +603,7 @@
             }
           ],
           "translations": [
-            "en_Kids, what did you do!?!"
+            "en:Kids, what did you do!?!"
           ]
         },
         {
@@ -619,7 +619,7 @@
             }
           ],
           "translations": [
-            "apc_يا ولاد شو عملتو"
+            "apc:يا ولاد شو عملتو"
           ]
         },
         {
@@ -635,7 +635,7 @@
             }
           ],
           "translations": [
-            "en_All the kids in the building are preparing our list of demands."
+            "en:All the kids in the building are preparing our list of demands."
           ]
         },
         {
@@ -651,7 +651,7 @@
             }
           ],
           "translations": [
-            "apc_كل ولاد العمارة عم بحضرولك مطالبنا"
+            "apc:كل ولاد العمارة عم بحضرولك مطالبنا"
           ]
         },
         {
@@ -667,7 +667,7 @@
             }
           ],
           "translations": [
-            "en_No joke with the locals, in Akka."
+            "en:No joke with the locals, in Akka."
           ]
         },
         {
@@ -683,7 +683,7 @@
             }
           ],
           "translations": [
-            "apc_فش مزח مع ولاد البلد، بعكّا."
+            "apc:فش مزח مع ولاد البلد، بعكّا."
           ]
         },
         {
@@ -699,7 +699,7 @@
             }
           ],
           "translations": [
-            "en_This type of books is suitable only for children."
+            "en:This type of books is suitable only for children."
           ]
         },
         {
@@ -715,7 +715,7 @@
             }
           ],
           "translations": [
-            "apc_‏هالنوع من الكتب خرج ولاد بس ‎"
+            "apc:‏هالنوع من الكتب خرج ولاد بس ‎"
           ]
         },
         {
@@ -731,7 +731,7 @@
             }
           ],
           "translations": [
-            "en_So tell me the names of the kids in your class."
+            "en:So tell me the names of the kids in your class."
           ]
         },
         {
@@ -747,7 +747,7 @@
             }
           ],
           "translations": [
-            "apc_طب خبريني شو أسماء ولاد صفك"
+            "apc:طب خبريني شو أسماء ولاد صفك"
           ]
         },
         {
@@ -763,7 +763,7 @@
             }
           ],
           "translations": [
-            "en_Are you guys little kids?"
+            "en:Are you guys little kids?"
           ]
         },
         {
@@ -779,7 +779,7 @@
             }
           ],
           "translations": [
-            "apc_شو انتوا ولاد صغار؟"
+            "apc:شو انتوا ولاد صغار؟"
           ]
         },
         {
@@ -795,7 +795,7 @@
             }
           ],
           "translations": [
-            "en_They have three small children."
+            "en:They have three small children."
           ]
         },
         {
@@ -811,7 +811,7 @@
             }
           ],
           "translations": [
-            "apc_‏عندهن تلتة ولاد زغار ‎"
+            "apc:‏عندهن تلتة ولاد زغار ‎"
           ]
         },
         {
@@ -827,7 +827,7 @@
             }
           ],
           "translations": [
-            "en_Put away your car because there are a lot of scoundrels!"
+            "en:Put away your car because there are a lot of scoundrels!"
           ]
         },
         {
@@ -843,7 +843,7 @@
             }
           ],
           "translations": [
-            "apc_ضبّوا سيارتكو لأنّه ولاد الحرام كتار!"
+            "apc:ضبّوا سيارتكو لأنّه ولاد الحرام كتار!"
           ]
         },
         {
@@ -859,7 +859,7 @@
             }
           ],
           "translations": [
-            "en_I mean, they're your cousins, right?"
+            "en:I mean, they're your cousins, right?"
           ]
         },
         {
@@ -875,7 +875,7 @@
             }
           ],
           "translations": [
-            "apc_يعني ولاد عمومتكم, ترا, زين؟"
+            "apc:يعني ولاد عمومتكم, ترا, زين؟"
           ]
         },
         {
@@ -891,7 +891,7 @@
             }
           ],
           "translations": [
-            "en_Come on kids, get on."
+            "en:Come on kids, get on."
           ]
         },
         {
@@ -907,7 +907,7 @@
             }
           ],
           "translations": [
-            "apc_اركبوا اركبوا يا ولاد"
+            "apc:اركبوا اركبوا يا ولاد"
           ]
         },
         {
@@ -923,7 +923,7 @@
             }
           ],
           "translations": [
-            "en_Come on, kids, I've made you the eggs you like."
+            "en:Come on, kids, I've made you the eggs you like."
           ]
         },
         {
@@ -939,7 +939,7 @@
             }
           ],
           "translations": [
-            "apc_يلا يا ولاد عملتلكم البيض اللي بتحبوا"
+            "apc:يلا يا ولاد عملتلكم البيض اللي بتحبوا"
           ]
         },
         {
@@ -955,7 +955,7 @@
             }
           ],
           "translations": [
-            "en_We, the children of Jerusalem, are famous and well-known for who we are."
+            "en:We, the children of Jerusalem, are famous and well-known for who we are."
           ]
         },
         {
@@ -971,7 +971,7 @@
             }
           ],
           "translations": [
-            "apc_إحنا ولاد القدس مشهورين ومعروفين مين إحنا."
+            "apc:إحنا ولاد القدس مشهورين ومعروفين مين إحنا."
           ]
         },
         {
@@ -987,7 +987,7 @@
             }
           ],
           "translations": [
-            "en_They have grown-up children."
+            "en:They have grown-up children."
           ]
         },
         {
@@ -1003,7 +1003,7 @@
             }
           ],
           "translations": [
-            "apc_‏عندهن ولاد شباب وصبايا ‎"
+            "apc:‏عندهن ولاد شباب وصبايا ‎"
           ]
         },
         {
@@ -1019,7 +1019,7 @@
             }
           ],
           "translations": [
-            "en_I decided to invite all my classmates."
+            "en:I decided to invite all my classmates."
           ]
         },
         {
@@ -1035,7 +1035,7 @@
             }
           ],
           "translations": [
-            "apc_قررت أعزم كل ولاد الصف"
+            "apc:قررت أعزم كل ولاد الصف"
           ]
         },
         {
@@ -1051,7 +1051,7 @@
             }
           ],
           "translations": [
-            "en_Put on your seatbelts, kids!"
+            "en:Put on your seatbelts, kids!"
           ]
         },
         {
@@ -1067,7 +1067,7 @@
             }
           ],
           "translations": [
-            "apc_‏حطوا الأحزمة يا ولاد ‎"
+            "apc:‏حطوا الأحزمة يا ولاد ‎"
           ]
         },
         {
@@ -1083,7 +1083,7 @@
             }
           ],
           "translations": [
-            "en_Come on, bye kids"
+            "en:Come on, bye kids"
           ]
         },
         {
@@ -1099,7 +1099,7 @@
             }
           ],
           "translations": [
-            "apc_يلا باي يا ولاد"
+            "apc:يلا باي يا ولاد"
           ]
         },
         {
@@ -1115,7 +1115,7 @@
             }
           ],
           "translations": [
-            "en_We can hold a tournament and invite the boys and girls from the class."
+            "en:We can hold a tournament and invite the boys and girls from the class."
           ]
         },
         {
@@ -1131,7 +1131,7 @@
             }
           ],
           "translations": [
-            "apc_ونعمل دوري ونعزم ولاد وبنات الصف"
+            "apc:ونعمل دوري ونعزم ولاد وبنات الصف"
           ]
         },
         {
@@ -1147,7 +1147,7 @@
             }
           ],
           "translations": [
-            "en_Kids, come have lunch, there's macaroni."
+            "en:Kids, come have lunch, there's macaroni."
           ]
         },
         {
@@ -1163,7 +1163,7 @@
             }
           ],
           "translations": [
-            "apc_يا ولاد تعالوا تغدوا في معكرونة"
+            "apc:يا ولاد تعالوا تغدوا في معكرونة"
           ]
         },
         {
@@ -1179,7 +1179,7 @@
             }
           ],
           "translations": [
-            "en_Glory to God, you are good kids!"
+            "en:Glory to God, you are good kids!"
           ]
         },
         {
@@ -1195,7 +1195,7 @@
             }
           ],
           "translations": [
-            "apc_سبحان الله، ولاد حلال."
+            "apc:سبحان الله، ولاد حلال."
           ]
         },
         {
@@ -1211,7 +1211,7 @@
             }
           ],
           "translations": [
-            "en_So kids, how is school?"
+            "en:So kids, how is school?"
           ]
         },
         {
@@ -1227,7 +1227,7 @@
             }
           ],
           "translations": [
-            "apc_شو يا ولاد كيف المدرسة؟"
+            "apc:شو يا ولاد كيف المدرسة؟"
           ]
         },
         {
@@ -1243,7 +1243,7 @@
             }
           ],
           "translations": [
-            "en_Turn off the electricity, kids."
+            "en:Turn off the electricity, kids."
           ]
         },
         {
@@ -1259,7 +1259,7 @@
             }
           ],
           "translations": [
-            "apc_طفوا الكهربا يا ولاد"
+            "apc:طفوا الكهربا يا ولاد"
           ]
         },
         {
@@ -2285,7 +2285,7 @@
             }
           ],
           "translations": [
-            "en_Look, kids"
+            "en:Look, kids"
           ]
         },
         {
@@ -2301,7 +2301,7 @@
             }
           ],
           "translations": [
-            "apc_شوفوا يا ولاد"
+            "apc:شوفوا يا ولاد"
           ]
         },
         {
@@ -2317,7 +2317,7 @@
             }
           ],
           "translations": [
-            "en_Enough, kids."
+            "en:Enough, kids."
           ]
         },
         {
@@ -2333,7 +2333,7 @@
             }
           ],
           "translations": [
-            "apc_بس يا ولاد"
+            "apc:بس يا ولاد"
           ]
         },
         {
@@ -2349,7 +2349,7 @@
             }
           ],
           "translations": [
-            "en_And his classmates continued to bully him."
+            "en:And his classmates continued to bully him."
           ]
         },
         {
@@ -2365,7 +2365,7 @@
             }
           ],
           "translations": [
-            "apc_واستلبسوه ولاد الصف"
+            "apc:واستلبسوه ولاد الصف"
           ]
         },
         {
@@ -2381,7 +2381,7 @@
             }
           ],
           "translations": [
-            "en_Kids"
+            "en:Kids"
           ]
         },
         {
@@ -2397,7 +2397,7 @@
             }
           ],
           "translations": [
-            "apc_يا ولاد"
+            "apc:يا ولاد"
           ]
         },
         {
@@ -2413,7 +2413,7 @@
             }
           ],
           "translations": [
-            "en_Like kittens"
+            "en:Like kittens"
           ]
         },
         {
@@ -2429,7 +2429,7 @@
             }
           ],
           "translations": [
-            "apc_مثل ولاد البسّة"
+            "apc:مثل ولاد البسّة"
           ]
         }
       ]
