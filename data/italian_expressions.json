@@ -9,32 +9,32 @@
           {
             "language": "it",
             "content": "In bocca al lupo",
-            "translations": ["en_Good luck"]
+            "translations": ["en:Good luck"]
           },
           {
             "language": "en",
             "content": "Good luck",
-            "translations": ["it_In bocca al lupo"]
+            "translations": ["it:In bocca al lupo"]
           },
           {
             "language": "it",
             "content": "In",
-            "translations": ["en_in"]
+            "translations": ["en:in"]
           },
           {
             "language": "it",
             "content": "bocca",
-            "translations": ["en_mouth"]
+            "translations": ["en:mouth"]
           },
           {
             "language": "it",
             "content": "al",
-            "translations": ["en_to the"]
+            "translations": ["en:to the"]
           },
           {
             "language": "it",
             "content": "lupo",
-            "translations": ["en_wolf"]
+            "translations": ["en:wolf"]
           }
         ]
       },
@@ -45,27 +45,27 @@
           {
             "language": "it",
             "content": "Siamo a cavallo",
-            "translations": ["en_We're on horseback"]
+            "translations": ["en:We're on horseback"]
           },
           {
             "language": "en",
             "content": "We're on horseback",
-            "translations": ["it_Siamo a cavallo"]
+            "translations": ["it:Siamo a cavallo"]
           },
           {
             "language": "it",
             "content": "Siamo",
-            "translations": ["en_We are"]
+            "translations": ["en:We are"]
           },
           {
             "language": "it",
             "content": "a",
-            "translations": ["en_on"]
+            "translations": ["en:on"]
           },
           {
             "language": "it",
             "content": "cavallo",
-            "translations": ["en_horseback"]
+            "translations": ["en:horseback"]
           }
         ]
       },
@@ -76,22 +76,22 @@
           {
             "language": "it",
             "content": "Meno male",
-            "translations": ["en_Thank goodness"]
+            "translations": ["en:Thank goodness"]
           },
           {
             "language": "en",
             "content": "Thank goodness",
-            "translations": ["it_Meno male"]
+            "translations": ["it:Meno male"]
           },
           {
             "language": "it",
             "content": "Meno",
-            "translations": ["en_less"]
+            "translations": ["en:less"]
           },
           {
             "language": "it",
             "content": "male",
-            "translations": ["en_bad"]
+            "translations": ["en:bad"]
           }
         ]
       }
