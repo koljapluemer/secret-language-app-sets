@@ -121,6 +121,9 @@ for word in target_words:
     }
     
     # Add all sentence pairs to unitsOfMeaning or primaryUnitsOfMeaning based on word count
+    arabic_words = []
+    english_words = []
+    
     for pair in matching_sentences:
         arabic_word_count = len(pair["arabic"]["content"].split())
         if arabic_word_count < CONSIDER_SENTENCE_PRIMARY_WHEN_HAS_LESS_THAN_N_WORDS:
@@ -129,8 +132,48 @@ for word in target_words:
         else:
             task["unitsOfMeaning"].append(pair["arabic"])
             task["unitsOfMeaning"].append(pair["english"])
+        
+        # Extract words for frequency analysis
+        arabic_text = pair["arabic"]["content"]
+        english_text = pair["english"]["content"]
+        
+        # Extract Arabic words
+        arabic_raw_words = arabic_text.split()
+        for ar_word in arabic_raw_words:
+            cleaned_word = re.sub(r'[^\w\u0600-\u06FF\u0750-\u077F\u08A0-\u08FF\uFB50-\uFDFF\uFE70-\uFEFF]', '', ar_word.strip())
+            if cleaned_word and len(cleaned_word) > 1:
+                arabic_words.append(cleaned_word)
+        
+        # Extract English words
+        english_raw_words = english_text.split()
+        for en_word in english_raw_words:
+            cleaned_word = re.sub(r'[^\w]', '', en_word.strip().lower())
+            if cleaned_word and len(cleaned_word) > 1:
+                english_words.append(cleaned_word)
     
+    # Count word frequencies and print top 25
     current_file_tasks.append(task)
+    # Add all unique words as unitsOfMeaning (no linguType, credits, or translations)
+    for unique_ar_word in sorted(set(arabic_words)):
+        task["unitsOfMeaning"].append({
+            "uid": f"apc_{unique_ar_word}",
+            "language": "apc",
+            "content": unique_ar_word
+        })
+    for unique_en_word in sorted(set(english_words)):
+        task["unitsOfMeaning"].append({
+            "uid": f"en_{unique_en_word}",
+            "language": "en",
+            "content": unique_en_word
+        })
+    # Add the main word for the task (the same one used in the task content) to the very top of primaryUnitsOfMeaning
+    task["primaryUnitsOfMeaning"] = [
+        {
+            "uid": f"apc_{word}",
+            "language": "apc",
+            "content": word
+        }
+    ] + task["primaryUnitsOfMeaning"]
     
     # If we've reached TASKS_PER_FILE or this is the last word, save the file
     if len(current_file_tasks) >= TASKS_PER_FILE or word == target_words[-1]:

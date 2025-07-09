@@ -1409,9 +1409,1469 @@
           "translations": [
             "apc_حابب اركب سيارة رياضية._sentence"
           ]
+        },
+        {
+          "uid": "apc_آخد",
+          "language": "apc",
+          "content": "آخد"
+        },
+        {
+          "uid": "apc_آسف،",
+          "language": "apc",
+          "content": "آسف،"
+        },
+        {
+          "uid": "apc_أأجل",
+          "language": "apc",
+          "content": "أأجل"
+        },
+        {
+          "uid": "apc_أتعلم",
+          "language": "apc",
+          "content": "أتعلم"
+        },
+        {
+          "uid": "apc_أجل",
+          "language": "apc",
+          "content": "أجل"
+        },
+        {
+          "uid": "apc_أحجز",
+          "language": "apc",
+          "content": "أحجز"
+        },
+        {
+          "uid": "apc_أحط",
+          "language": "apc",
+          "content": "أحط"
+        },
+        {
+          "uid": "apc_أخد",
+          "language": "apc",
+          "content": "أخد"
+        },
+        {
+          "uid": "apc_أخلع",
+          "language": "apc",
+          "content": "أخلع"
+        },
+        {
+          "uid": "apc_أذكّركم",
+          "language": "apc",
+          "content": "أذكّركم"
+        },
+        {
+          "uid": "apc_أركب",
+          "language": "apc",
+          "content": "أركب"
+        },
+        {
+          "uid": "apc_أسافر",
+          "language": "apc",
+          "content": "أسافر"
+        },
+        {
+          "uid": "apc_أسلم",
+          "language": "apc",
+          "content": "أسلم"
+        },
+        {
+          "uid": "apc_أسوق",
+          "language": "apc",
+          "content": "أسوق"
+        },
+        {
+          "uid": "apc_أطلب",
+          "language": "apc",
+          "content": "أطلب"
+        },
+        {
+          "uid": "apc_أعمل",
+          "language": "apc",
+          "content": "أعمل"
+        },
+        {
+          "uid": "apc_أمانات",
+          "language": "apc",
+          "content": "أمانات"
+        },
+        {
+          "uid": "apc_أنا",
+          "language": "apc",
+          "content": "أنا"
+        },
+        {
+          "uid": "apc_أنضم",
+          "language": "apc",
+          "content": "أنضم"
+        },
+        {
+          "uid": "apc_أورّيكم",
+          "language": "apc",
+          "content": "أورّيكم"
+        },
+        {
+          "uid": "apc_إسرائيل",
+          "language": "apc",
+          "content": "إسرائيل"
+        },
+        {
+          "uid": "apc_إشي",
+          "language": "apc",
+          "content": "إشي"
+        },
+        {
+          "uid": "apc_إنو",
+          "language": "apc",
+          "content": "إنو"
+        },
+        {
+          "uid": "apc_إنّك",
+          "language": "apc",
+          "content": "إنّك"
+        },
+        {
+          "uid": "apc_إنّي",
+          "language": "apc",
+          "content": "إنّي"
+        },
+        {
+          "uid": "apc_احكي",
+          "language": "apc",
+          "content": "احكي"
+        },
+        {
+          "uid": "apc_اخواني",
+          "language": "apc",
+          "content": "اخواني"
+        },
+        {
+          "uid": "apc_ادفع",
+          "language": "apc",
+          "content": "ادفع"
+        },
+        {
+          "uid": "apc_اركب",
+          "language": "apc",
+          "content": "اركب"
+        },
+        {
+          "uid": "apc_اسرائيل",
+          "language": "apc",
+          "content": "اسرائيل"
+        },
+        {
+          "uid": "apc_اشوف",
+          "language": "apc",
+          "content": "اشوف"
+        },
+        {
+          "uid": "apc_اطمنكم",
+          "language": "apc",
+          "content": "اطمنكم"
+        },
+        {
+          "uid": "apc_اعيش",
+          "language": "apc",
+          "content": "اعيش"
+        },
+        {
+          "uid": "apc_اقرأ",
+          "language": "apc",
+          "content": "اقرأ"
+        },
+        {
+          "uid": "apc_الأمانات",
+          "language": "apc",
+          "content": "الأمانات"
+        },
+        {
+          "uid": "apc_الحياة",
+          "language": "apc",
+          "content": "الحياة"
+        },
+        {
+          "uid": "apc_الدكتور",
+          "language": "apc",
+          "content": "الدكتور"
+        },
+        {
+          "uid": "apc_السرقة",
+          "language": "apc",
+          "content": "السرقة"
+        },
+        {
+          "uid": "apc_السنة",
+          "language": "apc",
+          "content": "السنة"
+        },
+        {
+          "uid": "apc_الشفافة",
+          "language": "apc",
+          "content": "الشفافة"
+        },
+        {
+          "uid": "apc_الطبيعة",
+          "language": "apc",
+          "content": "الطبيعة"
+        },
+        {
+          "uid": "apc_العصير",
+          "language": "apc",
+          "content": "العصير"
+        },
+        {
+          "uid": "apc_الفكرة",
+          "language": "apc",
+          "content": "الفكرة"
+        },
+        {
+          "uid": "apc_الكورس",
+          "language": "apc",
+          "content": "الكورس"
+        },
+        {
+          "uid": "apc_الكورونا",
+          "language": "apc",
+          "content": "الكورونا"
+        },
+        {
+          "uid": "apc_اللي",
+          "language": "apc",
+          "content": "اللي"
+        },
+        {
+          "uid": "apc_الموعد",
+          "language": "apc",
+          "content": "الموعد"
+        },
+        {
+          "uid": "apc_اليابان",
+          "language": "apc",
+          "content": "اليابان"
+        },
+        {
+          "uid": "apc_انا",
+          "language": "apc",
+          "content": "انا"
+        },
+        {
+          "uid": "apc_انت",
+          "language": "apc",
+          "content": "انت"
+        },
+        {
+          "uid": "apc_انجبر",
+          "language": "apc",
+          "content": "انجبر"
+        },
+        {
+          "uid": "apc_اه،",
+          "language": "apc",
+          "content": "اه،"
+        },
+        {
+          "uid": "apc_اورجيكم",
+          "language": "apc",
+          "content": "اورجيكم"
+        },
+        {
+          "uid": "apc_اوضحكم",
+          "language": "apc",
+          "content": "اوضحكم"
+        },
+        {
+          "uid": "apc_بالأول",
+          "language": "apc",
+          "content": "بالأول"
+        },
+        {
+          "uid": "apc_بالبلد",
+          "language": "apc",
+          "content": "بالبلد"
+        },
+        {
+          "uid": "apc_بالصّراحة",
+          "language": "apc",
+          "content": "بالصّراحة"
+        },
+        {
+          "uid": "apc_باوروبا",
+          "language": "apc",
+          "content": "باوروبا"
+        },
+        {
+          "uid": "apc_بس",
+          "language": "apc",
+          "content": "بس"
+        },
+        {
+          "uid": "apc_بسيارة",
+          "language": "apc",
+          "content": "بسيارة"
+        },
+        {
+          "uid": "apc_بسّ",
+          "language": "apc",
+          "content": "بسّ"
+        },
+        {
+          "uid": "apc_بصندوق",
+          "language": "apc",
+          "content": "بصندوق"
+        },
+        {
+          "uid": "apc_بعبارة",
+          "language": "apc",
+          "content": "بعبارة"
+        },
+        {
+          "uid": "apc_بعض",
+          "language": "apc",
+          "content": "بعض"
+        },
+        {
+          "uid": "apc_بكرا،",
+          "language": "apc",
+          "content": "بكرا،"
+        },
+        {
+          "uid": "apc_بكير",
+          "language": "apc",
+          "content": "بكير"
+        },
+        {
+          "uid": "apc_بلدنا",
+          "language": "apc",
+          "content": "بلدنا"
+        },
+        {
+          "uid": "apc_بمحلّ",
+          "language": "apc",
+          "content": "بمحلّ"
+        },
+        {
+          "uid": "apc_بهاي",
+          "language": "apc",
+          "content": "بهاي"
+        },
+        {
+          "uid": "apc_تانية،",
+          "language": "apc",
+          "content": "تانية،"
+        },
+        {
+          "uid": "apc_تحكيلنا؟",
+          "language": "apc",
+          "content": "تحكيلنا؟"
+        },
+        {
+          "uid": "apc_تشربه؟",
+          "language": "apc",
+          "content": "تشربه؟"
+        },
+        {
+          "uid": "apc_تشوف",
+          "language": "apc",
+          "content": "تشوف"
+        },
+        {
+          "uid": "apc_تشوفو؟",
+          "language": "apc",
+          "content": "تشوفو؟"
+        },
+        {
+          "uid": "apc_تعيش",
+          "language": "apc",
+          "content": "تعيش"
+        },
+        {
+          "uid": "apc_تفضل",
+          "language": "apc",
+          "content": "تفضل"
+        },
+        {
+          "uid": "apc_تقدّمها",
+          "language": "apc",
+          "content": "تقدّمها"
+        },
+        {
+          "uid": "apc_تقرير",
+          "language": "apc",
+          "content": "تقرير"
+        },
+        {
+          "uid": "apc_جلال",
+          "language": "apc",
+          "content": "جلال"
+        },
+        {
+          "uid": "apc_جمال",
+          "language": "apc",
+          "content": "جمال"
+        },
+        {
+          "uid": "apc_حابب",
+          "language": "apc",
+          "content": "حابب"
+        },
+        {
+          "uid": "apc_حداثتها",
+          "language": "apc",
+          "content": "حداثتها"
+        },
+        {
+          "uid": "apc_حط",
+          "language": "apc",
+          "content": "حط"
+        },
+        {
+          "uid": "apc_دييغو",
+          "language": "apc",
+          "content": "دييغو"
+        },
+        {
+          "uid": "apc_رياضية",
+          "language": "apc",
+          "content": "رياضية"
+        },
+        {
+          "uid": "apc_سان",
+          "language": "apc",
+          "content": "سان"
+        },
+        {
+          "uid": "apc_سبورت",
+          "language": "apc",
+          "content": "سبورت"
+        },
+        {
+          "uid": "apc_سلامات",
+          "language": "apc",
+          "content": "سلامات"
+        },
+        {
+          "uid": "apc_سمحت",
+          "language": "apc",
+          "content": "سمحت"
+        },
+        {
+          "uid": "apc_سمحت،",
+          "language": "apc",
+          "content": "سمحت،"
+        },
+        {
+          "uid": "apc_سناني",
+          "language": "apc",
+          "content": "سناني"
+        },
+        {
+          "uid": "apc_سني",
+          "language": "apc",
+          "content": "سني"
+        },
+        {
+          "uid": "apc_سيارة",
+          "language": "apc",
+          "content": "سيارة"
+        },
+        {
+          "uid": "apc_شغله",
+          "language": "apc",
+          "content": "شغله"
+        },
+        {
+          "uid": "apc_شغلو",
+          "language": "apc",
+          "content": "شغلو"
+        },
+        {
+          "uid": "apc_شنتة",
+          "language": "apc",
+          "content": "شنتة"
+        },
+        {
+          "uid": "apc_شو",
+          "language": "apc",
+          "content": "شو"
+        },
+        {
+          "uid": "apc_شي",
+          "language": "apc",
+          "content": "شي"
+        },
+        {
+          "uid": "apc_صغيره",
+          "language": "apc",
+          "content": "صغيره"
+        },
+        {
+          "uid": "apc_صندوق",
+          "language": "apc",
+          "content": "صندوق"
+        },
+        {
+          "uid": "apc_طالع",
+          "language": "apc",
+          "content": "طالع"
+        },
+        {
+          "uid": "apc_على",
+          "language": "apc",
+          "content": "على"
+        },
+        {
+          "uid": "apc_علينا",
+          "language": "apc",
+          "content": "علينا"
+        },
+        {
+          "uid": "apc_عليها",
+          "language": "apc",
+          "content": "عليها"
+        },
+        {
+          "uid": "apc_عن",
+          "language": "apc",
+          "content": "عن"
+        },
+        {
+          "uid": "apc_عند",
+          "language": "apc",
+          "content": "عند"
+        },
+        {
+          "uid": "apc_غامق",
+          "language": "apc",
+          "content": "غامق"
+        },
+        {
+          "uid": "apc_فكتير",
+          "language": "apc",
+          "content": "فكتير"
+        },
+        {
+          "uid": "apc_فهمت",
+          "language": "apc",
+          "content": "فهمت"
+        },
+        {
+          "uid": "apc_في",
+          "language": "apc",
+          "content": "في"
+        },
+        {
+          "uid": "apc_كان",
+          "language": "apc",
+          "content": "كان"
+        },
+        {
+          "uid": "apc_كتير",
+          "language": "apc",
+          "content": "كتير"
+        },
+        {
+          "uid": "apc_لألي",
+          "language": "apc",
+          "content": "لألي"
+        },
+        {
+          "uid": "apc_لا",
+          "language": "apc",
+          "content": "لا"
+        },
+        {
+          "uid": "apc_لك",
+          "language": "apc",
+          "content": "لك"
+        },
+        {
+          "uid": "apc_لهيك",
+          "language": "apc",
+          "content": "لهيك"
+        },
+        {
+          "uid": "apc_لو",
+          "language": "apc",
+          "content": "لو"
+        },
+        {
+          "uid": "apc_لونها",
+          "language": "apc",
+          "content": "لونها"
+        },
+        {
+          "uid": "apc_لي",
+          "language": "apc",
+          "content": "لي"
+        },
+        {
+          "uid": "apc_ما",
+          "language": "apc",
+          "content": "ما"
+        },
+        {
+          "uid": "apc_متأسف،",
+          "language": "apc",
+          "content": "متأسف،"
+        },
+        {
+          "uid": "apc_مجنون",
+          "language": "apc",
+          "content": "مجنون"
+        },
+        {
+          "uid": "apc_محايد",
+          "language": "apc",
+          "content": "محايد"
+        },
+        {
+          "uid": "apc_مختلف",
+          "language": "apc",
+          "content": "مختلف"
+        },
+        {
+          "uid": "apc_مخنا",
+          "language": "apc",
+          "content": "مخنا"
+        },
+        {
+          "uid": "apc_مرشد",
+          "language": "apc",
+          "content": "مرشد"
+        },
+        {
+          "uid": "apc_مشية",
+          "language": "apc",
+          "content": "مشية"
+        },
+        {
+          "uid": "apc_مع",
+          "language": "apc",
+          "content": "مع"
+        },
+        {
+          "uid": "apc_معك",
+          "language": "apc",
+          "content": "معك"
+        },
+        {
+          "uid": "apc_مفرحك",
+          "language": "apc",
+          "content": "مفرحك"
+        },
+        {
+          "uid": "apc_مكتوبو",
+          "language": "apc",
+          "content": "مكتوبو"
+        },
+        {
+          "uid": "apc_من",
+          "language": "apc",
+          "content": "من"
+        },
+        {
+          "uid": "apc_مو",
+          "language": "apc",
+          "content": "مو"
+        },
+        {
+          "uid": "apc_موعد",
+          "language": "apc",
+          "content": "موعد"
+        },
+        {
+          "uid": "apc_نشغل",
+          "language": "apc",
+          "content": "نشغل"
+        },
+        {
+          "uid": "apc_نفس",
+          "language": "apc",
+          "content": "نفس"
+        },
+        {
+          "uid": "apc_نوع",
+          "language": "apc",
+          "content": "نوع"
+        },
+        {
+          "uid": "apc_هاد",
+          "language": "apc",
+          "content": "هاد"
+        },
+        {
+          "uid": "apc_هالبرادي",
+          "language": "apc",
+          "content": "هالبرادي"
+        },
+        {
+          "uid": "apc_هاي",
+          "language": "apc",
+          "content": "هاي"
+        },
+        {
+          "uid": "apc_هدا",
+          "language": "apc",
+          "content": "هدا"
+        },
+        {
+          "uid": "apc_هداك",
+          "language": "apc",
+          "content": "هداك"
+        },
+        {
+          "uid": "apc_هلأ",
+          "language": "apc",
+          "content": "هلأ"
+        },
+        {
+          "uid": "apc_هيدا",
+          "language": "apc",
+          "content": "هيدا"
+        },
+        {
+          "uid": "apc_هيك",
+          "language": "apc",
+          "content": "هيك"
+        },
+        {
+          "uid": "apc_يروح،",
+          "language": "apc",
+          "content": "يروح،"
+        },
+        {
+          "uid": "apc_يكون",
+          "language": "apc",
+          "content": "يكون"
+        },
+        {
+          "uid": "en_about",
+          "language": "en",
+          "content": "about"
+        },
+        {
+          "uid": "en_ahead",
+          "language": "en",
+          "content": "ahead"
+        },
+        {
+          "uid": "en_all",
+          "language": "en",
+          "content": "all"
+        },
+        {
+          "uid": "en_an",
+          "language": "en",
+          "content": "an"
+        },
+        {
+          "uid": "en_and",
+          "language": "en",
+          "content": "and"
+        },
+        {
+          "uid": "en_appointment",
+          "language": "en",
+          "content": "appointment"
+        },
+        {
+          "uid": "en_bag",
+          "language": "en",
+          "content": "bag"
+        },
+        {
+          "uid": "en_beauty",
+          "language": "en",
+          "content": "beauty"
+        },
+        {
+          "uid": "en_book",
+          "language": "en",
+          "content": "book"
+        },
+        {
+          "uid": "en_brothers",
+          "language": "en",
+          "content": "brothers"
+        },
+        {
+          "uid": "en_but",
+          "language": "en",
+          "content": "but"
+        },
+        {
+          "uid": "en_car",
+          "language": "en",
+          "content": "car"
+        },
+        {
+          "uid": "en_city",
+          "language": "en",
+          "content": "city"
+        },
+        {
+          "uid": "en_clarify",
+          "language": "en",
+          "content": "clarify"
+        },
+        {
+          "uid": "en_coronavirus",
+          "language": "en",
+          "content": "coronavirus"
+        },
+        {
+          "uid": "en_country",
+          "language": "en",
+          "content": "country"
+        },
+        {
+          "uid": "en_course",
+          "language": "en",
+          "content": "course"
+        },
+        {
+          "uid": "en_crazy",
+          "language": "en",
+          "content": "crazy"
+        },
+        {
+          "uid": "en_curtains",
+          "language": "en",
+          "content": "curtains"
+        },
+        {
+          "uid": "en_darkcolored",
+          "language": "en",
+          "content": "darkcolored"
+        },
+        {
+          "uid": "en_didnt",
+          "language": "en",
+          "content": "didnt"
+        },
+        {
+          "uid": "en_diego",
+          "language": "en",
+          "content": "diego"
+        },
+        {
+          "uid": "en_different",
+          "language": "en",
+          "content": "different"
+        },
+        {
+          "uid": "en_do",
+          "language": "en",
+          "content": "do"
+        },
+        {
+          "uid": "en_doctor",
+          "language": "en",
+          "content": "doctor"
+        },
+        {
+          "uid": "en_dont",
+          "language": "en",
+          "content": "dont"
+        },
+        {
+          "uid": "en_drink",
+          "language": "en",
+          "content": "drink"
+        },
+        {
+          "uid": "en_drive",
+          "language": "en",
+          "content": "drive"
+        },
+        {
+          "uid": "en_early",
+          "language": "en",
+          "content": "early"
+        },
+        {
+          "uid": "en_europe",
+          "language": "en",
+          "content": "europe"
+        },
+        {
+          "uid": "en_excuse",
+          "language": "en",
+          "content": "excuse"
+        },
+        {
+          "uid": "en_extract",
+          "language": "en",
+          "content": "extract"
+        },
+        {
+          "uid": "en_feel",
+          "language": "en",
+          "content": "feel"
+        },
+        {
+          "uid": "en_first",
+          "language": "en",
+          "content": "first"
+        },
+        {
+          "uid": "en_fond",
+          "language": "en",
+          "content": "fond"
+        },
+        {
+          "uid": "en_for",
+          "language": "en",
+          "content": "for"
+        },
+        {
+          "uid": "en_forced",
+          "language": "en",
+          "content": "forced"
+        },
+        {
+          "uid": "en_from",
+          "language": "en",
+          "content": "from"
+        },
+        {
+          "uid": "en_go",
+          "language": "en",
+          "content": "go"
+        },
+        {
+          "uid": "en_happy",
+          "language": "en",
+          "content": "happy"
+        },
+        {
+          "uid": "en_he",
+          "language": "en",
+          "content": "he"
+        },
+        {
+          "uid": "en_hello",
+          "language": "en",
+          "content": "hello"
+        },
+        {
+          "uid": "en_his",
+          "language": "en",
+          "content": "his"
+        },
+        {
+          "uid": "en_honestly",
+          "language": "en",
+          "content": "honestly"
+        },
+        {
+          "uid": "en_id",
+          "language": "en",
+          "content": "id"
+        },
+        {
+          "uid": "en_idea",
+          "language": "en",
+          "content": "idea"
+        },
+        {
+          "uid": "en_im",
+          "language": "en",
+          "content": "im"
+        },
+        {
+          "uid": "en_in",
+          "language": "en",
+          "content": "in"
+        },
+        {
+          "uid": "en_innovation",
+          "language": "en",
+          "content": "innovation"
+        },
+        {
+          "uid": "en_is",
+          "language": "en",
+          "content": "is"
+        },
+        {
+          "uid": "en_israel",
+          "language": "en",
+          "content": "israel"
+        },
+        {
+          "uid": "en_israels",
+          "language": "en",
+          "content": "israels"
+        },
+        {
+          "uid": "en_issue",
+          "language": "en",
+          "content": "issue"
+        },
+        {
+          "uid": "en_it",
+          "language": "en",
+          "content": "it"
+        },
+        {
+          "uid": "en_jalal",
+          "language": "en",
+          "content": "jalal"
+        },
+        {
+          "uid": "en_japan",
+          "language": "en",
+          "content": "japan"
+        },
+        {
+          "uid": "en_job",
+          "language": "en",
+          "content": "job"
+        },
+        {
+          "uid": "en_join",
+          "language": "en",
+          "content": "join"
+        },
+        {
+          "uid": "en_juice",
+          "language": "en",
+          "content": "juice"
+        },
+        {
+          "uid": "en_just",
+          "language": "en",
+          "content": "just"
+        },
+        {
+          "uid": "en_kind",
+          "language": "en",
+          "content": "kind"
+        },
+        {
+          "uid": "en_learn",
+          "language": "en",
+          "content": "learn"
+        },
+        {
+          "uid": "en_leaving",
+          "language": "en",
+          "content": "leaving"
+        },
+        {
+          "uid": "en_letter",
+          "language": "en",
+          "content": "letter"
+        },
+        {
+          "uid": "en_life",
+          "language": "en",
+          "content": "life"
+        },
+        {
+          "uid": "en_like",
+          "language": "en",
+          "content": "like"
+        },
+        {
+          "uid": "en_live",
+          "language": "en",
+          "content": "live"
+        },
+        {
+          "uid": "en_love",
+          "language": "en",
+          "content": "love"
+        },
+        {
+          "uid": "en_loves",
+          "language": "en",
+          "content": "loves"
+        },
+        {
+          "uid": "en_makes",
+          "language": "en",
+          "content": "makes"
+        },
+        {
+          "uid": "en_me",
+          "language": "en",
+          "content": "me"
+        },
+        {
+          "uid": "en_meeting",
+          "language": "en",
+          "content": "meeting"
+        },
+        {
+          "uid": "en_minds",
+          "language": "en",
+          "content": "minds"
+        },
+        {
+          "uid": "en_murshid",
+          "language": "en",
+          "content": "murshid"
+        },
+        {
+          "uid": "en_my",
+          "language": "en",
+          "content": "my"
+        },
+        {
+          "uid": "en_myself",
+          "language": "en",
+          "content": "myself"
+        },
+        {
+          "uid": "en_nature",
+          "language": "en",
+          "content": "nature"
+        },
+        {
+          "uid": "en_neutral",
+          "language": "en",
+          "content": "neutral"
+        },
+        {
+          "uid": "en_no",
+          "language": "en",
+          "content": "no"
+        },
+        {
+          "uid": "en_not",
+          "language": "en",
+          "content": "not"
+        },
+        {
+          "uid": "en_now",
+          "language": "en",
+          "content": "now"
+        },
+        {
+          "uid": "en_of",
+          "language": "en",
+          "content": "of"
+        },
+        {
+          "uid": "en_okay",
+          "language": "en",
+          "content": "okay"
+        },
+        {
+          "uid": "en_one",
+          "language": "en",
+          "content": "one"
+        },
+        {
+          "uid": "en_order",
+          "language": "en",
+          "content": "order"
+        },
+        {
+          "uid": "en_other",
+          "language": "en",
+          "content": "other"
+        },
+        {
+          "uid": "en_our",
+          "language": "en",
+          "content": "our"
+        },
+        {
+          "uid": "en_out",
+          "language": "en",
+          "content": "out"
+        },
+        {
+          "uid": "en_pay",
+          "language": "en",
+          "content": "pay"
+        },
+        {
+          "uid": "en_place",
+          "language": "en",
+          "content": "place"
+        },
+        {
+          "uid": "en_please",
+          "language": "en",
+          "content": "please"
+        },
+        {
+          "uid": "en_postpone",
+          "language": "en",
+          "content": "postpone"
+        },
+        {
+          "uid": "en_progress",
+          "language": "en",
+          "content": "progress"
+        },
+        {
+          "uid": "en_pull",
+          "language": "en",
+          "content": "pull"
+        },
+        {
+          "uid": "en_put",
+          "language": "en",
+          "content": "put"
+        },
+        {
+          "uid": "en_read",
+          "language": "en",
+          "content": "read"
+        },
+        {
+          "uid": "en_really",
+          "language": "en",
+          "content": "really"
+        },
+        {
+          "uid": "en_reassure",
+          "language": "en",
+          "content": "reassure"
+        },
+        {
+          "uid": "en_remind",
+          "language": "en",
+          "content": "remind"
+        },
+        {
+          "uid": "en_report",
+          "language": "en",
+          "content": "report"
+        },
+        {
+          "uid": "en_ride",
+          "language": "en",
+          "content": "ride"
+        },
+        {
+          "uid": "en_safe",
+          "language": "en",
+          "content": "safe"
+        },
+        {
+          "uid": "en_same",
+          "language": "en",
+          "content": "same"
+        },
+        {
+          "uid": "en_san",
+          "language": "en",
+          "content": "san"
+        },
+        {
+          "uid": "en_see",
+          "language": "en",
+          "content": "see"
+        },
+        {
+          "uid": "en_show",
+          "language": "en",
+          "content": "show"
+        },
+        {
+          "uid": "en_small",
+          "language": "en",
+          "content": "small"
+        },
+        {
+          "uid": "en_so",
+          "language": "en",
+          "content": "so"
+        },
+        {
+          "uid": "en_something",
+          "language": "en",
+          "content": "something"
+        },
+        {
+          "uid": "en_sorry",
+          "language": "en",
+          "content": "sorry"
+        },
+        {
+          "uid": "en_sports",
+          "language": "en",
+          "content": "sports"
+        },
+        {
+          "uid": "en_submit",
+          "language": "en",
+          "content": "submit"
+        },
+        {
+          "uid": "en_take",
+          "language": "en",
+          "content": "take"
+        },
+        {
+          "uid": "en_taking",
+          "language": "en",
+          "content": "taking"
+        },
+        {
+          "uid": "en_talk",
+          "language": "en",
+          "content": "talk"
+        },
+        {
+          "uid": "en_teeth",
+          "language": "en",
+          "content": "teeth"
+        },
+        {
+          "uid": "en_tell",
+          "language": "en",
+          "content": "tell"
+        },
+        {
+          "uid": "en_that",
+          "language": "en",
+          "content": "that"
+        },
+        {
+          "uid": "en_the",
+          "language": "en",
+          "content": "the"
+        },
+        {
+          "uid": "en_theft",
+          "language": "en",
+          "content": "theft"
+        },
+        {
+          "uid": "en_there",
+          "language": "en",
+          "content": "there"
+        },
+        {
+          "uid": "en_these",
+          "language": "en",
+          "content": "these"
+        },
+        {
+          "uid": "en_this",
+          "language": "en",
+          "content": "this"
+        },
+        {
+          "uid": "en_to",
+          "language": "en",
+          "content": "to"
+        },
+        {
+          "uid": "en_together",
+          "language": "en",
+          "content": "together"
+        },
+        {
+          "uid": "en_tomorrow",
+          "language": "en",
+          "content": "tomorrow"
+        },
+        {
+          "uid": "en_tooth",
+          "language": "en",
+          "content": "tooth"
+        },
+        {
+          "uid": "en_transparent",
+          "language": "en",
+          "content": "transparent"
+        },
+        {
+          "uid": "en_travel",
+          "language": "en",
+          "content": "travel"
+        },
+        {
+          "uid": "en_understood",
+          "language": "en",
+          "content": "understood"
+        },
+        {
+          "uid": "en_us",
+          "language": "en",
+          "content": "us"
+        },
+        {
+          "uid": "en_very",
+          "language": "en",
+          "content": "very"
+        },
+        {
+          "uid": "en_walk",
+          "language": "en",
+          "content": "walk"
+        },
+        {
+          "uid": "en_want",
+          "language": "en",
+          "content": "want"
+        },
+        {
+          "uid": "en_wanted",
+          "language": "en",
+          "content": "wanted"
+        },
+        {
+          "uid": "en_was",
+          "language": "en",
+          "content": "was"
+        },
+        {
+          "uid": "en_were",
+          "language": "en",
+          "content": "were"
+        },
+        {
+          "uid": "en_what",
+          "language": "en",
+          "content": "what"
+        },
+        {
+          "uid": "en_with",
+          "language": "en",
+          "content": "with"
+        },
+        {
+          "uid": "en_words",
+          "language": "en",
+          "content": "words"
+        },
+        {
+          "uid": "en_would",
+          "language": "en",
+          "content": "would"
+        },
+        {
+          "uid": "en_yeah",
+          "language": "en",
+          "content": "yeah"
+        },
+        {
+          "uid": "en_year",
+          "language": "en",
+          "content": "year"
+        },
+        {
+          "uid": "en_you",
+          "language": "en",
+          "content": "you"
         }
       ],
       "primaryUnitsOfMeaning": [
+        {
+          "uid": "apc_حابب",
+          "language": "apc",
+          "content": "حابب"
+        },
         {
           "uid": "apc_حابب اطمنكم علينا_sentence",
           "language": "apc",
@@ -3109,9 +4569,1474 @@
           "translations": [
             "apc_فيني احكي مع المدير؟_sentence"
           ]
+        },
+        {
+          "uid": "apc_أدان،",
+          "language": "apc",
+          "content": "أدان،"
+        },
+        {
+          "uid": "apc_أكتر",
+          "language": "apc",
+          "content": "أكتر"
+        },
+        {
+          "uid": "apc_أنا",
+          "language": "apc",
+          "content": "أنا"
+        },
+        {
+          "uid": "apc_أيّ",
+          "language": "apc",
+          "content": "أيّ"
+        },
+        {
+          "uid": "apc_إشي",
+          "language": "apc",
+          "content": "إشي"
+        },
+        {
+          "uid": "apc_إيام",
+          "language": "apc",
+          "content": "إيام"
+        },
+        {
+          "uid": "apc_احاكيك",
+          "language": "apc",
+          "content": "احاكيك"
+        },
+        {
+          "uid": "apc_احكي",
+          "language": "apc",
+          "content": "احكي"
+        },
+        {
+          "uid": "apc_اخر",
+          "language": "apc",
+          "content": "اخر"
+        },
+        {
+          "uid": "apc_اشكره",
+          "language": "apc",
+          "content": "اشكره"
+        },
+        {
+          "uid": "apc_اطلع",
+          "language": "apc",
+          "content": "اطلع"
+        },
+        {
+          "uid": "apc_اطلع،",
+          "language": "apc",
+          "content": "اطلع،"
+        },
+        {
+          "uid": "apc_اعمل",
+          "language": "apc",
+          "content": "اعمل"
+        },
+        {
+          "uid": "apc_الدّهبات",
+          "language": "apc",
+          "content": "الدّهبات"
+        },
+        {
+          "uid": "apc_السولار",
+          "language": "apc",
+          "content": "السولار"
+        },
+        {
+          "uid": "apc_الشرطة",
+          "language": "apc",
+          "content": "الشرطة"
+        },
+        {
+          "uid": "apc_الصديق",
+          "language": "apc",
+          "content": "الصديق"
+        },
+        {
+          "uid": "apc_الطلاب",
+          "language": "apc",
+          "content": "الطلاب"
+        },
+        {
+          "uid": "apc_الفني",
+          "language": "apc",
+          "content": "الفني"
+        },
+        {
+          "uid": "apc_الله،",
+          "language": "apc",
+          "content": "الله،"
+        },
+        {
+          "uid": "apc_المدير؟",
+          "language": "apc",
+          "content": "المدير؟"
+        },
+        {
+          "uid": "apc_الوقت",
+          "language": "apc",
+          "content": "الوقت"
+        },
+        {
+          "uid": "apc_الي",
+          "language": "apc",
+          "content": "الي"
+        },
+        {
+          "uid": "apc_انا",
+          "language": "apc",
+          "content": "انا"
+        },
+        {
+          "uid": "apc_انه",
+          "language": "apc",
+          "content": "انه"
+        },
+        {
+          "uid": "apc_اول",
+          "language": "apc",
+          "content": "اول"
+        },
+        {
+          "uid": "apc_ايش",
+          "language": "apc",
+          "content": "ايش"
+        },
+        {
+          "uid": "apc_ايه",
+          "language": "apc",
+          "content": "ايه"
+        },
+        {
+          "uid": "apc_ببوسطن",
+          "language": "apc",
+          "content": "ببوسطن"
+        },
+        {
+          "uid": "apc_بدي",
+          "language": "apc",
+          "content": "بدي"
+        },
+        {
+          "uid": "apc_بدّي",
+          "language": "apc",
+          "content": "بدّي"
+        },
+        {
+          "uid": "apc_بسرعة",
+          "language": "apc",
+          "content": "بسرعة"
+        },
+        {
+          "uid": "apc_بصوت",
+          "language": "apc",
+          "content": "بصوت"
+        },
+        {
+          "uid": "apc_بعض",
+          "language": "apc",
+          "content": "بعض"
+        },
+        {
+          "uid": "apc_بنتي",
+          "language": "apc",
+          "content": "بنتي"
+        },
+        {
+          "uid": "apc_بنفس",
+          "language": "apc",
+          "content": "بنفس"
+        },
+        {
+          "uid": "apc_بوافقو",
+          "language": "apc",
+          "content": "بوافقو"
+        },
+        {
+          "uid": "apc_بوضوح",
+          "language": "apc",
+          "content": "بوضوح"
+        },
+        {
+          "uid": "apc_بيصدم",
+          "language": "apc",
+          "content": "بيصدم"
+        },
+        {
+          "uid": "apc_تجريح",
+          "language": "apc",
+          "content": "تجريح"
+        },
+        {
+          "uid": "apc_تشاهدي",
+          "language": "apc",
+          "content": "تشاهدي"
+        },
+        {
+          "uid": "apc_تليفون",
+          "language": "apc",
+          "content": "تليفون"
+        },
+        {
+          "uid": "apc_تنك",
+          "language": "apc",
+          "content": "تنك"
+        },
+        {
+          "uid": "apc_جيبولي",
+          "language": "apc",
+          "content": "جيبولي"
+        },
+        {
+          "uid": "apc_حابب",
+          "language": "apc",
+          "content": "حابب"
+        },
+        {
+          "uid": "apc_حابة",
+          "language": "apc",
+          "content": "حابة"
+        },
+        {
+          "uid": "apc_حالي",
+          "language": "apc",
+          "content": "حالي"
+        },
+        {
+          "uid": "apc_حبيبي؟",
+          "language": "apc",
+          "content": "حبيبي؟"
+        },
+        {
+          "uid": "apc_حياة",
+          "language": "apc",
+          "content": "حياة"
+        },
+        {
+          "uid": "apc_خارجية",
+          "language": "apc",
+          "content": "خارجية"
+        },
+        {
+          "uid": "apc_خاس",
+          "language": "apc",
+          "content": "خاس"
+        },
+        {
+          "uid": "apc_خليك",
+          "language": "apc",
+          "content": "خليك"
+        },
+        {
+          "uid": "apc_خلينا",
+          "language": "apc",
+          "content": "خلينا"
+        },
+        {
+          "uid": "apc_خليني",
+          "language": "apc",
+          "content": "خليني"
+        },
+        {
+          "uid": "apc_خلّتني",
+          "language": "apc",
+          "content": "خلّتني"
+        },
+        {
+          "uid": "apc_خير",
+          "language": "apc",
+          "content": "خير"
+        },
+        {
+          "uid": "apc_داشا",
+          "language": "apc",
+          "content": "داشا"
+        },
+        {
+          "uid": "apc_دون",
+          "language": "apc",
+          "content": "دون"
+        },
+        {
+          "uid": "apc_رغيد،",
+          "language": "apc",
+          "content": "رغيد،"
+        },
+        {
+          "uid": "apc_روحك،",
+          "language": "apc",
+          "content": "روحك،"
+        },
+        {
+          "uid": "apc_زي",
+          "language": "apc",
+          "content": "زي"
+        },
+        {
+          "uid": "apc_سمحت",
+          "language": "apc",
+          "content": "سمحت"
+        },
+        {
+          "uid": "apc_سياسة",
+          "language": "apc",
+          "content": "سياسة"
+        },
+        {
+          "uid": "apc_شعر،",
+          "language": "apc",
+          "content": "شعر،"
+        },
+        {
+          "uid": "apc_شو",
+          "language": "apc",
+          "content": "شو"
+        },
+        {
+          "uid": "apc_شوي",
+          "language": "apc",
+          "content": "شوي"
+        },
+        {
+          "uid": "apc_شي",
+          "language": "apc",
+          "content": "شي"
+        },
+        {
+          "uid": "apc_شيء",
+          "language": "apc",
+          "content": "شيء"
+        },
+        {
+          "uid": "apc_صار",
+          "language": "apc",
+          "content": "صار"
+        },
+        {
+          "uid": "apc_صباك",
+          "language": "apc",
+          "content": "صباك"
+        },
+        {
+          "uid": "apc_صرف",
+          "language": "apc",
+          "content": "صرف"
+        },
+        {
+          "uid": "apc_طيب",
+          "language": "apc",
+          "content": "طيب"
+        },
+        {
+          "uid": "apc_عاليابان",
+          "language": "apc",
+          "content": "عاليابان"
+        },
+        {
+          "uid": "apc_عبري",
+          "language": "apc",
+          "content": "عبري"
+        },
+        {
+          "uid": "apc_عربي",
+          "language": "apc",
+          "content": "عربي"
+        },
+        {
+          "uid": "apc_عشان",
+          "language": "apc",
+          "content": "عشان"
+        },
+        {
+          "uid": "apc_عصام",
+          "language": "apc",
+          "content": "عصام"
+        },
+        {
+          "uid": "apc_عطا",
+          "language": "apc",
+          "content": "عطا"
+        },
+        {
+          "uid": "apc_على",
+          "language": "apc",
+          "content": "على"
+        },
+        {
+          "uid": "apc_عم",
+          "language": "apc",
+          "content": "عم"
+        },
+        {
+          "uid": "apc_عن",
+          "language": "apc",
+          "content": "عن"
+        },
+        {
+          "uid": "apc_عنه",
+          "language": "apc",
+          "content": "عنه"
+        },
+        {
+          "uid": "apc_فصرت",
+          "language": "apc",
+          "content": "فصرت"
+        },
+        {
+          "uid": "apc_فلسطيني",
+          "language": "apc",
+          "content": "فلسطيني"
+        },
+        {
+          "uid": "apc_في",
+          "language": "apc",
+          "content": "في"
+        },
+        {
+          "uid": "apc_في؟",
+          "language": "apc",
+          "content": "في؟"
+        },
+        {
+          "uid": "apc_فيني",
+          "language": "apc",
+          "content": "فيني"
+        },
+        {
+          "uid": "apc_فيها",
+          "language": "apc",
+          "content": "فيها"
+        },
+        {
+          "uid": "apc_قدّامي",
+          "language": "apc",
+          "content": "قدّامي"
+        },
+        {
+          "uid": "apc_كتبت",
+          "language": "apc",
+          "content": "كتبت"
+        },
+        {
+          "uid": "apc_كثير",
+          "language": "apc",
+          "content": "كثير"
+        },
+        {
+          "uid": "apc_كلمة",
+          "language": "apc",
+          "content": "كلمة"
+        },
+        {
+          "uid": "apc_كلي",
+          "language": "apc",
+          "content": "كلي"
+        },
+        {
+          "uid": "apc_كمان",
+          "language": "apc",
+          "content": "كمان"
+        },
+        {
+          "uid": "apc_كنت",
+          "language": "apc",
+          "content": "كنت"
+        },
+        {
+          "uid": "apc_لا،",
+          "language": "apc",
+          "content": "لا،"
+        },
+        {
+          "uid": "apc_لفندق",
+          "language": "apc",
+          "content": "لفندق"
+        },
+        {
+          "uid": "apc_لك",
+          "language": "apc",
+          "content": "لك"
+        },
+        {
+          "uid": "apc_لكم",
+          "language": "apc",
+          "content": "لكم"
+        },
+        {
+          "uid": "apc_للاباء",
+          "language": "apc",
+          "content": "للاباء"
+        },
+        {
+          "uid": "apc_لمى",
+          "language": "apc",
+          "content": "لمى"
+        },
+        {
+          "uid": "apc_لنا",
+          "language": "apc",
+          "content": "لنا"
+        },
+        {
+          "uid": "apc_له",
+          "language": "apc",
+          "content": "له"
+        },
+        {
+          "uid": "apc_لها",
+          "language": "apc",
+          "content": "لها"
+        },
+        {
+          "uid": "apc_لهالشّعب",
+          "language": "apc",
+          "content": "لهالشّعب"
+        },
+        {
+          "uid": "apc_لو",
+          "language": "apc",
+          "content": "لو"
+        },
+        {
+          "uid": "apc_لي",
+          "language": "apc",
+          "content": "لي"
+        },
+        {
+          "uid": "apc_ليلى",
+          "language": "apc",
+          "content": "ليلى"
+        },
+        {
+          "uid": "apc_ما",
+          "language": "apc",
+          "content": "ما"
+        },
+        {
+          "uid": "apc_محنا",
+          "language": "apc",
+          "content": "محنا"
+        },
+        {
+          "uid": "apc_مرة",
+          "language": "apc",
+          "content": "مرة"
+        },
+        {
+          "uid": "apc_مع",
+          "language": "apc",
+          "content": "مع"
+        },
+        {
+          "uid": "apc_معروف",
+          "language": "apc",
+          "content": "معروف"
+        },
+        {
+          "uid": "apc_معقولة",
+          "language": "apc",
+          "content": "معقولة"
+        },
+        {
+          "uid": "apc_معك",
+          "language": "apc",
+          "content": "معك"
+        },
+        {
+          "uid": "apc_معه",
+          "language": "apc",
+          "content": "معه"
+        },
+        {
+          "uid": "apc_معها",
+          "language": "apc",
+          "content": "معها"
+        },
+        {
+          "uid": "apc_معهم",
+          "language": "apc",
+          "content": "معهم"
+        },
+        {
+          "uid": "apc_معي",
+          "language": "apc",
+          "content": "معي"
+        },
+        {
+          "uid": "apc_مفهوم",
+          "language": "apc",
+          "content": "مفهوم"
+        },
+        {
+          "uid": "apc_مكالمة",
+          "language": "apc",
+          "content": "مكالمة"
+        },
+        {
+          "uid": "apc_ممكن",
+          "language": "apc",
+          "content": "ممكن"
+        },
+        {
+          "uid": "apc_منشان",
+          "language": "apc",
+          "content": "منشان"
+        },
+        {
+          "uid": "apc_منيح",
+          "language": "apc",
+          "content": "منيح"
+        },
+        {
+          "uid": "apc_موبايلي",
+          "language": "apc",
+          "content": "موبايلي"
+        },
+        {
+          "uid": "apc_مين",
+          "language": "apc",
+          "content": "مين"
+        },
+        {
+          "uid": "apc_نابلس",
+          "language": "apc",
+          "content": "نابلس"
+        },
+        {
+          "uid": "apc_ناس",
+          "language": "apc",
+          "content": "ناس"
+        },
+        {
+          "uid": "apc_نسوان",
+          "language": "apc",
+          "content": "نسوان"
+        },
+        {
+          "uid": "apc_نشاطك",
+          "language": "apc",
+          "content": "نشاطك"
+        },
+        {
+          "uid": "apc_نصوّر",
+          "language": "apc",
+          "content": "نصوّر"
+        },
+        {
+          "uid": "apc_نفسي",
+          "language": "apc",
+          "content": "نفسي"
+        },
+        {
+          "uid": "apc_نقطة",
+          "language": "apc",
+          "content": "نقطة"
+        },
+        {
+          "uid": "apc_هذا",
+          "language": "apc",
+          "content": "هذا"
+        },
+        {
+          "uid": "apc_هيك؟",
+          "language": "apc",
+          "content": "هيك؟"
+        },
+        {
+          "uid": "apc_هيلتون",
+          "language": "apc",
+          "content": "هيلتون"
+        },
+        {
+          "uid": "apc_واحد",
+          "language": "apc",
+          "content": "واحد"
+        },
+        {
+          "uid": "apc_وشو",
+          "language": "apc",
+          "content": "وشو"
+        },
+        {
+          "uid": "apc_وصرت",
+          "language": "apc",
+          "content": "وصرت"
+        },
+        {
+          "uid": "apc_ولا",
+          "language": "apc",
+          "content": "ولا"
+        },
+        {
+          "uid": "apc_وليش",
+          "language": "apc",
+          "content": "وليش"
+        },
+        {
+          "uid": "apc_ومن",
+          "language": "apc",
+          "content": "ومن"
+        },
+        {
+          "uid": "apc_وين",
+          "language": "apc",
+          "content": "وين"
+        },
+        {
+          "uid": "apc_يزن",
+          "language": "apc",
+          "content": "يزن"
+        },
+        {
+          "uid": "apc_يطلقو",
+          "language": "apc",
+          "content": "يطلقو"
+        },
+        {
+          "uid": "en_about",
+          "language": "en",
+          "content": "about"
+        },
+        {
+          "uid": "en_activity",
+          "language": "en",
+          "content": "activity"
+        },
+        {
+          "uid": "en_again",
+          "language": "en",
+          "content": "again"
+        },
+        {
+          "uid": "en_all",
+          "language": "en",
+          "content": "all"
+        },
+        {
+          "uid": "en_am",
+          "language": "en",
+          "content": "am"
+        },
+        {
+          "uid": "en_an",
+          "language": "en",
+          "content": "an"
+        },
+        {
+          "uid": "en_and",
+          "language": "en",
+          "content": "and"
+        },
+        {
+          "uid": "en_another",
+          "language": "en",
+          "content": "another"
+        },
+        {
+          "uid": "en_anyone",
+          "language": "en",
+          "content": "anyone"
+        },
+        {
+          "uid": "en_arabic",
+          "language": "en",
+          "content": "arabic"
+        },
+        {
+          "uid": "en_are",
+          "language": "en",
+          "content": "are"
+        },
+        {
+          "uid": "en_artistic",
+          "language": "en",
+          "content": "artistic"
+        },
+        {
+          "uid": "en_aspersions",
+          "language": "en",
+          "content": "aspersions"
+        },
+        {
+          "uid": "en_at",
+          "language": "en",
+          "content": "at"
+        },
+        {
+          "uid": "en_ata",
+          "language": "en",
+          "content": "ata"
+        },
+        {
+          "uid": "en_before",
+          "language": "en",
+          "content": "before"
+        },
+        {
+          "uid": "en_beginning",
+          "language": "en",
+          "content": "beginning"
+        },
+        {
+          "uid": "en_bit",
+          "language": "en",
+          "content": "bit"
+        },
+        {
+          "uid": "en_boston",
+          "language": "en",
+          "content": "boston"
+        },
+        {
+          "uid": "en_bring",
+          "language": "en",
+          "content": "bring"
+        },
+        {
+          "uid": "en_by",
+          "language": "en",
+          "content": "by"
+        },
+        {
+          "uid": "en_call",
+          "language": "en",
+          "content": "call"
+        },
+        {
+          "uid": "en_can",
+          "language": "en",
+          "content": "can"
+        },
+        {
+          "uid": "en_casting",
+          "language": "en",
+          "content": "casting"
+        },
+        {
+          "uid": "en_clearly",
+          "language": "en",
+          "content": "clearly"
+        },
+        {
+          "uid": "en_come",
+          "language": "en",
+          "content": "come"
+        },
+        {
+          "uid": "en_darling",
+          "language": "en",
+          "content": "darling"
+        },
+        {
+          "uid": "en_dasha",
+          "language": "en",
+          "content": "dasha"
+        },
+        {
+          "uid": "en_daughters",
+          "language": "en",
+          "content": "daughters"
+        },
+        {
+          "uid": "en_did",
+          "language": "en",
+          "content": "did"
+        },
+        {
+          "uid": "en_die",
+          "language": "en",
+          "content": "die"
+        },
+        {
+          "uid": "en_diesel",
+          "language": "en",
+          "content": "diesel"
+        },
+        {
+          "uid": "en_divorced",
+          "language": "en",
+          "content": "divorced"
+        },
+        {
+          "uid": "en_doesnt",
+          "language": "en",
+          "content": "doesnt"
+        },
+        {
+          "uid": "en_dont",
+          "language": "en",
+          "content": "dont"
+        },
+        {
+          "uid": "en_ears",
+          "language": "en",
+          "content": "ears"
+        },
+        {
+          "uid": "en_filming",
+          "language": "en",
+          "content": "filming"
+        },
+        {
+          "uid": "en_for",
+          "language": "en",
+          "content": "for"
+        },
+        {
+          "uid": "en_friend",
+          "language": "en",
+          "content": "friend"
+        },
+        {
+          "uid": "en_front",
+          "language": "en",
+          "content": "front"
+        },
+        {
+          "uid": "en_get",
+          "language": "en",
+          "content": "get"
+        },
+        {
+          "uid": "en_go",
+          "language": "en",
+          "content": "go"
+        },
+        {
+          "uid": "en_gods",
+          "language": "en",
+          "content": "gods"
+        },
+        {
+          "uid": "en_going",
+          "language": "en",
+          "content": "going"
+        },
+        {
+          "uid": "en_gold",
+          "language": "en",
+          "content": "gold"
+        },
+        {
+          "uid": "en_good",
+          "language": "en",
+          "content": "good"
+        },
+        {
+          "uid": "en_happened",
+          "language": "en",
+          "content": "happened"
+        },
+        {
+          "uid": "en_hebrew",
+          "language": "en",
+          "content": "hebrew"
+        },
+        {
+          "uid": "en_her",
+          "language": "en",
+          "content": "her"
+        },
+        {
+          "uid": "en_here",
+          "language": "en",
+          "content": "here"
+        },
+        {
+          "uid": "en_hilton",
+          "language": "en",
+          "content": "hilton"
+        },
+        {
+          "uid": "en_him",
+          "language": "en",
+          "content": "him"
+        },
+        {
+          "uid": "en_hotel",
+          "language": "en",
+          "content": "hotel"
+        },
+        {
+          "uid": "en_in",
+          "language": "en",
+          "content": "in"
+        },
+        {
+          "uid": "en_intending",
+          "language": "en",
+          "content": "intending"
+        },
+        {
+          "uid": "en_international",
+          "language": "en",
+          "content": "international"
+        },
+        {
+          "uid": "en_is",
+          "language": "en",
+          "content": "is"
+        },
+        {
+          "uid": "en_issam",
+          "language": "en",
+          "content": "issam"
+        },
+        {
+          "uid": "en_it",
+          "language": "en",
+          "content": "it"
+        },
+        {
+          "uid": "en_japan",
+          "language": "en",
+          "content": "japan"
+        },
+        {
+          "uid": "en_just",
+          "language": "en",
+          "content": "just"
+        },
+        {
+          "uid": "en_kept",
+          "language": "en",
+          "content": "kept"
+        },
+        {
+          "uid": "en_lama",
+          "language": "en",
+          "content": "lama"
+        },
+        {
+          "uid": "en_last",
+          "language": "en",
+          "content": "last"
+        },
+        {
+          "uid": "en_leila",
+          "language": "en",
+          "content": "leila"
+        },
+        {
+          "uid": "en_let",
+          "language": "en",
+          "content": "let"
+        },
+        {
+          "uid": "en_life",
+          "language": "en",
+          "content": "life"
+        },
+        {
+          "uid": "en_like",
+          "language": "en",
+          "content": "like"
+        },
+        {
+          "uid": "en_made",
+          "language": "en",
+          "content": "made"
+        },
+        {
+          "uid": "en_make",
+          "language": "en",
+          "content": "make"
+        },
+        {
+          "uid": "en_manager",
+          "language": "en",
+          "content": "manager"
+        },
+        {
+          "uid": "en_me",
+          "language": "en",
+          "content": "me"
+        },
+        {
+          "uid": "en_mobile",
+          "language": "en",
+          "content": "mobile"
+        },
+        {
+          "uid": "en_more",
+          "language": "en",
+          "content": "more"
+        },
+        {
+          "uid": "en_my",
+          "language": "en",
+          "content": "my"
+        },
+        {
+          "uid": "en_myself",
+          "language": "en",
+          "content": "myself"
+        },
+        {
+          "uid": "en_nablus",
+          "language": "en",
+          "content": "nablus"
+        },
+        {
+          "uid": "en_no",
+          "language": "en",
+          "content": "no"
+        },
+        {
+          "uid": "en_of",
+          "language": "en",
+          "content": "of"
+        },
+        {
+          "uid": "en_okay",
+          "language": "en",
+          "content": "okay"
+        },
+        {
+          "uid": "en_on",
+          "language": "en",
+          "content": "on"
+        },
+        {
+          "uid": "en_one",
+          "language": "en",
+          "content": "one"
+        },
+        {
+          "uid": "en_or",
+          "language": "en",
+          "content": "or"
+        },
+        {
+          "uid": "en_out",
+          "language": "en",
+          "content": "out"
+        },
+        {
+          "uid": "en_palestinian",
+          "language": "en",
+          "content": "palestinian"
+        },
+        {
+          "uid": "en_parents",
+          "language": "en",
+          "content": "parents"
+        },
+        {
+          "uid": "en_people",
+          "language": "en",
+          "content": "people"
+        },
+        {
+          "uid": "en_please",
+          "language": "en",
+          "content": "please"
+        },
+        {
+          "uid": "en_poem",
+          "language": "en",
+          "content": "poem"
+        },
+        {
+          "uid": "en_point",
+          "language": "en",
+          "content": "point"
+        },
+        {
+          "uid": "en_police",
+          "language": "en",
+          "content": "police"
+        },
+        {
+          "uid": "en_politics",
+          "language": "en",
+          "content": "politics"
+        },
+        {
+          "uid": "en_purely",
+          "language": "en",
+          "content": "purely"
+        },
+        {
+          "uid": "en_quickly",
+          "language": "en",
+          "content": "quickly"
+        },
+        {
+          "uid": "en_raghid",
+          "language": "en",
+          "content": "raghid"
+        },
+        {
+          "uid": "en_recite",
+          "language": "en",
+          "content": "recite"
+        },
+        {
+          "uid": "en_sake",
+          "language": "en",
+          "content": "sake"
+        },
+        {
+          "uid": "en_same",
+          "language": "en",
+          "content": "same"
+        },
+        {
+          "uid": "en_say",
+          "language": "en",
+          "content": "say"
+        },
+        {
+          "uid": "en_sense",
+          "language": "en",
+          "content": "sense"
+        },
+        {
+          "uid": "en_shahada",
+          "language": "en",
+          "content": "shahada"
+        },
+        {
+          "uid": "en_shocking",
+          "language": "en",
+          "content": "shocking"
+        },
+        {
+          "uid": "en_shouldnt",
+          "language": "en",
+          "content": "shouldnt"
+        },
+        {
+          "uid": "en_so",
+          "language": "en",
+          "content": "so"
+        },
+        {
+          "uid": "en_something",
+          "language": "en",
+          "content": "something"
+        },
+        {
+          "uid": "en_speak",
+          "language": "en",
+          "content": "speak"
+        },
+        {
+          "uid": "en_speaking",
+          "language": "en",
+          "content": "speaking"
+        },
+        {
+          "uid": "en_spoke",
+          "language": "en",
+          "content": "spoke"
+        },
+        {
+          "uid": "en_start",
+          "language": "en",
+          "content": "start"
+        },
+        {
+          "uid": "en_started",
+          "language": "en",
+          "content": "started"
+        },
+        {
+          "uid": "en_students",
+          "language": "en",
+          "content": "students"
+        },
+        {
+          "uid": "en_such",
+          "language": "en",
+          "content": "such"
+        },
+        {
+          "uid": "en_talk",
+          "language": "en",
+          "content": "talk"
+        },
+        {
+          "uid": "en_talking",
+          "language": "en",
+          "content": "talking"
+        },
+        {
+          "uid": "en_tell",
+          "language": "en",
+          "content": "tell"
+        },
+        {
+          "uid": "en_thank",
+          "language": "en",
+          "content": "thank"
+        },
+        {
+          "uid": "en_that",
+          "language": "en",
+          "content": "that"
+        },
+        {
+          "uid": "en_the",
+          "language": "en",
+          "content": "the"
+        },
+        {
+          "uid": "en_them",
+          "language": "en",
+          "content": "them"
+        },
+        {
+          "uid": "en_there",
+          "language": "en",
+          "content": "there"
+        },
+        {
+          "uid": "en_thing",
+          "language": "en",
+          "content": "thing"
+        },
+        {
+          "uid": "en_this",
+          "language": "en",
+          "content": "this"
+        },
+        {
+          "uid": "en_time",
+          "language": "en",
+          "content": "time"
+        },
+        {
+          "uid": "en_to",
+          "language": "en",
+          "content": "to"
+        },
+        {
+          "uid": "en_truck",
+          "language": "en",
+          "content": "truck"
+        },
+        {
+          "uid": "en_us",
+          "language": "en",
+          "content": "us"
+        },
+        {
+          "uid": "en_very",
+          "language": "en",
+          "content": "very"
+        },
+        {
+          "uid": "en_want",
+          "language": "en",
+          "content": "want"
+        },
+        {
+          "uid": "en_wanted",
+          "language": "en",
+          "content": "wanted"
+        },
+        {
+          "uid": "en_we",
+          "language": "en",
+          "content": "we"
+        },
+        {
+          "uid": "en_were",
+          "language": "en",
+          "content": "were"
+        },
+        {
+          "uid": "en_what",
+          "language": "en",
+          "content": "what"
+        },
+        {
+          "uid": "en_whats",
+          "language": "en",
+          "content": "whats"
+        },
+        {
+          "uid": "en_where",
+          "language": "en",
+          "content": "where"
+        },
+        {
+          "uid": "en_who",
+          "language": "en",
+          "content": "who"
+        },
+        {
+          "uid": "en_why",
+          "language": "en",
+          "content": "why"
+        },
+        {
+          "uid": "en_with",
+          "language": "en",
+          "content": "with"
+        },
+        {
+          "uid": "en_without",
+          "language": "en",
+          "content": "without"
+        },
+        {
+          "uid": "en_women",
+          "language": "en",
+          "content": "women"
+        },
+        {
+          "uid": "en_word",
+          "language": "en",
+          "content": "word"
+        },
+        {
+          "uid": "en_would",
+          "language": "en",
+          "content": "would"
+        },
+        {
+          "uid": "en_write",
+          "language": "en",
+          "content": "write"
+        },
+        {
+          "uid": "en_yazan",
+          "language": "en",
+          "content": "yazan"
+        },
+        {
+          "uid": "en_yes",
+          "language": "en",
+          "content": "yes"
+        },
+        {
+          "uid": "en_you",
+          "language": "en",
+          "content": "you"
+        },
+        {
+          "uid": "en_your",
+          "language": "en",
+          "content": "your"
+        },
+        {
+          "uid": "en_youth",
+          "language": "en",
+          "content": "youth"
         }
       ],
       "primaryUnitsOfMeaning": [
+        {
+          "uid": "apc_احكي",
+          "language": "apc",
+          "content": "احكي"
+        },
         {
           "uid": "apc_احكي مع ناس_sentence",
           "language": "apc",
