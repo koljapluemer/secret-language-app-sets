@@ -59,58 +59,41 @@ for word in target_words:
     if not (MIN_SENTENCE_OCCURRENCES <= len(word_sentence_count[word]) <= MAX_SENTENCE_OCCURRENCES):
         continue
     
-    # Find all sentences containing this word (exact match)
+    # Filter only relevant rows once for this word
+    relevant_rows = df[df['arabic'].apply(lambda x: word in str(x).split())]
     matching_sentences = []
-    seen_uids = set()  # For deduplication
-    
-    for _, row in df.iterrows():
+    for _, row in relevant_rows.iterrows():
         arabic_text = str(row['arabic'])
         english_text = str(row['english'])
         dialect = str(row['dialect'])
-        
-        # Check if the word appears in the Arabic text (exact match)
-        if word in arabic_text.split():
-            # Create UIDs
-            arabic_uid = f"apc_{arabic_text}_sentence"
-            english_uid = f"en_{english_text}_sentence"
-            
-            # Skip if we've already seen this sentence
-            if arabic_uid in seen_uids:
-                continue
-            seen_uids.add(arabic_uid)
-            
-            # Create the sentence pair
-            sentence_pair = {
-                "arabic": {
-                    "uid": arabic_uid,
-                    "language": "apc",
-                    "content": arabic_text,
-                    "linguType": "sentence",
-                    "credits": [{
-                        "license": "CC-BY-NC-4.0",
-                        "owner": "Guy Mor-Lan",
-                        "ownerLink": "https://huggingface.co/guymorlan",
-                        "source": "Levanti Dataset",
-                        "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti"
-                    }],
-                    "translations": [english_uid]
-                },
-                "english": {
-                    "uid": english_uid,
-                    "language": "en",
-                    "content": english_text,
-                    "linguType": "sentence",
-                    "credits": [{
-                        "license": "CC-BY-NC-4.0",
-                        "owner": "Guy Mor-Lan",
-                        "ownerLink": "https://huggingface.co/guymorlan",
-                        "source": "Levanti Dataset",
-                        "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti"
-                    }],
-                    "translations": [arabic_uid]
-                }
+        # Create the sentence pair
+        sentence_pair = {
+            "arabic": {
+                "language": "apc",
+                "content": arabic_text,
+                "credits": [{
+                    "license": "CC-BY-NC-4.0",
+                    "owner": "Guy Mor-Lan",
+                    "ownerLink": "https://huggingface.co/guymorlan",
+                    "source": "Levanti Dataset",
+                    "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti"
+                }],
+                "translations": [f"en_{english_text}"]
+            },
+            "english": {
+                "language": "en",
+                "content": english_text,
+                "credits": [{
+                    "license": "CC-BY-NC-4.0",
+                    "owner": "Guy Mor-Lan",
+                    "ownerLink": "https://huggingface.co/guymorlan",
+                    "source": "Levanti Dataset",
+                    "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti"
+                }],
+                "translations": [f"apc_{arabic_text}"]
             }
-            matching_sentences.append(sentence_pair)
+        }
+        matching_sentences.append(sentence_pair)
     
     # Create task for this word
     task = {
@@ -151,29 +134,41 @@ for word in target_words:
             if cleaned_word and len(cleaned_word) > 1:
                 english_words.append(cleaned_word)
     
-    # Count word frequencies and print top 25
-    current_file_tasks.append(task)
-    # Add all unique words as unitsOfMeaning (no linguType, credits, or translations)
+    # Add all unique words as unitsOfMeaning (no linguType, credits, or translations), deduplicated by language+content
     for unique_ar_word in sorted(set(arabic_words)):
         task["unitsOfMeaning"].append({
-            "uid": f"apc_{unique_ar_word}",
             "language": "apc",
             "content": unique_ar_word
         })
     for unique_en_word in sorted(set(english_words)):
         task["unitsOfMeaning"].append({
-            "uid": f"en_{unique_en_word}",
             "language": "en",
             "content": unique_en_word
         })
     # Add the main word for the task (the same one used in the task content) to the very top of primaryUnitsOfMeaning
     task["primaryUnitsOfMeaning"] = [
         {
-            "uid": f"apc_{word}",
             "language": "apc",
             "content": word
         }
     ] + task["primaryUnitsOfMeaning"]
+    
+    # Deduplicate arrays at the end by converting to sets and back to lists
+    # Convert to tuples for hashing, then back to dicts
+    def deduplicate_units(units):
+        seen = set()
+        unique_units = []
+        for unit in units:
+            key = (unit["language"], unit["content"])
+            if key not in seen:
+                seen.add(key)
+                unique_units.append(unit)
+        return unique_units
+    
+    task["unitsOfMeaning"] = deduplicate_units(task["unitsOfMeaning"])
+    task["primaryUnitsOfMeaning"] = deduplicate_units(task["primaryUnitsOfMeaning"])
+    
+    current_file_tasks.append(task)
     
     # If we've reached TASKS_PER_FILE or this is the last word, save the file
     if len(current_file_tasks) >= TASKS_PER_FILE or word == target_words[-1]:

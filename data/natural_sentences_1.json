@@ -7,10 +7,8 @@
       "language": "apc",
       "unitsOfMeaning": [
         {
-          "uid": "apc_انا حابب احكي معك._sentence",
           "language": "apc",
           "content": "انا حابب احكي معك.",
-          "linguType": "sentence",
           "credits": [
             {
               "license": "CC-BY-NC-4.0",
@@ -21,14 +19,12 @@
             }
           ],
           "translations": [
-            "en_I want to talk to you._sentence"
+            "en_I want to talk to you."
           ]
         },
         {
-          "uid": "en_I want to talk to you._sentence",
           "language": "en",
           "content": "I want to talk to you.",
-          "linguType": "sentence",
           "credits": [
             {
               "license": "CC-BY-NC-4.0",
@@ -39,14 +35,12 @@
             }
           ],
           "translations": [
-            "apc_انا حابب احكي معك._sentence"
+            "apc_انا حابب احكي معك."
           ]
         },
         {
-          "uid": "apc_بس حابب اورجيكم جمال الطبيعة في بلدنا_sentence",
           "language": "apc",
           "content": "بس حابب اورجيكم جمال الطبيعة في بلدنا",
-          "linguType": "sentence",
           "credits": [
             {
               "license": "CC-BY-NC-4.0",
@@ -57,14 +51,12 @@
             }
           ],
           "translations": [
-            "en_But I want to show you the beauty of nature in our country._sentence"
+            "en_But I want to show you the beauty of nature in our country."
           ]
         },
         {
-          "uid": "en_But I want to show you the beauty of nature in our country._sentence",
           "language": "en",
           "content": "But I want to show you the beauty of nature in our country.",
-          "linguType": "sentence",
           "credits": [
             {
               "license": "CC-BY-NC-4.0",
@@ -75,14 +67,12 @@
             }
           ],
           "translations": [
-            "apc_بس حابب اورجيكم جمال الطبيعة في بلدنا_sentence"
+            "apc_بس حابب اورجيكم جمال الطبيعة في بلدنا"
           ]
         },
         {
-          "uid": "apc_تفضل مرشد, عن شو حابب تحكيلنا؟_sentence",
           "language": "apc",
           "content": "تفضل مرشد, عن شو حابب تحكيلنا؟",
-          "linguType": "sentence",
           "credits": [
             {
               "license": "CC-BY-NC-4.0",
@@ -93,14 +83,12 @@
             }
           ],
           "translations": [
-            "en_Go ahead, Murshid, what would you like to talk about?_sentence"
+            "en_Go ahead, Murshid, what would you like to talk about?"
           ]
         },
         {
-          "uid": "en_Go ahead, Murshid, what would you like to talk about?_sentence",
           "language": "en",
           "content": "Go ahead, Murshid, what would you like to talk about?",
-          "linguType": "sentence",
           "credits": [
             {
               "license": "CC-BY-NC-4.0",
@@ -111,14 +99,12 @@
             }
           ],
           "translations": [
-            "apc_تفضل مرشد, عن شو حابب تحكيلنا؟_sentence"
+            "apc_تفضل مرشد, عن شو حابب تحكيلنا؟"
           ]
         },
         {
-          "uid": "apc_حابب أنضم من سان دييغو._sentence",
           "language": "apc",
           "content": "حابب أنضم من سان دييغو.",
-          "linguType": "sentence",
           "credits": [
             {
               "license": "CC-BY-NC-4.0",
@@ -129,14 +115,12 @@
             }
           ],
           "translations": [
-            "en_I would like to join from San Diego._sentence"
+            "en_I would like to join from San Diego."
           ]
         },
         {
-          "uid": "en_I would like to join from San Diego._sentence",
           "language": "en",
           "content": "I would like to join from San Diego.",
-          "linguType": "sentence",
           "credits": [
             {
               "license": "CC-BY-NC-4.0",
@@ -147,14 +131,12 @@
             }
           ],
           "translations": [
-            "apc_حابب أنضم من سان دييغو._sentence"
+            "apc_حابب أنضم من سان دييغو."
           ]
         },
         {
-          "uid": "apc_‏ما لي حابب كتير هالبرادي الشفافة ‎_sentence",
           "language": "apc",
           "content": "‏ما لي حابب كتير هالبرادي الشفافة ‎",
-          "linguType": "sentence",
           "credits": [
             {
               "license": "CC-BY-NC-4.0",
@@ -165,14 +147,12 @@
             }
           ],
           "translations": [
-            "en_I'm not really fond of these transparent curtains._sentence"
+            "en_I'm not really fond of these transparent curtains."
           ]
         },
         {
-          "uid": "en_I'm not really fond of these transparent curtains._sentence",
           "language": "en",
           "content": "I'm not really fond of these transparent curtains.",
-          "linguType": "sentence",
           "credits": [
             {
               "license": "CC-BY-NC-4.0",
@@ -183,14 +163,12 @@
             }
           ],
           "translations": [
-            "apc_‏ما لي حابب كتير هالبرادي الشفافة ‎_sentence"
+            "apc_‏ما لي حابب كتير هالبرادي الشفافة ‎"
           ]
         },
         {
-          "uid": "apc_اه، حابب اقرأ إشي._sentence",
           "language": "apc",
           "content": "اه، حابب اقرأ إشي.",
-          "linguType": "sentence",
           "credits": [
             {
               "license": "CC-BY-NC-4.0",
@@ -201,14 +179,12 @@
             }
           ],
           "translations": [
-            "en_Yeah, I want to read something._sentence"
+            "en_Yeah, I want to read something."
           ]
         },
         {
-          "uid": "en_Yeah, I want to read something._sentence",
           "language": "en",
           "content": "Yeah, I want to read something.",
-          "linguType": "sentence",
           "credits": [
             {
               "license": "CC-BY-NC-4.0",
@@ -219,14 +195,12 @@
             }
           ],
           "translations": [
-            "apc_اه، حابب اقرأ إشي._sentence"
+            "apc_اه، حابب اقرأ إشي."
           ]
         },
         {
-          "uid": "apc_حابب اعيش بمحلّ هيك يكون محايد بمحلّ..._sentence",
           "language": "apc",
           "content": "حابب اعيش بمحلّ هيك يكون محايد بمحلّ...",
-          "linguType": "sentence",
           "credits": [
             {
               "license": "CC-BY-NC-4.0",
@@ -237,14 +211,12 @@
             }
           ],
           "translations": [
-            "en_I want to live in a place like this that is neutral in place..._sentence"
+            "en_I want to live in a place like this that is neutral in place..."
           ]
         },
         {
-          "uid": "en_I want to live in a place like this that is neutral in place..._sentence",
           "language": "en",
           "content": "I want to live in a place like this that is neutral in place...",
-          "linguType": "sentence",
           "credits": [
             {
               "license": "CC-BY-NC-4.0",
@@ -255,14 +227,12 @@
             }
           ],
           "translations": [
-            "apc_حابب اعيش بمحلّ هيك يكون محايد بمحلّ..._sentence"
+            "apc_حابب اعيش بمحلّ هيك يكون محايد بمحلّ..."
           ]
         },
         {
-          "uid": "apc_بالصّراحة كتير حابب اعيش باوروبا_sentence",
           "language": "apc",
           "content": "بالصّراحة كتير حابب اعيش باوروبا",
-          "linguType": "sentence",
           "credits": [
             {
               "license": "CC-BY-NC-4.0",
@@ -273,14 +243,12 @@
             }
           ],
           "translations": [
-            "en_Honestly, I really would like to live in Europe._sentence"
+            "en_Honestly, I really would like to live in Europe."
           ]
         },
         {
-          "uid": "en_Honestly, I really would like to live in Europe._sentence",
           "language": "en",
           "content": "Honestly, I really would like to live in Europe.",
-          "linguType": "sentence",
           "credits": [
             {
               "license": "CC-BY-NC-4.0",
@@ -291,14 +259,12 @@
             }
           ],
           "translations": [
-            "apc_بالصّراحة كتير حابب اعيش باوروبا_sentence"
+            "apc_بالصّراحة كتير حابب اعيش باوروبا"
           ]
         },
         {
-          "uid": "apc_اخواني حابب اوضحكم شغله صغيره_sentence",
           "language": "apc",
           "content": "اخواني حابب اوضحكم شغله صغيره",
-          "linguType": "sentence",
           "credits": [
             {
               "license": "CC-BY-NC-4.0",
@@ -309,14 +275,12 @@
             }
           ],
           "translations": [
-            "en_My brothers, I want to clarify a small issue for you._sentence"
+            "en_My brothers, I want to clarify a small issue for you."
           ]
         },
         {
-          "uid": "en_My brothers, I want to clarify a small issue for you._sentence",
           "language": "en",
           "content": "My brothers, I want to clarify a small issue for you.",
-          "linguType": "sentence",
           "credits": [
             {
               "license": "CC-BY-NC-4.0",
@@ -327,14 +291,12 @@
             }
           ],
           "translations": [
-            "apc_اخواني حابب اوضحكم شغله صغيره_sentence"
+            "apc_اخواني حابب اوضحكم شغله صغيره"
           ]
         },
         {
-          "uid": "apc_أنا حابب أخلع سني._sentence",
           "language": "apc",
           "content": "أنا حابب أخلع سني.",
-          "linguType": "sentence",
           "credits": [
             {
               "license": "CC-BY-NC-4.0",
@@ -345,14 +307,12 @@
             }
           ],
           "translations": [
-            "en_I want to extract my tooth._sentence"
+            "en_I want to extract my tooth."
           ]
         },
         {
-          "uid": "en_I want to extract my tooth._sentence",
           "language": "en",
           "content": "I want to extract my tooth.",
-          "linguType": "sentence",
           "credits": [
             {
               "license": "CC-BY-NC-4.0",
@@ -363,14 +323,12 @@
             }
           ],
           "translations": [
-            "apc_أنا حابب أخلع سني._sentence"
+            "apc_أنا حابب أخلع سني."
           ]
         },
         {
-          "uid": "apc_أنا حابب آخد هاد._sentence",
           "language": "apc",
           "content": "أنا حابب آخد هاد.",
-          "linguType": "sentence",
           "credits": [
             {
               "license": "CC-BY-NC-4.0",
@@ -381,14 +339,12 @@
             }
           ],
           "translations": [
-            "en_I want to take that one._sentence"
+            "en_I want to take that one."
           ]
         },
         {
-          "uid": "en_I want to take that one._sentence",
           "language": "en",
           "content": "I want to take that one.",
-          "linguType": "sentence",
           "credits": [
             {
               "license": "CC-BY-NC-4.0",
@@ -399,14 +355,12 @@
             }
           ],
           "translations": [
-            "apc_أنا حابب آخد هاد._sentence"
+            "apc_أنا حابب آخد هاد."
           ]
         },
         {
-          "uid": "apc_حابب أحجز موعد عند الدكتور._sentence",
           "language": "apc",
           "content": "حابب أحجز موعد عند الدكتور.",
-          "linguType": "sentence",
           "credits": [
             {
               "license": "CC-BY-NC-4.0",
@@ -417,14 +371,12 @@
             }
           ],
           "translations": [
-            "en_I want to book an appointment with the doctor._sentence"
+            "en_I want to book an appointment with the doctor."
           ]
         },
         {
-          "uid": "en_I want to book an appointment with the doctor._sentence",
           "language": "en",
           "content": "I want to book an appointment with the doctor.",
-          "linguType": "sentence",
           "credits": [
             {
               "license": "CC-BY-NC-4.0",
@@ -435,14 +387,12 @@
             }
           ],
           "translations": [
-            "apc_حابب أحجز موعد عند الدكتور._sentence"
+            "apc_حابب أحجز موعد عند الدكتور."
           ]
         },
         {
-          "uid": "apc_أنا حابب أورّيكم بسّ الكورونا في اسرائيل_sentence",
           "language": "apc",
           "content": "أنا حابب أورّيكم بسّ الكورونا في اسرائيل",
-          "linguType": "sentence",
           "credits": [
             {
               "license": "CC-BY-NC-4.0",
@@ -453,14 +403,12 @@
             }
           ],
           "translations": [
-            "en_I just want to show you the coronavirus in Israel._sentence"
+            "en_I just want to show you the coronavirus in Israel."
           ]
         },
         {
-          "uid": "en_I just want to show you the coronavirus in Israel._sentence",
           "language": "en",
           "content": "I just want to show you the coronavirus in Israel.",
-          "linguType": "sentence",
           "credits": [
             {
               "license": "CC-BY-NC-4.0",
@@ -471,14 +419,12 @@
             }
           ],
           "translations": [
-            "apc_أنا حابب أورّيكم بسّ الكورونا في اسرائيل_sentence"
+            "apc_أنا حابب أورّيكم بسّ الكورونا في اسرائيل"
           ]
         },
         {
-          "uid": "apc_انت حابب تشوف من إسرائيل حداثتها, تقدّمها,_sentence",
           "language": "apc",
           "content": "انت حابب تشوف من إسرائيل حداثتها, تقدّمها,",
-          "linguType": "sentence",
           "credits": [
             {
               "license": "CC-BY-NC-4.0",
@@ -489,14 +435,12 @@
             }
           ],
           "translations": [
-            "en_Do you want to see Israel's innovation and progress?_sentence"
+            "en_Do you want to see Israel's innovation and progress?"
           ]
         },
         {
-          "uid": "en_Do you want to see Israel's innovation and progress?_sentence",
           "language": "en",
           "content": "Do you want to see Israel's innovation and progress?",
-          "linguType": "sentence",
           "credits": [
             {
               "license": "CC-BY-NC-4.0",
@@ -507,14 +451,12 @@
             }
           ],
           "translations": [
-            "apc_انت حابب تشوف من إسرائيل حداثتها, تقدّمها,_sentence"
+            "apc_انت حابب تشوف من إسرائيل حداثتها, تقدّمها,"
           ]
         },
         {
-          "uid": "apc_طالع بكير بكرا، لهيك حابب ادفع هلأ._sentence",
           "language": "apc",
           "content": "طالع بكير بكرا، لهيك حابب ادفع هلأ.",
-          "linguType": "sentence",
           "credits": [
             {
               "license": "CC-BY-NC-4.0",
@@ -525,14 +467,12 @@
             }
           ],
           "translations": [
-            "en_I'm leaving early tomorrow, so I want to pay now._sentence"
+            "en_I'm leaving early tomorrow, so I want to pay now."
           ]
         },
         {
-          "uid": "en_I'm leaving early tomorrow, so I want to pay now._sentence",
           "language": "en",
           "content": "I'm leaving early tomorrow, so I want to pay now.",
-          "linguType": "sentence",
           "credits": [
             {
               "license": "CC-BY-NC-4.0",
@@ -543,14 +483,12 @@
             }
           ],
           "translations": [
-            "apc_طالع بكير بكرا، لهيك حابب ادفع هلأ._sentence"
+            "apc_طالع بكير بكرا، لهيك حابب ادفع هلأ."
           ]
         },
         {
-          "uid": "apc_شو نوع العصير اللي حابب تشربه؟_sentence",
           "language": "apc",
           "content": "شو نوع العصير اللي حابب تشربه؟",
-          "linguType": "sentence",
           "credits": [
             {
               "license": "CC-BY-NC-4.0",
@@ -561,14 +499,12 @@
             }
           ],
           "translations": [
-            "en_What kind of juice do you like to drink?_sentence"
+            "en_What kind of juice do you like to drink?"
           ]
         },
         {
-          "uid": "en_What kind of juice do you like to drink?_sentence",
           "language": "en",
           "content": "What kind of juice do you like to drink?",
-          "linguType": "sentence",
           "credits": [
             {
               "license": "CC-BY-NC-4.0",
@@ -579,14 +515,12 @@
             }
           ],
           "translations": [
-            "apc_شو نوع العصير اللي حابب تشربه؟_sentence"
+            "apc_شو نوع العصير اللي حابب تشربه؟"
           ]
         },
         {
-          "uid": "apc_بالأول حابب أعمل لي مشية بالبلد ‎_sentence",
           "language": "apc",
           "content": "بالأول حابب أعمل لي مشية بالبلد ‎",
-          "linguType": "sentence",
           "credits": [
             {
               "license": "CC-BY-NC-4.0",
@@ -597,14 +531,12 @@
             }
           ],
           "translations": [
-            "en_First of all, I feel like taking a walk in the city._sentence"
+            "en_First of all, I feel like taking a walk in the city."
           ]
         },
         {
-          "uid": "en_First of all, I feel like taking a walk in the city._sentence",
           "language": "en",
           "content": "First of all, I feel like taking a walk in the city.",
-          "linguType": "sentence",
           "credits": [
             {
               "license": "CC-BY-NC-4.0",
@@ -615,14 +547,12 @@
             }
           ],
           "translations": [
-            "apc_بالأول حابب أعمل لي مشية بالبلد ‎_sentence"
+            "apc_بالأول حابب أعمل لي مشية بالبلد ‎"
           ]
         },
         {
-          "uid": "apc_أنا كتير آسف، بس حابب أجل الموعد._sentence",
           "language": "apc",
           "content": "أنا كتير آسف، بس حابب أجل الموعد.",
-          "linguType": "sentence",
           "credits": [
             {
               "license": "CC-BY-NC-4.0",
@@ -633,14 +563,12 @@
             }
           ],
           "translations": [
-            "en_I'm very sorry, but I'd like to postpone the meeting._sentence"
+            "en_I'm very sorry, but I'd like to postpone the meeting."
           ]
         },
         {
-          "uid": "en_I'm very sorry, but I'd like to postpone the meeting._sentence",
           "language": "en",
           "content": "I'm very sorry, but I'd like to postpone the meeting.",
-          "linguType": "sentence",
           "credits": [
             {
               "license": "CC-BY-NC-4.0",
@@ -651,14 +579,12 @@
             }
           ],
           "translations": [
-            "apc_أنا كتير آسف، بس حابب أجل الموعد._sentence"
+            "apc_أنا كتير آسف، بس حابب أجل الموعد."
           ]
         },
         {
-          "uid": "apc_حابب أركب بسيارة سبورت._sentence",
           "language": "apc",
           "content": "حابب أركب بسيارة سبورت.",
-          "linguType": "sentence",
           "credits": [
             {
               "license": "CC-BY-NC-4.0",
@@ -669,14 +595,12 @@
             }
           ],
           "translations": [
-            "en_I want to ride in a sports car._sentence"
+            "en_I want to ride in a sports car."
           ]
         },
         {
-          "uid": "en_I want to ride in a sports car._sentence",
           "language": "en",
           "content": "I want to ride in a sports car.",
-          "linguType": "sentence",
           "credits": [
             {
               "license": "CC-BY-NC-4.0",
@@ -687,14 +611,12 @@
             }
           ],
           "translations": [
-            "apc_حابب أركب بسيارة سبورت._sentence"
+            "apc_حابب أركب بسيارة سبورت."
           ]
         },
         {
-          "uid": "apc_فكتير حابب إنّي أسافر ع اليابان._sentence",
           "language": "apc",
           "content": "فكتير حابب إنّي أسافر ع اليابان.",
-          "linguType": "sentence",
           "credits": [
             {
               "license": "CC-BY-NC-4.0",
@@ -705,14 +627,12 @@
             }
           ],
           "translations": [
-            "en_I really want to travel to Japan._sentence"
+            "en_I really want to travel to Japan."
           ]
         },
         {
-          "uid": "en_I really want to travel to Japan._sentence",
           "language": "en",
           "content": "I really want to travel to Japan.",
-          "linguType": "sentence",
           "credits": [
             {
               "license": "CC-BY-NC-4.0",
@@ -723,14 +643,12 @@
             }
           ],
           "translations": [
-            "apc_فكتير حابب إنّي أسافر ع اليابان._sentence"
+            "apc_فكتير حابب إنّي أسافر ع اليابان."
           ]
         },
         {
-          "uid": "apc_حابب أحط هدا في صندوق أمانات._sentence",
           "language": "apc",
           "content": "حابب أحط هدا في صندوق أمانات.",
-          "linguType": "sentence",
           "credits": [
             {
               "license": "CC-BY-NC-4.0",
@@ -741,14 +659,12 @@
             }
           ],
           "translations": [
-            "en_I'd like to put this in a safe._sentence"
+            "en_I'd like to put this in a safe."
           ]
         },
         {
-          "uid": "en_I'd like to put this in a safe._sentence",
           "language": "en",
           "content": "I'd like to put this in a safe.",
-          "linguType": "sentence",
           "credits": [
             {
               "license": "CC-BY-NC-4.0",
@@ -759,14 +675,12 @@
             }
           ],
           "translations": [
-            "apc_حابب أحط هدا في صندوق أمانات._sentence"
+            "apc_حابب أحط هدا في صندوق أمانات."
           ]
         },
         {
-          "uid": "apc_على شو حابب تحكيلنا؟ - سلامات جلال._sentence",
           "language": "apc",
           "content": "على شو حابب تحكيلنا؟ - سلامات جلال.",
-          "linguType": "sentence",
           "credits": [
             {
               "license": "CC-BY-NC-4.0",
@@ -777,14 +691,12 @@
             }
           ],
           "translations": [
-            "en_What do you want to tell us? - Hello, Jalal._sentence"
+            "en_What do you want to tell us? - Hello, Jalal."
           ]
         },
         {
-          "uid": "en_What do you want to tell us? - Hello, Jalal._sentence",
           "language": "en",
           "content": "What do you want to tell us? - Hello, Jalal.",
-          "linguType": "sentence",
           "credits": [
             {
               "license": "CC-BY-NC-4.0",
@@ -795,14 +707,12 @@
             }
           ],
           "translations": [
-            "apc_على شو حابب تحكيلنا؟ - سلامات جلال._sentence"
+            "apc_على شو حابب تحكيلنا؟ - سلامات جلال."
           ]
         },
         {
-          "uid": "apc_حابب اشوف شو اللي مفرحك_sentence",
           "language": "apc",
           "content": "حابب اشوف شو اللي مفرحك",
-          "linguType": "sentence",
           "credits": [
             {
               "license": "CC-BY-NC-4.0",
@@ -813,14 +723,12 @@
             }
           ],
           "translations": [
-            "en_I wanted to see what makes you so happy!_sentence"
+            "en_I wanted to see what makes you so happy!"
           ]
         },
         {
-          "uid": "en_I wanted to see what makes you so happy!_sentence",
           "language": "en",
           "content": "I wanted to see what makes you so happy!",
-          "linguType": "sentence",
           "credits": [
             {
               "license": "CC-BY-NC-4.0",
@@ -831,14 +739,12 @@
             }
           ],
           "translations": [
-            "apc_حابب اشوف شو اللي مفرحك_sentence"
+            "apc_حابب اشوف شو اللي مفرحك"
           ]
         },
         {
-          "uid": "apc_حابب حط هيدا بصندوق الأمانات ._sentence",
           "language": "apc",
           "content": "حابب حط هيدا بصندوق الأمانات .",
-          "linguType": "sentence",
           "credits": [
             {
               "license": "CC-BY-NC-4.0",
@@ -849,14 +755,12 @@
             }
           ],
           "translations": [
-            "en_I want to put this in the safe._sentence"
+            "en_I want to put this in the safe."
           ]
         },
         {
-          "uid": "en_I want to put this in the safe._sentence",
           "language": "en",
           "content": "I want to put this in the safe.",
-          "linguType": "sentence",
           "credits": [
             {
               "license": "CC-BY-NC-4.0",
@@ -867,14 +771,12 @@
             }
           ],
           "translations": [
-            "apc_حابب حط هيدا بصندوق الأمانات ._sentence"
+            "apc_حابب حط هيدا بصندوق الأمانات ."
           ]
         },
         {
-          "uid": "apc_في شي حابب تشوفو؟_sentence",
           "language": "apc",
           "content": "في شي حابب تشوفو؟",
-          "linguType": "sentence",
           "credits": [
             {
               "license": "CC-BY-NC-4.0",
@@ -885,14 +787,12 @@
             }
           ],
           "translations": [
-            "en_Is there something you want to see?_sentence"
+            "en_Is there something you want to see?"
           ]
         },
         {
-          "uid": "en_Is there something you want to see?_sentence",
           "language": "en",
           "content": "Is there something you want to see?",
-          "linguType": "sentence",
           "credits": [
             {
               "license": "CC-BY-NC-4.0",
@@ -903,14 +803,12 @@
             }
           ],
           "translations": [
-            "apc_في شي حابب تشوفو؟_sentence"
+            "apc_في شي حابب تشوفو؟"
           ]
         },
         {
-          "uid": "apc_لو سمحت، بس حابب أسلم تقرير السرقة._sentence",
           "language": "apc",
           "content": "لو سمحت، بس حابب أسلم تقرير السرقة.",
-          "linguType": "sentence",
           "credits": [
             {
               "license": "CC-BY-NC-4.0",
@@ -921,14 +819,12 @@
             }
           ],
           "translations": [
-            "en_Excuse me, but I would like to submit the theft report._sentence"
+            "en_Excuse me, but I would like to submit the theft report."
           ]
         },
         {
-          "uid": "en_Excuse me, but I would like to submit the theft report._sentence",
           "language": "en",
           "content": "Excuse me, but I would like to submit the theft report.",
-          "linguType": "sentence",
           "credits": [
             {
               "license": "CC-BY-NC-4.0",
@@ -939,14 +835,12 @@
             }
           ],
           "translations": [
-            "apc_لو سمحت، بس حابب أسلم تقرير السرقة._sentence"
+            "apc_لو سمحت، بس حابب أسلم تقرير السرقة."
           ]
         },
         {
-          "uid": "apc_حابب أطلب شنتة لونها غامق لألي._sentence",
           "language": "apc",
           "content": "حابب أطلب شنتة لونها غامق لألي.",
-          "linguType": "sentence",
           "credits": [
             {
               "license": "CC-BY-NC-4.0",
@@ -957,14 +851,12 @@
             }
           ],
           "translations": [
-            "en_I would like to order a dark-colored bag for myself._sentence"
+            "en_I would like to order a dark-colored bag for myself."
           ]
         },
         {
-          "uid": "en_I would like to order a dark-colored bag for myself._sentence",
           "language": "en",
           "content": "I would like to order a dark-colored bag for myself.",
-          "linguType": "sentence",
           "credits": [
             {
               "license": "CC-BY-NC-4.0",
@@ -975,14 +867,12 @@
             }
           ],
           "translations": [
-            "apc_حابب أطلب شنتة لونها غامق لألي._sentence"
+            "apc_حابب أطلب شنتة لونها غامق لألي."
           ]
         },
         {
-          "uid": "apc_أنا حابب مو مجنون_sentence",
           "language": "apc",
           "content": "أنا حابب مو مجنون",
-          "linguType": "sentence",
           "credits": [
             {
               "license": "CC-BY-NC-4.0",
@@ -993,14 +883,12 @@
             }
           ],
           "translations": [
-            "en_I'm in love, not crazy._sentence"
+            "en_I'm in love, not crazy."
           ]
         },
         {
-          "uid": "en_I'm in love, not crazy._sentence",
           "language": "en",
           "content": "I'm in love, not crazy.",
-          "linguType": "sentence",
           "credits": [
             {
               "license": "CC-BY-NC-4.0",
@@ -1011,14 +899,12 @@
             }
           ],
           "translations": [
-            "apc_أنا حابب مو مجنون_sentence"
+            "apc_أنا حابب مو مجنون"
           ]
         },
         {
-          "uid": "apc_‏ما كان حابب يروح، بس انجبر ‎_sentence",
           "language": "apc",
           "content": "‏ما كان حابب يروح، بس انجبر ‎",
-          "linguType": "sentence",
           "credits": [
             {
               "license": "CC-BY-NC-4.0",
@@ -1029,14 +915,12 @@
             }
           ],
           "translations": [
-            "en_He didn't want to go, but he was forced._sentence"
+            "en_He didn't want to go, but he was forced."
           ]
         },
         {
-          "uid": "en_He didn't want to go, but he was forced._sentence",
           "language": "en",
           "content": "He didn't want to go, but he was forced.",
-          "linguType": "sentence",
           "credits": [
             {
               "license": "CC-BY-NC-4.0",
@@ -1047,14 +931,12 @@
             }
           ],
           "translations": [
-            "apc_‏ما كان حابب يروح، بس انجبر ‎_sentence"
+            "apc_‏ما كان حابب يروح، بس انجبر ‎"
           ]
         },
         {
-          "uid": "apc_عن شو حابب تحكيلنا؟_sentence",
           "language": "apc",
           "content": "عن شو حابب تحكيلنا؟",
-          "linguType": "sentence",
           "credits": [
             {
               "license": "CC-BY-NC-4.0",
@@ -1065,14 +947,12 @@
             }
           ],
           "translations": [
-            "en_What would you like to talk to us about?_sentence"
+            "en_What would you like to talk to us about?"
           ]
         },
         {
-          "uid": "en_What would you like to talk to us about?_sentence",
           "language": "en",
           "content": "What would you like to talk to us about?",
-          "linguType": "sentence",
           "credits": [
             {
               "license": "CC-BY-NC-4.0",
@@ -1083,14 +963,12 @@
             }
           ],
           "translations": [
-            "apc_عن شو حابب تحكيلنا؟_sentence"
+            "apc_عن شو حابب تحكيلنا؟"
           ]
         },
         {
-          "uid": "apc_‏بعبارة تانية، ما لك حابب الفكرة ‎_sentence",
           "language": "apc",
           "content": "‏بعبارة تانية، ما لك حابب الفكرة ‎",
-          "linguType": "sentence",
           "credits": [
             {
               "license": "CC-BY-NC-4.0",
@@ -1101,14 +979,12 @@
             }
           ],
           "translations": [
-            "en_In other words, you don't like the idea._sentence"
+            "en_In other words, you don't like the idea."
           ]
         },
         {
-          "uid": "en_In other words, you don't like the idea._sentence",
           "language": "en",
           "content": "In other words, you don't like the idea.",
-          "linguType": "sentence",
           "credits": [
             {
               "license": "CC-BY-NC-4.0",
@@ -1119,14 +995,12 @@
             }
           ],
           "translations": [
-            "apc_‏بعبارة تانية، ما لك حابب الفكرة ‎_sentence"
+            "apc_‏بعبارة تانية، ما لك حابب الفكرة ‎"
           ]
         },
         {
-          "uid": "apc_لا هاي السنة حابب أعمل إشي مختلف_sentence",
           "language": "apc",
           "content": "لا هاي السنة حابب أعمل إشي مختلف",
-          "linguType": "sentence",
           "credits": [
             {
               "license": "CC-BY-NC-4.0",
@@ -1137,14 +1011,12 @@
             }
           ],
           "translations": [
-            "en_No, this year I want to do something different._sentence"
+            "en_No, this year I want to do something different."
           ]
         },
         {
-          "uid": "en_No, this year I want to do something different._sentence",
           "language": "en",
           "content": "No, this year I want to do something different.",
-          "linguType": "sentence",
           "credits": [
             {
               "license": "CC-BY-NC-4.0",
@@ -1155,14 +1027,12 @@
             }
           ],
           "translations": [
-            "apc_لا هاي السنة حابب أعمل إشي مختلف_sentence"
+            "apc_لا هاي السنة حابب أعمل إشي مختلف"
           ]
         },
         {
-          "uid": "apc_حابب أسوق سيارة رياضية._sentence",
           "language": "apc",
           "content": "حابب أسوق سيارة رياضية.",
-          "linguType": "sentence",
           "credits": [
             {
               "license": "CC-BY-NC-4.0",
@@ -1173,14 +1043,12 @@
             }
           ],
           "translations": [
-            "en_I want to drive a sports car._sentence"
+            "en_I want to drive a sports car."
           ]
         },
         {
-          "uid": "en_I want to drive a sports car._sentence",
           "language": "en",
           "content": "I want to drive a sports car.",
-          "linguType": "sentence",
           "credits": [
             {
               "license": "CC-BY-NC-4.0",
@@ -1191,14 +1059,12 @@
             }
           ],
           "translations": [
-            "apc_حابب أسوق سيارة رياضية._sentence"
+            "apc_حابب أسوق سيارة رياضية."
           ]
         },
         {
-          "uid": "apc_أنا كتير متأسف، بس حابب أأجل الموعد._sentence",
           "language": "apc",
           "content": "أنا كتير متأسف، بس حابب أأجل الموعد.",
-          "linguType": "sentence",
           "credits": [
             {
               "license": "CC-BY-NC-4.0",
@@ -1209,14 +1075,12 @@
             }
           ],
           "translations": [
-            "en_I'm very sorry, but I would like to postpone the meeting._sentence"
+            "en_I'm very sorry, but I would like to postpone the meeting."
           ]
         },
         {
-          "uid": "en_I'm very sorry, but I would like to postpone the meeting._sentence",
           "language": "en",
           "content": "I'm very sorry, but I would like to postpone the meeting.",
-          "linguType": "sentence",
           "credits": [
             {
               "license": "CC-BY-NC-4.0",
@@ -1227,14 +1091,12 @@
             }
           ],
           "translations": [
-            "apc_أنا كتير متأسف، بس حابب أأجل الموعد._sentence"
+            "apc_أنا كتير متأسف، بس حابب أأجل الموعد."
           ]
         },
         {
-          "uid": "apc_حابب نشغل مخنا مع بعض_sentence",
           "language": "apc",
           "content": "حابب نشغل مخنا مع بعض",
-          "linguType": "sentence",
           "credits": [
             {
               "license": "CC-BY-NC-4.0",
@@ -1245,14 +1107,12 @@
             }
           ],
           "translations": [
-            "en_I would love for us to put our minds together._sentence"
+            "en_I would love for us to put our minds together."
           ]
         },
         {
-          "uid": "en_I would love for us to put our minds together._sentence",
           "language": "en",
           "content": "I would love for us to put our minds together.",
-          "linguType": "sentence",
           "credits": [
             {
               "license": "CC-BY-NC-4.0",
@@ -1263,14 +1123,12 @@
             }
           ],
           "translations": [
-            "apc_حابب نشغل مخنا مع بعض_sentence"
+            "apc_حابب نشغل مخنا مع بعض"
           ]
         },
         {
-          "uid": "apc_انت هيك حابب إنّك تعيش بهاي الحياة._sentence",
           "language": "apc",
           "content": "انت هيك حابب إنّك تعيش بهاي الحياة.",
-          "linguType": "sentence",
           "credits": [
             {
               "license": "CC-BY-NC-4.0",
@@ -1281,14 +1139,12 @@
             }
           ],
           "translations": [
-            "en_You want to live a life like this._sentence"
+            "en_You want to live a life like this."
           ]
         },
         {
-          "uid": "en_You want to live a life like this._sentence",
           "language": "en",
           "content": "You want to live a life like this.",
-          "linguType": "sentence",
           "credits": [
             {
               "license": "CC-BY-NC-4.0",
@@ -1299,14 +1155,12 @@
             }
           ],
           "translations": [
-            "apc_انت هيك حابب إنّك تعيش بهاي الحياة._sentence"
+            "apc_انت هيك حابب إنّك تعيش بهاي الحياة."
           ]
         },
         {
-          "uid": "apc_‏فهمت من مكتوبو إنو حابب شغلو ‎_sentence",
           "language": "apc",
           "content": "‏فهمت من مكتوبو إنو حابب شغلو ‎",
-          "linguType": "sentence",
           "credits": [
             {
               "license": "CC-BY-NC-4.0",
@@ -1317,14 +1171,12 @@
             }
           ],
           "translations": [
-            "en_I understood from his letter that he loves his job._sentence"
+            "en_I understood from his letter that he loves his job."
           ]
         },
         {
-          "uid": "en_I understood from his letter that he loves his job._sentence",
           "language": "en",
           "content": "I understood from his letter that he loves his job.",
-          "linguType": "sentence",
           "credits": [
             {
               "license": "CC-BY-NC-4.0",
@@ -1335,14 +1187,12 @@
             }
           ],
           "translations": [
-            "apc_‏فهمت من مكتوبو إنو حابب شغلو ‎_sentence"
+            "apc_‏فهمت من مكتوبو إنو حابب شغلو ‎"
           ]
         },
         {
-          "uid": "apc_حابب أخد نفس الكورس بكرا، لو سمحت._sentence",
           "language": "apc",
           "content": "حابب أخد نفس الكورس بكرا، لو سمحت.",
-          "linguType": "sentence",
           "credits": [
             {
               "license": "CC-BY-NC-4.0",
@@ -1353,14 +1203,12 @@
             }
           ],
           "translations": [
-            "en_I'd like to take the same course tomorrow, please._sentence"
+            "en_I'd like to take the same course tomorrow, please."
           ]
         },
         {
-          "uid": "en_I'd like to take the same course tomorrow, please._sentence",
           "language": "en",
           "content": "I'd like to take the same course tomorrow, please.",
-          "linguType": "sentence",
           "credits": [
             {
               "license": "CC-BY-NC-4.0",
@@ -1371,14 +1219,12 @@
             }
           ],
           "translations": [
-            "apc_حابب أخد نفس الكورس بكرا، لو سمحت._sentence"
+            "apc_حابب أخد نفس الكورس بكرا، لو سمحت."
           ]
         },
         {
-          "uid": "apc_حابب اركب سيارة رياضية._sentence",
           "language": "apc",
           "content": "حابب اركب سيارة رياضية.",
-          "linguType": "sentence",
           "credits": [
             {
               "license": "CC-BY-NC-4.0",
@@ -1389,1494 +1235,1182 @@
             }
           ],
           "translations": [
-            "en_I want to ride in a sports car._sentence"
+            "en_I want to ride in a sports car."
           ]
         },
         {
-          "uid": "en_I want to ride in a sports car._sentence",
-          "language": "en",
-          "content": "I want to ride in a sports car.",
-          "linguType": "sentence",
-          "credits": [
-            {
-              "license": "CC-BY-NC-4.0",
-              "owner": "Guy Mor-Lan",
-              "ownerLink": "https://huggingface.co/guymorlan",
-              "source": "Levanti Dataset",
-              "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti"
-            }
-          ],
-          "translations": [
-            "apc_حابب اركب سيارة رياضية._sentence"
-          ]
-        },
-        {
-          "uid": "apc_آخد",
           "language": "apc",
           "content": "آخد"
         },
         {
-          "uid": "apc_آسف،",
           "language": "apc",
           "content": "آسف،"
         },
         {
-          "uid": "apc_أأجل",
           "language": "apc",
           "content": "أأجل"
         },
         {
-          "uid": "apc_أتعلم",
           "language": "apc",
           "content": "أتعلم"
         },
         {
-          "uid": "apc_أجل",
           "language": "apc",
           "content": "أجل"
         },
         {
-          "uid": "apc_أحجز",
           "language": "apc",
           "content": "أحجز"
         },
         {
-          "uid": "apc_أحط",
           "language": "apc",
           "content": "أحط"
         },
         {
-          "uid": "apc_أخد",
           "language": "apc",
           "content": "أخد"
         },
         {
-          "uid": "apc_أخلع",
           "language": "apc",
           "content": "أخلع"
         },
         {
-          "uid": "apc_أذكّركم",
           "language": "apc",
           "content": "أذكّركم"
         },
         {
-          "uid": "apc_أركب",
           "language": "apc",
           "content": "أركب"
         },
         {
-          "uid": "apc_أسافر",
           "language": "apc",
           "content": "أسافر"
         },
         {
-          "uid": "apc_أسلم",
           "language": "apc",
           "content": "أسلم"
         },
         {
-          "uid": "apc_أسوق",
           "language": "apc",
           "content": "أسوق"
         },
         {
-          "uid": "apc_أطلب",
           "language": "apc",
           "content": "أطلب"
         },
         {
-          "uid": "apc_أعمل",
           "language": "apc",
           "content": "أعمل"
         },
         {
-          "uid": "apc_أمانات",
           "language": "apc",
           "content": "أمانات"
         },
         {
-          "uid": "apc_أنا",
           "language": "apc",
           "content": "أنا"
         },
         {
-          "uid": "apc_أنضم",
           "language": "apc",
           "content": "أنضم"
         },
         {
-          "uid": "apc_أورّيكم",
           "language": "apc",
           "content": "أورّيكم"
         },
         {
-          "uid": "apc_إسرائيل",
           "language": "apc",
           "content": "إسرائيل"
         },
         {
-          "uid": "apc_إشي",
           "language": "apc",
           "content": "إشي"
         },
         {
-          "uid": "apc_إنو",
           "language": "apc",
           "content": "إنو"
         },
         {
-          "uid": "apc_إنّك",
           "language": "apc",
           "content": "إنّك"
         },
         {
-          "uid": "apc_إنّي",
           "language": "apc",
           "content": "إنّي"
         },
         {
-          "uid": "apc_احكي",
           "language": "apc",
           "content": "احكي"
         },
         {
-          "uid": "apc_اخواني",
           "language": "apc",
           "content": "اخواني"
         },
         {
-          "uid": "apc_ادفع",
           "language": "apc",
           "content": "ادفع"
         },
         {
-          "uid": "apc_اركب",
           "language": "apc",
           "content": "اركب"
         },
         {
-          "uid": "apc_اسرائيل",
           "language": "apc",
           "content": "اسرائيل"
         },
         {
-          "uid": "apc_اشوف",
           "language": "apc",
           "content": "اشوف"
         },
         {
-          "uid": "apc_اطمنكم",
           "language": "apc",
           "content": "اطمنكم"
         },
         {
-          "uid": "apc_اعيش",
           "language": "apc",
           "content": "اعيش"
         },
         {
-          "uid": "apc_اقرأ",
           "language": "apc",
           "content": "اقرأ"
         },
         {
-          "uid": "apc_الأمانات",
           "language": "apc",
           "content": "الأمانات"
         },
         {
-          "uid": "apc_الحياة",
           "language": "apc",
           "content": "الحياة"
         },
         {
-          "uid": "apc_الدكتور",
           "language": "apc",
           "content": "الدكتور"
         },
         {
-          "uid": "apc_السرقة",
           "language": "apc",
           "content": "السرقة"
         },
         {
-          "uid": "apc_السنة",
           "language": "apc",
           "content": "السنة"
         },
         {
-          "uid": "apc_الشفافة",
           "language": "apc",
           "content": "الشفافة"
         },
         {
-          "uid": "apc_الطبيعة",
           "language": "apc",
           "content": "الطبيعة"
         },
         {
-          "uid": "apc_العصير",
           "language": "apc",
           "content": "العصير"
         },
         {
-          "uid": "apc_الفكرة",
           "language": "apc",
           "content": "الفكرة"
         },
         {
-          "uid": "apc_الكورس",
           "language": "apc",
           "content": "الكورس"
         },
         {
-          "uid": "apc_الكورونا",
           "language": "apc",
           "content": "الكورونا"
         },
         {
-          "uid": "apc_اللي",
           "language": "apc",
           "content": "اللي"
         },
         {
-          "uid": "apc_الموعد",
           "language": "apc",
           "content": "الموعد"
         },
         {
-          "uid": "apc_اليابان",
           "language": "apc",
           "content": "اليابان"
         },
         {
-          "uid": "apc_انا",
           "language": "apc",
           "content": "انا"
         },
         {
-          "uid": "apc_انت",
           "language": "apc",
           "content": "انت"
         },
         {
-          "uid": "apc_انجبر",
           "language": "apc",
           "content": "انجبر"
         },
         {
-          "uid": "apc_اه،",
           "language": "apc",
           "content": "اه،"
         },
         {
-          "uid": "apc_اورجيكم",
           "language": "apc",
           "content": "اورجيكم"
         },
         {
-          "uid": "apc_اوضحكم",
           "language": "apc",
           "content": "اوضحكم"
         },
         {
-          "uid": "apc_بالأول",
           "language": "apc",
           "content": "بالأول"
         },
         {
-          "uid": "apc_بالبلد",
           "language": "apc",
           "content": "بالبلد"
         },
         {
-          "uid": "apc_بالصّراحة",
           "language": "apc",
           "content": "بالصّراحة"
         },
         {
-          "uid": "apc_باوروبا",
           "language": "apc",
           "content": "باوروبا"
         },
         {
-          "uid": "apc_بس",
           "language": "apc",
           "content": "بس"
         },
         {
-          "uid": "apc_بسيارة",
           "language": "apc",
           "content": "بسيارة"
         },
         {
-          "uid": "apc_بسّ",
           "language": "apc",
           "content": "بسّ"
         },
         {
-          "uid": "apc_بصندوق",
           "language": "apc",
           "content": "بصندوق"
         },
         {
-          "uid": "apc_بعبارة",
           "language": "apc",
           "content": "بعبارة"
         },
         {
-          "uid": "apc_بعض",
           "language": "apc",
           "content": "بعض"
         },
         {
-          "uid": "apc_بكرا،",
           "language": "apc",
           "content": "بكرا،"
         },
         {
-          "uid": "apc_بكير",
           "language": "apc",
           "content": "بكير"
         },
         {
-          "uid": "apc_بلدنا",
           "language": "apc",
           "content": "بلدنا"
         },
         {
-          "uid": "apc_بمحلّ",
           "language": "apc",
           "content": "بمحلّ"
         },
         {
-          "uid": "apc_بهاي",
           "language": "apc",
           "content": "بهاي"
         },
         {
-          "uid": "apc_تانية،",
           "language": "apc",
           "content": "تانية،"
         },
         {
-          "uid": "apc_تحكيلنا؟",
           "language": "apc",
           "content": "تحكيلنا؟"
         },
         {
-          "uid": "apc_تشربه؟",
           "language": "apc",
           "content": "تشربه؟"
         },
         {
-          "uid": "apc_تشوف",
           "language": "apc",
           "content": "تشوف"
         },
         {
-          "uid": "apc_تشوفو؟",
           "language": "apc",
           "content": "تشوفو؟"
         },
         {
-          "uid": "apc_تعيش",
           "language": "apc",
           "content": "تعيش"
         },
         {
-          "uid": "apc_تفضل",
           "language": "apc",
           "content": "تفضل"
         },
         {
-          "uid": "apc_تقدّمها",
           "language": "apc",
           "content": "تقدّمها"
         },
         {
-          "uid": "apc_تقرير",
           "language": "apc",
           "content": "تقرير"
         },
         {
-          "uid": "apc_جلال",
           "language": "apc",
           "content": "جلال"
         },
         {
-          "uid": "apc_جمال",
           "language": "apc",
           "content": "جمال"
         },
         {
-          "uid": "apc_حابب",
           "language": "apc",
           "content": "حابب"
         },
         {
-          "uid": "apc_حداثتها",
           "language": "apc",
           "content": "حداثتها"
         },
         {
-          "uid": "apc_حط",
           "language": "apc",
           "content": "حط"
         },
         {
-          "uid": "apc_دييغو",
           "language": "apc",
           "content": "دييغو"
         },
         {
-          "uid": "apc_رياضية",
           "language": "apc",
           "content": "رياضية"
         },
         {
-          "uid": "apc_سان",
           "language": "apc",
           "content": "سان"
         },
         {
-          "uid": "apc_سبورت",
           "language": "apc",
           "content": "سبورت"
         },
         {
-          "uid": "apc_سلامات",
           "language": "apc",
           "content": "سلامات"
         },
         {
-          "uid": "apc_سمحت",
           "language": "apc",
           "content": "سمحت"
         },
         {
-          "uid": "apc_سمحت،",
           "language": "apc",
           "content": "سمحت،"
         },
         {
-          "uid": "apc_سناني",
           "language": "apc",
           "content": "سناني"
         },
         {
-          "uid": "apc_سني",
           "language": "apc",
           "content": "سني"
         },
         {
-          "uid": "apc_سيارة",
           "language": "apc",
           "content": "سيارة"
         },
         {
-          "uid": "apc_شغله",
           "language": "apc",
           "content": "شغله"
         },
         {
-          "uid": "apc_شغلو",
           "language": "apc",
           "content": "شغلو"
         },
         {
-          "uid": "apc_شنتة",
           "language": "apc",
           "content": "شنتة"
         },
         {
-          "uid": "apc_شو",
           "language": "apc",
           "content": "شو"
         },
         {
-          "uid": "apc_شي",
           "language": "apc",
           "content": "شي"
         },
         {
-          "uid": "apc_صغيره",
           "language": "apc",
           "content": "صغيره"
         },
         {
-          "uid": "apc_صندوق",
           "language": "apc",
           "content": "صندوق"
         },
         {
-          "uid": "apc_طالع",
           "language": "apc",
           "content": "طالع"
         },
         {
-          "uid": "apc_على",
           "language": "apc",
           "content": "على"
         },
         {
-          "uid": "apc_علينا",
           "language": "apc",
           "content": "علينا"
         },
         {
-          "uid": "apc_عليها",
           "language": "apc",
           "content": "عليها"
         },
         {
-          "uid": "apc_عن",
           "language": "apc",
           "content": "عن"
         },
         {
-          "uid": "apc_عند",
           "language": "apc",
           "content": "عند"
         },
         {
-          "uid": "apc_غامق",
           "language": "apc",
           "content": "غامق"
         },
         {
-          "uid": "apc_فكتير",
           "language": "apc",
           "content": "فكتير"
         },
         {
-          "uid": "apc_فهمت",
           "language": "apc",
           "content": "فهمت"
         },
         {
-          "uid": "apc_في",
           "language": "apc",
           "content": "في"
         },
         {
-          "uid": "apc_كان",
           "language": "apc",
           "content": "كان"
         },
         {
-          "uid": "apc_كتير",
           "language": "apc",
           "content": "كتير"
         },
         {
-          "uid": "apc_لألي",
           "language": "apc",
           "content": "لألي"
         },
         {
-          "uid": "apc_لا",
           "language": "apc",
           "content": "لا"
         },
         {
-          "uid": "apc_لك",
           "language": "apc",
           "content": "لك"
         },
         {
-          "uid": "apc_لهيك",
           "language": "apc",
           "content": "لهيك"
         },
         {
-          "uid": "apc_لو",
           "language": "apc",
           "content": "لو"
         },
         {
-          "uid": "apc_لونها",
           "language": "apc",
           "content": "لونها"
         },
         {
-          "uid": "apc_لي",
           "language": "apc",
           "content": "لي"
         },
         {
-          "uid": "apc_ما",
           "language": "apc",
           "content": "ما"
         },
         {
-          "uid": "apc_متأسف،",
           "language": "apc",
           "content": "متأسف،"
         },
         {
-          "uid": "apc_مجنون",
           "language": "apc",
           "content": "مجنون"
         },
         {
-          "uid": "apc_محايد",
           "language": "apc",
           "content": "محايد"
         },
         {
-          "uid": "apc_مختلف",
           "language": "apc",
           "content": "مختلف"
         },
         {
-          "uid": "apc_مخنا",
           "language": "apc",
           "content": "مخنا"
         },
         {
-          "uid": "apc_مرشد",
           "language": "apc",
           "content": "مرشد"
         },
         {
-          "uid": "apc_مشية",
           "language": "apc",
           "content": "مشية"
         },
         {
-          "uid": "apc_مع",
           "language": "apc",
           "content": "مع"
         },
         {
-          "uid": "apc_معك",
           "language": "apc",
           "content": "معك"
         },
         {
-          "uid": "apc_مفرحك",
           "language": "apc",
           "content": "مفرحك"
         },
         {
-          "uid": "apc_مكتوبو",
           "language": "apc",
           "content": "مكتوبو"
         },
         {
-          "uid": "apc_من",
           "language": "apc",
           "content": "من"
         },
         {
-          "uid": "apc_مو",
           "language": "apc",
           "content": "مو"
         },
         {
-          "uid": "apc_موعد",
           "language": "apc",
           "content": "موعد"
         },
         {
-          "uid": "apc_نشغل",
           "language": "apc",
           "content": "نشغل"
         },
         {
-          "uid": "apc_نفس",
           "language": "apc",
           "content": "نفس"
         },
         {
-          "uid": "apc_نوع",
           "language": "apc",
           "content": "نوع"
         },
         {
-          "uid": "apc_هاد",
           "language": "apc",
           "content": "هاد"
         },
         {
-          "uid": "apc_هالبرادي",
           "language": "apc",
           "content": "هالبرادي"
         },
         {
-          "uid": "apc_هاي",
           "language": "apc",
           "content": "هاي"
         },
         {
-          "uid": "apc_هدا",
           "language": "apc",
           "content": "هدا"
         },
         {
-          "uid": "apc_هداك",
           "language": "apc",
           "content": "هداك"
         },
         {
-          "uid": "apc_هلأ",
           "language": "apc",
           "content": "هلأ"
         },
         {
-          "uid": "apc_هيدا",
           "language": "apc",
           "content": "هيدا"
         },
         {
-          "uid": "apc_هيك",
           "language": "apc",
           "content": "هيك"
         },
         {
-          "uid": "apc_يروح،",
           "language": "apc",
           "content": "يروح،"
         },
         {
-          "uid": "apc_يكون",
           "language": "apc",
           "content": "يكون"
         },
         {
-          "uid": "en_about",
           "language": "en",
           "content": "about"
         },
         {
-          "uid": "en_ahead",
           "language": "en",
           "content": "ahead"
         },
         {
-          "uid": "en_all",
           "language": "en",
           "content": "all"
         },
         {
-          "uid": "en_an",
           "language": "en",
           "content": "an"
         },
         {
-          "uid": "en_and",
           "language": "en",
           "content": "and"
         },
         {
-          "uid": "en_appointment",
           "language": "en",
           "content": "appointment"
         },
         {
-          "uid": "en_bag",
           "language": "en",
           "content": "bag"
         },
         {
-          "uid": "en_beauty",
           "language": "en",
           "content": "beauty"
         },
         {
-          "uid": "en_book",
           "language": "en",
           "content": "book"
         },
         {
-          "uid": "en_brothers",
           "language": "en",
           "content": "brothers"
         },
         {
-          "uid": "en_but",
           "language": "en",
           "content": "but"
         },
         {
-          "uid": "en_car",
           "language": "en",
           "content": "car"
         },
         {
-          "uid": "en_city",
           "language": "en",
           "content": "city"
         },
         {
-          "uid": "en_clarify",
           "language": "en",
           "content": "clarify"
         },
         {
-          "uid": "en_coronavirus",
           "language": "en",
           "content": "coronavirus"
         },
         {
-          "uid": "en_country",
           "language": "en",
           "content": "country"
         },
         {
-          "uid": "en_course",
           "language": "en",
           "content": "course"
         },
         {
-          "uid": "en_crazy",
           "language": "en",
           "content": "crazy"
         },
         {
-          "uid": "en_curtains",
           "language": "en",
           "content": "curtains"
         },
         {
-          "uid": "en_darkcolored",
           "language": "en",
           "content": "darkcolored"
         },
         {
-          "uid": "en_didnt",
           "language": "en",
           "content": "didnt"
         },
         {
-          "uid": "en_diego",
           "language": "en",
           "content": "diego"
         },
         {
-          "uid": "en_different",
           "language": "en",
           "content": "different"
         },
         {
-          "uid": "en_do",
           "language": "en",
           "content": "do"
         },
         {
-          "uid": "en_doctor",
           "language": "en",
           "content": "doctor"
         },
         {
-          "uid": "en_dont",
           "language": "en",
           "content": "dont"
         },
         {
-          "uid": "en_drink",
           "language": "en",
           "content": "drink"
         },
         {
-          "uid": "en_drive",
           "language": "en",
           "content": "drive"
         },
         {
-          "uid": "en_early",
           "language": "en",
           "content": "early"
         },
         {
-          "uid": "en_europe",
           "language": "en",
           "content": "europe"
         },
         {
-          "uid": "en_excuse",
           "language": "en",
           "content": "excuse"
         },
         {
-          "uid": "en_extract",
           "language": "en",
           "content": "extract"
         },
         {
-          "uid": "en_feel",
           "language": "en",
           "content": "feel"
         },
         {
-          "uid": "en_first",
           "language": "en",
           "content": "first"
         },
         {
-          "uid": "en_fond",
           "language": "en",
           "content": "fond"
         },
         {
-          "uid": "en_for",
           "language": "en",
           "content": "for"
         },
         {
-          "uid": "en_forced",
           "language": "en",
           "content": "forced"
         },
         {
-          "uid": "en_from",
           "language": "en",
           "content": "from"
         },
         {
-          "uid": "en_go",
           "language": "en",
           "content": "go"
         },
         {
-          "uid": "en_happy",
           "language": "en",
           "content": "happy"
         },
         {
-          "uid": "en_he",
           "language": "en",
           "content": "he"
         },
         {
-          "uid": "en_hello",
           "language": "en",
           "content": "hello"
         },
         {
-          "uid": "en_his",
           "language": "en",
           "content": "his"
         },
         {
-          "uid": "en_honestly",
           "language": "en",
           "content": "honestly"
         },
         {
-          "uid": "en_id",
           "language": "en",
           "content": "id"
         },
         {
-          "uid": "en_idea",
           "language": "en",
           "content": "idea"
         },
         {
-          "uid": "en_im",
           "language": "en",
           "content": "im"
         },
         {
-          "uid": "en_in",
           "language": "en",
           "content": "in"
         },
         {
-          "uid": "en_innovation",
           "language": "en",
           "content": "innovation"
         },
         {
-          "uid": "en_is",
           "language": "en",
           "content": "is"
         },
         {
-          "uid": "en_israel",
           "language": "en",
           "content": "israel"
         },
         {
-          "uid": "en_israels",
           "language": "en",
           "content": "israels"
         },
         {
-          "uid": "en_issue",
           "language": "en",
           "content": "issue"
         },
         {
-          "uid": "en_it",
           "language": "en",
           "content": "it"
         },
         {
-          "uid": "en_jalal",
           "language": "en",
           "content": "jalal"
         },
         {
-          "uid": "en_japan",
           "language": "en",
           "content": "japan"
         },
         {
-          "uid": "en_job",
           "language": "en",
           "content": "job"
         },
         {
-          "uid": "en_join",
           "language": "en",
           "content": "join"
         },
         {
-          "uid": "en_juice",
           "language": "en",
           "content": "juice"
         },
         {
-          "uid": "en_just",
           "language": "en",
           "content": "just"
         },
         {
-          "uid": "en_kind",
           "language": "en",
           "content": "kind"
         },
         {
-          "uid": "en_learn",
           "language": "en",
           "content": "learn"
         },
         {
-          "uid": "en_leaving",
           "language": "en",
           "content": "leaving"
         },
         {
-          "uid": "en_letter",
           "language": "en",
           "content": "letter"
         },
         {
-          "uid": "en_life",
           "language": "en",
           "content": "life"
         },
         {
-          "uid": "en_like",
           "language": "en",
           "content": "like"
         },
         {
-          "uid": "en_live",
           "language": "en",
           "content": "live"
         },
         {
-          "uid": "en_love",
           "language": "en",
           "content": "love"
         },
         {
-          "uid": "en_loves",
           "language": "en",
           "content": "loves"
         },
         {
-          "uid": "en_makes",
           "language": "en",
           "content": "makes"
         },
         {
-          "uid": "en_me",
           "language": "en",
           "content": "me"
         },
         {
-          "uid": "en_meeting",
           "language": "en",
           "content": "meeting"
         },
         {
-          "uid": "en_minds",
           "language": "en",
           "content": "minds"
         },
         {
-          "uid": "en_murshid",
           "language": "en",
           "content": "murshid"
         },
         {
-          "uid": "en_my",
           "language": "en",
           "content": "my"
         },
         {
-          "uid": "en_myself",
           "language": "en",
           "content": "myself"
         },
         {
-          "uid": "en_nature",
           "language": "en",
           "content": "nature"
         },
         {
-          "uid": "en_neutral",
           "language": "en",
           "content": "neutral"
         },
         {
-          "uid": "en_no",
           "language": "en",
           "content": "no"
         },
         {
-          "uid": "en_not",
           "language": "en",
           "content": "not"
         },
         {
-          "uid": "en_now",
           "language": "en",
           "content": "now"
         },
         {
-          "uid": "en_of",
           "language": "en",
           "content": "of"
         },
         {
-          "uid": "en_okay",
           "language": "en",
           "content": "okay"
         },
         {
-          "uid": "en_one",
           "language": "en",
           "content": "one"
         },
         {
-          "uid": "en_order",
           "language": "en",
           "content": "order"
         },
         {
-          "uid": "en_other",
           "language": "en",
           "content": "other"
         },
         {
-          "uid": "en_our",
           "language": "en",
           "content": "our"
         },
         {
-          "uid": "en_out",
           "language": "en",
           "content": "out"
         },
         {
-          "uid": "en_pay",
           "language": "en",
           "content": "pay"
         },
         {
-          "uid": "en_place",
           "language": "en",
           "content": "place"
         },
         {
-          "uid": "en_please",
           "language": "en",
           "content": "please"
         },
         {
-          "uid": "en_postpone",
           "language": "en",
           "content": "postpone"
         },
         {
-          "uid": "en_progress",
           "language": "en",
           "content": "progress"
         },
         {
-          "uid": "en_pull",
           "language": "en",
           "content": "pull"
         },
         {
-          "uid": "en_put",
           "language": "en",
           "content": "put"
         },
         {
-          "uid": "en_read",
           "language": "en",
           "content": "read"
         },
         {
-          "uid": "en_really",
           "language": "en",
           "content": "really"
         },
         {
-          "uid": "en_reassure",
           "language": "en",
           "content": "reassure"
         },
         {
-          "uid": "en_remind",
           "language": "en",
           "content": "remind"
         },
         {
-          "uid": "en_report",
           "language": "en",
           "content": "report"
         },
         {
-          "uid": "en_ride",
           "language": "en",
           "content": "ride"
         },
         {
-          "uid": "en_safe",
           "language": "en",
           "content": "safe"
         },
         {
-          "uid": "en_same",
           "language": "en",
           "content": "same"
         },
         {
-          "uid": "en_san",
           "language": "en",
           "content": "san"
         },
         {
-          "uid": "en_see",
           "language": "en",
           "content": "see"
         },
         {
-          "uid": "en_show",
           "language": "en",
           "content": "show"
         },
         {
-          "uid": "en_small",
           "language": "en",
           "content": "small"
         },
         {
-          "uid": "en_so",
           "language": "en",
           "content": "so"
         },
         {
-          "uid": "en_something",
           "language": "en",
           "content": "something"
         },
         {
-          "uid": "en_sorry",
           "language": "en",
           "content": "sorry"
         },
         {
-          "uid": "en_sports",
           "language": "en",
           "content": "sports"
         },
         {
-          "uid": "en_submit",
           "language": "en",
           "content": "submit"
         },
         {
-          "uid": "en_take",
           "language": "en",
           "content": "take"
         },
         {
-          "uid": "en_taking",
           "language": "en",
           "content": "taking"
         },
         {
-          "uid": "en_talk",
           "language": "en",
           "content": "talk"
         },
         {
-          "uid": "en_teeth",
           "language": "en",
           "content": "teeth"
         },
         {
-          "uid": "en_tell",
           "language": "en",
           "content": "tell"
         },
         {
-          "uid": "en_that",
           "language": "en",
           "content": "that"
         },
         {
-          "uid": "en_the",
           "language": "en",
           "content": "the"
         },
         {
-          "uid": "en_theft",
           "language": "en",
           "content": "theft"
         },
         {
-          "uid": "en_there",
           "language": "en",
           "content": "there"
         },
         {
-          "uid": "en_these",
           "language": "en",
           "content": "these"
         },
         {
-          "uid": "en_this",
           "language": "en",
           "content": "this"
         },
         {
-          "uid": "en_to",
           "language": "en",
           "content": "to"
         },
         {
-          "uid": "en_together",
           "language": "en",
           "content": "together"
         },
         {
-          "uid": "en_tomorrow",
           "language": "en",
           "content": "tomorrow"
         },
         {
-          "uid": "en_tooth",
           "language": "en",
           "content": "tooth"
         },
         {
-          "uid": "en_transparent",
           "language": "en",
           "content": "transparent"
         },
         {
-          "uid": "en_travel",
           "language": "en",
           "content": "travel"
         },
         {
-          "uid": "en_understood",
           "language": "en",
           "content": "understood"
         },
         {
-          "uid": "en_us",
           "language": "en",
           "content": "us"
         },
         {
-          "uid": "en_very",
           "language": "en",
           "content": "very"
         },
         {
-          "uid": "en_walk",
           "language": "en",
           "content": "walk"
         },
         {
-          "uid": "en_want",
           "language": "en",
           "content": "want"
         },
         {
-          "uid": "en_wanted",
           "language": "en",
           "content": "wanted"
         },
         {
-          "uid": "en_was",
           "language": "en",
           "content": "was"
         },
         {
-          "uid": "en_were",
           "language": "en",
           "content": "were"
         },
         {
-          "uid": "en_what",
           "language": "en",
           "content": "what"
         },
         {
-          "uid": "en_with",
           "language": "en",
           "content": "with"
         },
         {
-          "uid": "en_words",
           "language": "en",
           "content": "words"
         },
         {
-          "uid": "en_would",
           "language": "en",
           "content": "would"
         },
         {
-          "uid": "en_yeah",
           "language": "en",
           "content": "yeah"
         },
         {
-          "uid": "en_year",
           "language": "en",
           "content": "year"
         },
         {
-          "uid": "en_you",
           "language": "en",
           "content": "you"
         }
       ],
       "primaryUnitsOfMeaning": [
         {
-          "uid": "apc_حابب",
           "language": "apc",
           "content": "حابب"
         },
         {
-          "uid": "apc_حابب اطمنكم علينا_sentence",
           "language": "apc",
           "content": "حابب اطمنكم علينا",
-          "linguType": "sentence",
           "credits": [
             {
               "license": "CC-BY-NC-4.0",
@@ -2887,14 +2421,12 @@
             }
           ],
           "translations": [
-            "en_I want to reassure you that we're okay..._sentence"
+            "en_I want to reassure you that we're okay..."
           ]
         },
         {
-          "uid": "en_I want to reassure you that we're okay..._sentence",
           "language": "en",
           "content": "I want to reassure you that we're okay...",
-          "linguType": "sentence",
           "credits": [
             {
               "license": "CC-BY-NC-4.0",
@@ -2905,14 +2437,12 @@
             }
           ],
           "translations": [
-            "apc_حابب اطمنكم علينا_sentence"
+            "apc_حابب اطمنكم علينا"
           ]
         },
         {
-          "uid": "apc_حابب أخد هداك._sentence",
           "language": "apc",
           "content": "حابب أخد هداك.",
-          "linguType": "sentence",
           "credits": [
             {
               "license": "CC-BY-NC-4.0",
@@ -2923,14 +2453,12 @@
             }
           ],
           "translations": [
-            "en_I want to take that one._sentence"
+            "en_I want to take that one."
           ]
         },
         {
-          "uid": "en_I want to take that one._sentence",
           "language": "en",
           "content": "I want to take that one.",
-          "linguType": "sentence",
           "credits": [
             {
               "license": "CC-BY-NC-4.0",
@@ -2941,14 +2469,12 @@
             }
           ],
           "translations": [
-            "apc_حابب أخد هداك._sentence"
+            "apc_حابب أخد هداك."
           ]
         },
         {
-          "uid": "apc_بس حابب أذكّركم:_sentence",
           "language": "apc",
           "content": "بس حابب أذكّركم:",
-          "linguType": "sentence",
           "credits": [
             {
               "license": "CC-BY-NC-4.0",
@@ -2959,14 +2485,12 @@
             }
           ],
           "translations": [
-            "en_I just want to remind you:_sentence"
+            "en_I just want to remind you:"
           ]
         },
         {
-          "uid": "en_I just want to remind you:_sentence",
           "language": "en",
           "content": "I just want to remind you:",
-          "linguType": "sentence",
           "credits": [
             {
               "license": "CC-BY-NC-4.0",
@@ -2977,14 +2501,12 @@
             }
           ],
           "translations": [
-            "apc_بس حابب أذكّركم:_sentence"
+            "apc_بس حابب أذكّركم:"
           ]
         },
         {
-          "uid": "apc_حابب أتعلم عليها_sentence",
           "language": "apc",
           "content": "حابب أتعلم عليها",
-          "linguType": "sentence",
           "credits": [
             {
               "license": "CC-BY-NC-4.0",
@@ -2995,14 +2517,12 @@
             }
           ],
           "translations": [
-            "en_I want to learn it._sentence"
+            "en_I want to learn it."
           ]
         },
         {
-          "uid": "en_I want to learn it._sentence",
           "language": "en",
           "content": "I want to learn it.",
-          "linguType": "sentence",
           "credits": [
             {
               "license": "CC-BY-NC-4.0",
@@ -3013,14 +2533,12 @@
             }
           ],
           "translations": [
-            "apc_حابب أتعلم عليها_sentence"
+            "apc_حابب أتعلم عليها"
           ]
         },
         {
-          "uid": "apc_حابب أخلع سناني._sentence",
           "language": "apc",
           "content": "حابب أخلع سناني.",
-          "linguType": "sentence",
           "credits": [
             {
               "license": "CC-BY-NC-4.0",
@@ -3031,14 +2549,12 @@
             }
           ],
           "translations": [
-            "en_I want to pull out my teeth._sentence"
+            "en_I want to pull out my teeth."
           ]
         },
         {
-          "uid": "en_I want to pull out my teeth._sentence",
           "language": "en",
           "content": "I want to pull out my teeth.",
-          "linguType": "sentence",
           "credits": [
             {
               "license": "CC-BY-NC-4.0",
@@ -3049,7 +2565,7 @@
             }
           ],
           "translations": [
-            "apc_حابب أخلع سناني._sentence"
+            "apc_حابب أخلع سناني."
           ]
         }
       ]
@@ -3059,10 +2575,8 @@
       "language": "apc",
       "unitsOfMeaning": [
         {
-          "uid": "apc_انا حابب احكي معك._sentence",
           "language": "apc",
           "content": "انا حابب احكي معك.",
-          "linguType": "sentence",
           "credits": [
             {
               "license": "CC-BY-NC-4.0",
@@ -3073,14 +2587,12 @@
             }
           ],
           "translations": [
-            "en_I want to talk to you._sentence"
+            "en_I want to talk to you."
           ]
         },
         {
-          "uid": "en_I want to talk to you._sentence",
           "language": "en",
           "content": "I want to talk to you.",
-          "linguType": "sentence",
           "credits": [
             {
               "license": "CC-BY-NC-4.0",
@@ -3091,14 +2603,12 @@
             }
           ],
           "translations": [
-            "apc_انا حابب احكي معك._sentence"
+            "apc_انا حابب احكي معك."
           ]
         },
         {
-          "uid": "apc_عطا احكي شو في؟_sentence",
           "language": "apc",
           "content": "عطا احكي شو في؟",
-          "linguType": "sentence",
           "credits": [
             {
               "license": "CC-BY-NC-4.0",
@@ -3109,14 +2619,12 @@
             }
           ],
           "translations": [
-            "en_Ata, what's going on?_sentence"
+            "en_Ata, what's going on?"
           ]
         },
         {
-          "uid": "en_Ata, what's going on?_sentence",
           "language": "en",
           "content": "Ata, what's going on?",
-          "linguType": "sentence",
           "credits": [
             {
               "license": "CC-BY-NC-4.0",
@@ -3127,14 +2635,12 @@
             }
           ],
           "translations": [
-            "apc_عطا احكي شو في؟_sentence"
+            "apc_عطا احكي شو في؟"
           ]
         },
         {
-          "uid": "apc_‏حابب احكي مع الطلاب واحد واحد ‎_sentence",
           "language": "apc",
           "content": "‏حابب احكي مع الطلاب واحد واحد ‎",
-          "linguType": "sentence",
           "credits": [
             {
               "license": "CC-BY-NC-4.0",
@@ -3145,14 +2651,12 @@
             }
           ],
           "translations": [
-            "en_I want to talk to the students one by one._sentence"
+            "en_I want to talk to the students one by one."
           ]
         },
         {
-          "uid": "en_I want to talk to the students one by one._sentence",
           "language": "en",
           "content": "I want to talk to the students one by one.",
-          "linguType": "sentence",
           "credits": [
             {
               "license": "CC-BY-NC-4.0",
@@ -3163,14 +2667,12 @@
             }
           ],
           "translations": [
-            "apc_‏حابب احكي مع الطلاب واحد واحد ‎_sentence"
+            "apc_‏حابب احكي مع الطلاب واحد واحد ‎"
           ]
         },
         {
-          "uid": "apc_احكي عربي فلسطيني منيح_sentence",
           "language": "apc",
           "content": "احكي عربي فلسطيني منيح",
-          "linguType": "sentence",
           "credits": [
             {
               "license": "CC-BY-NC-4.0",
@@ -3181,14 +2683,12 @@
             }
           ],
           "translations": [
-            "en_Speak good Palestinian Arabic._sentence"
+            "en_Speak good Palestinian Arabic."
           ]
         },
         {
-          "uid": "en_Speak good Palestinian Arabic._sentence",
           "language": "en",
           "content": "Speak good Palestinian Arabic.",
-          "linguType": "sentence",
           "credits": [
             {
               "license": "CC-BY-NC-4.0",
@@ -3199,14 +2699,12 @@
             }
           ],
           "translations": [
-            "apc_احكي عربي فلسطيني منيح_sentence"
+            "apc_احكي عربي فلسطيني منيح"
           ]
         },
         {
-          "uid": "apc_انا نفسي احكي للاباء الي بوافقو يطلقو_sentence",
           "language": "apc",
           "content": "انا نفسي احكي للاباء الي بوافقو يطلقو",
-          "linguType": "sentence",
           "credits": [
             {
               "license": "CC-BY-NC-4.0",
@@ -3217,14 +2715,12 @@
             }
           ],
           "translations": [
-            "en_I myself want to speak to the parents who are intending to get divorced._sentence"
+            "en_I myself want to speak to the parents who are intending to get divorced."
           ]
         },
         {
-          "uid": "en_I myself want to speak to the parents who are intending to get divorced._sentence",
           "language": "en",
           "content": "I myself want to speak to the parents who are intending to get divorced.",
-          "linguType": "sentence",
           "credits": [
             {
               "license": "CC-BY-NC-4.0",
@@ -3235,14 +2731,12 @@
             }
           ],
           "translations": [
-            "apc_انا نفسي احكي للاباء الي بوافقو يطلقو_sentence"
+            "apc_انا نفسي احكي للاباء الي بوافقو يطلقو"
           ]
         },
         {
-          "uid": "apc_في كمان نقطة كنت بدّي احكي فيها_sentence",
           "language": "apc",
           "content": "في كمان نقطة كنت بدّي احكي فيها",
-          "linguType": "sentence",
           "credits": [
             {
               "license": "CC-BY-NC-4.0",
@@ -3253,14 +2747,12 @@
             }
           ],
           "translations": [
-            "en_There is another point I wanted to talk about._sentence"
+            "en_There is another point I wanted to talk about."
           ]
         },
         {
-          "uid": "en_There is another point I wanted to talk about._sentence",
           "language": "en",
           "content": "There is another point I wanted to talk about.",
-          "linguType": "sentence",
           "credits": [
             {
               "license": "CC-BY-NC-4.0",
@@ -3271,14 +2763,12 @@
             }
           ],
           "translations": [
-            "apc_في كمان نقطة كنت بدّي احكي فيها_sentence"
+            "apc_في كمان نقطة كنت بدّي احكي فيها"
           ]
         },
         {
-          "uid": "apc_بدي احكي مكالمة خارجية لفندق هيلتون ببوسطن._sentence",
           "language": "apc",
           "content": "بدي احكي مكالمة خارجية لفندق هيلتون ببوسطن.",
-          "linguType": "sentence",
           "credits": [
             {
               "license": "CC-BY-NC-4.0",
@@ -3289,14 +2779,12 @@
             }
           ],
           "translations": [
-            "en_I want to make an international call to the Hilton Hotel in Boston._sentence"
+            "en_I want to make an international call to the Hilton Hotel in Boston."
           ]
         },
         {
-          "uid": "en_I want to make an international call to the Hilton Hotel in Boston._sentence",
           "language": "en",
           "content": "I want to make an international call to the Hilton Hotel in Boston.",
-          "linguType": "sentence",
           "credits": [
             {
               "license": "CC-BY-NC-4.0",
@@ -3307,14 +2795,12 @@
             }
           ],
           "translations": [
-            "apc_بدي احكي مكالمة خارجية لفندق هيلتون ببوسطن._sentence"
+            "apc_بدي احكي مكالمة خارجية لفندق هيلتون ببوسطن."
           ]
         },
         {
-          "uid": "apc_‏أنا كلي أدان، احكي ‎_sentence",
           "language": "apc",
           "content": "‏أنا كلي أدان، احكي ‎",
-          "linguType": "sentence",
           "credits": [
             {
               "license": "CC-BY-NC-4.0",
@@ -3325,14 +2811,12 @@
             }
           ],
           "translations": [
-            "en_I am all ears, speak!_sentence"
+            "en_I am all ears, speak!"
           ]
         },
         {
-          "uid": "en_I am all ears, speak!_sentence",
           "language": "en",
           "content": "I am all ears, speak!",
-          "linguType": "sentence",
           "credits": [
             {
               "license": "CC-BY-NC-4.0",
@@ -3343,14 +2827,12 @@
             }
           ],
           "translations": [
-            "apc_‏أنا كلي أدان، احكي ‎_sentence"
+            "apc_‏أنا كلي أدان، احكي ‎"
           ]
         },
         {
-          "uid": "apc_لمى خلّتني احكي مع حالي_sentence",
           "language": "apc",
           "content": "لمى خلّتني احكي مع حالي",
-          "linguType": "sentence",
           "credits": [
             {
               "license": "CC-BY-NC-4.0",
@@ -3361,14 +2843,12 @@
             }
           ],
           "translations": [
-            "en_Lama made me start talking to myself._sentence"
+            "en_Lama made me start talking to myself."
           ]
         },
         {
-          "uid": "en_Lama made me start talking to myself._sentence",
           "language": "en",
           "content": "Lama made me start talking to myself.",
-          "linguType": "sentence",
           "credits": [
             {
               "license": "CC-BY-NC-4.0",
@@ -3379,14 +2859,12 @@
             }
           ],
           "translations": [
-            "apc_لمى خلّتني احكي مع حالي_sentence"
+            "apc_لمى خلّتني احكي مع حالي"
           ]
         },
         {
-          "uid": "apc_فصرت احكي معها عبري_sentence",
           "language": "apc",
           "content": "فصرت احكي معها عبري",
-          "linguType": "sentence",
           "credits": [
             {
               "license": "CC-BY-NC-4.0",
@@ -3397,14 +2875,12 @@
             }
           ],
           "translations": [
-            "en_So I kept speaking to her in Hebrew._sentence"
+            "en_So I kept speaking to her in Hebrew."
           ]
         },
         {
-          "uid": "en_So I kept speaking to her in Hebrew._sentence",
           "language": "en",
           "content": "So I kept speaking to her in Hebrew.",
-          "linguType": "sentence",
           "credits": [
             {
               "license": "CC-BY-NC-4.0",
@@ -3415,14 +2891,12 @@
             }
           ],
           "translations": [
-            "apc_فصرت احكي معها عبري_sentence"
+            "apc_فصرت احكي معها عبري"
           ]
         },
         {
-          "uid": "apc_طيب ‍جيبولي ‍موبايلي احكي مع تنك السولار_sentence",
           "language": "apc",
           "content": "طيب ‍جيبولي ‍موبايلي احكي مع تنك السولار",
-          "linguType": "sentence",
           "credits": [
             {
               "license": "CC-BY-NC-4.0",
@@ -3433,14 +2907,12 @@
             }
           ],
           "translations": [
-            "en_Okay, bring me my mobile so I can talk to the diesel truck._sentence"
+            "en_Okay, bring me my mobile so I can talk to the diesel truck."
           ]
         },
         {
-          "uid": "en_Okay, bring me my mobile so I can talk to the diesel truck._sentence",
           "language": "en",
           "content": "Okay, bring me my mobile so I can talk to the diesel truck.",
-          "linguType": "sentence",
           "credits": [
             {
               "license": "CC-BY-NC-4.0",
@@ -3451,14 +2923,12 @@
             }
           ],
           "translations": [
-            "apc_طيب ‍جيبولي ‍موبايلي احكي مع تنك السولار_sentence"
+            "apc_طيب ‍جيبولي ‍موبايلي احكي مع تنك السولار"
           ]
         },
         {
-          "uid": "apc_انا حابة شوي احكي عن نابلس_sentence",
           "language": "apc",
           "content": "انا حابة شوي احكي عن نابلس",
-          "linguType": "sentence",
           "credits": [
             {
               "license": "CC-BY-NC-4.0",
@@ -3469,14 +2939,12 @@
             }
           ],
           "translations": [
-            "en_I would like to talk a bit about Nablus._sentence"
+            "en_I would like to talk a bit about Nablus."
           ]
         },
         {
-          "uid": "en_I would like to talk a bit about Nablus._sentence",
           "language": "en",
           "content": "I would like to talk a bit about Nablus.",
-          "linguType": "sentence",
           "credits": [
             {
               "license": "CC-BY-NC-4.0",
@@ -3487,14 +2955,12 @@
             }
           ],
           "translations": [
-            "apc_انا حابة شوي احكي عن نابلس_sentence"
+            "apc_انا حابة شوي احكي عن نابلس"
           ]
         },
         {
-          "uid": "apc_في إشي حبيبي؟ احكي لي_sentence",
           "language": "apc",
           "content": "في إشي حبيبي؟ احكي لي",
-          "linguType": "sentence",
           "credits": [
             {
               "license": "CC-BY-NC-4.0",
@@ -3505,14 +2971,12 @@
             }
           ],
           "translations": [
-            "en_Is there something, darling? Tell me._sentence"
+            "en_Is there something, darling? Tell me."
           ]
         },
         {
-          "uid": "en_Is there something, darling? Tell me._sentence",
           "language": "en",
           "content": "Is there something, darling? Tell me.",
-          "linguType": "sentence",
           "credits": [
             {
               "license": "CC-BY-NC-4.0",
@@ -3523,14 +2987,12 @@
             }
           ],
           "translations": [
-            "apc_في إشي حبيبي؟ احكي لي_sentence"
+            "apc_في إشي حبيبي؟ احكي لي"
           ]
         },
         {
-          "uid": "apc_عصام احكي مع الشرطة بسرعة_sentence",
           "language": "apc",
           "content": "عصام احكي مع الشرطة بسرعة",
-          "linguType": "sentence",
           "credits": [
             {
               "license": "CC-BY-NC-4.0",
@@ -3541,14 +3003,12 @@
             }
           ],
           "translations": [
-            "en_Issam, call the police quickly._sentence"
+            "en_Issam, call the police quickly."
           ]
         },
         {
-          "uid": "en_Issam, call the police quickly._sentence",
           "language": "en",
           "content": "Issam, call the police quickly.",
-          "linguType": "sentence",
           "credits": [
             {
               "license": "CC-BY-NC-4.0",
@@ -3559,14 +3019,12 @@
             }
           ],
           "translations": [
-            "apc_عصام احكي مع الشرطة بسرعة_sentence"
+            "apc_عصام احكي مع الشرطة بسرعة"
           ]
         },
         {
-          "uid": "apc_يزن خليك بدي احكي معك شوي_sentence",
           "language": "apc",
           "content": "يزن خليك بدي احكي معك شوي",
-          "linguType": "sentence",
           "credits": [
             {
               "license": "CC-BY-NC-4.0",
@@ -3577,14 +3035,12 @@
             }
           ],
           "translations": [
-            "en_Yazan, don't go. I want to talk to you for a bit._sentence"
+            "en_Yazan, don't go. I want to talk to you for a bit."
           ]
         },
         {
-          "uid": "en_Yazan, don't go. I want to talk to you for a bit._sentence",
           "language": "en",
           "content": "Yazan, don't go. I want to talk to you for a bit.",
-          "linguType": "sentence",
           "credits": [
             {
               "license": "CC-BY-NC-4.0",
@@ -3595,14 +3051,12 @@
             }
           ],
           "translations": [
-            "apc_يزن خليك بدي احكي معك شوي_sentence"
+            "apc_يزن خليك بدي احكي معك شوي"
           ]
         },
         {
-          "uid": "apc_‏اعمل معروف احكي بوضوح ‎_sentence",
           "language": "apc",
           "content": "‏اعمل معروف احكي بوضوح ‎",
-          "linguType": "sentence",
           "credits": [
             {
               "license": "CC-BY-NC-4.0",
@@ -3613,14 +3067,12 @@
             }
           ],
           "translations": [
-            "en_Please speak clearly._sentence"
+            "en_Please speak clearly."
           ]
         },
         {
-          "uid": "en_Please speak clearly._sentence",
           "language": "en",
           "content": "Please speak clearly.",
-          "linguType": "sentence",
           "credits": [
             {
               "license": "CC-BY-NC-4.0",
@@ -3631,14 +3083,12 @@
             }
           ],
           "translations": [
-            "apc_‏اعمل معروف احكي بوضوح ‎_sentence"
+            "apc_‏اعمل معروف احكي بوضوح ‎"
           ]
         },
         {
-          "uid": "apc_مين انا عشان احكي هيك؟_sentence",
           "language": "apc",
           "content": "مين انا عشان احكي هيك؟",
-          "linguType": "sentence",
           "credits": [
             {
               "license": "CC-BY-NC-4.0",
@@ -3649,14 +3099,12 @@
             }
           ],
           "translations": [
-            "en_Who am I to say such a thing?_sentence"
+            "en_Who am I to say such a thing?"
           ]
         },
         {
-          "uid": "en_Who am I to say such a thing?_sentence",
           "language": "en",
           "content": "Who am I to say such a thing?",
-          "linguType": "sentence",
           "credits": [
             {
               "license": "CC-BY-NC-4.0",
@@ -3667,14 +3115,12 @@
             }
           ],
           "translations": [
-            "apc_مين انا عشان احكي هيك؟_sentence"
+            "apc_مين انا عشان احكي هيك؟"
           ]
         },
         {
-          "uid": "apc_بدي احكي سياسة صرف ومن دون تجريح._sentence",
           "language": "apc",
           "content": "بدي احكي سياسة صرف ومن دون تجريح.",
-          "linguType": "sentence",
           "credits": [
             {
               "license": "CC-BY-NC-4.0",
@@ -3685,14 +3131,12 @@
             }
           ],
           "translations": [
-            "en_I want to talk purely about politics, without casting aspersions on anyone._sentence"
+            "en_I want to talk purely about politics, without casting aspersions on anyone."
           ]
         },
         {
-          "uid": "en_I want to talk purely about politics, without casting aspersions on anyone._sentence",
           "language": "en",
           "content": "I want to talk purely about politics, without casting aspersions on anyone.",
-          "linguType": "sentence",
           "credits": [
             {
               "license": "CC-BY-NC-4.0",
@@ -3703,14 +3147,12 @@
             }
           ],
           "translations": [
-            "apc_بدي احكي سياسة صرف ومن دون تجريح._sentence"
+            "apc_بدي احكي سياسة صرف ومن دون تجريح."
           ]
         },
         {
-          "uid": "apc_خاس احكي محنا نسوان زي بعض_sentence",
           "language": "apc",
           "content": "خاس احكي محنا نسوان زي بعض",
-          "linguType": "sentence",
           "credits": [
             {
               "license": "CC-BY-NC-4.0",
@@ -3721,14 +3163,12 @@
             }
           ],
           "translations": [
-            "en_Come on, just speak, we're all women here._sentence"
+            "en_Come on, just speak, we're all women here."
           ]
         },
         {
-          "uid": "en_Come on, just speak, we're all women here._sentence",
           "language": "en",
           "content": "Come on, just speak, we're all women here.",
-          "linguType": "sentence",
           "credits": [
             {
               "license": "CC-BY-NC-4.0",
@@ -3739,14 +3179,12 @@
             }
           ],
           "translations": [
-            "apc_خاس احكي محنا نسوان زي بعض_sentence"
+            "apc_خاس احكي محنا نسوان زي بعض"
           ]
         },
         {
-          "uid": "apc_احكي احكي معه اشكره_sentence",
           "language": "apc",
           "content": "احكي احكي معه اشكره",
-          "linguType": "sentence",
           "credits": [
             {
               "license": "CC-BY-NC-4.0",
@@ -3757,14 +3195,12 @@
             }
           ],
           "translations": [
-            "en_Call him and thank him._sentence"
+            "en_Call him and thank him."
           ]
         },
         {
-          "uid": "en_Call him and thank him._sentence",
           "language": "en",
           "content": "Call him and thank him.",
-          "linguType": "sentence",
           "credits": [
             {
               "license": "CC-BY-NC-4.0",
@@ -3775,14 +3211,12 @@
             }
           ],
           "translations": [
-            "apc_احكي احكي معه اشكره_sentence"
+            "apc_احكي احكي معه اشكره"
           ]
         },
         {
-          "uid": "apc_– لا، ما معقولة! رغيد، احكي معها!_sentence",
           "language": "apc",
           "content": "– لا، ما معقولة! رغيد، احكي معها!",
-          "linguType": "sentence",
           "credits": [
             {
               "license": "CC-BY-NC-4.0",
@@ -3793,14 +3227,12 @@
             }
           ],
           "translations": [
-            "en_– No, it doesn't make sense! Raghid, talk to her!_sentence"
+            "en_– No, it doesn't make sense! Raghid, talk to her!"
           ]
         },
         {
-          "uid": "en_– No, it doesn't make sense! Raghid, talk to her!_sentence",
           "language": "en",
           "content": "– No, it doesn't make sense! Raghid, talk to her!",
-          "linguType": "sentence",
           "credits": [
             {
               "license": "CC-BY-NC-4.0",
@@ -3811,14 +3243,12 @@
             }
           ],
           "translations": [
-            "apc_– لا، ما معقولة! رغيد، احكي معها!_sentence"
+            "apc_– لا، ما معقولة! رغيد، احكي معها!"
           ]
         },
         {
-          "uid": "apc_اطلع احكي لك كلمة خير لهالشّعب!_sentence",
           "language": "apc",
           "content": "اطلع احكي لك كلمة خير لهالشّعب!",
-          "linguType": "sentence",
           "credits": [
             {
               "license": "CC-BY-NC-4.0",
@@ -3829,14 +3259,12 @@
             }
           ],
           "translations": [
-            "en_Get out and say a good word to the people!_sentence"
+            "en_Get out and say a good word to the people!"
           ]
         },
         {
-          "uid": "en_Get out and say a good word to the people!_sentence",
           "language": "en",
           "content": "Get out and say a good word to the people!",
-          "linguType": "sentence",
           "credits": [
             {
               "license": "CC-BY-NC-4.0",
@@ -3847,14 +3275,12 @@
             }
           ],
           "translations": [
-            "apc_اطلع احكي لك كلمة خير لهالشّعب!_sentence"
+            "apc_اطلع احكي لك كلمة خير لهالشّعب!"
           ]
         },
         {
-          "uid": "apc_داشا عم نصوّر.. احكي ايه_sentence",
           "language": "apc",
           "content": "داشا عم نصوّر.. احكي ايه",
-          "linguType": "sentence",
           "credits": [
             {
               "license": "CC-BY-NC-4.0",
@@ -3865,14 +3291,12 @@
             }
           ],
           "translations": [
-            "en_Dasha, we are filming.. say yes_sentence"
+            "en_Dasha, we are filming.. say yes"
           ]
         },
         {
-          "uid": "en_Dasha, we are filming.. say yes_sentence",
           "language": "en",
           "content": "Dasha, we are filming.. say yes",
-          "linguType": "sentence",
           "credits": [
             {
               "license": "CC-BY-NC-4.0",
@@ -3883,14 +3307,12 @@
             }
           ],
           "translations": [
-            "apc_داشا عم نصوّر.. احكي ايه_sentence"
+            "apc_داشا عم نصوّر.. احكي ايه"
           ]
         },
         {
-          "uid": "apc_ممكن احكي معك = ممكن احاكيك ‎؟_sentence",
           "language": "apc",
           "content": "ممكن احكي معك = ممكن احاكيك ‎؟",
-          "linguType": "sentence",
           "credits": [
             {
               "license": "CC-BY-NC-4.0",
@@ -3901,14 +3323,12 @@
             }
           ],
           "translations": [
-            "en_Can I talk to you?_sentence"
+            "en_Can I talk to you?"
           ]
         },
         {
-          "uid": "en_Can I talk to you?_sentence",
           "language": "en",
           "content": "Can I talk to you?",
-          "linguType": "sentence",
           "credits": [
             {
               "license": "CC-BY-NC-4.0",
@@ -3919,14 +3339,12 @@
             }
           ],
           "translations": [
-            "apc_ممكن احكي معك = ممكن احاكيك ‎؟_sentence"
+            "apc_ممكن احكي معك = ممكن احاكيك ‎؟"
           ]
         },
         {
-          "uid": "apc_فيها إشي كثير بيصدم خلينا احكي لكم_sentence",
           "language": "apc",
           "content": "فيها إشي كثير بيصدم خلينا احكي لكم",
-          "linguType": "sentence",
           "credits": [
             {
               "license": "CC-BY-NC-4.0",
@@ -3937,14 +3355,12 @@
             }
           ],
           "translations": [
-            "en_There is something very shocking, let me tell you._sentence"
+            "en_There is something very shocking, let me tell you."
           ]
         },
         {
-          "uid": "en_There is something very shocking, let me tell you._sentence",
           "language": "en",
           "content": "There is something very shocking, let me tell you.",
-          "linguType": "sentence",
           "credits": [
             {
               "license": "CC-BY-NC-4.0",
@@ -3955,14 +3371,12 @@
             }
           ],
           "translations": [
-            "apc_فيها إشي كثير بيصدم خلينا احكي لكم_sentence"
+            "apc_فيها إشي كثير بيصدم خلينا احكي لكم"
           ]
         },
         {
-          "uid": "apc_احكي معي عربي قدّامي_sentence",
           "language": "apc",
           "content": "احكي معي عربي قدّامي",
-          "linguType": "sentence",
           "credits": [
             {
               "license": "CC-BY-NC-4.0",
@@ -3973,14 +3387,12 @@
             }
           ],
           "translations": [
-            "en_Speak Arabic with me, in front of me._sentence"
+            "en_Speak Arabic with me, in front of me."
           ]
         },
         {
-          "uid": "en_Speak Arabic with me, in front of me._sentence",
           "language": "en",
           "content": "Speak Arabic with me, in front of me.",
-          "linguType": "sentence",
           "credits": [
             {
               "license": "CC-BY-NC-4.0",
@@ -3991,14 +3403,12 @@
             }
           ],
           "translations": [
-            "apc_احكي معي عربي قدّامي_sentence"
+            "apc_احكي معي عربي قدّامي"
           ]
         },
         {
-          "uid": "apc_احكي وين الدّهبات ولا تشاهدي على روحك،_sentence",
           "language": "apc",
           "content": "احكي وين الدّهبات ولا تشاهدي على روحك،",
-          "linguType": "sentence",
           "credits": [
             {
               "license": "CC-BY-NC-4.0",
@@ -4009,14 +3419,12 @@
             }
           ],
           "translations": [
-            "en_Tell me where the gold is or recite the Shahada before you die,_sentence"
+            "en_Tell me where the gold is or recite the Shahada before you die,"
           ]
         },
         {
-          "uid": "en_Tell me where the gold is or recite the Shahada before you die,_sentence",
           "language": "en",
           "content": "Tell me where the gold is or recite the Shahada before you die,",
-          "linguType": "sentence",
           "credits": [
             {
               "license": "CC-BY-NC-4.0",
@@ -4027,14 +3435,12 @@
             }
           ],
           "translations": [
-            "apc_احكي وين الدّهبات ولا تشاهدي على روحك،_sentence"
+            "apc_احكي وين الدّهبات ولا تشاهدي على روحك،"
           ]
         },
         {
-          "uid": "apc_منشان الله، اطلع، احكي لك أيّ كلمة_sentence",
           "language": "apc",
           "content": "منشان الله، اطلع، احكي لك أيّ كلمة",
-          "linguType": "sentence",
           "credits": [
             {
               "license": "CC-BY-NC-4.0",
@@ -4045,14 +3451,12 @@
             }
           ],
           "translations": [
-            "en_For God's sake, come out, say something._sentence"
+            "en_For God's sake, come out, say something."
           ]
         },
         {
-          "uid": "en_For God's sake, come out, say something._sentence",
           "language": "en",
           "content": "For God's sake, come out, say something.",
-          "linguType": "sentence",
           "credits": [
             {
               "license": "CC-BY-NC-4.0",
@@ -4063,14 +3467,12 @@
             }
           ],
           "translations": [
-            "apc_منشان الله، اطلع، احكي لك أيّ كلمة_sentence"
+            "apc_منشان الله، اطلع، احكي لك أيّ كلمة"
           ]
         },
         {
-          "uid": "apc_احكي لنا ليلى وشو صار معهم_sentence",
           "language": "apc",
           "content": "احكي لنا ليلى وشو صار معهم",
-          "linguType": "sentence",
           "credits": [
             {
               "license": "CC-BY-NC-4.0",
@@ -4081,14 +3483,12 @@
             }
           ],
           "translations": [
-            "en_Tell us, Leila, what happened with them._sentence"
+            "en_Tell us, Leila, what happened with them."
           ]
         },
         {
-          "uid": "en_Tell us, Leila, what happened with them._sentence",
           "language": "en",
           "content": "Tell us, Leila, what happened with them.",
-          "linguType": "sentence",
           "credits": [
             {
               "license": "CC-BY-NC-4.0",
@@ -4099,14 +3499,12 @@
             }
           ],
           "translations": [
-            "apc_احكي لنا ليلى وشو صار معهم_sentence"
+            "apc_احكي لنا ليلى وشو صار معهم"
           ]
         },
         {
-          "uid": "apc_احكي لي شي عن إيام صباك ‎_sentence",
           "language": "apc",
           "content": "احكي لي شي عن إيام صباك ‎",
-          "linguType": "sentence",
           "credits": [
             {
               "license": "CC-BY-NC-4.0",
@@ -4117,14 +3515,12 @@
             }
           ],
           "translations": [
-            "en_Tell me something about your youth._sentence"
+            "en_Tell me something about your youth."
           ]
         },
         {
-          "uid": "en_Tell me something about your youth._sentence",
           "language": "en",
           "content": "Tell me something about your youth.",
-          "linguType": "sentence",
           "credits": [
             {
               "license": "CC-BY-NC-4.0",
@@ -4135,14 +3531,12 @@
             }
           ],
           "translations": [
-            "apc_احكي لي شي عن إيام صباك ‎_sentence"
+            "apc_احكي لي شي عن إيام صباك ‎"
           ]
         },
         {
-          "uid": "apc_وليش ما احكي له_sentence",
           "language": "apc",
           "content": "وليش ما احكي له",
-          "linguType": "sentence",
           "credits": [
             {
               "license": "CC-BY-NC-4.0",
@@ -4153,14 +3547,12 @@
             }
           ],
           "translations": [
-            "en_And why shouldn't I tell him?_sentence"
+            "en_And why shouldn't I tell him?"
           ]
         },
         {
-          "uid": "en_And why shouldn't I tell him?_sentence",
           "language": "en",
           "content": "And why shouldn't I tell him?",
-          "linguType": "sentence",
           "credits": [
             {
               "license": "CC-BY-NC-4.0",
@@ -4171,14 +3563,12 @@
             }
           ],
           "translations": [
-            "apc_وليش ما احكي له_sentence"
+            "apc_وليش ما احكي له"
           ]
         },
         {
-          "uid": "apc_‏اعمل معروف احكي بصوت مفهوم أكتر ‎_sentence",
           "language": "apc",
           "content": "‏اعمل معروف احكي بصوت مفهوم أكتر ‎",
-          "linguType": "sentence",
           "credits": [
             {
               "license": "CC-BY-NC-4.0",
@@ -4189,14 +3579,12 @@
             }
           ],
           "translations": [
-            "en_Please speak more clearly._sentence"
+            "en_Please speak more clearly."
           ]
         },
         {
-          "uid": "en_Please speak more clearly._sentence",
           "language": "en",
           "content": "Please speak more clearly.",
-          "linguType": "sentence",
           "credits": [
             {
               "license": "CC-BY-NC-4.0",
@@ -4207,14 +3595,12 @@
             }
           ],
           "translations": [
-            "apc_‏اعمل معروف احكي بصوت مفهوم أكتر ‎_sentence"
+            "apc_‏اعمل معروف احكي بصوت مفهوم أكتر ‎"
           ]
         },
         {
-          "uid": "apc_احكي تليفون مع هذا الصديق_sentence",
           "language": "apc",
           "content": "احكي تليفون مع هذا الصديق",
-          "linguType": "sentence",
           "credits": [
             {
               "license": "CC-BY-NC-4.0",
@@ -4225,14 +3611,12 @@
             }
           ],
           "translations": [
-            "en_Call this friend._sentence"
+            "en_Call this friend."
           ]
         },
         {
-          "uid": "en_Call this friend._sentence",
           "language": "en",
           "content": "Call this friend.",
-          "linguType": "sentence",
           "credits": [
             {
               "license": "CC-BY-NC-4.0",
@@ -4243,14 +3627,12 @@
             }
           ],
           "translations": [
-            "apc_احكي تليفون مع هذا الصديق_sentence"
+            "apc_احكي تليفون مع هذا الصديق"
           ]
         },
         {
-          "uid": "apc_– ايش كتبت لها شعر، احكي لنا!_sentence",
           "language": "apc",
           "content": "– ايش كتبت لها شعر، احكي لنا!",
-          "linguType": "sentence",
           "credits": [
             {
               "license": "CC-BY-NC-4.0",
@@ -4261,14 +3643,12 @@
             }
           ],
           "translations": [
-            "en_– What poem did you write for her? Tell us!_sentence"
+            "en_– What poem did you write for her? Tell us!"
           ]
         },
         {
-          "uid": "en_– What poem did you write for her? Tell us!_sentence",
           "language": "en",
           "content": "– What poem did you write for her? Tell us!",
-          "linguType": "sentence",
           "credits": [
             {
               "license": "CC-BY-NC-4.0",
@@ -4279,14 +3659,12 @@
             }
           ],
           "translations": [
-            "apc_– ايش كتبت لها شعر، احكي لنا!_sentence"
+            "apc_– ايش كتبت لها شعر، احكي لنا!"
           ]
         },
         {
-          "uid": "apc_‏ممكن احكي معك = ممكن احاكيك ‎؟_sentence",
           "language": "apc",
           "content": "‏ممكن احكي معك = ممكن احاكيك ‎؟",
-          "linguType": "sentence",
           "credits": [
             {
               "license": "CC-BY-NC-4.0",
@@ -4297,32 +3675,12 @@
             }
           ],
           "translations": [
-            "en_Can I talk to you?_sentence"
+            "en_Can I talk to you?"
           ]
         },
         {
-          "uid": "en_Can I talk to you?_sentence",
-          "language": "en",
-          "content": "Can I talk to you?",
-          "linguType": "sentence",
-          "credits": [
-            {
-              "license": "CC-BY-NC-4.0",
-              "owner": "Guy Mor-Lan",
-              "ownerLink": "https://huggingface.co/guymorlan",
-              "source": "Levanti Dataset",
-              "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti"
-            }
-          ],
-          "translations": [
-            "apc_‏ممكن احكي معك = ممكن احاكيك ‎؟_sentence"
-          ]
-        },
-        {
-          "uid": "apc_اول حياة بنتي كنت احكي معها عربي_sentence",
           "language": "apc",
           "content": "اول حياة بنتي كنت احكي معها عربي",
-          "linguType": "sentence",
           "credits": [
             {
               "license": "CC-BY-NC-4.0",
@@ -4333,14 +3691,12 @@
             }
           ],
           "translations": [
-            "en_At the beginning of my daughter's life, I spoke to her in Arabic._sentence"
+            "en_At the beginning of my daughter's life, I spoke to her in Arabic."
           ]
         },
         {
-          "uid": "en_At the beginning of my daughter's life, I spoke to her in Arabic._sentence",
           "language": "en",
           "content": "At the beginning of my daughter's life, I spoke to her in Arabic.",
-          "linguType": "sentence",
           "credits": [
             {
               "license": "CC-BY-NC-4.0",
@@ -4351,14 +3707,12 @@
             }
           ],
           "translations": [
-            "apc_اول حياة بنتي كنت احكي معها عربي_sentence"
+            "apc_اول حياة بنتي كنت احكي معها عربي"
           ]
         },
         {
-          "uid": "apc_احكي لنا عن نشاطك الفني ‎_sentence",
           "language": "apc",
           "content": "احكي لنا عن نشاطك الفني ‎",
-          "linguType": "sentence",
           "credits": [
             {
               "license": "CC-BY-NC-4.0",
@@ -4369,14 +3723,12 @@
             }
           ],
           "translations": [
-            "en_Tell us about your artistic activity._sentence"
+            "en_Tell us about your artistic activity."
           ]
         },
         {
-          "uid": "en_Tell us about your artistic activity._sentence",
           "language": "en",
           "content": "Tell us about your artistic activity.",
-          "linguType": "sentence",
           "credits": [
             {
               "license": "CC-BY-NC-4.0",
@@ -4387,14 +3739,12 @@
             }
           ],
           "translations": [
-            "apc_احكي لنا عن نشاطك الفني ‎_sentence"
+            "apc_احكي لنا عن نشاطك الفني ‎"
           ]
         },
         {
-          "uid": "apc_بدي احكي مكالمة عاليابان._sentence",
           "language": "apc",
           "content": "بدي احكي مكالمة عاليابان.",
-          "linguType": "sentence",
           "credits": [
             {
               "license": "CC-BY-NC-4.0",
@@ -4405,14 +3755,12 @@
             }
           ],
           "translations": [
-            "en_I want to make a call to Japan._sentence"
+            "en_I want to make a call to Japan."
           ]
         },
         {
-          "uid": "en_I want to make a call to Japan._sentence",
           "language": "en",
           "content": "I want to make a call to Japan.",
-          "linguType": "sentence",
           "credits": [
             {
               "license": "CC-BY-NC-4.0",
@@ -4423,14 +3771,12 @@
             }
           ],
           "translations": [
-            "apc_بدي احكي مكالمة عاليابان._sentence"
+            "apc_بدي احكي مكالمة عاليابان."
           ]
         },
         {
-          "uid": "apc_احكي كمان مرة لو سمحت._sentence",
           "language": "apc",
           "content": "احكي كمان مرة لو سمحت.",
-          "linguType": "sentence",
           "credits": [
             {
               "license": "CC-BY-NC-4.0",
@@ -4441,14 +3787,12 @@
             }
           ],
           "translations": [
-            "en_Please say that again._sentence"
+            "en_Please say that again."
           ]
         },
         {
-          "uid": "en_Please say that again._sentence",
           "language": "en",
           "content": "Please say that again.",
-          "linguType": "sentence",
           "credits": [
             {
               "license": "CC-BY-NC-4.0",
@@ -4459,14 +3803,12 @@
             }
           ],
           "translations": [
-            "apc_احكي كمان مرة لو سمحت._sentence"
+            "apc_احكي كمان مرة لو سمحت."
           ]
         },
         {
-          "uid": "apc_اخر شيء ممكن احكي عنه انه_sentence",
           "language": "apc",
           "content": "اخر شيء ممكن احكي عنه انه",
-          "linguType": "sentence",
           "credits": [
             {
               "license": "CC-BY-NC-4.0",
@@ -4477,14 +3819,12 @@
             }
           ],
           "translations": [
-            "en_The last thing I can tell you about is_sentence"
+            "en_The last thing I can tell you about is"
           ]
         },
         {
-          "uid": "en_The last thing I can tell you about is_sentence",
           "language": "en",
           "content": "The last thing I can tell you about is",
-          "linguType": "sentence",
           "credits": [
             {
               "license": "CC-BY-NC-4.0",
@@ -4495,14 +3835,12 @@
             }
           ],
           "translations": [
-            "apc_اخر شيء ممكن احكي عنه انه_sentence"
+            "apc_اخر شيء ممكن احكي عنه انه"
           ]
         },
         {
-          "uid": "apc_وصرت احكي معها عبري بنفس الوقت_sentence",
           "language": "apc",
           "content": "وصرت احكي معها عبري بنفس الوقت",
-          "linguType": "sentence",
           "credits": [
             {
               "license": "CC-BY-NC-4.0",
@@ -4513,14 +3851,12 @@
             }
           ],
           "translations": [
-            "en_And I started speaking to her in Hebrew at the same time._sentence"
+            "en_And I started speaking to her in Hebrew at the same time."
           ]
         },
         {
-          "uid": "en_And I started speaking to her in Hebrew at the same time._sentence",
           "language": "en",
           "content": "And I started speaking to her in Hebrew at the same time.",
-          "linguType": "sentence",
           "credits": [
             {
               "license": "CC-BY-NC-4.0",
@@ -4531,14 +3867,12 @@
             }
           ],
           "translations": [
-            "apc_وصرت احكي معها عبري بنفس الوقت_sentence"
+            "apc_وصرت احكي معها عبري بنفس الوقت"
           ]
         },
         {
-          "uid": "apc_فيني احكي مع المدير؟_sentence",
           "language": "apc",
           "content": "فيني احكي مع المدير؟",
-          "linguType": "sentence",
           "credits": [
             {
               "license": "CC-BY-NC-4.0",
@@ -4549,14 +3883,12 @@
             }
           ],
           "translations": [
-            "en_Can I speak with the manager?_sentence"
+            "en_Can I speak with the manager?"
           ]
         },
         {
-          "uid": "en_Can I speak with the manager?_sentence",
           "language": "en",
           "content": "Can I speak with the manager?",
-          "linguType": "sentence",
           "credits": [
             {
               "license": "CC-BY-NC-4.0",
@@ -4567,1481 +3899,1186 @@
             }
           ],
           "translations": [
-            "apc_فيني احكي مع المدير؟_sentence"
+            "apc_فيني احكي مع المدير؟"
           ]
         },
         {
-          "uid": "apc_أدان،",
           "language": "apc",
           "content": "أدان،"
         },
         {
-          "uid": "apc_أكتر",
           "language": "apc",
           "content": "أكتر"
         },
         {
-          "uid": "apc_أنا",
           "language": "apc",
           "content": "أنا"
         },
         {
-          "uid": "apc_أيّ",
           "language": "apc",
           "content": "أيّ"
         },
         {
-          "uid": "apc_إشي",
           "language": "apc",
           "content": "إشي"
         },
         {
-          "uid": "apc_إيام",
           "language": "apc",
           "content": "إيام"
         },
         {
-          "uid": "apc_احاكيك",
           "language": "apc",
           "content": "احاكيك"
         },
         {
-          "uid": "apc_احكي",
           "language": "apc",
           "content": "احكي"
         },
         {
-          "uid": "apc_اخر",
           "language": "apc",
           "content": "اخر"
         },
         {
-          "uid": "apc_اشكره",
           "language": "apc",
           "content": "اشكره"
         },
         {
-          "uid": "apc_اطلع",
           "language": "apc",
           "content": "اطلع"
         },
         {
-          "uid": "apc_اطلع،",
           "language": "apc",
           "content": "اطلع،"
         },
         {
-          "uid": "apc_اعمل",
           "language": "apc",
           "content": "اعمل"
         },
         {
-          "uid": "apc_الدّهبات",
           "language": "apc",
           "content": "الدّهبات"
         },
         {
-          "uid": "apc_السولار",
           "language": "apc",
           "content": "السولار"
         },
         {
-          "uid": "apc_الشرطة",
           "language": "apc",
           "content": "الشرطة"
         },
         {
-          "uid": "apc_الصديق",
           "language": "apc",
           "content": "الصديق"
         },
         {
-          "uid": "apc_الطلاب",
           "language": "apc",
           "content": "الطلاب"
         },
         {
-          "uid": "apc_الفني",
           "language": "apc",
           "content": "الفني"
         },
         {
-          "uid": "apc_الله،",
           "language": "apc",
           "content": "الله،"
         },
         {
-          "uid": "apc_المدير؟",
           "language": "apc",
           "content": "المدير؟"
         },
         {
-          "uid": "apc_الوقت",
           "language": "apc",
           "content": "الوقت"
         },
         {
-          "uid": "apc_الي",
           "language": "apc",
           "content": "الي"
         },
         {
-          "uid": "apc_انا",
           "language": "apc",
           "content": "انا"
         },
         {
-          "uid": "apc_انه",
           "language": "apc",
           "content": "انه"
         },
         {
-          "uid": "apc_اول",
           "language": "apc",
           "content": "اول"
         },
         {
-          "uid": "apc_ايش",
           "language": "apc",
           "content": "ايش"
         },
         {
-          "uid": "apc_ايه",
           "language": "apc",
           "content": "ايه"
         },
         {
-          "uid": "apc_ببوسطن",
           "language": "apc",
           "content": "ببوسطن"
         },
         {
-          "uid": "apc_بدي",
           "language": "apc",
           "content": "بدي"
         },
         {
-          "uid": "apc_بدّي",
           "language": "apc",
           "content": "بدّي"
         },
         {
-          "uid": "apc_بسرعة",
           "language": "apc",
           "content": "بسرعة"
         },
         {
-          "uid": "apc_بصوت",
           "language": "apc",
           "content": "بصوت"
         },
         {
-          "uid": "apc_بعض",
           "language": "apc",
           "content": "بعض"
         },
         {
-          "uid": "apc_بنتي",
           "language": "apc",
           "content": "بنتي"
         },
         {
-          "uid": "apc_بنفس",
           "language": "apc",
           "content": "بنفس"
         },
         {
-          "uid": "apc_بوافقو",
           "language": "apc",
           "content": "بوافقو"
         },
         {
-          "uid": "apc_بوضوح",
           "language": "apc",
           "content": "بوضوح"
         },
         {
-          "uid": "apc_بيصدم",
           "language": "apc",
           "content": "بيصدم"
         },
         {
-          "uid": "apc_تجريح",
           "language": "apc",
           "content": "تجريح"
         },
         {
-          "uid": "apc_تشاهدي",
           "language": "apc",
           "content": "تشاهدي"
         },
         {
-          "uid": "apc_تليفون",
           "language": "apc",
           "content": "تليفون"
         },
         {
-          "uid": "apc_تنك",
           "language": "apc",
           "content": "تنك"
         },
         {
-          "uid": "apc_جيبولي",
           "language": "apc",
           "content": "جيبولي"
         },
         {
-          "uid": "apc_حابب",
           "language": "apc",
           "content": "حابب"
         },
         {
-          "uid": "apc_حابة",
           "language": "apc",
           "content": "حابة"
         },
         {
-          "uid": "apc_حالي",
           "language": "apc",
           "content": "حالي"
         },
         {
-          "uid": "apc_حبيبي؟",
           "language": "apc",
           "content": "حبيبي؟"
         },
         {
-          "uid": "apc_حياة",
           "language": "apc",
           "content": "حياة"
         },
         {
-          "uid": "apc_خارجية",
           "language": "apc",
           "content": "خارجية"
         },
         {
-          "uid": "apc_خاس",
           "language": "apc",
           "content": "خاس"
         },
         {
-          "uid": "apc_خليك",
           "language": "apc",
           "content": "خليك"
         },
         {
-          "uid": "apc_خلينا",
           "language": "apc",
           "content": "خلينا"
         },
         {
-          "uid": "apc_خليني",
           "language": "apc",
           "content": "خليني"
         },
         {
-          "uid": "apc_خلّتني",
           "language": "apc",
           "content": "خلّتني"
         },
         {
-          "uid": "apc_خير",
           "language": "apc",
           "content": "خير"
         },
         {
-          "uid": "apc_داشا",
           "language": "apc",
           "content": "داشا"
         },
         {
-          "uid": "apc_دون",
           "language": "apc",
           "content": "دون"
         },
         {
-          "uid": "apc_رغيد،",
           "language": "apc",
           "content": "رغيد،"
         },
         {
-          "uid": "apc_روحك،",
           "language": "apc",
           "content": "روحك،"
         },
         {
-          "uid": "apc_زي",
           "language": "apc",
           "content": "زي"
         },
         {
-          "uid": "apc_سمحت",
           "language": "apc",
           "content": "سمحت"
         },
         {
-          "uid": "apc_سياسة",
           "language": "apc",
           "content": "سياسة"
         },
         {
-          "uid": "apc_شعر،",
           "language": "apc",
           "content": "شعر،"
         },
         {
-          "uid": "apc_شو",
           "language": "apc",
           "content": "شو"
         },
         {
-          "uid": "apc_شوي",
           "language": "apc",
           "content": "شوي"
         },
         {
-          "uid": "apc_شي",
           "language": "apc",
           "content": "شي"
         },
         {
-          "uid": "apc_شيء",
           "language": "apc",
           "content": "شيء"
         },
         {
-          "uid": "apc_صار",
           "language": "apc",
           "content": "صار"
         },
         {
-          "uid": "apc_صباك",
           "language": "apc",
           "content": "صباك"
         },
         {
-          "uid": "apc_صرف",
           "language": "apc",
           "content": "صرف"
         },
         {
-          "uid": "apc_طيب",
           "language": "apc",
           "content": "طيب"
         },
         {
-          "uid": "apc_عاليابان",
           "language": "apc",
           "content": "عاليابان"
         },
         {
-          "uid": "apc_عبري",
           "language": "apc",
           "content": "عبري"
         },
         {
-          "uid": "apc_عربي",
           "language": "apc",
           "content": "عربي"
         },
         {
-          "uid": "apc_عشان",
           "language": "apc",
           "content": "عشان"
         },
         {
-          "uid": "apc_عصام",
           "language": "apc",
           "content": "عصام"
         },
         {
-          "uid": "apc_عطا",
           "language": "apc",
           "content": "عطا"
         },
         {
-          "uid": "apc_على",
           "language": "apc",
           "content": "على"
         },
         {
-          "uid": "apc_عم",
           "language": "apc",
           "content": "عم"
         },
         {
-          "uid": "apc_عن",
           "language": "apc",
           "content": "عن"
         },
         {
-          "uid": "apc_عنه",
           "language": "apc",
           "content": "عنه"
         },
         {
-          "uid": "apc_فصرت",
           "language": "apc",
           "content": "فصرت"
         },
         {
-          "uid": "apc_فلسطيني",
           "language": "apc",
           "content": "فلسطيني"
         },
         {
-          "uid": "apc_في",
           "language": "apc",
           "content": "في"
         },
         {
-          "uid": "apc_في؟",
           "language": "apc",
           "content": "في؟"
         },
         {
-          "uid": "apc_فيني",
           "language": "apc",
           "content": "فيني"
         },
         {
-          "uid": "apc_فيها",
           "language": "apc",
           "content": "فيها"
         },
         {
-          "uid": "apc_قدّامي",
           "language": "apc",
           "content": "قدّامي"
         },
         {
-          "uid": "apc_كتبت",
           "language": "apc",
           "content": "كتبت"
         },
         {
-          "uid": "apc_كثير",
           "language": "apc",
           "content": "كثير"
         },
         {
-          "uid": "apc_كلمة",
           "language": "apc",
           "content": "كلمة"
         },
         {
-          "uid": "apc_كلي",
           "language": "apc",
           "content": "كلي"
         },
         {
-          "uid": "apc_كمان",
           "language": "apc",
           "content": "كمان"
         },
         {
-          "uid": "apc_كنت",
           "language": "apc",
           "content": "كنت"
         },
         {
-          "uid": "apc_لا،",
           "language": "apc",
           "content": "لا،"
         },
         {
-          "uid": "apc_لفندق",
           "language": "apc",
           "content": "لفندق"
         },
         {
-          "uid": "apc_لك",
           "language": "apc",
           "content": "لك"
         },
         {
-          "uid": "apc_لكم",
           "language": "apc",
           "content": "لكم"
         },
         {
-          "uid": "apc_للاباء",
           "language": "apc",
           "content": "للاباء"
         },
         {
-          "uid": "apc_لمى",
           "language": "apc",
           "content": "لمى"
         },
         {
-          "uid": "apc_لنا",
           "language": "apc",
           "content": "لنا"
         },
         {
-          "uid": "apc_له",
           "language": "apc",
           "content": "له"
         },
         {
-          "uid": "apc_لها",
           "language": "apc",
           "content": "لها"
         },
         {
-          "uid": "apc_لهالشّعب",
           "language": "apc",
           "content": "لهالشّعب"
         },
         {
-          "uid": "apc_لو",
           "language": "apc",
           "content": "لو"
         },
         {
-          "uid": "apc_لي",
           "language": "apc",
           "content": "لي"
         },
         {
-          "uid": "apc_ليلى",
           "language": "apc",
           "content": "ليلى"
         },
         {
-          "uid": "apc_ما",
           "language": "apc",
           "content": "ما"
         },
         {
-          "uid": "apc_محنا",
           "language": "apc",
           "content": "محنا"
         },
         {
-          "uid": "apc_مرة",
           "language": "apc",
           "content": "مرة"
         },
         {
-          "uid": "apc_مع",
           "language": "apc",
           "content": "مع"
         },
         {
-          "uid": "apc_معروف",
           "language": "apc",
           "content": "معروف"
         },
         {
-          "uid": "apc_معقولة",
           "language": "apc",
           "content": "معقولة"
         },
         {
-          "uid": "apc_معك",
           "language": "apc",
           "content": "معك"
         },
         {
-          "uid": "apc_معه",
           "language": "apc",
           "content": "معه"
         },
         {
-          "uid": "apc_معها",
           "language": "apc",
           "content": "معها"
         },
         {
-          "uid": "apc_معهم",
           "language": "apc",
           "content": "معهم"
         },
         {
-          "uid": "apc_معي",
           "language": "apc",
           "content": "معي"
         },
         {
-          "uid": "apc_مفهوم",
           "language": "apc",
           "content": "مفهوم"
         },
         {
-          "uid": "apc_مكالمة",
           "language": "apc",
           "content": "مكالمة"
         },
         {
-          "uid": "apc_ممكن",
           "language": "apc",
           "content": "ممكن"
         },
         {
-          "uid": "apc_منشان",
           "language": "apc",
           "content": "منشان"
         },
         {
-          "uid": "apc_منيح",
           "language": "apc",
           "content": "منيح"
         },
         {
-          "uid": "apc_موبايلي",
           "language": "apc",
           "content": "موبايلي"
         },
         {
-          "uid": "apc_مين",
           "language": "apc",
           "content": "مين"
         },
         {
-          "uid": "apc_نابلس",
           "language": "apc",
           "content": "نابلس"
         },
         {
-          "uid": "apc_ناس",
           "language": "apc",
           "content": "ناس"
         },
         {
-          "uid": "apc_نسوان",
           "language": "apc",
           "content": "نسوان"
         },
         {
-          "uid": "apc_نشاطك",
           "language": "apc",
           "content": "نشاطك"
         },
         {
-          "uid": "apc_نصوّر",
           "language": "apc",
           "content": "نصوّر"
         },
         {
-          "uid": "apc_نفسي",
           "language": "apc",
           "content": "نفسي"
         },
         {
-          "uid": "apc_نقطة",
           "language": "apc",
           "content": "نقطة"
         },
         {
-          "uid": "apc_هذا",
           "language": "apc",
           "content": "هذا"
         },
         {
-          "uid": "apc_هيك؟",
           "language": "apc",
           "content": "هيك؟"
         },
         {
-          "uid": "apc_هيلتون",
           "language": "apc",
           "content": "هيلتون"
         },
         {
-          "uid": "apc_واحد",
           "language": "apc",
           "content": "واحد"
         },
         {
-          "uid": "apc_وشو",
           "language": "apc",
           "content": "وشو"
         },
         {
-          "uid": "apc_وصرت",
           "language": "apc",
           "content": "وصرت"
         },
         {
-          "uid": "apc_ولا",
           "language": "apc",
           "content": "ولا"
         },
         {
-          "uid": "apc_وليش",
           "language": "apc",
           "content": "وليش"
         },
         {
-          "uid": "apc_ومن",
           "language": "apc",
           "content": "ومن"
         },
         {
-          "uid": "apc_وين",
           "language": "apc",
           "content": "وين"
         },
         {
-          "uid": "apc_يزن",
           "language": "apc",
           "content": "يزن"
         },
         {
-          "uid": "apc_يطلقو",
           "language": "apc",
           "content": "يطلقو"
         },
         {
-          "uid": "en_about",
           "language": "en",
           "content": "about"
         },
         {
-          "uid": "en_activity",
           "language": "en",
           "content": "activity"
         },
         {
-          "uid": "en_again",
           "language": "en",
           "content": "again"
         },
         {
-          "uid": "en_all",
           "language": "en",
           "content": "all"
         },
         {
-          "uid": "en_am",
           "language": "en",
           "content": "am"
         },
         {
-          "uid": "en_an",
           "language": "en",
           "content": "an"
         },
         {
-          "uid": "en_and",
           "language": "en",
           "content": "and"
         },
         {
-          "uid": "en_another",
           "language": "en",
           "content": "another"
         },
         {
-          "uid": "en_anyone",
           "language": "en",
           "content": "anyone"
         },
         {
-          "uid": "en_arabic",
           "language": "en",
           "content": "arabic"
         },
         {
-          "uid": "en_are",
           "language": "en",
           "content": "are"
         },
         {
-          "uid": "en_artistic",
           "language": "en",
           "content": "artistic"
         },
         {
-          "uid": "en_aspersions",
           "language": "en",
           "content": "aspersions"
         },
         {
-          "uid": "en_at",
           "language": "en",
           "content": "at"
         },
         {
-          "uid": "en_ata",
           "language": "en",
           "content": "ata"
         },
         {
-          "uid": "en_before",
           "language": "en",
           "content": "before"
         },
         {
-          "uid": "en_beginning",
           "language": "en",
           "content": "beginning"
         },
         {
-          "uid": "en_bit",
           "language": "en",
           "content": "bit"
         },
         {
-          "uid": "en_boston",
           "language": "en",
           "content": "boston"
         },
         {
-          "uid": "en_bring",
           "language": "en",
           "content": "bring"
         },
         {
-          "uid": "en_by",
           "language": "en",
           "content": "by"
         },
         {
-          "uid": "en_call",
           "language": "en",
           "content": "call"
         },
         {
-          "uid": "en_can",
           "language": "en",
           "content": "can"
         },
         {
-          "uid": "en_casting",
           "language": "en",
           "content": "casting"
         },
         {
-          "uid": "en_clearly",
           "language": "en",
           "content": "clearly"
         },
         {
-          "uid": "en_come",
           "language": "en",
           "content": "come"
         },
         {
-          "uid": "en_darling",
           "language": "en",
           "content": "darling"
         },
         {
-          "uid": "en_dasha",
           "language": "en",
           "content": "dasha"
         },
         {
-          "uid": "en_daughters",
           "language": "en",
           "content": "daughters"
         },
         {
-          "uid": "en_did",
           "language": "en",
           "content": "did"
         },
         {
-          "uid": "en_die",
           "language": "en",
           "content": "die"
         },
         {
-          "uid": "en_diesel",
           "language": "en",
           "content": "diesel"
         },
         {
-          "uid": "en_divorced",
           "language": "en",
           "content": "divorced"
         },
         {
-          "uid": "en_doesnt",
           "language": "en",
           "content": "doesnt"
         },
         {
-          "uid": "en_dont",
           "language": "en",
           "content": "dont"
         },
         {
-          "uid": "en_ears",
           "language": "en",
           "content": "ears"
         },
         {
-          "uid": "en_filming",
           "language": "en",
           "content": "filming"
         },
         {
-          "uid": "en_for",
           "language": "en",
           "content": "for"
         },
         {
-          "uid": "en_friend",
           "language": "en",
           "content": "friend"
         },
         {
-          "uid": "en_front",
           "language": "en",
           "content": "front"
         },
         {
-          "uid": "en_get",
           "language": "en",
           "content": "get"
         },
         {
-          "uid": "en_go",
           "language": "en",
           "content": "go"
         },
         {
-          "uid": "en_gods",
           "language": "en",
           "content": "gods"
         },
         {
-          "uid": "en_going",
           "language": "en",
           "content": "going"
         },
         {
-          "uid": "en_gold",
           "language": "en",
           "content": "gold"
         },
         {
-          "uid": "en_good",
           "language": "en",
           "content": "good"
         },
         {
-          "uid": "en_happened",
           "language": "en",
           "content": "happened"
         },
         {
-          "uid": "en_hebrew",
           "language": "en",
           "content": "hebrew"
         },
         {
-          "uid": "en_her",
           "language": "en",
           "content": "her"
         },
         {
-          "uid": "en_here",
           "language": "en",
           "content": "here"
         },
         {
-          "uid": "en_hilton",
           "language": "en",
           "content": "hilton"
         },
         {
-          "uid": "en_him",
           "language": "en",
           "content": "him"
         },
         {
-          "uid": "en_hotel",
           "language": "en",
           "content": "hotel"
         },
         {
-          "uid": "en_in",
           "language": "en",
           "content": "in"
         },
         {
-          "uid": "en_intending",
           "language": "en",
           "content": "intending"
         },
         {
-          "uid": "en_international",
           "language": "en",
           "content": "international"
         },
         {
-          "uid": "en_is",
           "language": "en",
           "content": "is"
         },
         {
-          "uid": "en_issam",
           "language": "en",
           "content": "issam"
         },
         {
-          "uid": "en_it",
           "language": "en",
           "content": "it"
         },
         {
-          "uid": "en_japan",
           "language": "en",
           "content": "japan"
         },
         {
-          "uid": "en_just",
           "language": "en",
           "content": "just"
         },
         {
-          "uid": "en_kept",
           "language": "en",
           "content": "kept"
         },
         {
-          "uid": "en_lama",
           "language": "en",
           "content": "lama"
         },
         {
-          "uid": "en_last",
           "language": "en",
           "content": "last"
         },
         {
-          "uid": "en_leila",
           "language": "en",
           "content": "leila"
         },
         {
-          "uid": "en_let",
           "language": "en",
           "content": "let"
         },
         {
-          "uid": "en_life",
           "language": "en",
           "content": "life"
         },
         {
-          "uid": "en_like",
           "language": "en",
           "content": "like"
         },
         {
-          "uid": "en_made",
           "language": "en",
           "content": "made"
         },
         {
-          "uid": "en_make",
           "language": "en",
           "content": "make"
         },
         {
-          "uid": "en_manager",
           "language": "en",
           "content": "manager"
         },
         {
-          "uid": "en_me",
           "language": "en",
           "content": "me"
         },
         {
-          "uid": "en_mobile",
           "language": "en",
           "content": "mobile"
         },
         {
-          "uid": "en_more",
           "language": "en",
           "content": "more"
         },
         {
-          "uid": "en_my",
           "language": "en",
           "content": "my"
         },
         {
-          "uid": "en_myself",
           "language": "en",
           "content": "myself"
         },
         {
-          "uid": "en_nablus",
           "language": "en",
           "content": "nablus"
         },
         {
-          "uid": "en_no",
           "language": "en",
           "content": "no"
         },
         {
-          "uid": "en_of",
           "language": "en",
           "content": "of"
         },
         {
-          "uid": "en_okay",
           "language": "en",
           "content": "okay"
         },
         {
-          "uid": "en_on",
           "language": "en",
           "content": "on"
         },
         {
-          "uid": "en_one",
           "language": "en",
           "content": "one"
         },
         {
-          "uid": "en_or",
           "language": "en",
           "content": "or"
         },
         {
-          "uid": "en_out",
           "language": "en",
           "content": "out"
         },
         {
-          "uid": "en_palestinian",
           "language": "en",
           "content": "palestinian"
         },
         {
-          "uid": "en_parents",
           "language": "en",
           "content": "parents"
         },
         {
-          "uid": "en_people",
           "language": "en",
           "content": "people"
         },
         {
-          "uid": "en_please",
           "language": "en",
           "content": "please"
         },
         {
-          "uid": "en_poem",
           "language": "en",
           "content": "poem"
         },
         {
-          "uid": "en_point",
           "language": "en",
           "content": "point"
         },
         {
-          "uid": "en_police",
           "language": "en",
           "content": "police"
         },
         {
-          "uid": "en_politics",
           "language": "en",
           "content": "politics"
         },
         {
-          "uid": "en_purely",
           "language": "en",
           "content": "purely"
         },
         {
-          "uid": "en_quickly",
           "language": "en",
           "content": "quickly"
         },
         {
-          "uid": "en_raghid",
           "language": "en",
           "content": "raghid"
         },
         {
-          "uid": "en_recite",
           "language": "en",
           "content": "recite"
         },
         {
-          "uid": "en_sake",
           "language": "en",
           "content": "sake"
         },
         {
-          "uid": "en_same",
           "language": "en",
           "content": "same"
         },
         {
-          "uid": "en_say",
           "language": "en",
           "content": "say"
         },
         {
-          "uid": "en_sense",
           "language": "en",
           "content": "sense"
         },
         {
-          "uid": "en_shahada",
           "language": "en",
           "content": "shahada"
         },
         {
-          "uid": "en_shocking",
           "language": "en",
           "content": "shocking"
         },
         {
-          "uid": "en_shouldnt",
           "language": "en",
           "content": "shouldnt"
         },
         {
-          "uid": "en_so",
           "language": "en",
           "content": "so"
         },
         {
-          "uid": "en_something",
           "language": "en",
           "content": "something"
         },
         {
-          "uid": "en_speak",
           "language": "en",
           "content": "speak"
         },
         {
-          "uid": "en_speaking",
           "language": "en",
           "content": "speaking"
         },
         {
-          "uid": "en_spoke",
           "language": "en",
           "content": "spoke"
         },
         {
-          "uid": "en_start",
           "language": "en",
           "content": "start"
         },
         {
-          "uid": "en_started",
           "language": "en",
           "content": "started"
         },
         {
-          "uid": "en_students",
           "language": "en",
           "content": "students"
         },
         {
-          "uid": "en_such",
           "language": "en",
           "content": "such"
         },
         {
-          "uid": "en_talk",
           "language": "en",
           "content": "talk"
         },
         {
-          "uid": "en_talking",
           "language": "en",
           "content": "talking"
         },
         {
-          "uid": "en_tell",
           "language": "en",
           "content": "tell"
         },
         {
-          "uid": "en_thank",
           "language": "en",
           "content": "thank"
         },
         {
-          "uid": "en_that",
           "language": "en",
           "content": "that"
         },
         {
-          "uid": "en_the",
           "language": "en",
           "content": "the"
         },
         {
-          "uid": "en_them",
           "language": "en",
           "content": "them"
         },
         {
-          "uid": "en_there",
           "language": "en",
           "content": "there"
         },
         {
-          "uid": "en_thing",
           "language": "en",
           "content": "thing"
         },
         {
-          "uid": "en_this",
           "language": "en",
           "content": "this"
         },
         {
-          "uid": "en_time",
           "language": "en",
           "content": "time"
         },
         {
-          "uid": "en_to",
           "language": "en",
           "content": "to"
         },
         {
-          "uid": "en_truck",
           "language": "en",
           "content": "truck"
         },
         {
-          "uid": "en_us",
           "language": "en",
           "content": "us"
         },
         {
-          "uid": "en_very",
           "language": "en",
           "content": "very"
         },
         {
-          "uid": "en_want",
           "language": "en",
           "content": "want"
         },
         {
-          "uid": "en_wanted",
           "language": "en",
           "content": "wanted"
         },
         {
-          "uid": "en_we",
           "language": "en",
           "content": "we"
         },
         {
-          "uid": "en_were",
           "language": "en",
           "content": "were"
         },
         {
-          "uid": "en_what",
           "language": "en",
           "content": "what"
         },
         {
-          "uid": "en_whats",
           "language": "en",
           "content": "whats"
         },
         {
-          "uid": "en_where",
           "language": "en",
           "content": "where"
         },
         {
-          "uid": "en_who",
           "language": "en",
           "content": "who"
         },
         {
-          "uid": "en_why",
           "language": "en",
           "content": "why"
         },
         {
-          "uid": "en_with",
           "language": "en",
           "content": "with"
         },
         {
-          "uid": "en_without",
           "language": "en",
           "content": "without"
         },
         {
-          "uid": "en_women",
           "language": "en",
           "content": "women"
         },
         {
-          "uid": "en_word",
           "language": "en",
           "content": "word"
         },
         {
-          "uid": "en_would",
           "language": "en",
           "content": "would"
         },
         {
-          "uid": "en_write",
           "language": "en",
           "content": "write"
         },
         {
-          "uid": "en_yazan",
           "language": "en",
           "content": "yazan"
         },
         {
-          "uid": "en_yes",
           "language": "en",
           "content": "yes"
         },
         {
-          "uid": "en_you",
           "language": "en",
           "content": "you"
         },
         {
-          "uid": "en_your",
           "language": "en",
           "content": "your"
         },
         {
-          "uid": "en_youth",
           "language": "en",
           "content": "youth"
         }
       ],
       "primaryUnitsOfMeaning": [
         {
-          "uid": "apc_احكي",
           "language": "apc",
           "content": "احكي"
         },
         {
-          "uid": "apc_احكي مع ناس_sentence",
           "language": "apc",
           "content": "احكي مع ناس",
-          "linguType": "sentence",
           "credits": [
             {
               "license": "CC-BY-NC-4.0",
@@ -6052,14 +5089,12 @@
             }
           ],
           "translations": [
-            "en_Talk to people._sentence"
+            "en_Talk to people."
           ]
         },
         {
-          "uid": "en_Talk to people._sentence",
           "language": "en",
           "content": "Talk to people.",
-          "linguType": "sentence",
           "credits": [
             {
               "license": "CC-BY-NC-4.0",
@@ -6070,14 +5105,12 @@
             }
           ],
           "translations": [
-            "apc_احكي مع ناس_sentence"
+            "apc_احكي مع ناس"
           ]
         },
         {
-          "uid": "apc_خليني احكي لكم_sentence",
           "language": "apc",
           "content": "خليني احكي لكم",
-          "linguType": "sentence",
           "credits": [
             {
               "license": "CC-BY-NC-4.0",
@@ -6088,14 +5121,12 @@
             }
           ],
           "translations": [
-            "en_Let me tell you_sentence"
+            "en_Let me tell you"
           ]
         },
         {
-          "uid": "en_Let me tell you_sentence",
           "language": "en",
           "content": "Let me tell you",
-          "linguType": "sentence",
           "credits": [
             {
               "license": "CC-BY-NC-4.0",
@@ -6106,7 +5137,7 @@
             }
           ],
           "translations": [
-            "apc_خليني احكي لكم_sentence"
+            "apc_خليني احكي لكم"
           ]
         }
       ]

@@ -7,10 +7,8 @@
       "language": "apc",
       "unitsOfMeaning": [
         {
-          "uid": "apc_أجا الوقت تسمع صوت جدید جلال أيوب._sentence",
           "language": "apc",
           "content": "أجا الوقت تسمع صوت جدید جلال أيوب.",
-          "linguType": "sentence",
           "credits": [
             {
               "license": "CC-BY-NC-4.0",
@@ -21,14 +19,12 @@
             }
           ],
           "translations": [
-            "en_The time has come to hear a new voice, that of Jalal Ayoub._sentence"
+            "en_The time has come to hear a new voice, that of Jalal Ayoub."
           ]
         },
         {
-          "uid": "en_The time has come to hear a new voice, that of Jalal Ayoub._sentence",
           "language": "en",
           "content": "The time has come to hear a new voice, that of Jalal Ayoub.",
-          "linguType": "sentence",
           "credits": [
             {
               "license": "CC-BY-NC-4.0",
@@ -39,134 +35,94 @@
             }
           ],
           "translations": [
-            "apc_أجا الوقت تسمع صوت جدید جلال أيوب._sentence"
+            "apc_أجا الوقت تسمع صوت جدید جلال أيوب."
           ]
         },
         {
-          "uid": "apc_أجا",
           "language": "apc",
           "content": "أجا"
         },
         {
-          "uid": "apc_أيوب",
           "language": "apc",
           "content": "أيوب"
         },
         {
-          "uid": "apc_الوقت",
           "language": "apc",
           "content": "الوقت"
         },
         {
-          "uid": "apc_تسمع",
           "language": "apc",
           "content": "تسمع"
         },
         {
-          "uid": "apc_جدید",
           "language": "apc",
           "content": "جدید"
         },
         {
-          "uid": "apc_جلال",
           "language": "apc",
           "content": "جلال"
         },
         {
-          "uid": "apc_صوت",
           "language": "apc",
           "content": "صوت"
         },
         {
-          "uid": "en_ayoub",
           "language": "en",
           "content": "ayoub"
         },
         {
-          "uid": "en_come",
           "language": "en",
           "content": "come"
         },
         {
-          "uid": "en_has",
           "language": "en",
           "content": "has"
         },
         {
-          "uid": "en_hear",
           "language": "en",
           "content": "hear"
         },
         {
-          "uid": "en_jalal",
           "language": "en",
           "content": "jalal"
         },
         {
-          "uid": "en_new",
           "language": "en",
           "content": "new"
         },
         {
-          "uid": "en_of",
           "language": "en",
           "content": "of"
         },
         {
-          "uid": "en_that",
           "language": "en",
           "content": "that"
         },
         {
-          "uid": "en_the",
           "language": "en",
           "content": "the"
         },
         {
-          "uid": "en_time",
           "language": "en",
           "content": "time"
         },
         {
-          "uid": "en_to",
           "language": "en",
           "content": "to"
         },
         {
-          "uid": "en_voice",
           "language": "en",
           "content": "voice"
         }
       ],
       "primaryUnitsOfMeaning": [
         {
-          "uid": "apc_جلال",
           "language": "apc",
           "content": "جلال"
         },
         {
-          "uid": "apc_جلال_sentence",
-          "language": "apc",
-          "content": "جلال",
-          "linguType": "sentence",
-          "credits": [
-            {
-              "license": "CC-BY-NC-4.0",
-              "owner": "Guy Mor-Lan",
-              "ownerLink": "https://huggingface.co/guymorlan",
-              "source": "Levanti Dataset",
-              "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti"
-            }
-          ],
-          "translations": [
-            "en_Jalal_sentence"
-          ]
-        },
-        {
-          "uid": "en_Jalal_sentence",
           "language": "en",
           "content": "Jalal",
-          "linguType": "sentence",
           "credits": [
             {
               "license": "CC-BY-NC-4.0",
@@ -177,7 +133,7 @@
             }
           ],
           "translations": [
-            "apc_جلال_sentence"
+            "apc_جلال"
           ]
         }
       ]
@@ -187,10 +143,8 @@
       "language": "apc",
       "unitsOfMeaning": [
         {
-          "uid": "apc_وإذا مش نسايبنا ولاد عمّنا!_sentence",
           "language": "apc",
           "content": "وإذا مش نسايبنا ولاد عمّنا!",
-          "linguType": "sentence",
           "credits": [
             {
               "license": "CC-BY-NC-4.0",
@@ -201,14 +155,12 @@
             }
           ],
           "translations": [
-            "en_And if they are not our relatives, they are our cousins!_sentence"
+            "en_And if they are not our relatives, they are our cousins!"
           ]
         },
         {
-          "uid": "en_And if they are not our relatives, they are our cousins!_sentence",
           "language": "en",
           "content": "And if they are not our relatives, they are our cousins!",
-          "linguType": "sentence",
           "credits": [
             {
               "license": "CC-BY-NC-4.0",
@@ -219,14 +171,12 @@
             }
           ],
           "translations": [
-            "apc_وإذا مش نسايبنا ولاد عمّنا!_sentence"
+            "apc_وإذا مش نسايبنا ولاد عمّنا!"
           ]
         },
         {
-          "uid": "apc_يا ولاد يلا تأخرنا، شو بتساوا؟_sentence",
           "language": "apc",
           "content": "يا ولاد يلا تأخرنا، شو بتساوا؟",
-          "linguType": "sentence",
           "credits": [
             {
               "license": "CC-BY-NC-4.0",
@@ -237,14 +187,12 @@
             }
           ],
           "translations": [
-            "en_Kids, let's go, we're late! What are you doing?_sentence"
+            "en_Kids, let's go, we're late! What are you doing?"
           ]
         },
         {
-          "uid": "en_Kids, let's go, we're late! What are you doing?_sentence",
           "language": "en",
           "content": "Kids, let's go, we're late! What are you doing?",
-          "linguType": "sentence",
           "credits": [
             {
               "license": "CC-BY-NC-4.0",
@@ -255,14 +203,12 @@
             }
           ],
           "translations": [
-            "apc_يا ولاد يلا تأخرنا، شو بتساوا؟_sentence"
+            "apc_يا ولاد يلا تأخرنا، شو بتساوا؟"
           ]
         },
         {
-          "uid": "apc_افتحوا افتحوا يا ولاد_sentence",
           "language": "apc",
           "content": "افتحوا افتحوا يا ولاد",
-          "linguType": "sentence",
           "credits": [
             {
               "license": "CC-BY-NC-4.0",
@@ -273,14 +219,12 @@
             }
           ],
           "translations": [
-            "en_Open, open, kids._sentence"
+            "en_Open, open, kids."
           ]
         },
         {
-          "uid": "en_Open, open, kids._sentence",
           "language": "en",
           "content": "Open, open, kids.",
-          "linguType": "sentence",
           "credits": [
             {
               "license": "CC-BY-NC-4.0",
@@ -291,14 +235,12 @@
             }
           ],
           "translations": [
-            "apc_افتحوا افتحوا يا ولاد_sentence"
+            "apc_افتحوا افتحوا يا ولاد"
           ]
         },
         {
-          "uid": "apc_خلص، ولا يهمك.. شو منلعب؟ ولاد احنا؟_sentence",
           "language": "apc",
           "content": "خلص، ولا يهمك.. شو منلعب؟ ولاد احنا؟",
-          "linguType": "sentence",
           "credits": [
             {
               "license": "CC-BY-NC-4.0",
@@ -309,14 +251,12 @@
             }
           ],
           "translations": [
-            "en_That's it, don't worry.. What are we playing? Are we kids?_sentence"
+            "en_That's it, don't worry.. What are we playing? Are we kids?"
           ]
         },
         {
-          "uid": "en_That's it, don't worry.. What are we playing? Are we kids?_sentence",
           "language": "en",
           "content": "That's it, don't worry.. What are we playing? Are we kids?",
-          "linguType": "sentence",
           "credits": [
             {
               "license": "CC-BY-NC-4.0",
@@ -327,14 +267,12 @@
             }
           ],
           "translations": [
-            "apc_خلص، ولا يهمك.. شو منلعب؟ ولاد احنا؟_sentence"
+            "apc_خلص، ولا يهمك.. شو منلعب؟ ولاد احنا؟"
           ]
         },
         {
-          "uid": "apc_شوي شوي يا ولاد ههههههه_sentence",
           "language": "apc",
           "content": "شوي شوي يا ولاد ههههههه",
-          "linguType": "sentence",
           "credits": [
             {
               "license": "CC-BY-NC-4.0",
@@ -345,14 +283,12 @@
             }
           ],
           "translations": [
-            "en_Slowly, slowly, kids. Hahahaha._sentence"
+            "en_Slowly, slowly, kids. Hahahaha."
           ]
         },
         {
-          "uid": "en_Slowly, slowly, kids. Hahahaha._sentence",
           "language": "en",
           "content": "Slowly, slowly, kids. Hahahaha.",
-          "linguType": "sentence",
           "credits": [
             {
               "license": "CC-BY-NC-4.0",
@@ -363,14 +299,12 @@
             }
           ],
           "translations": [
-            "apc_شوي شوي يا ولاد ههههههه_sentence"
+            "apc_شوي شوي يا ولاد ههههههه"
           ]
         },
         {
-          "uid": "apc_يلا يا ولاد تأخرنا_sentence",
           "language": "apc",
           "content": "يلا يا ولاد تأخرنا",
-          "linguType": "sentence",
           "credits": [
             {
               "license": "CC-BY-NC-4.0",
@@ -381,14 +315,12 @@
             }
           ],
           "translations": [
-            "en_Come on, kids, we're late._sentence"
+            "en_Come on, kids, we're late."
           ]
         },
         {
-          "uid": "en_Come on, kids, we're late._sentence",
           "language": "en",
           "content": "Come on, kids, we're late.",
-          "linguType": "sentence",
           "credits": [
             {
               "license": "CC-BY-NC-4.0",
@@ -399,14 +331,12 @@
             }
           ],
           "translations": [
-            "apc_يلا يا ولاد تأخرنا_sentence"
+            "apc_يلا يا ولاد تأخرنا"
           ]
         },
         {
-          "uid": "apc_اهلين يا ولاد ليش تأخرتوا_sentence",
           "language": "apc",
           "content": "اهلين يا ولاد ليش تأخرتوا",
-          "linguType": "sentence",
           "credits": [
             {
               "license": "CC-BY-NC-4.0",
@@ -417,14 +347,12 @@
             }
           ],
           "translations": [
-            "en_Hi kids, why are you late?_sentence"
+            "en_Hi kids, why are you late?"
           ]
         },
         {
-          "uid": "en_Hi kids, why are you late?_sentence",
           "language": "en",
           "content": "Hi kids, why are you late?",
-          "linguType": "sentence",
           "credits": [
             {
               "license": "CC-BY-NC-4.0",
@@ -435,14 +363,12 @@
             }
           ],
           "translations": [
-            "apc_اهلين يا ولاد ليش تأخرتوا_sentence"
+            "apc_اهلين يا ولاد ليش تأخرتوا"
           ]
         },
         {
-          "uid": "apc_شو أعمل معه، يا ولاد الحلال؟_sentence",
           "language": "apc",
           "content": "شو أعمل معه، يا ولاد الحلال؟",
-          "linguType": "sentence",
           "credits": [
             {
               "license": "CC-BY-NC-4.0",
@@ -453,14 +379,12 @@
             }
           ],
           "translations": [
-            "en_What should I do with him, good people?_sentence"
+            "en_What should I do with him, good people?"
           ]
         },
         {
-          "uid": "en_What should I do with him, good people?_sentence",
           "language": "en",
           "content": "What should I do with him, good people?",
-          "linguType": "sentence",
           "credits": [
             {
               "license": "CC-BY-NC-4.0",
@@ -471,14 +395,12 @@
             }
           ],
           "translations": [
-            "apc_شو أعمل معه، يا ولاد الحلال؟_sentence"
+            "apc_شو أعمل معه، يا ولاد الحلال؟"
           ]
         },
         {
-          "uid": "apc_ازا تزوجتو توأم رح تجيبو ولاد توأم؟_sentence",
           "language": "apc",
           "content": "ازا تزوجتو توأم رح تجيبو ولاد توأم؟",
-          "linguType": "sentence",
           "credits": [
             {
               "license": "CC-BY-NC-4.0",
@@ -489,14 +411,12 @@
             }
           ],
           "translations": [
-            "en_If you marry twins, will your children be twins?_sentence"
+            "en_If you marry twins, will your children be twins?"
           ]
         },
         {
-          "uid": "en_If you marry twins, will your children be twins?_sentence",
           "language": "en",
           "content": "If you marry twins, will your children be twins?",
-          "linguType": "sentence",
           "credits": [
             {
               "license": "CC-BY-NC-4.0",
@@ -507,14 +427,12 @@
             }
           ],
           "translations": [
-            "apc_ازا تزوجتو توأم رح تجيبو ولاد توأم؟_sentence"
+            "apc_ازا تزوجتو توأم رح تجيبو ولاد توأم؟"
           ]
         },
         {
-          "uid": "apc_يا ولاد ليش مش ماكلين أكلكم ؟_sentence",
           "language": "apc",
           "content": "يا ولاد ليش مش ماكلين أكلكم ؟",
-          "linguType": "sentence",
           "credits": [
             {
               "license": "CC-BY-NC-4.0",
@@ -525,14 +443,12 @@
             }
           ],
           "translations": [
-            "en_Kids, why haven't you eaten your food?_sentence"
+            "en_Kids, why haven't you eaten your food?"
           ]
         },
         {
-          "uid": "en_Kids, why haven't you eaten your food?_sentence",
           "language": "en",
           "content": "Kids, why haven't you eaten your food?",
-          "linguType": "sentence",
           "credits": [
             {
               "license": "CC-BY-NC-4.0",
@@ -543,14 +459,12 @@
             }
           ],
           "translations": [
-            "apc_يا ولاد ليش مش ماكلين أكلكم ؟_sentence"
+            "apc_يا ولاد ليش مش ماكلين أكلكم ؟"
           ]
         },
         {
-          "uid": "apc_ولاد الحارة اللي فوق_sentence",
           "language": "apc",
           "content": "ولاد الحارة اللي فوق",
-          "linguType": "sentence",
           "credits": [
             {
               "license": "CC-BY-NC-4.0",
@@ -561,14 +475,12 @@
             }
           ],
           "translations": [
-            "en_The kids from the upper neighborhood_sentence"
+            "en_The kids from the upper neighborhood"
           ]
         },
         {
-          "uid": "en_The kids from the upper neighborhood_sentence",
           "language": "en",
           "content": "The kids from the upper neighborhood",
-          "linguType": "sentence",
           "credits": [
             {
               "license": "CC-BY-NC-4.0",
@@ -579,14 +491,12 @@
             }
           ],
           "translations": [
-            "apc_ولاد الحارة اللي فوق_sentence"
+            "apc_ولاد الحارة اللي فوق"
           ]
         },
         {
-          "uid": "apc_يا ولاد تعالوا تغذوا في معكرونا_sentence",
           "language": "apc",
           "content": "يا ولاد تعالوا تغذوا في معكرونا",
-          "linguType": "sentence",
           "credits": [
             {
               "license": "CC-BY-NC-4.0",
@@ -597,14 +507,12 @@
             }
           ],
           "translations": [
-            "en_Kids, come have lunch, we have pasta._sentence"
+            "en_Kids, come have lunch, we have pasta."
           ]
         },
         {
-          "uid": "en_Kids, come have lunch, we have pasta._sentence",
           "language": "en",
           "content": "Kids, come have lunch, we have pasta.",
-          "linguType": "sentence",
           "credits": [
             {
               "license": "CC-BY-NC-4.0",
@@ -615,14 +523,12 @@
             }
           ],
           "translations": [
-            "apc_يا ولاد تعالوا تغذوا في معكرونا_sentence"
+            "apc_يا ولاد تعالوا تغذوا في معكرونا"
           ]
         },
         {
-          "uid": "apc_‏هي متجوزة وعندها ولاد ‎_sentence",
           "language": "apc",
           "content": "‏هي متجوزة وعندها ولاد ‎",
-          "linguType": "sentence",
           "credits": [
             {
               "license": "CC-BY-NC-4.0",
@@ -633,14 +539,12 @@
             }
           ],
           "translations": [
-            "en_She is married and has children._sentence"
+            "en_She is married and has children."
           ]
         },
         {
-          "uid": "en_She is married and has children._sentence",
           "language": "en",
           "content": "She is married and has children.",
-          "linguType": "sentence",
           "credits": [
             {
               "license": "CC-BY-NC-4.0",
@@ -651,14 +555,12 @@
             }
           ],
           "translations": [
-            "apc_‏هي متجوزة وعندها ولاد ‎_sentence"
+            "apc_‏هي متجوزة وعندها ولاد ‎"
           ]
         },
         {
-          "uid": "apc_ولاد قاعدين هوني بالضّفّة بتبرطعوا تبرطع،_sentence",
           "language": "apc",
           "content": "ولاد قاعدين هوني بالضّفّة بتبرطعوا تبرطع،",
-          "linguType": "sentence",
           "credits": [
             {
               "license": "CC-BY-NC-4.0",
@@ -669,14 +571,12 @@
             }
           ],
           "translations": [
-            "en_Young people are causing a ruckus here in the West Bank._sentence"
+            "en_Young people are causing a ruckus here in the West Bank."
           ]
         },
         {
-          "uid": "en_Young people are causing a ruckus here in the West Bank._sentence",
           "language": "en",
           "content": "Young people are causing a ruckus here in the West Bank.",
-          "linguType": "sentence",
           "credits": [
             {
               "license": "CC-BY-NC-4.0",
@@ -687,14 +587,12 @@
             }
           ],
           "translations": [
-            "apc_ولاد قاعدين هوني بالضّفّة بتبرطعوا تبرطع،_sentence"
+            "apc_ولاد قاعدين هوني بالضّفّة بتبرطعوا تبرطع،"
           ]
         },
         {
-          "uid": "apc_يا ولاد شو عملتو_sentence",
           "language": "apc",
           "content": "يا ولاد شو عملتو",
-          "linguType": "sentence",
           "credits": [
             {
               "license": "CC-BY-NC-4.0",
@@ -705,14 +603,12 @@
             }
           ],
           "translations": [
-            "en_Kids, what did you do!?!_sentence"
+            "en_Kids, what did you do!?!"
           ]
         },
         {
-          "uid": "en_Kids, what did you do!?!_sentence",
           "language": "en",
           "content": "Kids, what did you do!?!",
-          "linguType": "sentence",
           "credits": [
             {
               "license": "CC-BY-NC-4.0",
@@ -723,14 +619,12 @@
             }
           ],
           "translations": [
-            "apc_يا ولاد شو عملتو_sentence"
+            "apc_يا ولاد شو عملتو"
           ]
         },
         {
-          "uid": "apc_كل ولاد العمارة عم بحضرولك مطالبنا_sentence",
           "language": "apc",
           "content": "كل ولاد العمارة عم بحضرولك مطالبنا",
-          "linguType": "sentence",
           "credits": [
             {
               "license": "CC-BY-NC-4.0",
@@ -741,14 +635,12 @@
             }
           ],
           "translations": [
-            "en_All the kids in the building are preparing our list of demands._sentence"
+            "en_All the kids in the building are preparing our list of demands."
           ]
         },
         {
-          "uid": "en_All the kids in the building are preparing our list of demands._sentence",
           "language": "en",
           "content": "All the kids in the building are preparing our list of demands.",
-          "linguType": "sentence",
           "credits": [
             {
               "license": "CC-BY-NC-4.0",
@@ -759,14 +651,12 @@
             }
           ],
           "translations": [
-            "apc_كل ولاد العمارة عم بحضرولك مطالبنا_sentence"
+            "apc_كل ولاد العمارة عم بحضرولك مطالبنا"
           ]
         },
         {
-          "uid": "apc_فش مزח مع ولاد البلد، بعكّا._sentence",
           "language": "apc",
           "content": "فش مزח مع ولاد البلد، بعكّا.",
-          "linguType": "sentence",
           "credits": [
             {
               "license": "CC-BY-NC-4.0",
@@ -777,14 +667,12 @@
             }
           ],
           "translations": [
-            "en_No joke with the locals, in Akka._sentence"
+            "en_No joke with the locals, in Akka."
           ]
         },
         {
-          "uid": "en_No joke with the locals, in Akka._sentence",
           "language": "en",
           "content": "No joke with the locals, in Akka.",
-          "linguType": "sentence",
           "credits": [
             {
               "license": "CC-BY-NC-4.0",
@@ -795,14 +683,12 @@
             }
           ],
           "translations": [
-            "apc_فش مزח مع ولاد البلد، بعكّا._sentence"
+            "apc_فش مزח مع ولاد البلد، بعكّا."
           ]
         },
         {
-          "uid": "apc_‏هالنوع من الكتب خرج ولاد بس ‎_sentence",
           "language": "apc",
           "content": "‏هالنوع من الكتب خرج ولاد بس ‎",
-          "linguType": "sentence",
           "credits": [
             {
               "license": "CC-BY-NC-4.0",
@@ -813,14 +699,12 @@
             }
           ],
           "translations": [
-            "en_This type of books is suitable only for children._sentence"
+            "en_This type of books is suitable only for children."
           ]
         },
         {
-          "uid": "en_This type of books is suitable only for children._sentence",
           "language": "en",
           "content": "This type of books is suitable only for children.",
-          "linguType": "sentence",
           "credits": [
             {
               "license": "CC-BY-NC-4.0",
@@ -831,14 +715,12 @@
             }
           ],
           "translations": [
-            "apc_‏هالنوع من الكتب خرج ولاد بس ‎_sentence"
+            "apc_‏هالنوع من الكتب خرج ولاد بس ‎"
           ]
         },
         {
-          "uid": "apc_طب خبريني شو أسماء ولاد صفك_sentence",
           "language": "apc",
           "content": "طب خبريني شو أسماء ولاد صفك",
-          "linguType": "sentence",
           "credits": [
             {
               "license": "CC-BY-NC-4.0",
@@ -849,14 +731,12 @@
             }
           ],
           "translations": [
-            "en_So tell me the names of the kids in your class._sentence"
+            "en_So tell me the names of the kids in your class."
           ]
         },
         {
-          "uid": "en_So tell me the names of the kids in your class._sentence",
           "language": "en",
           "content": "So tell me the names of the kids in your class.",
-          "linguType": "sentence",
           "credits": [
             {
               "license": "CC-BY-NC-4.0",
@@ -867,14 +747,12 @@
             }
           ],
           "translations": [
-            "apc_طب خبريني شو أسماء ولاد صفك_sentence"
+            "apc_طب خبريني شو أسماء ولاد صفك"
           ]
         },
         {
-          "uid": "apc_شو انتوا ولاد صغار؟_sentence",
           "language": "apc",
           "content": "شو انتوا ولاد صغار؟",
-          "linguType": "sentence",
           "credits": [
             {
               "license": "CC-BY-NC-4.0",
@@ -885,14 +763,12 @@
             }
           ],
           "translations": [
-            "en_Are you guys little kids?_sentence"
+            "en_Are you guys little kids?"
           ]
         },
         {
-          "uid": "en_Are you guys little kids?_sentence",
           "language": "en",
           "content": "Are you guys little kids?",
-          "linguType": "sentence",
           "credits": [
             {
               "license": "CC-BY-NC-4.0",
@@ -903,14 +779,12 @@
             }
           ],
           "translations": [
-            "apc_شو انتوا ولاد صغار؟_sentence"
+            "apc_شو انتوا ولاد صغار؟"
           ]
         },
         {
-          "uid": "apc_‏عندهن تلتة ولاد زغار ‎_sentence",
           "language": "apc",
           "content": "‏عندهن تلتة ولاد زغار ‎",
-          "linguType": "sentence",
           "credits": [
             {
               "license": "CC-BY-NC-4.0",
@@ -921,14 +795,12 @@
             }
           ],
           "translations": [
-            "en_They have three small children._sentence"
+            "en_They have three small children."
           ]
         },
         {
-          "uid": "en_They have three small children._sentence",
           "language": "en",
           "content": "They have three small children.",
-          "linguType": "sentence",
           "credits": [
             {
               "license": "CC-BY-NC-4.0",
@@ -939,14 +811,12 @@
             }
           ],
           "translations": [
-            "apc_‏عندهن تلتة ولاد زغار ‎_sentence"
+            "apc_‏عندهن تلتة ولاد زغار ‎"
           ]
         },
         {
-          "uid": "apc_ضبّوا سيارتكو لأنّه ولاد الحرام كتار!_sentence",
           "language": "apc",
           "content": "ضبّوا سيارتكو لأنّه ولاد الحرام كتار!",
-          "linguType": "sentence",
           "credits": [
             {
               "license": "CC-BY-NC-4.0",
@@ -957,14 +827,12 @@
             }
           ],
           "translations": [
-            "en_Put away your car because there are a lot of scoundrels!_sentence"
+            "en_Put away your car because there are a lot of scoundrels!"
           ]
         },
         {
-          "uid": "en_Put away your car because there are a lot of scoundrels!_sentence",
           "language": "en",
           "content": "Put away your car because there are a lot of scoundrels!",
-          "linguType": "sentence",
           "credits": [
             {
               "license": "CC-BY-NC-4.0",
@@ -975,14 +843,12 @@
             }
           ],
           "translations": [
-            "apc_ضبّوا سيارتكو لأنّه ولاد الحرام كتار!_sentence"
+            "apc_ضبّوا سيارتكو لأنّه ولاد الحرام كتار!"
           ]
         },
         {
-          "uid": "apc_يعني ولاد عمومتكم, ترا, زين؟_sentence",
           "language": "apc",
           "content": "يعني ولاد عمومتكم, ترا, زين؟",
-          "linguType": "sentence",
           "credits": [
             {
               "license": "CC-BY-NC-4.0",
@@ -993,14 +859,12 @@
             }
           ],
           "translations": [
-            "en_I mean, they're your cousins, right?_sentence"
+            "en_I mean, they're your cousins, right?"
           ]
         },
         {
-          "uid": "en_I mean, they're your cousins, right?_sentence",
           "language": "en",
           "content": "I mean, they're your cousins, right?",
-          "linguType": "sentence",
           "credits": [
             {
               "license": "CC-BY-NC-4.0",
@@ -1011,14 +875,12 @@
             }
           ],
           "translations": [
-            "apc_يعني ولاد عمومتكم, ترا, زين؟_sentence"
+            "apc_يعني ولاد عمومتكم, ترا, زين؟"
           ]
         },
         {
-          "uid": "apc_اركبوا اركبوا يا ولاد_sentence",
           "language": "apc",
           "content": "اركبوا اركبوا يا ولاد",
-          "linguType": "sentence",
           "credits": [
             {
               "license": "CC-BY-NC-4.0",
@@ -1029,14 +891,12 @@
             }
           ],
           "translations": [
-            "en_Come on kids, get on._sentence"
+            "en_Come on kids, get on."
           ]
         },
         {
-          "uid": "en_Come on kids, get on._sentence",
           "language": "en",
           "content": "Come on kids, get on.",
-          "linguType": "sentence",
           "credits": [
             {
               "license": "CC-BY-NC-4.0",
@@ -1047,14 +907,12 @@
             }
           ],
           "translations": [
-            "apc_اركبوا اركبوا يا ولاد_sentence"
+            "apc_اركبوا اركبوا يا ولاد"
           ]
         },
         {
-          "uid": "apc_يلا يا ولاد عملتلكم البيض اللي بتحبوا_sentence",
           "language": "apc",
           "content": "يلا يا ولاد عملتلكم البيض اللي بتحبوا",
-          "linguType": "sentence",
           "credits": [
             {
               "license": "CC-BY-NC-4.0",
@@ -1065,14 +923,12 @@
             }
           ],
           "translations": [
-            "en_Come on, kids, I've made you the eggs you like._sentence"
+            "en_Come on, kids, I've made you the eggs you like."
           ]
         },
         {
-          "uid": "en_Come on, kids, I've made you the eggs you like._sentence",
           "language": "en",
           "content": "Come on, kids, I've made you the eggs you like.",
-          "linguType": "sentence",
           "credits": [
             {
               "license": "CC-BY-NC-4.0",
@@ -1083,14 +939,12 @@
             }
           ],
           "translations": [
-            "apc_يلا يا ولاد عملتلكم البيض اللي بتحبوا_sentence"
+            "apc_يلا يا ولاد عملتلكم البيض اللي بتحبوا"
           ]
         },
         {
-          "uid": "apc_إحنا ولاد القدس مشهورين ومعروفين مين إحنا._sentence",
           "language": "apc",
           "content": "إحنا ولاد القدس مشهورين ومعروفين مين إحنا.",
-          "linguType": "sentence",
           "credits": [
             {
               "license": "CC-BY-NC-4.0",
@@ -1101,14 +955,12 @@
             }
           ],
           "translations": [
-            "en_We, the children of Jerusalem, are famous and well-known for who we are._sentence"
+            "en_We, the children of Jerusalem, are famous and well-known for who we are."
           ]
         },
         {
-          "uid": "en_We, the children of Jerusalem, are famous and well-known for who we are._sentence",
           "language": "en",
           "content": "We, the children of Jerusalem, are famous and well-known for who we are.",
-          "linguType": "sentence",
           "credits": [
             {
               "license": "CC-BY-NC-4.0",
@@ -1119,14 +971,12 @@
             }
           ],
           "translations": [
-            "apc_إحنا ولاد القدس مشهورين ومعروفين مين إحنا._sentence"
+            "apc_إحنا ولاد القدس مشهورين ومعروفين مين إحنا."
           ]
         },
         {
-          "uid": "apc_‏عندهن ولاد شباب وصبايا ‎_sentence",
           "language": "apc",
           "content": "‏عندهن ولاد شباب وصبايا ‎",
-          "linguType": "sentence",
           "credits": [
             {
               "license": "CC-BY-NC-4.0",
@@ -1137,14 +987,12 @@
             }
           ],
           "translations": [
-            "en_They have grown-up children._sentence"
+            "en_They have grown-up children."
           ]
         },
         {
-          "uid": "en_They have grown-up children._sentence",
           "language": "en",
           "content": "They have grown-up children.",
-          "linguType": "sentence",
           "credits": [
             {
               "license": "CC-BY-NC-4.0",
@@ -1155,14 +1003,12 @@
             }
           ],
           "translations": [
-            "apc_‏عندهن ولاد شباب وصبايا ‎_sentence"
+            "apc_‏عندهن ولاد شباب وصبايا ‎"
           ]
         },
         {
-          "uid": "apc_قررت أعزم كل ولاد الصف_sentence",
           "language": "apc",
           "content": "قررت أعزم كل ولاد الصف",
-          "linguType": "sentence",
           "credits": [
             {
               "license": "CC-BY-NC-4.0",
@@ -1173,14 +1019,12 @@
             }
           ],
           "translations": [
-            "en_I decided to invite all my classmates._sentence"
+            "en_I decided to invite all my classmates."
           ]
         },
         {
-          "uid": "en_I decided to invite all my classmates._sentence",
           "language": "en",
           "content": "I decided to invite all my classmates.",
-          "linguType": "sentence",
           "credits": [
             {
               "license": "CC-BY-NC-4.0",
@@ -1191,14 +1035,12 @@
             }
           ],
           "translations": [
-            "apc_قررت أعزم كل ولاد الصف_sentence"
+            "apc_قررت أعزم كل ولاد الصف"
           ]
         },
         {
-          "uid": "apc_‏حطوا الأحزمة يا ولاد ‎_sentence",
           "language": "apc",
           "content": "‏حطوا الأحزمة يا ولاد ‎",
-          "linguType": "sentence",
           "credits": [
             {
               "license": "CC-BY-NC-4.0",
@@ -1209,14 +1051,12 @@
             }
           ],
           "translations": [
-            "en_Put on your seatbelts, kids!_sentence"
+            "en_Put on your seatbelts, kids!"
           ]
         },
         {
-          "uid": "en_Put on your seatbelts, kids!_sentence",
           "language": "en",
           "content": "Put on your seatbelts, kids!",
-          "linguType": "sentence",
           "credits": [
             {
               "license": "CC-BY-NC-4.0",
@@ -1227,14 +1067,12 @@
             }
           ],
           "translations": [
-            "apc_‏حطوا الأحزمة يا ولاد ‎_sentence"
+            "apc_‏حطوا الأحزمة يا ولاد ‎"
           ]
         },
         {
-          "uid": "apc_يلا باي يا ولاد_sentence",
           "language": "apc",
           "content": "يلا باي يا ولاد",
-          "linguType": "sentence",
           "credits": [
             {
               "license": "CC-BY-NC-4.0",
@@ -1245,14 +1083,12 @@
             }
           ],
           "translations": [
-            "en_Come on, bye kids_sentence"
+            "en_Come on, bye kids"
           ]
         },
         {
-          "uid": "en_Come on, bye kids_sentence",
           "language": "en",
           "content": "Come on, bye kids",
-          "linguType": "sentence",
           "credits": [
             {
               "license": "CC-BY-NC-4.0",
@@ -1263,14 +1099,12 @@
             }
           ],
           "translations": [
-            "apc_يلا باي يا ولاد_sentence"
+            "apc_يلا باي يا ولاد"
           ]
         },
         {
-          "uid": "apc_ونعمل دوري ونعزم ولاد وبنات الصف_sentence",
           "language": "apc",
           "content": "ونعمل دوري ونعزم ولاد وبنات الصف",
-          "linguType": "sentence",
           "credits": [
             {
               "license": "CC-BY-NC-4.0",
@@ -1281,14 +1115,12 @@
             }
           ],
           "translations": [
-            "en_We can hold a tournament and invite the boys and girls from the class._sentence"
+            "en_We can hold a tournament and invite the boys and girls from the class."
           ]
         },
         {
-          "uid": "en_We can hold a tournament and invite the boys and girls from the class._sentence",
           "language": "en",
           "content": "We can hold a tournament and invite the boys and girls from the class.",
-          "linguType": "sentence",
           "credits": [
             {
               "license": "CC-BY-NC-4.0",
@@ -1299,14 +1131,12 @@
             }
           ],
           "translations": [
-            "apc_ونعمل دوري ونعزم ولاد وبنات الصف_sentence"
+            "apc_ونعمل دوري ونعزم ولاد وبنات الصف"
           ]
         },
         {
-          "uid": "apc_يا ولاد تعالوا تغدوا في معكرونة_sentence",
           "language": "apc",
           "content": "يا ولاد تعالوا تغدوا في معكرونة",
-          "linguType": "sentence",
           "credits": [
             {
               "license": "CC-BY-NC-4.0",
@@ -1317,14 +1147,12 @@
             }
           ],
           "translations": [
-            "en_Kids, come have lunch, there's macaroni._sentence"
+            "en_Kids, come have lunch, there's macaroni."
           ]
         },
         {
-          "uid": "en_Kids, come have lunch, there's macaroni._sentence",
           "language": "en",
           "content": "Kids, come have lunch, there's macaroni.",
-          "linguType": "sentence",
           "credits": [
             {
               "license": "CC-BY-NC-4.0",
@@ -1335,14 +1163,12 @@
             }
           ],
           "translations": [
-            "apc_يا ولاد تعالوا تغدوا في معكرونة_sentence"
+            "apc_يا ولاد تعالوا تغدوا في معكرونة"
           ]
         },
         {
-          "uid": "apc_سبحان الله، ولاد حلال._sentence",
           "language": "apc",
           "content": "سبحان الله، ولاد حلال.",
-          "linguType": "sentence",
           "credits": [
             {
               "license": "CC-BY-NC-4.0",
@@ -1353,14 +1179,12 @@
             }
           ],
           "translations": [
-            "en_Glory to God, you are good kids!_sentence"
+            "en_Glory to God, you are good kids!"
           ]
         },
         {
-          "uid": "en_Glory to God, you are good kids!_sentence",
           "language": "en",
           "content": "Glory to God, you are good kids!",
-          "linguType": "sentence",
           "credits": [
             {
               "license": "CC-BY-NC-4.0",
@@ -1371,14 +1195,12 @@
             }
           ],
           "translations": [
-            "apc_سبحان الله، ولاد حلال._sentence"
+            "apc_سبحان الله، ولاد حلال."
           ]
         },
         {
-          "uid": "apc_شو يا ولاد كيف المدرسة؟_sentence",
           "language": "apc",
           "content": "شو يا ولاد كيف المدرسة؟",
-          "linguType": "sentence",
           "credits": [
             {
               "license": "CC-BY-NC-4.0",
@@ -1389,14 +1211,12 @@
             }
           ],
           "translations": [
-            "en_So kids, how is school?_sentence"
+            "en_So kids, how is school?"
           ]
         },
         {
-          "uid": "en_So kids, how is school?_sentence",
           "language": "en",
           "content": "So kids, how is school?",
-          "linguType": "sentence",
           "credits": [
             {
               "license": "CC-BY-NC-4.0",
@@ -1407,14 +1227,12 @@
             }
           ],
           "translations": [
-            "apc_شو يا ولاد كيف المدرسة؟_sentence"
+            "apc_شو يا ولاد كيف المدرسة؟"
           ]
         },
         {
-          "uid": "apc_طفوا الكهربا يا ولاد_sentence",
           "language": "apc",
           "content": "طفوا الكهربا يا ولاد",
-          "linguType": "sentence",
           "credits": [
             {
               "license": "CC-BY-NC-4.0",
@@ -1425,14 +1243,12 @@
             }
           ],
           "translations": [
-            "en_Turn off the electricity, kids._sentence"
+            "en_Turn off the electricity, kids."
           ]
         },
         {
-          "uid": "en_Turn off the electricity, kids._sentence",
           "language": "en",
           "content": "Turn off the electricity, kids.",
-          "linguType": "sentence",
           "credits": [
             {
               "license": "CC-BY-NC-4.0",
@@ -1443,1276 +1259,1022 @@
             }
           ],
           "translations": [
-            "apc_طفوا الكهربا يا ولاد_sentence"
+            "apc_طفوا الكهربا يا ولاد"
           ]
         },
         {
-          "uid": "apc_أسماء",
           "language": "apc",
           "content": "أسماء"
         },
         {
-          "uid": "apc_أعزم",
           "language": "apc",
           "content": "أعزم"
         },
         {
-          "uid": "apc_أعمل",
           "language": "apc",
           "content": "أعمل"
         },
         {
-          "uid": "apc_أكلكم",
           "language": "apc",
           "content": "أكلكم"
         },
         {
-          "uid": "apc_إحنا",
           "language": "apc",
           "content": "إحنا"
         },
         {
-          "uid": "apc_احنا؟",
           "language": "apc",
           "content": "احنا؟"
         },
         {
-          "uid": "apc_اركبوا",
           "language": "apc",
           "content": "اركبوا"
         },
         {
-          "uid": "apc_ازا",
           "language": "apc",
           "content": "ازا"
         },
         {
-          "uid": "apc_افتحوا",
           "language": "apc",
           "content": "افتحوا"
         },
         {
-          "uid": "apc_الأحزمة",
           "language": "apc",
           "content": "الأحزمة"
         },
         {
-          "uid": "apc_البسّة",
           "language": "apc",
           "content": "البسّة"
         },
         {
-          "uid": "apc_البلد،",
           "language": "apc",
           "content": "البلد،"
         },
         {
-          "uid": "apc_البيض",
           "language": "apc",
           "content": "البيض"
         },
         {
-          "uid": "apc_الحارة",
           "language": "apc",
           "content": "الحارة"
         },
         {
-          "uid": "apc_الحرام",
           "language": "apc",
           "content": "الحرام"
         },
         {
-          "uid": "apc_الحلال؟",
           "language": "apc",
           "content": "الحلال؟"
         },
         {
-          "uid": "apc_الصف",
           "language": "apc",
           "content": "الصف"
         },
         {
-          "uid": "apc_العمارة",
           "language": "apc",
           "content": "العمارة"
         },
         {
-          "uid": "apc_القدس",
           "language": "apc",
           "content": "القدس"
         },
         {
-          "uid": "apc_الكتب",
           "language": "apc",
           "content": "الكتب"
         },
         {
-          "uid": "apc_الكهربا",
           "language": "apc",
           "content": "الكهربا"
         },
         {
-          "uid": "apc_الله،",
           "language": "apc",
           "content": "الله،"
         },
         {
-          "uid": "apc_اللي",
           "language": "apc",
           "content": "اللي"
         },
         {
-          "uid": "apc_المدرسة؟",
           "language": "apc",
           "content": "المدرسة؟"
         },
         {
-          "uid": "apc_انتوا",
           "language": "apc",
           "content": "انتوا"
         },
         {
-          "uid": "apc_اهلين",
           "language": "apc",
           "content": "اهلين"
         },
         {
-          "uid": "apc_بالضّفّة",
           "language": "apc",
           "content": "بالضّفّة"
         },
         {
-          "uid": "apc_باي",
           "language": "apc",
           "content": "باي"
         },
         {
-          "uid": "apc_بتبرطعوا",
           "language": "apc",
           "content": "بتبرطعوا"
         },
         {
-          "uid": "apc_بتحبوا",
           "language": "apc",
           "content": "بتحبوا"
         },
         {
-          "uid": "apc_بتساوا؟",
           "language": "apc",
           "content": "بتساوا؟"
         },
         {
-          "uid": "apc_بحضرولك",
           "language": "apc",
           "content": "بحضرولك"
         },
         {
-          "uid": "apc_بس",
           "language": "apc",
           "content": "بس"
         },
         {
-          "uid": "apc_بعكّا",
           "language": "apc",
           "content": "بعكّا"
         },
         {
-          "uid": "apc_تأخرتوا",
           "language": "apc",
           "content": "تأخرتوا"
         },
         {
-          "uid": "apc_تأخرنا",
           "language": "apc",
           "content": "تأخرنا"
         },
         {
-          "uid": "apc_تأخرنا،",
           "language": "apc",
           "content": "تأخرنا،"
         },
         {
-          "uid": "apc_تبرطع،",
           "language": "apc",
           "content": "تبرطع،"
         },
         {
-          "uid": "apc_تجيبو",
           "language": "apc",
           "content": "تجيبو"
         },
         {
-          "uid": "apc_ترا",
           "language": "apc",
           "content": "ترا"
         },
         {
-          "uid": "apc_تزوجتو",
           "language": "apc",
           "content": "تزوجتو"
         },
         {
-          "uid": "apc_تعالوا",
           "language": "apc",
           "content": "تعالوا"
         },
         {
-          "uid": "apc_تغدوا",
           "language": "apc",
           "content": "تغدوا"
         },
         {
-          "uid": "apc_تغذوا",
           "language": "apc",
           "content": "تغذوا"
         },
         {
-          "uid": "apc_تلتة",
           "language": "apc",
           "content": "تلتة"
         },
         {
-          "uid": "apc_توأم",
           "language": "apc",
           "content": "توأم"
         },
         {
-          "uid": "apc_توأم؟",
           "language": "apc",
           "content": "توأم؟"
         },
         {
-          "uid": "apc_حطوا",
           "language": "apc",
           "content": "حطوا"
         },
         {
-          "uid": "apc_حلال",
           "language": "apc",
           "content": "حلال"
         },
         {
-          "uid": "apc_خبريني",
           "language": "apc",
           "content": "خبريني"
         },
         {
-          "uid": "apc_خرج",
           "language": "apc",
           "content": "خرج"
         },
         {
-          "uid": "apc_خلص،",
           "language": "apc",
           "content": "خلص،"
         },
         {
-          "uid": "apc_دوري",
           "language": "apc",
           "content": "دوري"
         },
         {
-          "uid": "apc_رح",
           "language": "apc",
           "content": "رح"
         },
         {
-          "uid": "apc_زغار",
           "language": "apc",
           "content": "زغار"
         },
         {
-          "uid": "apc_زين؟",
           "language": "apc",
           "content": "زين؟"
         },
         {
-          "uid": "apc_سبحان",
           "language": "apc",
           "content": "سبحان"
         },
         {
-          "uid": "apc_سيارتكو",
           "language": "apc",
           "content": "سيارتكو"
         },
         {
-          "uid": "apc_شباب",
           "language": "apc",
           "content": "شباب"
         },
         {
-          "uid": "apc_شو",
           "language": "apc",
           "content": "شو"
         },
         {
-          "uid": "apc_شوفوا",
           "language": "apc",
           "content": "شوفوا"
         },
         {
-          "uid": "apc_شوي",
           "language": "apc",
           "content": "شوي"
         },
         {
-          "uid": "apc_صغار؟",
           "language": "apc",
           "content": "صغار؟"
         },
         {
-          "uid": "apc_صفك",
           "language": "apc",
           "content": "صفك"
         },
         {
-          "uid": "apc_ضبّوا",
           "language": "apc",
           "content": "ضبّوا"
         },
         {
-          "uid": "apc_طب",
           "language": "apc",
           "content": "طب"
         },
         {
-          "uid": "apc_طفوا",
           "language": "apc",
           "content": "طفوا"
         },
         {
-          "uid": "apc_عم",
           "language": "apc",
           "content": "عم"
         },
         {
-          "uid": "apc_عملتلكم",
           "language": "apc",
           "content": "عملتلكم"
         },
         {
-          "uid": "apc_عملتو",
           "language": "apc",
           "content": "عملتو"
         },
         {
-          "uid": "apc_عمومتكم",
           "language": "apc",
           "content": "عمومتكم"
         },
         {
-          "uid": "apc_عمّنا",
           "language": "apc",
           "content": "عمّنا"
         },
         {
-          "uid": "apc_عندهن",
           "language": "apc",
           "content": "عندهن"
         },
         {
-          "uid": "apc_فش",
           "language": "apc",
           "content": "فش"
         },
         {
-          "uid": "apc_فوق",
           "language": "apc",
           "content": "فوق"
         },
         {
-          "uid": "apc_في",
           "language": "apc",
           "content": "في"
         },
         {
-          "uid": "apc_قاعدين",
           "language": "apc",
           "content": "قاعدين"
         },
         {
-          "uid": "apc_قررت",
           "language": "apc",
           "content": "قررت"
         },
         {
-          "uid": "apc_كتار",
           "language": "apc",
           "content": "كتار"
         },
         {
-          "uid": "apc_كل",
           "language": "apc",
           "content": "كل"
         },
         {
-          "uid": "apc_كيف",
           "language": "apc",
           "content": "كيف"
         },
         {
-          "uid": "apc_لأنّه",
           "language": "apc",
           "content": "لأنّه"
         },
         {
-          "uid": "apc_ليش",
           "language": "apc",
           "content": "ليش"
         },
         {
-          "uid": "apc_ماكلين",
           "language": "apc",
           "content": "ماكلين"
         },
         {
-          "uid": "apc_متجوزة",
           "language": "apc",
           "content": "متجوزة"
         },
         {
-          "uid": "apc_مثل",
           "language": "apc",
           "content": "مثل"
         },
         {
-          "uid": "apc_مزח",
           "language": "apc",
           "content": "مزח"
         },
         {
-          "uid": "apc_مش",
           "language": "apc",
           "content": "مش"
         },
         {
-          "uid": "apc_مشهورين",
           "language": "apc",
           "content": "مشهورين"
         },
         {
-          "uid": "apc_مطالبنا",
           "language": "apc",
           "content": "مطالبنا"
         },
         {
-          "uid": "apc_مع",
           "language": "apc",
           "content": "مع"
         },
         {
-          "uid": "apc_معكرونا",
           "language": "apc",
           "content": "معكرونا"
         },
         {
-          "uid": "apc_معكرونة",
           "language": "apc",
           "content": "معكرونة"
         },
         {
-          "uid": "apc_معه،",
           "language": "apc",
           "content": "معه،"
         },
         {
-          "uid": "apc_من",
           "language": "apc",
           "content": "من"
         },
         {
-          "uid": "apc_منلعب؟",
           "language": "apc",
           "content": "منلعب؟"
         },
         {
-          "uid": "apc_مين",
           "language": "apc",
           "content": "مين"
         },
         {
-          "uid": "apc_نسايبنا",
           "language": "apc",
           "content": "نسايبنا"
         },
         {
-          "uid": "apc_هالنوع",
           "language": "apc",
           "content": "هالنوع"
         },
         {
-          "uid": "apc_ههههههه",
           "language": "apc",
           "content": "ههههههه"
         },
         {
-          "uid": "apc_هوني",
           "language": "apc",
           "content": "هوني"
         },
         {
-          "uid": "apc_هي",
           "language": "apc",
           "content": "هي"
         },
         {
-          "uid": "apc_وإذا",
           "language": "apc",
           "content": "وإذا"
         },
         {
-          "uid": "apc_واستلبسوه",
           "language": "apc",
           "content": "واستلبسوه"
         },
         {
-          "uid": "apc_وبنات",
           "language": "apc",
           "content": "وبنات"
         },
         {
-          "uid": "apc_وصبايا",
           "language": "apc",
           "content": "وصبايا"
         },
         {
-          "uid": "apc_وعندها",
           "language": "apc",
           "content": "وعندها"
         },
         {
-          "uid": "apc_ولا",
           "language": "apc",
           "content": "ولا"
         },
         {
-          "uid": "apc_ولاد",
           "language": "apc",
           "content": "ولاد"
         },
         {
-          "uid": "apc_ومعروفين",
           "language": "apc",
           "content": "ومعروفين"
         },
         {
-          "uid": "apc_ونعزم",
           "language": "apc",
           "content": "ونعزم"
         },
         {
-          "uid": "apc_ونعمل",
           "language": "apc",
           "content": "ونعمل"
         },
         {
-          "uid": "apc_يا",
           "language": "apc",
           "content": "يا"
         },
         {
-          "uid": "apc_يعني",
           "language": "apc",
           "content": "يعني"
         },
         {
-          "uid": "apc_يلا",
           "language": "apc",
           "content": "يلا"
         },
         {
-          "uid": "apc_يهمك",
           "language": "apc",
           "content": "يهمك"
         },
         {
-          "uid": "en_akka",
           "language": "en",
           "content": "akka"
         },
         {
-          "uid": "en_all",
           "language": "en",
           "content": "all"
         },
         {
-          "uid": "en_and",
           "language": "en",
           "content": "and"
         },
         {
-          "uid": "en_are",
           "language": "en",
           "content": "are"
         },
         {
-          "uid": "en_away",
           "language": "en",
           "content": "away"
         },
         {
-          "uid": "en_bank",
           "language": "en",
           "content": "bank"
         },
         {
-          "uid": "en_be",
           "language": "en",
           "content": "be"
         },
         {
-          "uid": "en_because",
           "language": "en",
           "content": "because"
         },
         {
-          "uid": "en_books",
           "language": "en",
           "content": "books"
         },
         {
-          "uid": "en_boys",
           "language": "en",
           "content": "boys"
         },
         {
-          "uid": "en_building",
           "language": "en",
           "content": "building"
         },
         {
-          "uid": "en_bully",
           "language": "en",
           "content": "bully"
         },
         {
-          "uid": "en_bye",
           "language": "en",
           "content": "bye"
         },
         {
-          "uid": "en_can",
           "language": "en",
           "content": "can"
         },
         {
-          "uid": "en_car",
           "language": "en",
           "content": "car"
         },
         {
-          "uid": "en_causing",
           "language": "en",
           "content": "causing"
         },
         {
-          "uid": "en_children",
           "language": "en",
           "content": "children"
         },
         {
-          "uid": "en_class",
           "language": "en",
           "content": "class"
         },
         {
-          "uid": "en_classmates",
           "language": "en",
           "content": "classmates"
         },
         {
-          "uid": "en_come",
           "language": "en",
           "content": "come"
         },
         {
-          "uid": "en_continued",
           "language": "en",
           "content": "continued"
         },
         {
-          "uid": "en_cousins",
           "language": "en",
           "content": "cousins"
         },
         {
-          "uid": "en_decided",
           "language": "en",
           "content": "decided"
         },
         {
-          "uid": "en_demands",
           "language": "en",
           "content": "demands"
         },
         {
-          "uid": "en_did",
           "language": "en",
           "content": "did"
         },
         {
-          "uid": "en_do",
           "language": "en",
           "content": "do"
         },
         {
-          "uid": "en_doing",
           "language": "en",
           "content": "doing"
         },
         {
-          "uid": "en_dont",
           "language": "en",
           "content": "dont"
         },
         {
-          "uid": "en_eaten",
           "language": "en",
           "content": "eaten"
         },
         {
-          "uid": "en_eggs",
           "language": "en",
           "content": "eggs"
         },
         {
-          "uid": "en_electricity",
           "language": "en",
           "content": "electricity"
         },
         {
-          "uid": "en_enough",
           "language": "en",
           "content": "enough"
         },
         {
-          "uid": "en_famous",
           "language": "en",
           "content": "famous"
         },
         {
-          "uid": "en_food",
           "language": "en",
           "content": "food"
         },
         {
-          "uid": "en_for",
           "language": "en",
           "content": "for"
         },
         {
-          "uid": "en_from",
           "language": "en",
           "content": "from"
         },
         {
-          "uid": "en_get",
           "language": "en",
           "content": "get"
         },
         {
-          "uid": "en_girls",
           "language": "en",
           "content": "girls"
         },
         {
-          "uid": "en_glory",
           "language": "en",
           "content": "glory"
         },
         {
-          "uid": "en_go",
           "language": "en",
           "content": "go"
         },
         {
-          "uid": "en_god",
           "language": "en",
           "content": "god"
         },
         {
-          "uid": "en_good",
           "language": "en",
           "content": "good"
         },
         {
-          "uid": "en_grownup",
           "language": "en",
           "content": "grownup"
         },
         {
-          "uid": "en_guys",
           "language": "en",
           "content": "guys"
         },
         {
-          "uid": "en_hahahaha",
           "language": "en",
           "content": "hahahaha"
         },
         {
-          "uid": "en_has",
           "language": "en",
           "content": "has"
         },
         {
-          "uid": "en_have",
           "language": "en",
           "content": "have"
         },
         {
-          "uid": "en_havent",
           "language": "en",
           "content": "havent"
         },
         {
-          "uid": "en_here",
           "language": "en",
           "content": "here"
         },
         {
-          "uid": "en_hi",
           "language": "en",
           "content": "hi"
         },
         {
-          "uid": "en_him",
           "language": "en",
           "content": "him"
         },
         {
-          "uid": "en_his",
           "language": "en",
           "content": "his"
         },
         {
-          "uid": "en_hold",
           "language": "en",
           "content": "hold"
         },
         {
-          "uid": "en_how",
           "language": "en",
           "content": "how"
         },
         {
-          "uid": "en_if",
           "language": "en",
           "content": "if"
         },
         {
-          "uid": "en_in",
           "language": "en",
           "content": "in"
         },
         {
-          "uid": "en_invite",
           "language": "en",
           "content": "invite"
         },
         {
-          "uid": "en_is",
           "language": "en",
           "content": "is"
         },
         {
-          "uid": "en_it",
           "language": "en",
           "content": "it"
         },
         {
-          "uid": "en_ive",
           "language": "en",
           "content": "ive"
         },
         {
-          "uid": "en_jerusalem",
           "language": "en",
           "content": "jerusalem"
         },
         {
-          "uid": "en_joke",
           "language": "en",
           "content": "joke"
         },
         {
-          "uid": "en_kids",
           "language": "en",
           "content": "kids"
         },
         {
-          "uid": "en_kittens",
           "language": "en",
           "content": "kittens"
         },
         {
-          "uid": "en_late",
           "language": "en",
           "content": "late"
         },
         {
-          "uid": "en_lets",
           "language": "en",
           "content": "lets"
         },
         {
-          "uid": "en_like",
           "language": "en",
           "content": "like"
         },
         {
-          "uid": "en_list",
           "language": "en",
           "content": "list"
         },
         {
-          "uid": "en_little",
           "language": "en",
           "content": "little"
         },
         {
-          "uid": "en_locals",
           "language": "en",
           "content": "locals"
         },
         {
-          "uid": "en_look",
           "language": "en",
           "content": "look"
         },
         {
-          "uid": "en_lot",
           "language": "en",
           "content": "lot"
         },
         {
-          "uid": "en_lunch",
           "language": "en",
           "content": "lunch"
         },
         {
-          "uid": "en_macaroni",
           "language": "en",
           "content": "macaroni"
         },
         {
-          "uid": "en_made",
           "language": "en",
           "content": "made"
         },
         {
-          "uid": "en_married",
           "language": "en",
           "content": "married"
         },
         {
-          "uid": "en_marry",
           "language": "en",
           "content": "marry"
         },
         {
-          "uid": "en_me",
           "language": "en",
           "content": "me"
         },
         {
-          "uid": "en_mean",
           "language": "en",
           "content": "mean"
         },
         {
-          "uid": "en_my",
           "language": "en",
           "content": "my"
         },
         {
-          "uid": "en_names",
           "language": "en",
           "content": "names"
         },
         {
-          "uid": "en_neighborhood",
           "language": "en",
           "content": "neighborhood"
         },
         {
-          "uid": "en_no",
           "language": "en",
           "content": "no"
         },
         {
-          "uid": "en_not",
           "language": "en",
           "content": "not"
         },
         {
-          "uid": "en_of",
           "language": "en",
           "content": "of"
         },
         {
-          "uid": "en_off",
           "language": "en",
           "content": "off"
         },
         {
-          "uid": "en_on",
           "language": "en",
           "content": "on"
         },
         {
-          "uid": "en_only",
           "language": "en",
           "content": "only"
         },
         {
-          "uid": "en_open",
           "language": "en",
           "content": "open"
         },
         {
-          "uid": "en_our",
           "language": "en",
           "content": "our"
         },
         {
-          "uid": "en_pasta",
           "language": "en",
           "content": "pasta"
         },
         {
-          "uid": "en_people",
           "language": "en",
           "content": "people"
         },
         {
-          "uid": "en_playing",
           "language": "en",
           "content": "playing"
         },
         {
-          "uid": "en_preparing",
           "language": "en",
           "content": "preparing"
         },
         {
-          "uid": "en_put",
           "language": "en",
           "content": "put"
         },
         {
-          "uid": "en_relatives",
           "language": "en",
           "content": "relatives"
         },
         {
-          "uid": "en_right",
           "language": "en",
           "content": "right"
         },
         {
-          "uid": "en_ruckus",
           "language": "en",
           "content": "ruckus"
         },
         {
-          "uid": "en_school",
           "language": "en",
           "content": "school"
         },
         {
-          "uid": "en_scoundrels",
           "language": "en",
           "content": "scoundrels"
         },
         {
-          "uid": "en_seatbelts",
           "language": "en",
           "content": "seatbelts"
         },
         {
-          "uid": "en_she",
           "language": "en",
           "content": "she"
         },
         {
-          "uid": "en_should",
           "language": "en",
           "content": "should"
         },
         {
-          "uid": "en_slowly",
           "language": "en",
           "content": "slowly"
         },
         {
-          "uid": "en_small",
           "language": "en",
           "content": "small"
         },
         {
-          "uid": "en_so",
           "language": "en",
           "content": "so"
         },
         {
-          "uid": "en_suitable",
           "language": "en",
           "content": "suitable"
         },
         {
-          "uid": "en_tell",
           "language": "en",
           "content": "tell"
         },
         {
-          "uid": "en_thats",
           "language": "en",
           "content": "thats"
         },
         {
-          "uid": "en_the",
           "language": "en",
           "content": "the"
         },
         {
-          "uid": "en_there",
           "language": "en",
           "content": "there"
         },
         {
-          "uid": "en_theres",
           "language": "en",
           "content": "theres"
         },
         {
-          "uid": "en_they",
           "language": "en",
           "content": "they"
         },
         {
-          "uid": "en_theyre",
           "language": "en",
           "content": "theyre"
         },
         {
-          "uid": "en_this",
           "language": "en",
           "content": "this"
         },
         {
-          "uid": "en_three",
           "language": "en",
           "content": "three"
         },
         {
-          "uid": "en_to",
           "language": "en",
           "content": "to"
         },
         {
-          "uid": "en_tournament",
           "language": "en",
           "content": "tournament"
         },
         {
-          "uid": "en_turn",
           "language": "en",
           "content": "turn"
         },
         {
-          "uid": "en_twins",
           "language": "en",
           "content": "twins"
         },
         {
-          "uid": "en_type",
           "language": "en",
           "content": "type"
         },
         {
-          "uid": "en_upper",
           "language": "en",
           "content": "upper"
         },
         {
-          "uid": "en_we",
           "language": "en",
           "content": "we"
         },
         {
-          "uid": "en_wellknown",
           "language": "en",
           "content": "wellknown"
         },
         {
-          "uid": "en_were",
           "language": "en",
           "content": "were"
         },
         {
-          "uid": "en_west",
           "language": "en",
           "content": "west"
         },
         {
-          "uid": "en_what",
           "language": "en",
           "content": "what"
         },
         {
-          "uid": "en_who",
           "language": "en",
           "content": "who"
         },
         {
-          "uid": "en_why",
           "language": "en",
           "content": "why"
         },
         {
-          "uid": "en_will",
           "language": "en",
           "content": "will"
         },
         {
-          "uid": "en_with",
           "language": "en",
           "content": "with"
         },
         {
-          "uid": "en_worry",
           "language": "en",
           "content": "worry"
         },
         {
-          "uid": "en_you",
           "language": "en",
           "content": "you"
         },
         {
-          "uid": "en_young",
           "language": "en",
           "content": "young"
         },
         {
-          "uid": "en_your",
           "language": "en",
           "content": "your"
         }
       ],
       "primaryUnitsOfMeaning": [
         {
-          "uid": "apc_ولاد",
           "language": "apc",
           "content": "ولاد"
         },
         {
-          "uid": "apc_شوفوا يا ولاد_sentence",
           "language": "apc",
           "content": "شوفوا يا ولاد",
-          "linguType": "sentence",
           "credits": [
             {
               "license": "CC-BY-NC-4.0",
@@ -2723,14 +2285,12 @@
             }
           ],
           "translations": [
-            "en_Look, kids_sentence"
+            "en_Look, kids"
           ]
         },
         {
-          "uid": "en_Look, kids_sentence",
           "language": "en",
           "content": "Look, kids",
-          "linguType": "sentence",
           "credits": [
             {
               "license": "CC-BY-NC-4.0",
@@ -2741,14 +2301,12 @@
             }
           ],
           "translations": [
-            "apc_شوفوا يا ولاد_sentence"
+            "apc_شوفوا يا ولاد"
           ]
         },
         {
-          "uid": "apc_بس يا ولاد_sentence",
           "language": "apc",
           "content": "بس يا ولاد",
-          "linguType": "sentence",
           "credits": [
             {
               "license": "CC-BY-NC-4.0",
@@ -2759,14 +2317,12 @@
             }
           ],
           "translations": [
-            "en_Enough, kids._sentence"
+            "en_Enough, kids."
           ]
         },
         {
-          "uid": "en_Enough, kids._sentence",
           "language": "en",
           "content": "Enough, kids.",
-          "linguType": "sentence",
           "credits": [
             {
               "license": "CC-BY-NC-4.0",
@@ -2777,14 +2333,12 @@
             }
           ],
           "translations": [
-            "apc_بس يا ولاد_sentence"
+            "apc_بس يا ولاد"
           ]
         },
         {
-          "uid": "apc_واستلبسوه ولاد الصف_sentence",
           "language": "apc",
           "content": "واستلبسوه ولاد الصف",
-          "linguType": "sentence",
           "credits": [
             {
               "license": "CC-BY-NC-4.0",
@@ -2795,14 +2349,12 @@
             }
           ],
           "translations": [
-            "en_And his classmates continued to bully him._sentence"
+            "en_And his classmates continued to bully him."
           ]
         },
         {
-          "uid": "en_And his classmates continued to bully him._sentence",
           "language": "en",
           "content": "And his classmates continued to bully him.",
-          "linguType": "sentence",
           "credits": [
             {
               "license": "CC-BY-NC-4.0",
@@ -2813,14 +2365,12 @@
             }
           ],
           "translations": [
-            "apc_واستلبسوه ولاد الصف_sentence"
+            "apc_واستلبسوه ولاد الصف"
           ]
         },
         {
-          "uid": "apc_يا ولاد_sentence",
           "language": "apc",
           "content": "يا ولاد",
-          "linguType": "sentence",
           "credits": [
             {
               "license": "CC-BY-NC-4.0",
@@ -2831,14 +2381,12 @@
             }
           ],
           "translations": [
-            "en_Kids_sentence"
+            "en_Kids"
           ]
         },
         {
-          "uid": "en_Kids_sentence",
           "language": "en",
           "content": "Kids",
-          "linguType": "sentence",
           "credits": [
             {
               "license": "CC-BY-NC-4.0",
@@ -2849,14 +2397,12 @@
             }
           ],
           "translations": [
-            "apc_يا ولاد_sentence"
+            "apc_يا ولاد"
           ]
         },
         {
-          "uid": "apc_مثل ولاد البسّة_sentence",
           "language": "apc",
           "content": "مثل ولاد البسّة",
-          "linguType": "sentence",
           "credits": [
             {
               "license": "CC-BY-NC-4.0",
@@ -2867,14 +2413,12 @@
             }
           ],
           "translations": [
-            "en_Like kittens_sentence"
+            "en_Like kittens"
           ]
         },
         {
-          "uid": "en_Like kittens_sentence",
           "language": "en",
           "content": "Like kittens",
-          "linguType": "sentence",
           "credits": [
             {
               "license": "CC-BY-NC-4.0",
@@ -2885,7 +2429,7 @@
             }
           ],
           "translations": [
-            "apc_مثل ولاد البسّة_sentence"
+            "apc_مثل ولاد البسّة"
           ]
         }
       ]
