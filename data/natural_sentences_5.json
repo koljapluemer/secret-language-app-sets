@@ -1,0 +1,4824 @@
+{
+  "name": "Natural Sentences #5",
+  "language": "apc",
+  "tasks": [
+    {
+      "content": "Use 'انتي' in a sentence",
+      "language": "apc",
+      "unitsOfMeaning": [
+        {
+          "uid": "apc_انتي كوزين العروس يعني بنت عمها_sentence",
+          "language": "apc",
+          "content": "انتي كوزين العروس يعني بنت عمها",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "en_You are the bride's cousin._sentence"
+          ]
+        },
+        {
+          "uid": "en_You are the bride's cousin._sentence",
+          "language": "en",
+          "content": "You are the bride's cousin.",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "apc_انتي كوزين العروس يعني بنت عمها_sentence"
+          ]
+        },
+        {
+          "uid": "apc_- وما تروحي انتي وياه.. هيك تروحو.._sentence",
+          "language": "apc",
+          "content": "- وما تروحي انتي وياه.. هيك تروحو..",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "en_- And don't you go with him... just go like this..._sentence"
+          ]
+        },
+        {
+          "uid": "en_- And don't you go with him... just go like this..._sentence",
+          "language": "en",
+          "content": "- And don't you go with him... just go like this...",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "apc_- وما تروحي انتي وياه.. هيك تروحو.._sentence"
+          ]
+        },
+        {
+          "uid": "apc_بدي اعزمكم انتي وام يزن على الفطور_sentence",
+          "language": "apc",
+          "content": "بدي اعزمكم انتي وام يزن على الفطور",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "en_I want to invite you and Um Yazan for breakfast._sentence"
+          ]
+        },
+        {
+          "uid": "en_I want to invite you and Um Yazan for breakfast._sentence",
+          "language": "en",
+          "content": "I want to invite you and Um Yazan for breakfast.",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "apc_بدي اعزمكم انتي وام يزن على الفطور_sentence"
+          ]
+        },
+        {
+          "uid": "apc_ليش انتي امي؟_sentence",
+          "language": "apc",
+          "content": "ليش انتي امي؟",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "en_Why are you my mother?_sentence"
+          ]
+        },
+        {
+          "uid": "en_Why are you my mother?_sentence",
+          "language": "en",
+          "content": "Why are you my mother?",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "apc_ليش انتي امي؟_sentence"
+          ]
+        },
+        {
+          "uid": "apc_انتي متى بخلص عقدك؟_sentence",
+          "language": "apc",
+          "content": "انتي متى بخلص عقدك؟",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "en_When does your contract end?_sentence"
+          ]
+        },
+        {
+          "uid": "en_When does your contract end?_sentence",
+          "language": "en",
+          "content": "When does your contract end?",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "apc_انتي متى بخلص عقدك؟_sentence"
+          ]
+        },
+        {
+          "uid": "apc_انتي كريمة._sentence",
+          "language": "apc",
+          "content": "انتي كريمة.",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "en_You are generous._sentence"
+          ]
+        },
+        {
+          "uid": "en_You are generous._sentence",
+          "language": "en",
+          "content": "You are generous.",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "apc_انتي كريمة._sentence"
+          ]
+        },
+        {
+          "uid": "apc_يعني انتي مستتقلة عليهم هالعزومة؟_sentence",
+          "language": "apc",
+          "content": "يعني انتي مستتقلة عليهم هالعزومة؟",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "en_Do you mean you think they're not worthy of this invitation?_sentence"
+          ]
+        },
+        {
+          "uid": "en_Do you mean you think they're not worthy of this invitation?_sentence",
+          "language": "en",
+          "content": "Do you mean you think they're not worthy of this invitation?",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "apc_يعني انتي مستتقلة عليهم هالعزومة؟_sentence"
+          ]
+        },
+        {
+          "uid": "apc_تفضل انتي اللي بتركبيها_sentence",
+          "language": "apc",
+          "content": "تفضل انتي اللي بتركبيها",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "en_In the end, you are the one who assembles it._sentence"
+          ]
+        },
+        {
+          "uid": "en_In the end, you are the one who assembles it._sentence",
+          "language": "en",
+          "content": "In the end, you are the one who assembles it.",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "apc_تفضل انتي اللي بتركبيها_sentence"
+          ]
+        },
+        {
+          "uid": "apc_لا انتي ولا أمثالك_sentence",
+          "language": "apc",
+          "content": "لا انتي ولا أمثالك",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "en_Neither you nor your kind._sentence"
+          ]
+        },
+        {
+          "uid": "en_Neither you nor your kind._sentence",
+          "language": "en",
+          "content": "Neither you nor your kind.",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "apc_لا انتي ولا أمثالك_sentence"
+          ]
+        },
+        {
+          "uid": "apc_الزوج: لا انتي بجد حلوة كدا_sentence",
+          "language": "apc",
+          "content": "الزوج: لا انتي بجد حلوة كدا",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "en_Husband: No, you are really this beautiful._sentence"
+          ]
+        },
+        {
+          "uid": "en_Husband: No, you are really this beautiful._sentence",
+          "language": "en",
+          "content": "Husband: No, you are really this beautiful.",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "apc_الزوج: لا انتي بجد حلوة كدا_sentence"
+          ]
+        },
+        {
+          "uid": "apc_بعد اذنك, انتي اللي لقيتيهم_sentence",
+          "language": "apc",
+          "content": "بعد اذنك, انتي اللي لقيتيهم",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "en_With your permission, you're the one who found them._sentence"
+          ]
+        },
+        {
+          "uid": "en_With your permission, you're the one who found them._sentence",
+          "language": "en",
+          "content": "With your permission, you're the one who found them.",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "apc_بعد اذنك, انتي اللي لقيتيهم_sentence"
+          ]
+        },
+        {
+          "uid": "apc_- ما تروحي انتي وياه؟_sentence",
+          "language": "apc",
+          "content": "- ما تروحي انتي وياه؟",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "en_- Why don't you go with him?_sentence"
+          ]
+        },
+        {
+          "uid": "en_- Why don't you go with him?_sentence",
+          "language": "en",
+          "content": "- Why don't you go with him?",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "apc_- ما تروحي انتي وياه؟_sentence"
+          ]
+        },
+        {
+          "uid": "apc_بس انتي انا ما بدي اوتيل_sentence",
+          "language": "apc",
+          "content": "بس انتي انا ما بدي اوتيل",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "en_But I don't want a hotel._sentence"
+          ]
+        },
+        {
+          "uid": "en_But I don't want a hotel._sentence",
+          "language": "en",
+          "content": "But I don't want a hotel.",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "apc_بس انتي انا ما بدي اوتيل_sentence"
+          ]
+        },
+        {
+          "uid": "apc_انتي كيف بتستغيبي جوزك لولادك، كيف؟_sentence",
+          "language": "apc",
+          "content": "انتي كيف بتستغيبي جوزك لولادك، كيف؟",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "en_How do you speak ill of your husband in front of your children, how?_sentence"
+          ]
+        },
+        {
+          "uid": "en_How do you speak ill of your husband in front of your children, how?_sentence",
+          "language": "en",
+          "content": "How do you speak ill of your husband in front of your children, how?",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "apc_انتي كيف بتستغيبي جوزك لولادك، كيف؟_sentence"
+          ]
+        },
+        {
+          "uid": "apc_بس انتي عم تخليها اعمل دايت_sentence",
+          "language": "apc",
+          "content": "بس انتي عم تخليها اعمل دايت",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "en_But you want me to go on a diet._sentence"
+          ]
+        },
+        {
+          "uid": "en_But you want me to go on a diet._sentence",
+          "language": "en",
+          "content": "But you want me to go on a diet.",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "apc_بس انتي عم تخليها اعمل دايت_sentence"
+          ]
+        },
+        {
+          "uid": "apc_- اهااا.. انتي بتفتحي البراد.. اها.._sentence",
+          "language": "apc",
+          "content": "- اهااا.. انتي بتفتحي البراد.. اها..",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "en_- Ah.. You're opening the fridge.. Ah.._sentence"
+          ]
+        },
+        {
+          "uid": "en_- Ah.. You're opening the fridge.. Ah.._sentence",
+          "language": "en",
+          "content": "- Ah.. You're opening the fridge.. Ah..",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "apc_- اهااا.. انتي بتفتحي البراد.. اها.._sentence"
+          ]
+        },
+        {
+          "uid": "apc_انتي قليلة أدب ولا ترباية انتي!_sentence",
+          "language": "apc",
+          "content": "انتي قليلة أدب ولا ترباية انتي!",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "en_You are rude and ill-mannered!_sentence"
+          ]
+        },
+        {
+          "uid": "en_You are rude and ill-mannered!_sentence",
+          "language": "en",
+          "content": "You are rude and ill-mannered!",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "apc_انتي قليلة أدب ولا ترباية انتي!_sentence"
+          ]
+        },
+        {
+          "uid": "apc_ماما انتي لسا صاحية؟_sentence",
+          "language": "apc",
+          "content": "ماما انتي لسا صاحية؟",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "en_Mom, are you still awake?_sentence"
+          ]
+        },
+        {
+          "uid": "en_Mom, are you still awake?_sentence",
+          "language": "en",
+          "content": "Mom, are you still awake?",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "apc_ماما انتي لسا صاحية؟_sentence"
+          ]
+        },
+        {
+          "uid": "apc_انتي يا دينا مافي اشي صعب عليكي_sentence",
+          "language": "apc",
+          "content": "انتي يا دينا مافي اشي صعب عليكي",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "en_Dina, there's nothing difficult for you._sentence"
+          ]
+        },
+        {
+          "uid": "en_Dina, there's nothing difficult for you._sentence",
+          "language": "en",
+          "content": "Dina, there's nothing difficult for you.",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "apc_انتي يا دينا مافي اشي صعب عليكي_sentence"
+          ]
+        },
+        {
+          "uid": "apc_سألتها المديره:\" ومين انتي كمان\"؟_sentence",
+          "language": "apc",
+          "content": "سألتها المديره:\" ومين انتي كمان\"؟",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "en_The manager asked her, \"And who are you as well?\"_sentence"
+          ]
+        },
+        {
+          "uid": "en_The manager asked her, \"And who are you as well?\"_sentence",
+          "language": "en",
+          "content": "The manager asked her, \"And who are you as well?\"",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "apc_سألتها المديره:\" ومين انتي كمان\"؟_sentence"
+          ]
+        },
+        {
+          "uid": "apc_– ليكي! شو القصّة انتي وايّاها؟_sentence",
+          "language": "apc",
+          "content": "– ليكي! شو القصّة انتي وايّاها؟",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "en_– Hey! What's going on with you and her?_sentence"
+          ]
+        },
+        {
+          "uid": "en_– Hey! What's going on with you and her?_sentence",
+          "language": "en",
+          "content": "– Hey! What's going on with you and her?",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "apc_– ليكي! شو القصّة انتي وايّاها؟_sentence"
+          ]
+        },
+        {
+          "uid": "apc_معقولة انتي يا لولو_sentence",
+          "language": "apc",
+          "content": "معقولة انتي يا لولو",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "en_Are you for real, Lulu?_sentence"
+          ]
+        },
+        {
+          "uid": "en_Are you for real, Lulu?_sentence",
+          "language": "en",
+          "content": "Are you for real, Lulu?",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "apc_معقولة انتي يا لولو_sentence"
+          ]
+        },
+        {
+          "uid": "apc_اخترناكي انتي السوبر هيرو تبعتنا_sentence",
+          "language": "apc",
+          "content": "اخترناكي انتي السوبر هيرو تبعتنا",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "en_We chose you to be our superhero._sentence"
+          ]
+        },
+        {
+          "uid": "en_We chose you to be our superhero._sentence",
+          "language": "en",
+          "content": "We chose you to be our superhero.",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "apc_اخترناكي انتي السوبر هيرو تبعتنا_sentence"
+          ]
+        },
+        {
+          "uid": "apc_بصراحة انتي_sentence",
+          "language": "apc",
+          "content": "بصراحة انتي",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "en_Honestly, you are_sentence"
+          ]
+        },
+        {
+          "uid": "en_Honestly, you are_sentence",
+          "language": "en",
+          "content": "Honestly, you are",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "apc_بصراحة انتي_sentence"
+          ]
+        },
+        {
+          "uid": "apc_شو وين انتي_sentence",
+          "language": "apc",
+          "content": "شو وين انتي",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "en_Where are you?_sentence"
+          ]
+        },
+        {
+          "uid": "en_Where are you?_sentence",
+          "language": "en",
+          "content": "Where are you?",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "apc_شو وين انتي_sentence"
+          ]
+        },
+        {
+          "uid": "apc_ليش انتي كتيير متاكدة؟_sentence",
+          "language": "apc",
+          "content": "ليش انتي كتيير متاكدة؟",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "en_Why are you so sure?_sentence"
+          ]
+        },
+        {
+          "uid": "en_Why are you so sure?_sentence",
+          "language": "en",
+          "content": "Why are you so sure?",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "apc_ليش انتي كتيير متاكدة؟_sentence"
+          ]
+        },
+        {
+          "uid": "apc_انتي أصلاً عارفة مين السوبر هيرو تبعي؟_sentence",
+          "language": "apc",
+          "content": "انتي أصلاً عارفة مين السوبر هيرو تبعي؟",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "en_Do you even know who my superhero is?_sentence"
+          ]
+        },
+        {
+          "uid": "en_Do you even know who my superhero is?_sentence",
+          "language": "en",
+          "content": "Do you even know who my superhero is?",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "apc_انتي أصلاً عارفة مين السوبر هيرو تبعي؟_sentence"
+          ]
+        },
+        {
+          "uid": "apc_قصدك شو بدك انتي تلبسي؟_sentence",
+          "language": "apc",
+          "content": "قصدك شو بدك انتي تلبسي؟",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "en_What do you intend to wear?_sentence"
+          ]
+        },
+        {
+          "uid": "en_What do you intend to wear?_sentence",
+          "language": "en",
+          "content": "What do you intend to wear?",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "apc_قصدك شو بدك انتي تلبسي؟_sentence"
+          ]
+        },
+        {
+          "uid": "apc_مش انتي لغيتي زيارة أم نضال؟_sentence",
+          "language": "apc",
+          "content": "مش انتي لغيتي زيارة أم نضال؟",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "en_Didn't you cancel Umm Nidal's visit?_sentence"
+          ]
+        },
+        {
+          "uid": "en_Didn't you cancel Umm Nidal's visit?_sentence",
+          "language": "en",
+          "content": "Didn't you cancel Umm Nidal's visit?",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "apc_مش انتي لغيتي زيارة أم نضال؟_sentence"
+          ]
+        },
+        {
+          "uid": "apc_بس انتي ما صنتي هذا الاشي!_sentence",
+          "language": "apc",
+          "content": "بس انتي ما صنتي هذا الاشي!",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "en_But you didn't take care of this thing!_sentence"
+          ]
+        },
+        {
+          "uid": "en_But you didn't take care of this thing!_sentence",
+          "language": "en",
+          "content": "But you didn't take care of this thing!",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "apc_بس انتي ما صنتي هذا الاشي!_sentence"
+          ]
+        },
+        {
+          "uid": "apc_مرحبا.. انتي هون؟_sentence",
+          "language": "apc",
+          "content": "مرحبا.. انتي هون؟",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "en_Hello... are you here?_sentence"
+          ]
+        },
+        {
+          "uid": "en_Hello... are you here?_sentence",
+          "language": "en",
+          "content": "Hello... are you here?",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "apc_مرحبا.. انتي هون؟_sentence"
+          ]
+        },
+        {
+          "uid": "apc_والكل يشوف اديش انتي رياضية_sentence",
+          "language": "apc",
+          "content": "والكل يشوف اديش انتي رياضية",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "en_And everyone will see how athletic you are._sentence"
+          ]
+        },
+        {
+          "uid": "en_And everyone will see how athletic you are._sentence",
+          "language": "en",
+          "content": "And everyone will see how athletic you are.",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "apc_والكل يشوف اديش انتي رياضية_sentence"
+          ]
+        },
+        {
+          "uid": "apc_اخدتي مصروف انتي ؟.... لا_sentence",
+          "language": "apc",
+          "content": "اخدتي مصروف انتي ؟.... لا",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "en_Did you take your allowance?....No_sentence"
+          ]
+        },
+        {
+          "uid": "en_Did you take your allowance?....No_sentence",
+          "language": "en",
+          "content": "Did you take your allowance?....No",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "apc_اخدتي مصروف انتي ؟.... لا_sentence"
+          ]
+        },
+        {
+          "uid": "apc_طب بس انتي فهميني_sentence",
+          "language": "apc",
+          "content": "طب بس انتي فهميني",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "en_Just help me understand._sentence"
+          ]
+        },
+        {
+          "uid": "en_Just help me understand._sentence",
+          "language": "en",
+          "content": "Just help me understand.",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "apc_طب بس انتي فهميني_sentence"
+          ]
+        },
+        {
+          "uid": "apc_انتي ناسية قديش ساعدونا وقت الحجر_sentence",
+          "language": "apc",
+          "content": "انتي ناسية قديش ساعدونا وقت الحجر",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "en_You forgot how much they helped us during the lockdown._sentence"
+          ]
+        },
+        {
+          "uid": "en_You forgot how much they helped us during the lockdown._sentence",
+          "language": "en",
+          "content": "You forgot how much they helped us during the lockdown.",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "apc_انتي ناسية قديش ساعدونا وقت الحجر_sentence"
+          ]
+        },
+        {
+          "uid": "apc_و انتي مين السوبر هيرو تبعك؟_sentence",
+          "language": "apc",
+          "content": "و انتي مين السوبر هيرو تبعك؟",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "en_And who is your superhero?_sentence"
+          ]
+        },
+        {
+          "uid": "en_And who is your superhero?_sentence",
+          "language": "en",
+          "content": "And who is your superhero?",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "apc_و انتي مين السوبر هيرو تبعك؟_sentence"
+          ]
+        },
+        {
+          "uid": "apc_يا باي ما أقواكي انتي_sentence",
+          "language": "apc",
+          "content": "يا باي ما أقواكي انتي",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "en_Oh my, you're too strong for your own good._sentence"
+          ]
+        },
+        {
+          "uid": "en_Oh my, you're too strong for your own good._sentence",
+          "language": "en",
+          "content": "Oh my, you're too strong for your own good.",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "apc_يا باي ما أقواكي انتي_sentence"
+          ]
+        },
+        {
+          "uid": "apc_انتي ولا يهمك انا رح اجيبلك قراره_sentence",
+          "language": "apc",
+          "content": "انتي ولا يهمك انا رح اجيبلك قراره",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "en_Don't worry, I'll get to the bottom of this._sentence"
+          ]
+        },
+        {
+          "uid": "en_Don't worry, I'll get to the bottom of this._sentence",
+          "language": "en",
+          "content": "Don't worry, I'll get to the bottom of this.",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "apc_انتي ولا يهمك انا رح اجيبلك قراره_sentence"
+          ]
+        },
+        {
+          "uid": "apc_ماما ليش انتي امي؟_sentence",
+          "language": "apc",
+          "content": "ماما ليش انتي امي؟",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "en_Mom, why are you my mom?_sentence"
+          ]
+        },
+        {
+          "uid": "en_Mom, why are you my mom?_sentence",
+          "language": "en",
+          "content": "Mom, why are you my mom?",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "apc_ماما ليش انتي امي؟_sentence"
+          ]
+        },
+        {
+          "uid": "apc_طبعاً لازم تشتركي!! انتي عارفة شو الجائزة_sentence",
+          "language": "apc",
+          "content": "طبعاً لازم تشتركي!! انتي عارفة شو الجائزة",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "en_Of course you must participate!! Do you know what the prize is?_sentence"
+          ]
+        },
+        {
+          "uid": "en_Of course you must participate!! Do you know what the prize is?_sentence",
+          "language": "en",
+          "content": "Of course you must participate!! Do you know what the prize is?",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "apc_طبعاً لازم تشتركي!! انتي عارفة شو الجائزة_sentence"
+          ]
+        },
+        {
+          "uid": "apc_مش انتي وعدتيني رح تفهّميني درس العلوم؟؟_sentence",
+          "language": "apc",
+          "content": "مش انتي وعدتيني رح تفهّميني درس العلوم؟؟",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "en_Didn't you promise me that you would explain the science lesson to me?_sentence"
+          ]
+        },
+        {
+          "uid": "en_Didn't you promise me that you would explain the science lesson to me?_sentence",
+          "language": "en",
+          "content": "Didn't you promise me that you would explain the science lesson to me?",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "apc_مش انتي وعدتيني رح تفهّميني درس العلوم؟؟_sentence"
+          ]
+        }
+      ]
+    },
+    {
+      "content": "Use 'هيدا' in a sentence",
+      "language": "apc",
+      "unitsOfMeaning": [
+        {
+          "uid": "apc_هيدا أخلاقنا، نحنا ما منزعل العالم_sentence",
+          "language": "apc",
+          "content": "هيدا أخلاقنا، نحنا ما منزعل العالم",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "en_This is our ethics, we don't upset people._sentence"
+          ]
+        },
+        {
+          "uid": "en_This is our ethics, we don't upset people._sentence",
+          "language": "en",
+          "content": "This is our ethics, we don't upset people.",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "apc_هيدا أخلاقنا، نحنا ما منزعل العالم_sentence"
+          ]
+        },
+        {
+          "uid": "apc_كنت بشتري هيدا إذا أنا كنت محلك._sentence",
+          "language": "apc",
+          "content": "كنت بشتري هيدا إذا أنا كنت محلك.",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "en_I would buy this if I were you._sentence"
+          ]
+        },
+        {
+          "uid": "en_I would buy this if I were you._sentence",
+          "language": "en",
+          "content": "I would buy this if I were you.",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "apc_كنت بشتري هيدا إذا أنا كنت محلك._sentence"
+          ]
+        },
+        {
+          "uid": "apc_هيدا الانفجار مش قصدًا،_sentence",
+          "language": "apc",
+          "content": "هيدا الانفجار مش قصدًا،",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "en_This explosion was not intentional._sentence"
+          ]
+        },
+        {
+          "uid": "en_This explosion was not intentional._sentence",
+          "language": "en",
+          "content": "This explosion was not intentional.",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "apc_هيدا الانفجار مش قصدًا،_sentence"
+          ]
+        },
+        {
+          "uid": "apc_هيدا بس للأعضا؟_sentence",
+          "language": "apc",
+          "content": "هيدا بس للأعضا؟",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "en_Is this only for members?_sentence"
+          ]
+        },
+        {
+          "uid": "en_Is this only for members?_sentence",
+          "language": "en",
+          "content": "Is this only for members?",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "apc_هيدا بس للأعضا؟_sentence"
+          ]
+        },
+        {
+          "uid": "apc_ما فيي بيع هيدا بلا وصفة ._sentence",
+          "language": "apc",
+          "content": "ما فيي بيع هيدا بلا وصفة .",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "en_I can't sell this without a prescription._sentence"
+          ]
+        },
+        {
+          "uid": "en_I can't sell this without a prescription._sentence",
+          "language": "en",
+          "content": "I can't sell this without a prescription.",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "apc_ما فيي بيع هيدا بلا وصفة ._sentence"
+          ]
+        },
+        {
+          "uid": "apc_هيدا الزلمة سرألي جزداني._sentence",
+          "language": "apc",
+          "content": "هيدا الزلمة سرألي جزداني.",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "en_This man stole my wallet._sentence"
+          ]
+        },
+        {
+          "uid": "en_This man stole my wallet._sentence",
+          "language": "en",
+          "content": "This man stole my wallet.",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "apc_هيدا الزلمة سرألي جزداني._sentence"
+          ]
+        },
+        {
+          "uid": "apc_هيدا من هون، هيك، لهنيك، داير ولفّ_sentence",
+          "language": "apc",
+          "content": "هيدا من هون، هيك، لهنيك، داير ولفّ",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "en_From here, like this, to there, in a turn._sentence"
+          ]
+        },
+        {
+          "uid": "en_From here, like this, to there, in a turn._sentence",
+          "language": "en",
+          "content": "From here, like this, to there, in a turn.",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "apc_هيدا من هون، هيك، لهنيك، داير ولفّ_sentence"
+          ]
+        },
+        {
+          "uid": "apc_شو بتسمو هيدا بالإنكليزي؟_sentence",
+          "language": "apc",
+          "content": "شو بتسمو هيدا بالإنكليزي؟",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "en_What do you call this in English?_sentence"
+          ]
+        },
+        {
+          "uid": "en_What do you call this in English?_sentence",
+          "language": "en",
+          "content": "What do you call this in English?",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "apc_شو بتسمو هيدا بالإنكليزي؟_sentence"
+          ]
+        },
+        {
+          "uid": "apc_هيدا شوز قوي؟_sentence",
+          "language": "apc",
+          "content": "هيدا شوز قوي؟",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "en_Is this shoe strong?_sentence"
+          ]
+        },
+        {
+          "uid": "en_Is this shoe strong?_sentence",
+          "language": "en",
+          "content": "Is this shoe strong?",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "apc_هيدا شوز قوي؟_sentence"
+          ]
+        },
+        {
+          "uid": "apc_هيدا باسبوري ._sentence",
+          "language": "apc",
+          "content": "هيدا باسبوري .",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "en_This is my passport._sentence"
+          ]
+        },
+        {
+          "uid": "en_This is my passport._sentence",
+          "language": "en",
+          "content": "This is my passport.",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "apc_هيدا باسبوري ._sentence"
+          ]
+        },
+        {
+          "uid": "apc_هيدا مصنوع بالمكنا أو بالإيد؟_sentence",
+          "language": "apc",
+          "content": "هيدا مصنوع بالمكنا أو بالإيد؟",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "en_Is this made by machine or by hand?_sentence"
+          ]
+        },
+        {
+          "uid": "en_Is this made by machine or by hand?_sentence",
+          "language": "en",
+          "content": "Is this made by machine or by hand?",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "apc_هيدا مصنوع بالمكنا أو بالإيد؟_sentence"
+          ]
+        },
+        {
+          "uid": "apc_رح بلغ هيدا للشرطة ._sentence",
+          "language": "apc",
+          "content": "رح بلغ هيدا للشرطة .",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "en_I will report this to the police._sentence"
+          ]
+        },
+        {
+          "uid": "en_I will report this to the police._sentence",
+          "language": "en",
+          "content": "I will report this to the police.",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "apc_رح بلغ هيدا للشرطة ._sentence"
+          ]
+        },
+        {
+          "uid": "apc_مرحبا، هيدا عنجد فستان حلو ._sentence",
+          "language": "apc",
+          "content": "مرحبا، هيدا عنجد فستان حلو .",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "en_Hi, this is really a nice dress._sentence"
+          ]
+        },
+        {
+          "uid": "en_Hi, this is really a nice dress._sentence",
+          "language": "en",
+          "content": "Hi, this is really a nice dress.",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "apc_مرحبا، هيدا عنجد فستان حلو ._sentence"
+          ]
+        },
+        {
+          "uid": "apc_– ماما، بالعكس، بيلفت النّظر هيدا_sentence",
+          "language": "apc",
+          "content": "– ماما، بالعكس، بيلفت النّظر هيدا",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "en_– Mom, on the contrary, they attract attention_sentence"
+          ]
+        },
+        {
+          "uid": "en_– Mom, on the contrary, they attract attention_sentence",
+          "language": "en",
+          "content": "– Mom, on the contrary, they attract attention",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "apc_– ماما، بالعكس، بيلفت النّظر هيدا_sentence"
+          ]
+        },
+        {
+          "uid": "apc_قام هيدا الصّبيّ يئس ع الآخر_sentence",
+          "language": "apc",
+          "content": "قام هيدا الصّبيّ يئس ع الآخر",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "en_This guy gave up completely._sentence"
+          ]
+        },
+        {
+          "uid": "en_This guy gave up completely._sentence",
+          "language": "en",
+          "content": "This guy gave up completely.",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "apc_قام هيدا الصّبيّ يئس ع الآخر_sentence"
+          ]
+        },
+        {
+          "uid": "apc_عندك من هيدا بلون أخضر غامئ؟_sentence",
+          "language": "apc",
+          "content": "عندك من هيدا بلون أخضر غامئ؟",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "en_Do you have this in dark green?_sentence"
+          ]
+        },
+        {
+          "uid": "en_Do you have this in dark green?_sentence",
+          "language": "en",
+          "content": "Do you have this in dark green?",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "apc_عندك من هيدا بلون أخضر غامئ؟_sentence"
+          ]
+        },
+        {
+          "uid": "apc_عندك من هيدا بغير لون؟_sentence",
+          "language": "apc",
+          "content": "عندك من هيدا بغير لون؟",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "en_Do you have this in another color?_sentence"
+          ]
+        },
+        {
+          "uid": "en_Do you have this in another color?_sentence",
+          "language": "en",
+          "content": "Do you have this in another color?",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "apc_عندك من هيدا بغير لون؟_sentence"
+          ]
+        },
+        {
+          "uid": "apc_فيك تخليلي هيدا معك؟_sentence",
+          "language": "apc",
+          "content": "فيك تخليلي هيدا معك؟",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "en_Can you keep this with you for me?_sentence"
+          ]
+        },
+        {
+          "uid": "en_Can you keep this with you for me?_sentence",
+          "language": "en",
+          "content": "Can you keep this with you for me?",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "apc_فيك تخليلي هيدا معك؟_sentence"
+          ]
+        },
+        {
+          "uid": "apc_هيدا كل شي؟_sentence",
+          "language": "apc",
+          "content": "هيدا كل شي؟",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "en_Is that everything?_sentence"
+          ]
+        },
+        {
+          "uid": "en_Is that everything?_sentence",
+          "language": "en",
+          "content": "Is that everything?",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "apc_هيدا كل شي؟_sentence"
+          ]
+        },
+        {
+          "uid": "apc_هيدا بتسمّون بابا_sentence",
+          "language": "apc",
+          "content": "هيدا بتسمّون بابا",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "en_You call this the Pope? (Baba)_sentence"
+          ]
+        },
+        {
+          "uid": "en_You call this the Pope? (Baba)_sentence",
+          "language": "en",
+          "content": "You call this the Pope? (Baba)",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "apc_هيدا بتسمّون بابا_sentence"
+          ]
+        },
+        {
+          "uid": "apc_هيدا المطرح معبى عالم، ما هيك؟_sentence",
+          "language": "apc",
+          "content": "هيدا المطرح معبى عالم، ما هيك؟",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "en_This place is crowded, isn't it?_sentence"
+          ]
+        },
+        {
+          "uid": "en_This place is crowded, isn't it?_sentence",
+          "language": "en",
+          "content": "This place is crowded, isn't it?",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "apc_هيدا المطرح معبى عالم، ما هيك؟_sentence"
+          ]
+        },
+        {
+          "uid": "apc_هيدا الانفجار من الإهمال_sentence",
+          "language": "apc",
+          "content": "هيدا الانفجار من الإهمال",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "en_This explosion was caused by negligence._sentence"
+          ]
+        },
+        {
+          "uid": "en_This explosion was caused by negligence._sentence",
+          "language": "en",
+          "content": "This explosion was caused by negligence.",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "apc_هيدا الانفجار من الإهمال_sentence"
+          ]
+        },
+        {
+          "uid": "apc_بدي إبعت هيدا بالبريد الجوي عاليابان._sentence",
+          "language": "apc",
+          "content": "بدي إبعت هيدا بالبريد الجوي عاليابان.",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "en_I want to send this to Japan by airmail._sentence"
+          ]
+        },
+        {
+          "uid": "en_I want to send this to Japan by airmail._sentence",
+          "language": "en",
+          "content": "I want to send this to Japan by airmail.",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "apc_بدي إبعت هيدا بالبريد الجوي عاليابان._sentence"
+          ]
+        },
+        {
+          "uid": "apc_قعد هيدا زعلان، بكيان ‎_sentence",
+          "language": "apc",
+          "content": "قعد هيدا زعلان، بكيان ‎",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "en_This guy sat sad, crying._sentence"
+          ]
+        },
+        {
+          "uid": "en_This guy sat sad, crying._sentence",
+          "language": "en",
+          "content": "This guy sat sad, crying.",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "apc_قعد هيدا زعلان، بكيان ‎_sentence"
+          ]
+        },
+        {
+          "uid": "apc_ما هيدا That’s the point ماما!_sentence",
+          "language": "apc",
+          "content": "ما هيدا That’s the point ماما!",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "en_That’s the point, Mama!_sentence"
+          ]
+        },
+        {
+          "uid": "en_That’s the point, Mama!_sentence",
+          "language": "en",
+          "content": "That’s the point, Mama!",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "apc_ما هيدا That’s the point ماما!_sentence"
+          ]
+        },
+        {
+          "uid": "apc_حابب حط هيدا بصندوق الأمانات ._sentence",
+          "language": "apc",
+          "content": "حابب حط هيدا بصندوق الأمانات .",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "en_I want to put this in the safe._sentence"
+          ]
+        },
+        {
+          "uid": "en_I want to put this in the safe._sentence",
+          "language": "en",
+          "content": "I want to put this in the safe.",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "apc_حابب حط هيدا بصندوق الأمانات ._sentence"
+          ]
+        },
+        {
+          "uid": "apc_هيدا الك . بتقبلو؟_sentence",
+          "language": "apc",
+          "content": "هيدا الك . بتقبلو؟",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "en_This is for you. Will you accept it?_sentence"
+          ]
+        },
+        {
+          "uid": "en_This is for you. Will you accept it?_sentence",
+          "language": "en",
+          "content": "This is for you. Will you accept it?",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "apc_هيدا الك . بتقبلو؟_sentence"
+          ]
+        },
+        {
+          "uid": "apc_عمبتسأل سعر شو هيدا على فاتورتي ._sentence",
+          "language": "apc",
+          "content": "عمبتسأل سعر شو هيدا على فاتورتي .",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "en_I'm wondering what this extra charge is on my bill._sentence"
+          ]
+        },
+        {
+          "uid": "en_I'm wondering what this extra charge is on my bill._sentence",
+          "language": "en",
+          "content": "I'm wondering what this extra charge is on my bill.",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "apc_عمبتسأل سعر شو هيدا على فاتورتي ._sentence"
+          ]
+        },
+        {
+          "uid": "apc_هيدا الاكل قليل بالسعرات الحرارية؟_sentence",
+          "language": "apc",
+          "content": "هيدا الاكل قليل بالسعرات الحرارية؟",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "en_Is this food low in calories?_sentence"
+          ]
+        },
+        {
+          "uid": "en_Is this food low in calories?_sentence",
+          "language": "en",
+          "content": "Is this food low in calories?",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "apc_هيدا الاكل قليل بالسعرات الحرارية؟_sentence"
+          ]
+        },
+        {
+          "uid": "apc_كلّ شي عملته فينا، هيدا_sentence",
+          "language": "apc",
+          "content": "كلّ شي عملته فينا، هيدا",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "en_Everything she did to us, this_sentence"
+          ]
+        },
+        {
+          "uid": "en_Everything she did to us, this_sentence",
+          "language": "en",
+          "content": "Everything she did to us, this",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "apc_كلّ شي عملته فينا، هيدا_sentence"
+          ]
+        },
+        {
+          "uid": "apc_فيك تفسرلي كيف بيعلمو هيدا الشي؟_sentence",
+          "language": "apc",
+          "content": "فيك تفسرلي كيف بيعلمو هيدا الشي؟",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "en_Can you explain how they do this?_sentence"
+          ]
+        },
+        {
+          "uid": "en_Can you explain how they do this?_sentence",
+          "language": "en",
+          "content": "Can you explain how they do this?",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "apc_فيك تفسرلي كيف بيعلمو هيدا الشي؟_sentence"
+          ]
+        },
+        {
+          "uid": "apc_هيدا الشي اللي كنت عم فتش علي._sentence",
+          "language": "apc",
+          "content": "هيدا الشي اللي كنت عم فتش علي.",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "en_This is exactly what I was looking for._sentence"
+          ]
+        },
+        {
+          "uid": "en_This is exactly what I was looking for._sentence",
+          "language": "en",
+          "content": "This is exactly what I was looking for.",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "apc_هيدا الشي اللي كنت عم فتش علي._sentence"
+          ]
+        },
+        {
+          "uid": "apc_هيدا ترين مباشر؟_sentence",
+          "language": "apc",
+          "content": "هيدا ترين مباشر؟",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "en_Is this a direct train?_sentence"
+          ]
+        },
+        {
+          "uid": "en_Is this a direct train?_sentence",
+          "language": "en",
+          "content": "Is this a direct train?",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "apc_هيدا ترين مباشر؟_sentence"
+          ]
+        },
+        {
+          "uid": "apc_هيدا واحد الك استاذ ._sentence",
+          "language": "apc",
+          "content": "هيدا واحد الك استاذ .",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "en_Here is one for you, sir._sentence"
+          ]
+        },
+        {
+          "uid": "en_Here is one for you, sir._sentence",
+          "language": "en",
+          "content": "Here is one for you, sir.",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "apc_هيدا واحد الك استاذ ._sentence"
+          ]
+        },
+        {
+          "uid": "apc_بدّه يرجع يطلع يقلنا هيدا الشّي؟_sentence",
+          "language": "apc",
+          "content": "بدّه يرجع يطلع يقلنا هيدا الشّي؟",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "en_He wants to tell us that thing again?_sentence"
+          ]
+        },
+        {
+          "uid": "en_He wants to tell us that thing again?_sentence",
+          "language": "en",
+          "content": "He wants to tell us that thing again?",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "apc_بدّه يرجع يطلع يقلنا هيدا الشّي؟_sentence"
+          ]
+        },
+        {
+          "uid": "apc_هيدا معمول بطريقة رخيصة._sentence",
+          "language": "apc",
+          "content": "هيدا معمول بطريقة رخيصة.",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "en_This is made cheaply._sentence"
+          ]
+        },
+        {
+          "uid": "en_This is made cheaply._sentence",
+          "language": "en",
+          "content": "This is made cheaply.",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "apc_هيدا معمول بطريقة رخيصة._sentence"
+          ]
+        },
+        {
+          "uid": "apc_بدي هيدا ملفوف._sentence",
+          "language": "apc",
+          "content": "بدي هيدا ملفوف.",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "en_I want this wrapped._sentence"
+          ]
+        },
+        {
+          "uid": "en_I want this wrapped._sentence",
+          "language": "en",
+          "content": "I want this wrapped.",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "apc_بدي هيدا ملفوف._sentence"
+          ]
+        },
+        {
+          "uid": "apc_هيدا منيح، عمول معروف مضيهن. كيف بتحبهن؟_sentence",
+          "language": "apc",
+          "content": "هيدا منيح، عمول معروف مضيهن. كيف بتحبهن؟",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "en_This is good, please sign them. How do you want them?_sentence"
+          ]
+        },
+        {
+          "uid": "en_This is good, please sign them. How do you want them?_sentence",
+          "language": "en",
+          "content": "This is good, please sign them. How do you want them?",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "apc_هيدا منيح، عمول معروف مضيهن. كيف بتحبهن؟_sentence"
+          ]
+        },
+        {
+          "uid": "apc_أنا موافأ. هيدا من المطارح المفضلة عندي._sentence",
+          "language": "apc",
+          "content": "أنا موافأ. هيدا من المطارح المفضلة عندي.",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "en_I agree. This is one of my favorite places._sentence"
+          ]
+        },
+        {
+          "uid": "en_I agree. This is one of my favorite places._sentence",
+          "language": "en",
+          "content": "I agree. This is one of my favorite places.",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "apc_أنا موافأ. هيدا من المطارح المفضلة عندي._sentence"
+          ]
+        },
+        {
+          "uid": "apc_هيدا الشاي بالأعشاب بساعد عتجديد شباب الجسم._sentence",
+          "language": "apc",
+          "content": "هيدا الشاي بالأعشاب بساعد عتجديد شباب الجسم.",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "en_This herbal tea helps rejuvenate the body._sentence"
+          ]
+        },
+        {
+          "uid": "en_This herbal tea helps rejuvenate the body._sentence",
+          "language": "en",
+          "content": "This herbal tea helps rejuvenate the body.",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "apc_هيدا الشاي بالأعشاب بساعد عتجديد شباب الجسم._sentence"
+          ]
+        },
+        {
+          "uid": "apc_هيدا غالي، ما هيك؟_sentence",
+          "language": "apc",
+          "content": "هيدا غالي، ما هيك؟",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "en_This is expensive, isn't it?_sentence"
+          ]
+        },
+        {
+          "uid": "en_This is expensive, isn't it?_sentence",
+          "language": "en",
+          "content": "This is expensive, isn't it?",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "apc_هيدا غالي، ما هيك؟_sentence"
+          ]
+        },
+        {
+          "uid": "apc_كيف بتستعمل هيدا بالطبخ؟_sentence",
+          "language": "apc",
+          "content": "كيف بتستعمل هيدا بالطبخ؟",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "en_How do you use this in cooking?_sentence"
+          ]
+        },
+        {
+          "uid": "en_How do you use this in cooking?_sentence",
+          "language": "en",
+          "content": "How do you use this in cooking?",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "apc_كيف بتستعمل هيدا بالطبخ؟_sentence"
+          ]
+        },
+        {
+          "uid": "apc_هيدا أي شارع؟_sentence",
+          "language": "apc",
+          "content": "هيدا أي شارع؟",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "en_Which street is this?_sentence"
+          ]
+        },
+        {
+          "uid": "en_Which street is this?_sentence",
+          "language": "en",
+          "content": "Which street is this?",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "apc_هيدا أي شارع؟_sentence"
+          ]
+        },
+        {
+          "uid": "apc_هيدا الشوزة،_sentence",
+          "language": "apc",
+          "content": "هيدا الشوزة،",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "en_These are the shoes,_sentence"
+          ]
+        },
+        {
+          "uid": "en_These are the shoes,_sentence",
+          "language": "en",
+          "content": "These are the shoes,",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "apc_هيدا الشوزة،_sentence"
+          ]
+        },
+        {
+          "uid": "apc_هيدا البور ما قبلنا محلّ الانفجار_sentence",
+          "language": "apc",
+          "content": "هيدا البور ما قبلنا محلّ الانفجار",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "en_This is the port in front of us, the site of the explosion._sentence"
+          ]
+        },
+        {
+          "uid": "en_This is the port in front of us, the site of the explosion._sentence",
+          "language": "en",
+          "content": "This is the port in front of us, the site of the explosion.",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "apc_هيدا البور ما قبلنا محلّ الانفجار_sentence"
+          ]
+        }
+      ]
+    },
+    {
+      "content": "Use 'نحنا' in a sentence",
+      "language": "apc",
+      "unitsOfMeaning": [
+        {
+          "uid": "apc_هيدا أخلاقنا، نحنا ما منزعل العالم_sentence",
+          "language": "apc",
+          "content": "هيدا أخلاقنا، نحنا ما منزعل العالم",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "en_This is our ethics, we don't upset people._sentence"
+          ]
+        },
+        {
+          "uid": "en_This is our ethics, we don't upset people._sentence",
+          "language": "en",
+          "content": "This is our ethics, we don't upset people.",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "apc_هيدا أخلاقنا، نحنا ما منزعل العالم_sentence"
+          ]
+        },
+        {
+          "uid": "apc_نحنا (انقطع)_sentence",
+          "language": "apc",
+          "content": "نحنا (انقطع)",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "en_We were cut off_sentence"
+          ]
+        },
+        {
+          "uid": "en_We were cut off_sentence",
+          "language": "en",
+          "content": "We were cut off",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "apc_نحنا (انقطع)_sentence"
+          ]
+        },
+        {
+          "uid": "apc_نحنا عم ندعي عليكن_sentence",
+          "language": "apc",
+          "content": "نحنا عم ندعي عليكن",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "en_We are cursing you._sentence"
+          ]
+        },
+        {
+          "uid": "en_We are cursing you._sentence",
+          "language": "en",
+          "content": "We are cursing you.",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "apc_نحنا عم ندعي عليكن_sentence"
+          ]
+        },
+        {
+          "uid": "apc_‏منحب الموسيقى = نحنا مغرمين بالموسيقى ‎_sentence",
+          "language": "apc",
+          "content": "‏منحب الموسيقى = نحنا مغرمين بالموسيقى ‎",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "en_We love music._sentence"
+          ]
+        },
+        {
+          "uid": "en_We love music._sentence",
+          "language": "en",
+          "content": "We love music.",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "apc_‏منحب الموسيقى = نحنا مغرمين بالموسيقى ‎_sentence"
+          ]
+        },
+        {
+          "uid": "apc_‏مجتمعين نحنا الليلة لنكرم علامة كبير ‎_sentence",
+          "language": "apc",
+          "content": "‏مجتمعين نحنا الليلة لنكرم علامة كبير ‎",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "en_We are gathered tonight to honor a great scholar._sentence"
+          ]
+        },
+        {
+          "uid": "en_We are gathered tonight to honor a great scholar._sentence",
+          "language": "en",
+          "content": "We are gathered tonight to honor a great scholar.",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "apc_‏مجتمعين نحنا الليلة لنكرم علامة كبير ‎_sentence"
+          ]
+        },
+        {
+          "uid": "apc_رح نوصل لمطرح نحنا و عمنحكي هيك؟_sentence",
+          "language": "apc",
+          "content": "رح نوصل لمطرح نحنا و عمنحكي هيك؟",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "en_Are we going to get anywhere talking like this?_sentence"
+          ]
+        },
+        {
+          "uid": "en_Are we going to get anywhere talking like this?_sentence",
+          "language": "en",
+          "content": "Are we going to get anywhere talking like this?",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "apc_رح نوصل لمطرح نحنا و عمنحكي هيك؟_sentence"
+          ]
+        },
+        {
+          "uid": "apc_نحنا عم بنعطيكن هلّق هالشي(؟) live_sentence",
+          "language": "apc",
+          "content": "نحنا عم بنعطيكن هلّق هالشي(؟) live",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "en_We are giving you this live._sentence"
+          ]
+        },
+        {
+          "uid": "en_We are giving you this live._sentence",
+          "language": "en",
+          "content": "We are giving you this live.",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "apc_نحنا عم بنعطيكن هلّق هالشي(؟) live_sentence"
+          ]
+        },
+        {
+          "uid": "apc_نحنا اليوم في رمضان، أيّام فضيلة._sentence",
+          "language": "apc",
+          "content": "نحنا اليوم في رمضان، أيّام فضيلة.",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "en_We are in Ramadan today, these are days of virtue._sentence"
+          ]
+        },
+        {
+          "uid": "en_We are in Ramadan today, these are days of virtue._sentence",
+          "language": "en",
+          "content": "We are in Ramadan today, these are days of virtue.",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "apc_نحنا اليوم في رمضان، أيّام فضيلة._sentence"
+          ]
+        },
+        {
+          "uid": "apc_نحنا فاهمينكم. قاهميتكم كثير منيح._sentence",
+          "language": "apc",
+          "content": "نحنا فاهمينكم. قاهميتكم كثير منيح.",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "en_We understand you. We understand you very well._sentence"
+          ]
+        },
+        {
+          "uid": "en_We understand you. We understand you very well._sentence",
+          "language": "en",
+          "content": "We understand you. We understand you very well.",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "apc_نحنا فاهمينكم. قاهميتكم كثير منيح._sentence"
+          ]
+        },
+        {
+          "uid": "apc_هو صاحبنا نحنا التنين ‎_sentence",
+          "language": "apc",
+          "content": "هو صاحبنا نحنا التنين ‎",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "en_He is a mutual friend of ours._sentence"
+          ]
+        },
+        {
+          "uid": "en_He is a mutual friend of ours._sentence",
+          "language": "en",
+          "content": "He is a mutual friend of ours.",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "apc_هو صاحبنا نحنا التنين ‎_sentence"
+          ]
+        },
+        {
+          "uid": "apc_خبز ؟ نحنا مو لاقيين ناكلو_sentence",
+          "language": "apc",
+          "content": "خبز ؟ نحنا مو لاقيين ناكلو",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "en_Bread? We can't even find any to eat._sentence"
+          ]
+        },
+        {
+          "uid": "en_Bread? We can't even find any to eat._sentence",
+          "language": "en",
+          "content": "Bread? We can't even find any to eat.",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "apc_خبز ؟ نحنا مو لاقيين ناكلو_sentence"
+          ]
+        },
+        {
+          "uid": "apc_نحنا من أحسن موزعين الكومبيوترات الزغار._sentence",
+          "language": "apc",
+          "content": "نحنا من أحسن موزعين الكومبيوترات الزغار.",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "en_We are among the best distributors of small computers._sentence"
+          ]
+        },
+        {
+          "uid": "en_We are among the best distributors of small computers._sentence",
+          "language": "en",
+          "content": "We are among the best distributors of small computers.",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "apc_نحنا من أحسن موزعين الكومبيوترات الزغار._sentence"
+          ]
+        },
+        {
+          "uid": "apc_في مجال انه نعيش مرة نحنا مهزومين_sentence",
+          "language": "apc",
+          "content": "في مجال انه نعيش مرة نحنا مهزومين",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "en_There's a chance that we will live once defeated._sentence"
+          ]
+        },
+        {
+          "uid": "en_There's a chance that we will live once defeated._sentence",
+          "language": "en",
+          "content": "There's a chance that we will live once defeated.",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "apc_في مجال انه نعيش مرة نحنا مهزومين_sentence"
+          ]
+        },
+        {
+          "uid": "apc_نحنا أحسن موردين للكمبيوترات الصغيرة._sentence",
+          "language": "apc",
+          "content": "نحنا أحسن موردين للكمبيوترات الصغيرة.",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "en_We are the best suppliers of microcomputers._sentence"
+          ]
+        },
+        {
+          "uid": "en_We are the best suppliers of microcomputers._sentence",
+          "language": "en",
+          "content": "We are the best suppliers of microcomputers.",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "apc_نحنا أحسن موردين للكمبيوترات الصغيرة._sentence"
+          ]
+        },
+        {
+          "uid": "apc_نحنا دايما عنا مشكلة_sentence",
+          "language": "apc",
+          "content": "نحنا دايما عنا مشكلة",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "en_We always have a problem._sentence"
+          ]
+        },
+        {
+          "uid": "en_We always have a problem._sentence",
+          "language": "en",
+          "content": "We always have a problem.",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "apc_نحنا دايما عنا مشكلة_sentence"
+          ]
+        },
+        {
+          "uid": "apc_منحب الموسيقى = نحنا مغرمين بالموسيقى ‎_sentence",
+          "language": "apc",
+          "content": "منحب الموسيقى = نحنا مغرمين بالموسيقى ‎",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "en_We love music._sentence"
+          ]
+        },
+        {
+          "uid": "en_We love music._sentence",
+          "language": "en",
+          "content": "We love music.",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "apc_منحب الموسيقى = نحنا مغرمين بالموسيقى ‎_sentence"
+          ]
+        },
+        {
+          "uid": "apc_لا تنسى نحنا عايشين بالقرن العشرين ‎_sentence",
+          "language": "apc",
+          "content": "لا تنسى نحنا عايشين بالقرن العشرين ‎",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "en_Don't forget, we live in the twentieth century._sentence"
+          ]
+        },
+        {
+          "uid": "en_Don't forget, we live in the twentieth century._sentence",
+          "language": "en",
+          "content": "Don't forget, we live in the twentieth century.",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "apc_لا تنسى نحنا عايشين بالقرن العشرين ‎_sentence"
+          ]
+        },
+        {
+          "uid": "apc_ولكن نحنا أضرب من اليهود._sentence",
+          "language": "apc",
+          "content": "ولكن نحنا أضرب من اليهود.",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "en_But we are more screwed than the Jews._sentence"
+          ]
+        },
+        {
+          "uid": "en_But we are more screwed than the Jews._sentence",
+          "language": "en",
+          "content": "But we are more screwed than the Jews.",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "apc_ولكن نحنا أضرب من اليهود._sentence"
+          ]
+        }
+      ]
+    },
+    {
+      "content": "Use 'شوفوا' in a sentence",
+      "language": "apc",
+      "unitsOfMeaning": [
+        {
+          "uid": "apc_شوفوا يا ولاد_sentence",
+          "language": "apc",
+          "content": "شوفوا يا ولاد",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "en_Look, kids_sentence"
+          ]
+        },
+        {
+          "uid": "en_Look, kids_sentence",
+          "language": "en",
+          "content": "Look, kids",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "apc_شوفوا يا ولاد_sentence"
+          ]
+        },
+        {
+          "uid": "apc_شوفوا كيف الاتنين عملوا تقريبا نفس الشيء._sentence",
+          "language": "apc",
+          "content": "شوفوا كيف الاتنين عملوا تقريبا نفس الشيء.",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "en_See how the two did almost the same thing._sentence"
+          ]
+        },
+        {
+          "uid": "en_See how the two did almost the same thing._sentence",
+          "language": "en",
+          "content": "See how the two did almost the same thing.",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "apc_شوفوا كيف الاتنين عملوا تقريبا نفس الشيء._sentence"
+          ]
+        },
+        {
+          "uid": "apc_طيب شوفوا شوفوا صبايا شوفوا هالحلو هادا_sentence",
+          "language": "apc",
+          "content": "طيب شوفوا شوفوا صبايا شوفوا هالحلو هادا",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "en_OK, look, look girls, look at this beauty._sentence"
+          ]
+        },
+        {
+          "uid": "en_OK, look, look girls, look at this beauty._sentence",
+          "language": "en",
+          "content": "OK, look, look girls, look at this beauty.",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "apc_طيب شوفوا شوفوا صبايا شوفوا هالحلو هادا_sentence"
+          ]
+        },
+        {
+          "uid": "apc_شوفوا لي واحد لابس كورونا_sentence",
+          "language": "apc",
+          "content": "شوفوا لي واحد لابس كورونا",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "en_Find me someone wearing a mask._sentence"
+          ]
+        },
+        {
+          "uid": "en_Find me someone wearing a mask._sentence",
+          "language": "en",
+          "content": "Find me someone wearing a mask.",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "apc_شوفوا لي واحد لابس كورونا_sentence"
+          ]
+        },
+        {
+          "uid": "apc_شوفوا الصورتين اللي انتشروا._sentence",
+          "language": "apc",
+          "content": "شوفوا الصورتين اللي انتشروا.",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "en_Look at the two pictures that were published._sentence"
+          ]
+        },
+        {
+          "uid": "en_Look at the two pictures that were published._sentence",
+          "language": "en",
+          "content": "Look at the two pictures that were published.",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "apc_شوفوا الصورتين اللي انتشروا._sentence"
+          ]
+        },
+        {
+          "uid": "apc_شوفوا شو صار_sentence",
+          "language": "apc",
+          "content": "شوفوا شو صار",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "en_See what happened._sentence"
+          ]
+        },
+        {
+          "uid": "en_See what happened._sentence",
+          "language": "en",
+          "content": "See what happened.",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "apc_شوفوا شو صار_sentence"
+          ]
+        },
+        {
+          "uid": "apc_اذا لاء شوفوا الخبر في موقع \"المدن\"._sentence",
+          "language": "apc",
+          "content": "اذا لاء شوفوا الخبر في موقع \"المدن\".",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "en_If not, check the news on the \"Al-Modon\" website._sentence"
+          ]
+        },
+        {
+          "uid": "en_If not, check the news on the \"Al-Modon\" website._sentence",
+          "language": "en",
+          "content": "If not, check the news on the \"Al-Modon\" website.",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "apc_اذا لاء شوفوا الخبر في موقع \"المدن\"._sentence"
+          ]
+        },
+        {
+          "uid": "apc_شوفوا شو عرفوه: \"العضو العربي في الكنيست\"._sentence",
+          "language": "apc",
+          "content": "شوفوا شو عرفوه: \"العضو العربي في الكنيست\".",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "en_Look what they wrote: \"the Arab member of the Knesset\"._sentence"
+          ]
+        },
+        {
+          "uid": "en_Look what they wrote: \"the Arab member of the Knesset\"._sentence",
+          "language": "en",
+          "content": "Look what they wrote: \"the Arab member of the Knesset\".",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "apc_شوفوا شو عرفوه: \"العضو العربي في الكنيست\"._sentence"
+          ]
+        },
+        {
+          "uid": "apc_وعشان ما تقولوا إني نسيتكم شوفوا_sentence",
+          "language": "apc",
+          "content": "وعشان ما تقولوا إني نسيتكم شوفوا",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "en_And so you don't say that I forgot you, see this._sentence"
+          ]
+        },
+        {
+          "uid": "en_And so you don't say that I forgot you, see this._sentence",
+          "language": "en",
+          "content": "And so you don't say that I forgot you, see this.",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "apc_وعشان ما تقولوا إني نسيتكم شوفوا_sentence"
+          ]
+        },
+        {
+          "uid": "apc_شوفوا معي_sentence",
+          "language": "apc",
+          "content": "شوفوا معي",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "en_Look with me_sentence"
+          ]
+        },
+        {
+          "uid": "en_Look with me_sentence",
+          "language": "en",
+          "content": "Look with me",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "apc_شوفوا معي_sentence"
+          ]
+        },
+        {
+          "uid": "apc_شوفوا كيف سبحان الله. شوفوا. شايفين؟_sentence",
+          "language": "apc",
+          "content": "شوفوا كيف سبحان الله. شوفوا. شايفين؟",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "en_Look how amazing it is. Look. Do you see?_sentence"
+          ]
+        },
+        {
+          "uid": "en_Look how amazing it is. Look. Do you see?_sentence",
+          "language": "en",
+          "content": "Look how amazing it is. Look. Do you see?",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "apc_شوفوا كيف سبحان الله. شوفوا. شايفين؟_sentence"
+          ]
+        },
+        {
+          "uid": "apc_شوفوا شوفوا شوفوا_sentence",
+          "language": "apc",
+          "content": "شوفوا شوفوا شوفوا",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "en_Look, look, look._sentence"
+          ]
+        },
+        {
+          "uid": "en_Look, look, look._sentence",
+          "language": "en",
+          "content": "Look, look, look.",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "apc_شوفوا شوفوا شوفوا_sentence"
+          ]
+        },
+        {
+          "uid": "apc_شوفوا كيف أصابع البابا مقصوصة._sentence",
+          "language": "apc",
+          "content": "شوفوا كيف أصابع البابا مقصوصة.",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "en_Look how the Pope's fingers are cut off._sentence"
+          ]
+        },
+        {
+          "uid": "en_Look how the Pope's fingers are cut off._sentence",
+          "language": "en",
+          "content": "Look how the Pope's fingers are cut off.",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "apc_شوفوا كيف أصابع البابا مقصوصة._sentence"
+          ]
+        },
+        {
+          "uid": "apc_شوفوا شو جابلكم عمو أبو زيد_sentence",
+          "language": "apc",
+          "content": "شوفوا شو جابلكم عمو أبو زيد",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "en_Look what Uncle Abu Zaid brought you._sentence"
+          ]
+        },
+        {
+          "uid": "en_Look what Uncle Abu Zaid brought you._sentence",
+          "language": "en",
+          "content": "Look what Uncle Abu Zaid brought you.",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "apc_شوفوا شو جابلكم عمو أبو زيد_sentence"
+          ]
+        },
+        {
+          "uid": "apc_إذا لأ، شوفوا هذا الفيديو._sentence",
+          "language": "apc",
+          "content": "إذا لأ، شوفوا هذا الفيديو.",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "en_If not, watch this video._sentence"
+          ]
+        },
+        {
+          "uid": "en_If not, watch this video._sentence",
+          "language": "en",
+          "content": "If not, watch this video.",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "apc_إذا لأ، شوفوا هذا الفيديو._sentence"
+          ]
+        },
+        {
+          "uid": "apc_شوفوا الشّباب وين._sentence",
+          "language": "apc",
+          "content": "شوفوا الشّباب وين.",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "en_See where the young people are._sentence"
+          ]
+        },
+        {
+          "uid": "en_See where the young people are._sentence",
+          "language": "en",
+          "content": "See where the young people are.",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "apc_شوفوا الشّباب وين._sentence"
+          ]
+        },
+        {
+          "uid": "apc_ايه! تعالوا شوفوا، تعالوا شوفوا هالفيلم، الأكشن_sentence",
+          "language": "apc",
+          "content": "ايه! تعالوا شوفوا، تعالوا شوفوا هالفيلم، الأكشن",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "en_Hey! Come see, come see this film, the action movie._sentence"
+          ]
+        },
+        {
+          "uid": "en_Hey! Come see, come see this film, the action movie._sentence",
+          "language": "en",
+          "content": "Hey! Come see, come see this film, the action movie.",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "apc_ايه! تعالوا شوفوا، تعالوا شوفوا هالفيلم، الأكشن_sentence"
+          ]
+        },
+        {
+          "uid": "apc_شوفوا الحمّامات كيف، كلّها مضويّة ومزيّنة._sentence",
+          "language": "apc",
+          "content": "شوفوا الحمّامات كيف، كلّها مضويّة ومزيّنة.",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "en_Look at the bathrooms, they are all lit up and decorated._sentence"
+          ]
+        },
+        {
+          "uid": "en_Look at the bathrooms, they are all lit up and decorated._sentence",
+          "language": "en",
+          "content": "Look at the bathrooms, they are all lit up and decorated.",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "apc_شوفوا الحمّامات كيف، كلّها مضويّة ومزيّنة._sentence"
+          ]
+        },
+        {
+          "uid": "apc_هيك شوفوا شو هيكي ملعون_sentence",
+          "language": "apc",
+          "content": "هيك شوفوا شو هيكي ملعون",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "en_Like this, see how cursed it is._sentence"
+          ]
+        },
+        {
+          "uid": "en_Like this, see how cursed it is._sentence",
+          "language": "en",
+          "content": "Like this, see how cursed it is.",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "apc_هيك شوفوا شو هيكي ملعون_sentence"
+          ]
+        },
+        {
+          "uid": "apc_ماما، بابا.. شوفوا شو اجانا_sentence",
+          "language": "apc",
+          "content": "ماما، بابا.. شوفوا شو اجانا",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "en_Mom, Dad.. look what we got._sentence"
+          ]
+        },
+        {
+          "uid": "en_Mom, Dad.. look what we got._sentence",
+          "language": "en",
+          "content": "Mom, Dad.. look what we got.",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "apc_ماما، بابا.. شوفوا شو اجانا_sentence"
+          ]
+        },
+        {
+          "uid": "apc_شوفوا شوفوا الناس الزوق_sentence",
+          "language": "apc",
+          "content": "شوفوا شوفوا الناس الزوق",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "en_Look, look at the stylish people._sentence"
+          ]
+        },
+        {
+          "uid": "en_Look, look at the stylish people._sentence",
+          "language": "en",
+          "content": "Look, look at the stylish people.",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "apc_شوفوا شوفوا الناس الزوق_sentence"
+          ]
+        },
+        {
+          "uid": "apc_شوفوا العملية الارهابية اللي بدي أقوم فيها..._sentence",
+          "language": "apc",
+          "content": "شوفوا العملية الارهابية اللي بدي أقوم فيها...",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "en_Watch the terrorist operation that I want to carry out..._sentence"
+          ]
+        },
+        {
+          "uid": "en_Watch the terrorist operation that I want to carry out..._sentence",
+          "language": "en",
+          "content": "Watch the terrorist operation that I want to carry out...",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "apc_شوفوا العملية الارهابية اللي بدي أقوم فيها..._sentence"
+          ]
+        },
+        {
+          "uid": "apc_شوفوا شوفوا_sentence",
+          "language": "apc",
+          "content": "شوفوا شوفوا",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "en_Look, look_sentence"
+          ]
+        },
+        {
+          "uid": "en_Look, look_sentence",
+          "language": "en",
+          "content": "Look, look",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "apc_شوفوا شوفوا_sentence"
+          ]
+        },
+        {
+          "uid": "apc_قررنا نفحصها, شوفوا شو لقينا:_sentence",
+          "language": "apc",
+          "content": "قررنا نفحصها, شوفوا شو لقينا:",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "en_So we decided to check it out, see what we found:_sentence"
+          ]
+        },
+        {
+          "uid": "en_So we decided to check it out, see what we found:_sentence",
+          "language": "en",
+          "content": "So we decided to check it out, see what we found:",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "apc_قررنا نفحصها, شوفوا شو لقينا:_sentence"
+          ]
+        },
+        {
+          "uid": "apc_شوفوا العناوين الي اختارتها بعض الصحف الاسرائيلية._sentence",
+          "language": "apc",
+          "content": "شوفوا العناوين الي اختارتها بعض الصحف الاسرائيلية.",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "en_Look at the headlines that some Israeli newspapers chose._sentence"
+          ]
+        },
+        {
+          "uid": "en_Look at the headlines that some Israeli newspapers chose._sentence",
+          "language": "en",
+          "content": "Look at the headlines that some Israeli newspapers chose.",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "apc_شوفوا العناوين الي اختارتها بعض الصحف الاسرائيلية._sentence"
+          ]
+        }
+      ]
+    },
+    {
+      "content": "Use 'اليوم؟' in a sentence",
+      "language": "apc",
+      "unitsOfMeaning": [
+        {
+          "uid": "apc_عن شو بدك تحكيلنا اليوم؟_sentence",
+          "language": "apc",
+          "content": "عن شو بدك تحكيلنا اليوم؟",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "en_What do you want to talk about today?_sentence"
+          ]
+        },
+        {
+          "uid": "en_What do you want to talk about today?_sentence",
+          "language": "en",
+          "content": "What do you want to talk about today?",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "apc_عن شو بدك تحكيلنا اليوم؟_sentence"
+          ]
+        },
+        {
+          "uid": "apc_مین زارنا اليوم؟ مين زارنا اليوم؟_sentence",
+          "language": "apc",
+          "content": "مین زارنا اليوم؟ مين زارنا اليوم؟",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "en_Who visited us today? Who visited us today?_sentence"
+          ]
+        },
+        {
+          "uid": "en_Who visited us today? Who visited us today?_sentence",
+          "language": "en",
+          "content": "Who visited us today? Who visited us today?",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "apc_مین زارنا اليوم؟ مين زارنا اليوم؟_sentence"
+          ]
+        },
+        {
+          "uid": "apc_شو منيو الغداء اليوم؟_sentence",
+          "language": "apc",
+          "content": "شو منيو الغداء اليوم؟",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "en_What's on the menu for lunch today?_sentence"
+          ]
+        },
+        {
+          "uid": "en_What's on the menu for lunch today?_sentence",
+          "language": "en",
+          "content": "What's on the menu for lunch today?",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "apc_شو منيو الغداء اليوم؟_sentence"
+          ]
+        },
+        {
+          "uid": "apc_مرحبا رامي. -شو حضرت النا اليوم؟_sentence",
+          "language": "apc",
+          "content": "مرحبا رامي. -شو حضرت النا اليوم؟",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "en_Hello, Rami. -What did you prepare for us today?_sentence"
+          ]
+        },
+        {
+          "uid": "en_Hello, Rami. -What did you prepare for us today?_sentence",
+          "language": "en",
+          "content": "Hello, Rami. -What did you prepare for us today?",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "apc_مرحبا رامي. -شو حضرت النا اليوم؟_sentence"
+          ]
+        },
+        {
+          "uid": "apc_مرشد، عن ايش بدك تحكيلنا اليوم؟_sentence",
+          "language": "apc",
+          "content": "مرشد، عن ايش بدك تحكيلنا اليوم؟",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "en_Murshid, what would you like to talk about today?_sentence"
+          ]
+        },
+        {
+          "uid": "en_Murshid, what would you like to talk about today?_sentence",
+          "language": "en",
+          "content": "Murshid, what would you like to talk about today?",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "apc_مرشد، عن ايش بدك تحكيلنا اليوم؟_sentence"
+          ]
+        },
+        {
+          "uid": "apc_تفضل مرشد, عن شو بدك تحكيلنا اليوم؟_sentence",
+          "language": "apc",
+          "content": "تفضل مرشد, عن شو بدك تحكيلنا اليوم؟",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "en_Please, Murshid, what would you like to talk about today?_sentence"
+          ]
+        },
+        {
+          "uid": "en_Please, Murshid, what would you like to talk about today?_sentence",
+          "language": "en",
+          "content": "Please, Murshid, what would you like to talk about today?",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "apc_تفضل مرشد, عن شو بدك تحكيلنا اليوم؟_sentence"
+          ]
+        },
+        {
+          "uid": "apc_تفضل خالد, عن شو بدك تحكيلنا اليوم؟_sentence",
+          "language": "apc",
+          "content": "تفضل خالد, عن شو بدك تحكيلنا اليوم؟",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "en_Go ahead, Khaled, what do you want to talk to us about today?_sentence"
+          ]
+        },
+        {
+          "uid": "en_Go ahead, Khaled, what do you want to talk to us about today?_sentence",
+          "language": "en",
+          "content": "Go ahead, Khaled, what do you want to talk to us about today?",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "apc_تفضل خالد, عن شو بدك تحكيلنا اليوم؟_sentence"
+          ]
+        },
+        {
+          "uid": "apc_الجولة طول اليوم؟_sentence",
+          "language": "apc",
+          "content": "الجولة طول اليوم؟",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "en_Is it an all-day trip?_sentence"
+          ]
+        },
+        {
+          "uid": "en_Is it an all-day trip?_sentence",
+          "language": "en",
+          "content": "Is it an all-day trip?",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "apc_الجولة طول اليوم؟_sentence"
+          ]
+        },
+        {
+          "uid": "apc_صح. -شو بدك تصححي اليوم؟_sentence",
+          "language": "apc",
+          "content": "صح. -شو بدك تصححي اليوم؟",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "en_Sure. -What do you want to correct today?_sentence"
+          ]
+        },
+        {
+          "uid": "en_Sure. -What do you want to correct today?_sentence",
+          "language": "en",
+          "content": "Sure. -What do you want to correct today?",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "apc_صح. -شو بدك تصححي اليوم؟_sentence"
+          ]
+        },
+        {
+          "uid": "apc_شو في حفلة بقاعة الحفلات اليوم؟_sentence",
+          "language": "apc",
+          "content": "شو في حفلة بقاعة الحفلات اليوم؟",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "en_What's playing in the concert hall today?_sentence"
+          ]
+        },
+        {
+          "uid": "en_What's playing in the concert hall today?_sentence",
+          "language": "en",
+          "content": "What's playing in the concert hall today?",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "apc_شو في حفلة بقاعة الحفلات اليوم؟_sentence"
+          ]
+        },
+        {
+          "uid": "apc_قولي شو طابخة اليوم؟ - عملنا مقلوية._sentence",
+          "language": "apc",
+          "content": "قولي شو طابخة اليوم؟ - عملنا مقلوية.",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "en_Tell me, what did you cook today? - We made Maqluba._sentence"
+          ]
+        },
+        {
+          "uid": "en_Tell me, what did you cook today? - We made Maqluba._sentence",
+          "language": "en",
+          "content": "Tell me, what did you cook today? - We made Maqluba.",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "apc_قولي شو طابخة اليوم؟ - عملنا مقلوية._sentence"
+          ]
+        },
+        {
+          "uid": "apc_طب شو المنيو اليوم؟_sentence",
+          "language": "apc",
+          "content": "طب شو المنيو اليوم؟",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "en_So, what's the menu for today?_sentence"
+          ]
+        },
+        {
+          "uid": "en_So, what's the menu for today?_sentence",
+          "language": "en",
+          "content": "So, what's the menu for today?",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "apc_طب شو المنيو اليوم؟_sentence"
+          ]
+        },
+        {
+          "uid": "apc_تفضلي هيا, عن شو بدك تحكيلنا اليوم؟_sentence",
+          "language": "apc",
+          "content": "تفضلي هيا, عن شو بدك تحكيلنا اليوم؟",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "en_Please, Haya, what do you want to talk about today?_sentence"
+          ]
+        },
+        {
+          "uid": "en_Please, Haya, what do you want to talk about today?_sentence",
+          "language": "en",
+          "content": "Please, Haya, what do you want to talk about today?",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "apc_تفضلي هيا, عن شو بدك تحكيلنا اليوم؟_sentence"
+          ]
+        },
+        {
+          "uid": "apc_شو عندك تحكيلنا اليوم؟_sentence",
+          "language": "apc",
+          "content": "شو عندك تحكيلنا اليوم؟",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "en_What do you have to tell us today?_sentence"
+          ]
+        },
+        {
+          "uid": "en_What do you have to tell us today?_sentence",
+          "language": "en",
+          "content": "What do you have to tell us today?",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "apc_شو عندك تحكيلنا اليوم؟_sentence"
+          ]
+        },
+        {
+          "uid": "apc_– كيف الطّقس اليوم؟_sentence",
+          "language": "apc",
+          "content": "– كيف الطّقس اليوم؟",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "en_– How is the weather today?_sentence"
+          ]
+        },
+        {
+          "uid": "en_– How is the weather today?_sentence",
+          "language": "en",
+          "content": "– How is the weather today?",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "apc_– كيف الطّقس اليوم؟_sentence"
+          ]
+        },
+        {
+          "uid": "apc_يعني ما بعرفو انه بتخلص بنفس اليوم؟_sentence",
+          "language": "apc",
+          "content": "يعني ما بعرفو انه بتخلص بنفس اليوم؟",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "en_I mean, they don't know that it ends on the same day?_sentence"
+          ]
+        },
+        {
+          "uid": "en_I mean, they don't know that it ends on the same day?_sentence",
+          "language": "en",
+          "content": "I mean, they don't know that it ends on the same day?",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "apc_يعني ما بعرفو انه بتخلص بنفس اليوم؟_sentence"
+          ]
+        },
+        {
+          "uid": "apc_طب شو بدك تصححي اليوم؟_sentence",
+          "language": "apc",
+          "content": "طب شو بدك تصححي اليوم؟",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "en_So what do you want to correct today?_sentence"
+          ]
+        },
+        {
+          "uid": "en_So what do you want to correct today?_sentence",
+          "language": "en",
+          "content": "So what do you want to correct today?",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "apc_طب شو بدك تصححي اليوم؟_sentence"
+          ]
+        },
+        {
+          "uid": "apc_شو رح ينعزف بقاعة الحفلات الموسيقية اليوم؟_sentence",
+          "language": "apc",
+          "content": "شو رح ينعزف بقاعة الحفلات الموسيقية اليوم؟",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "en_What will be played in the concert hall today?_sentence"
+          ]
+        },
+        {
+          "uid": "en_What will be played in the concert hall today?_sentence",
+          "language": "en",
+          "content": "What will be played in the concert hall today?",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "apc_شو رح ينعزف بقاعة الحفلات الموسيقية اليوم؟_sentence"
+          ]
+        },
+        {
+          "uid": "apc_طيب شو صار بهاد اليوم؟_sentence",
+          "language": "apc",
+          "content": "طيب شو صار بهاد اليوم؟",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "en_Okay, so what really happened that day?_sentence"
+          ]
+        },
+        {
+          "uid": "en_Okay, so what really happened that day?_sentence",
+          "language": "en",
+          "content": "Okay, so what really happened that day?",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "apc_طيب شو صار بهاد اليوم؟_sentence"
+          ]
+        },
+        {
+          "uid": "apc_سألت عن ابو يزن اليوم؟_sentence",
+          "language": "apc",
+          "content": "سألت عن ابو يزن اليوم؟",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "en_Did you ask about Abu Yazan today?_sentence"
+          ]
+        },
+        {
+          "uid": "en_Did you ask about Abu Yazan today?_sentence",
+          "language": "en",
+          "content": "Did you ask about Abu Yazan today?",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "apc_سألت عن ابو يزن اليوم؟_sentence"
+          ]
+        },
+        {
+          "uid": "apc_مرشد، عن ايش بدك تحكي اليوم؟_sentence",
+          "language": "apc",
+          "content": "مرشد، عن ايش بدك تحكي اليوم؟",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "en_Murshid, what do you want to talk about today?_sentence"
+          ]
+        },
+        {
+          "uid": "en_Murshid, what do you want to talk about today?_sentence",
+          "language": "en",
+          "content": "Murshid, what do you want to talk about today?",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "apc_مرشد، عن ايش بدك تحكي اليوم؟_sentence"
+          ]
+        },
+        {
+          "uid": "apc_عن ايش رايحة تحكيلنا اليوم؟_sentence",
+          "language": "apc",
+          "content": "عن ايش رايحة تحكيلنا اليوم؟",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "en_What would you like to talk to us about today?_sentence"
+          ]
+        },
+        {
+          "uid": "en_What would you like to talk to us about today?_sentence",
+          "language": "en",
+          "content": "What would you like to talk to us about today?",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "apc_عن ايش رايحة تحكيلنا اليوم؟_sentence"
+          ]
+        },
+        {
+          "uid": "apc_شو بدك تصحح اليوم؟_sentence",
+          "language": "apc",
+          "content": "شو بدك تصحح اليوم؟",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "en_What do you want to fix today?_sentence"
+          ]
+        },
+        {
+          "uid": "en_What do you want to fix today?_sentence",
+          "language": "en",
+          "content": "What do you want to fix today?",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "apc_شو بدك تصحح اليوم؟_sentence"
+          ]
+        },
+        {
+          "uid": "apc_مرشد, عن شو بدك تحكيلنا اليوم؟_sentence",
+          "language": "apc",
+          "content": "مرشد, عن شو بدك تحكيلنا اليوم؟",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "en_Murshid, what do you want to talk about today?_sentence"
+          ]
+        },
+        {
+          "uid": "en_Murshid, what do you want to talk about today?_sentence",
+          "language": "en",
+          "content": "Murshid, what do you want to talk about today?",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "apc_مرشد, عن شو بدك تحكيلنا اليوم؟_sentence"
+          ]
+        },
+        {
+          "uid": "apc_عن شو حابي تحكي اليوم؟_sentence",
+          "language": "apc",
+          "content": "عن شو حابي تحكي اليوم؟",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "en_What do you want to talk about today?_sentence"
+          ]
+        },
+        {
+          "uid": "en_What do you want to talk about today?_sentence",
+          "language": "en",
+          "content": "What do you want to talk about today?",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "apc_عن شو حابي تحكي اليوم؟_sentence"
+          ]
+        },
+        {
+          "uid": "apc_شو راح ينعزف بقاعة الحفلات الموسيقية اليوم؟_sentence",
+          "language": "apc",
+          "content": "شو راح ينعزف بقاعة الحفلات الموسيقية اليوم؟",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "en_What will be played in the concert hall today?_sentence"
+          ]
+        },
+        {
+          "uid": "en_What will be played in the concert hall today?_sentence",
+          "language": "en",
+          "content": "What will be played in the concert hall today?",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "apc_شو راح ينعزف بقاعة الحفلات الموسيقية اليوم؟_sentence"
+          ]
+        },
+        {
+          "uid": "apc_وهيي... مين زارنا اليوم؟_sentence",
+          "language": "apc",
+          "content": "وهيي... مين زارنا اليوم؟",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "en_Hey... Who's visiting us today?_sentence"
+          ]
+        },
+        {
+          "uid": "en_Hey... Who's visiting us today?_sentence",
+          "language": "en",
+          "content": "Hey... Who's visiting us today?",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "apc_وهيي... مين زارنا اليوم؟_sentence"
+          ]
+        },
+        {
+          "uid": "apc_روزالین، ایش محضرتيلنا اليوم؟_sentence",
+          "language": "apc",
+          "content": "روزالین، ایش محضرتيلنا اليوم؟",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "en_Rosaline, what have you prepared for us today?_sentence"
+          ]
+        },
+        {
+          "uid": "en_Rosaline, what have you prepared for us today?_sentence",
+          "language": "en",
+          "content": "Rosaline, what have you prepared for us today?",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "apc_روزالین، ایش محضرتيلنا اليوم؟_sentence"
+          ]
+        },
+        {
+          "uid": "apc_شو هادا اللي كان عليهم اليوم؟_sentence",
+          "language": "apc",
+          "content": "شو هادا اللي كان عليهم اليوم؟",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "en_What's going on with them today?_sentence"
+          ]
+        },
+        {
+          "uid": "en_What's going on with them today?_sentence",
+          "language": "en",
+          "content": "What's going on with them today?",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "apc_شو هادا اللي كان عليهم اليوم؟_sentence"
+          ]
+        },
+        {
+          "uid": "apc_تفضل خالد, شو في عندك تحكيلنا اليوم؟_sentence",
+          "language": "apc",
+          "content": "تفضل خالد, شو في عندك تحكيلنا اليوم؟",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "en_Go ahead, Khaled, what do you have to tell us today?_sentence"
+          ]
+        },
+        {
+          "uid": "en_Go ahead, Khaled, what do you have to tell us today?_sentence",
+          "language": "en",
+          "content": "Go ahead, Khaled, what do you have to tell us today?",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "apc_تفضل خالد, شو في عندك تحكيلنا اليوم؟_sentence"
+          ]
+        },
+        {
+          "uid": "apc_بس اليوم، شو بيصير اليوم؟_sentence",
+          "language": "apc",
+          "content": "بس اليوم، شو بيصير اليوم؟",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "en_But today, what is happening today?_sentence"
+          ]
+        },
+        {
+          "uid": "en_But today, what is happening today?_sentence",
+          "language": "en",
+          "content": "But today, what is happening today?",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "apc_بس اليوم، شو بيصير اليوم؟_sentence"
+          ]
+        },
+        {
+          "uid": "apc_ايش كان بده منك الأستاز اليوم؟_sentence",
+          "language": "apc",
+          "content": "ايش كان بده منك الأستاز اليوم؟",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "en_What did the teacher want from you today?_sentence"
+          ]
+        },
+        {
+          "uid": "en_What did the teacher want from you today?_sentence",
+          "language": "en",
+          "content": "What did the teacher want from you today?",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "apc_ايش كان بده منك الأستاز اليوم؟_sentence"
+          ]
+        },
+        {
+          "uid": "apc_شو بدك تصححي اليوم؟_sentence",
+          "language": "apc",
+          "content": "شو بدك تصححي اليوم؟",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "en_What do you want to correct today?_sentence"
+          ]
+        },
+        {
+          "uid": "en_What do you want to correct today?_sentence",
+          "language": "en",
+          "content": "What do you want to correct today?",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "apc_شو بدك تصححي اليوم؟_sentence"
+          ]
+        },
+        {
+          "uid": "apc_رجاء، شو محضرتيلنا اليوم؟_sentence",
+          "language": "apc",
+          "content": "رجاء، شو محضرتيلنا اليوم؟",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "en_Raja, what have you prepared for us today?_sentence"
+          ]
+        },
+        {
+          "uid": "en_Raja, what have you prepared for us today?_sentence",
+          "language": "en",
+          "content": "Raja, what have you prepared for us today?",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "apc_رجاء، شو محضرتيلنا اليوم؟_sentence"
+          ]
+        },
+        {
+          "uid": "apc_يللا, عن شو بدك تحكيلنا اليوم؟_sentence",
+          "language": "apc",
+          "content": "يللا, عن شو بدك تحكيلنا اليوم؟",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "en_Alright, what do you want to talk about today?_sentence"
+          ]
+        },
+        {
+          "uid": "en_Alright, what do you want to talk about today?_sentence",
+          "language": "en",
+          "content": "Alright, what do you want to talk about today?",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "apc_يللا, عن شو بدك تحكيلنا اليوم؟_sentence"
+          ]
+        },
+        {
+          "uid": "apc_ليش خير شو في اليوم؟_sentence",
+          "language": "apc",
+          "content": "ليش خير شو في اليوم؟",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "en_Why? What's happening today?_sentence"
+          ]
+        },
+        {
+          "uid": "en_Why? What's happening today?_sentence",
+          "language": "en",
+          "content": "Why? What's happening today?",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "apc_ليش خير شو في اليوم؟_sentence"
+          ]
+        },
+        {
+          "uid": "apc_بابا، بصير توصّلني عند صاحبتي اليوم؟_sentence",
+          "language": "apc",
+          "content": "بابا، بصير توصّلني عند صاحبتي اليوم؟",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "en_Dad, can you take me to my friend today?_sentence"
+          ]
+        },
+        {
+          "uid": "en_Dad, can you take me to my friend today?_sentence",
+          "language": "en",
+          "content": "Dad, can you take me to my friend today?",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "apc_بابا، بصير توصّلني عند صاحبتي اليوم؟_sentence"
+          ]
+        },
+        {
+          "uid": "apc_شو اللي عميندق بصالة الحفلات اليوم؟_sentence",
+          "language": "apc",
+          "content": "شو اللي عميندق بصالة الحفلات اليوم؟",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "en_What's playing in the concert hall today?_sentence"
+          ]
+        },
+        {
+          "uid": "en_What's playing in the concert hall today?_sentence",
+          "language": "en",
+          "content": "What's playing in the concert hall today?",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "apc_شو اللي عميندق بصالة الحفلات اليوم؟_sentence"
+          ]
+        },
+        {
+          "uid": "apc_ام يزن شو المنيو اليوم؟_sentence",
+          "language": "apc",
+          "content": "ام يزن شو المنيو اليوم؟",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "en_Um Yazin, what’s on the menu today?_sentence"
+          ]
+        },
+        {
+          "uid": "en_Um Yazin, what’s on the menu today?_sentence",
+          "language": "en",
+          "content": "Um Yazin, what’s on the menu today?",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "apc_ام يزن شو المنيو اليوم؟_sentence"
+          ]
+        },
+        {
+          "uid": "apc_عن شو بدنا نحكي اليوم؟_sentence",
+          "language": "apc",
+          "content": "عن شو بدنا نحكي اليوم؟",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "en_What are we talking about today?_sentence"
+          ]
+        },
+        {
+          "uid": "en_What are we talking about today?_sentence",
+          "language": "en",
+          "content": "What are we talking about today?",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "apc_عن شو بدنا نحكي اليوم؟_sentence"
+          ]
+        },
+        {
+          "uid": "apc_شو بدك تحكيلنا اليوم؟_sentence",
+          "language": "apc",
+          "content": "شو بدك تحكيلنا اليوم؟",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "en_What are you going to tell us today?_sentence"
+          ]
+        },
+        {
+          "uid": "en_What are you going to tell us today?_sentence",
+          "language": "en",
+          "content": "What are you going to tell us today?",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "apc_شو بدك تحكيلنا اليوم؟_sentence"
+          ]
+        },
+        {
+          "uid": "apc_منی، شو جايبتيلنا اليوم؟_sentence",
+          "language": "apc",
+          "content": "منی، شو جايبتيلنا اليوم؟",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "en_Mona, what did you bring us today?_sentence"
+          ]
+        },
+        {
+          "uid": "en_Mona, what did you bring us today?_sentence",
+          "language": "en",
+          "content": "Mona, what did you bring us today?",
+          "linguType": "sentence",
+          "license": "CC-BY-NC-4.0",
+          "owner": "Guy Mor-Lan",
+          "ownerLink": "https://huggingface.co/guymorlan",
+          "source": "Levanti Dataset",
+          "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+          "translations": [
+            "apc_منی، شو جايبتيلنا اليوم؟_sentence"
+          ]
+        }
+      ]
+    }
+  ]
+}

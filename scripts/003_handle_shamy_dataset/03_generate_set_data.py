@@ -13,6 +13,7 @@ MIN_SENTENCE_OCCURRENCES = 25  # Minimum number of different sentences a word mu
 MAX_SENTENCE_OCCURRENCES = 50  # Maximum number of different sentences a word can appear in
 FILE_CREATION_LIMIT = 5  # Set to an integer to limit number of files created, or None for no limit
 OVERWRITE_EXISTING_FILES = True  # Set to False to skip existing files instead of overwriting
+TASKS_PER_FILE = 5  # Number of word-based tasks to include in each file
 
 # Load the filtered CSV
 df = pd.read_csv('scripts/003_handle_shamy_dataset/levanti_filtered_3cols.csv')
@@ -46,14 +47,16 @@ print(f"Found {len(target_words)} words that appear in {MIN_SENTENCE_OCCURRENCES
 
 # Process each target word
 files_created = 0
+current_file_tasks = []
+current_file_index = 1
+
 for word in target_words:
     if FILE_CREATION_LIMIT is not None and files_created >= FILE_CREATION_LIMIT:
         break
-    filename = f"data/{word}.json"
-    if not OVERWRITE_EXISTING_FILES and os.path.exists(filename):
-        print(f"  Skipping {filename} (already exists)")
+    
+    # Check if word actually meets the criteria (double-check)
+    if not (MIN_SENTENCE_OCCURRENCES <= len(word_sentence_count[word]) <= MAX_SENTENCE_OCCURRENCES):
         continue
-    print(f"Processing word: {word} (appears in {len(word_sentence_count[word])} sentences)")
     
     # Find all sentences containing this word (exact match)
     matching_sentences = []
@@ -104,26 +107,46 @@ for word in target_words:
             }
             matching_sentences.append(sentence_pair)
     
-    # Create the JSON structure
-    json_data = {
-        "uid": word,
+    # Create task for this word
+    task = {
+        "content": f"Use '{word}' in a sentence",
         "language": "apc",
-        "tasks": [
-            f"Make a sentence with '{word}'."
-        ],
         "unitsOfMeaning": []
     }
     
     # Add all sentence pairs to unitsOfMeaning
     for pair in matching_sentences:
-        json_data["unitsOfMeaning"].append(pair["arabic"])
-        json_data["unitsOfMeaning"].append(pair["english"])
+        task["unitsOfMeaning"].append(pair["arabic"])
+        task["unitsOfMeaning"].append(pair["english"])
     
-    # Save to JSON file
-    with open(filename, 'w', encoding='utf-8') as f:
-        json.dump(json_data, f, ensure_ascii=False, indent=2)
+    current_file_tasks.append(task)
     
-    print(f"  Created {filename} with {len(matching_sentences)} sentence pairs")
-    files_created += 1
+    # If we've reached TASKS_PER_FILE or this is the last word, save the file
+    if len(current_file_tasks) >= TASKS_PER_FILE or word == target_words[-1]:
+        filename = f"data/natural_sentences_{current_file_index}.json"
+        
+        if not OVERWRITE_EXISTING_FILES and os.path.exists(filename):
+            print(f"  Skipping {filename} (already exists)")
+            current_file_tasks = []
+            current_file_index += 1
+            continue
+        
+        # Create the JSON structure
+        json_data = {
+            "name": f"Natural Sentences #{current_file_index}",
+            "language": "apc",
+            "tasks": current_file_tasks
+        }
+        
+        # Save to JSON file
+        with open(filename, 'w', encoding='utf-8') as f:
+            json.dump(json_data, f, ensure_ascii=False, indent=2)
+        
+        print(f"  Created {filename} with {len(current_file_tasks)} tasks")
+        files_created += 1
+        
+        # Reset for next file
+        current_file_tasks = []
+        current_file_index += 1
 
 print("Done! All JSON files created in the data/ directory.")
