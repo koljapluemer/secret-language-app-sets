@@ -14,6 +14,7 @@ MAX_SENTENCE_OCCURRENCES = 50  # Maximum number of different sentences a word ca
 FILE_CREATION_LIMIT = 2  # Set to an integer to limit number of files created, or None for no limit
 OVERWRITE_EXISTING_FILES = True  # Set to False to skip existing files instead of overwriting
 TASKS_PER_FILE = 2  # Number of word-based tasks to include in each file
+CONSIDER_SENTENCE_PRIMARY_WHEN_HAS_LESS_THAN_N_WORDS = 4  # Sentences with fewer words go to primaryUnitsOfMeaning
 
 # Load the filtered CSV
 df = pd.read_csv('scripts/003_handle_shamy_dataset/levanti_filtered_3cols.csv')
@@ -115,13 +116,19 @@ for word in target_words:
     task = {
         "content": f"Use '{word}' in a sentence",
         "language": "apc",
-        "unitsOfMeaning": []
+        "unitsOfMeaning": [],
+        "primaryUnitsOfMeaning": []
     }
     
-    # Add all sentence pairs to unitsOfMeaning
+    # Add all sentence pairs to unitsOfMeaning or primaryUnitsOfMeaning based on word count
     for pair in matching_sentences:
-        task["unitsOfMeaning"].append(pair["arabic"])
-        task["unitsOfMeaning"].append(pair["english"])
+        arabic_word_count = len(pair["arabic"]["content"].split())
+        if arabic_word_count < CONSIDER_SENTENCE_PRIMARY_WHEN_HAS_LESS_THAN_N_WORDS:
+            task["primaryUnitsOfMeaning"].append(pair["arabic"])
+            task["primaryUnitsOfMeaning"].append(pair["english"])
+        else:
+            task["unitsOfMeaning"].append(pair["arabic"])
+            task["unitsOfMeaning"].append(pair["english"])
     
     current_file_tasks.append(task)
     

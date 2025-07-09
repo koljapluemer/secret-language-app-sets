@@ -43,42 +43,6 @@
           ]
         },
         {
-          "uid": "apc_حابب اطمنكم علينا_sentence",
-          "language": "apc",
-          "content": "حابب اطمنكم علينا",
-          "linguType": "sentence",
-          "credits": [
-            {
-              "license": "CC-BY-NC-4.0",
-              "owner": "Guy Mor-Lan",
-              "ownerLink": "https://huggingface.co/guymorlan",
-              "source": "Levanti Dataset",
-              "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti"
-            }
-          ],
-          "translations": [
-            "en_I want to reassure you that we're okay..._sentence"
-          ]
-        },
-        {
-          "uid": "en_I want to reassure you that we're okay..._sentence",
-          "language": "en",
-          "content": "I want to reassure you that we're okay...",
-          "linguType": "sentence",
-          "credits": [
-            {
-              "license": "CC-BY-NC-4.0",
-              "owner": "Guy Mor-Lan",
-              "ownerLink": "https://huggingface.co/guymorlan",
-              "source": "Levanti Dataset",
-              "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti"
-            }
-          ],
-          "translations": [
-            "apc_حابب اطمنكم علينا_sentence"
-          ]
-        },
-        {
           "uid": "apc_بس حابب اورجيكم جمال الطبيعة في بلدنا_sentence",
           "language": "apc",
           "content": "بس حابب اورجيكم جمال الطبيعة في بلدنا",
@@ -400,42 +364,6 @@
           ],
           "translations": [
             "apc_أنا حابب أخلع سني._sentence"
-          ]
-        },
-        {
-          "uid": "apc_حابب أخد هداك._sentence",
-          "language": "apc",
-          "content": "حابب أخد هداك.",
-          "linguType": "sentence",
-          "credits": [
-            {
-              "license": "CC-BY-NC-4.0",
-              "owner": "Guy Mor-Lan",
-              "ownerLink": "https://huggingface.co/guymorlan",
-              "source": "Levanti Dataset",
-              "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti"
-            }
-          ],
-          "translations": [
-            "en_I want to take that one._sentence"
-          ]
-        },
-        {
-          "uid": "en_I want to take that one._sentence",
-          "language": "en",
-          "content": "I want to take that one.",
-          "linguType": "sentence",
-          "credits": [
-            {
-              "license": "CC-BY-NC-4.0",
-              "owner": "Guy Mor-Lan",
-              "ownerLink": "https://huggingface.co/guymorlan",
-              "source": "Levanti Dataset",
-              "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti"
-            }
-          ],
-          "translations": [
-            "apc_حابب أخد هداك._sentence"
           ]
         },
         {
@@ -1267,42 +1195,6 @@
           ]
         },
         {
-          "uid": "apc_بس حابب أذكّركم:_sentence",
-          "language": "apc",
-          "content": "بس حابب أذكّركم:",
-          "linguType": "sentence",
-          "credits": [
-            {
-              "license": "CC-BY-NC-4.0",
-              "owner": "Guy Mor-Lan",
-              "ownerLink": "https://huggingface.co/guymorlan",
-              "source": "Levanti Dataset",
-              "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti"
-            }
-          ],
-          "translations": [
-            "en_I just want to remind you:_sentence"
-          ]
-        },
-        {
-          "uid": "en_I just want to remind you:_sentence",
-          "language": "en",
-          "content": "I just want to remind you:",
-          "linguType": "sentence",
-          "credits": [
-            {
-              "license": "CC-BY-NC-4.0",
-              "owner": "Guy Mor-Lan",
-              "ownerLink": "https://huggingface.co/guymorlan",
-              "source": "Levanti Dataset",
-              "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti"
-            }
-          ],
-          "translations": [
-            "apc_بس حابب أذكّركم:_sentence"
-          ]
-        },
-        {
           "uid": "apc_أنا كتير متأسف، بس حابب أأجل الموعد._sentence",
           "language": "apc",
           "content": "أنا كتير متأسف، بس حابب أأجل الموعد.",
@@ -1411,42 +1303,6 @@
           ]
         },
         {
-          "uid": "apc_حابب أتعلم عليها_sentence",
-          "language": "apc",
-          "content": "حابب أتعلم عليها",
-          "linguType": "sentence",
-          "credits": [
-            {
-              "license": "CC-BY-NC-4.0",
-              "owner": "Guy Mor-Lan",
-              "ownerLink": "https://huggingface.co/guymorlan",
-              "source": "Levanti Dataset",
-              "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti"
-            }
-          ],
-          "translations": [
-            "en_I want to learn it._sentence"
-          ]
-        },
-        {
-          "uid": "en_I want to learn it._sentence",
-          "language": "en",
-          "content": "I want to learn it.",
-          "linguType": "sentence",
-          "credits": [
-            {
-              "license": "CC-BY-NC-4.0",
-              "owner": "Guy Mor-Lan",
-              "ownerLink": "https://huggingface.co/guymorlan",
-              "source": "Levanti Dataset",
-              "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti"
-            }
-          ],
-          "translations": [
-            "apc_حابب أتعلم عليها_sentence"
-          ]
-        },
-        {
           "uid": "apc_‏فهمت من مكتوبو إنو حابب شغلو ‎_sentence",
           "language": "apc",
           "content": "‏فهمت من مكتوبو إنو حابب شغلو ‎",
@@ -1552,6 +1408,152 @@
           ],
           "translations": [
             "apc_حابب اركب سيارة رياضية._sentence"
+          ]
+        }
+      ],
+      "primaryUnitsOfMeaning": [
+        {
+          "uid": "apc_حابب اطمنكم علينا_sentence",
+          "language": "apc",
+          "content": "حابب اطمنكم علينا",
+          "linguType": "sentence",
+          "credits": [
+            {
+              "license": "CC-BY-NC-4.0",
+              "owner": "Guy Mor-Lan",
+              "ownerLink": "https://huggingface.co/guymorlan",
+              "source": "Levanti Dataset",
+              "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti"
+            }
+          ],
+          "translations": [
+            "en_I want to reassure you that we're okay..._sentence"
+          ]
+        },
+        {
+          "uid": "en_I want to reassure you that we're okay..._sentence",
+          "language": "en",
+          "content": "I want to reassure you that we're okay...",
+          "linguType": "sentence",
+          "credits": [
+            {
+              "license": "CC-BY-NC-4.0",
+              "owner": "Guy Mor-Lan",
+              "ownerLink": "https://huggingface.co/guymorlan",
+              "source": "Levanti Dataset",
+              "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti"
+            }
+          ],
+          "translations": [
+            "apc_حابب اطمنكم علينا_sentence"
+          ]
+        },
+        {
+          "uid": "apc_حابب أخد هداك._sentence",
+          "language": "apc",
+          "content": "حابب أخد هداك.",
+          "linguType": "sentence",
+          "credits": [
+            {
+              "license": "CC-BY-NC-4.0",
+              "owner": "Guy Mor-Lan",
+              "ownerLink": "https://huggingface.co/guymorlan",
+              "source": "Levanti Dataset",
+              "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti"
+            }
+          ],
+          "translations": [
+            "en_I want to take that one._sentence"
+          ]
+        },
+        {
+          "uid": "en_I want to take that one._sentence",
+          "language": "en",
+          "content": "I want to take that one.",
+          "linguType": "sentence",
+          "credits": [
+            {
+              "license": "CC-BY-NC-4.0",
+              "owner": "Guy Mor-Lan",
+              "ownerLink": "https://huggingface.co/guymorlan",
+              "source": "Levanti Dataset",
+              "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti"
+            }
+          ],
+          "translations": [
+            "apc_حابب أخد هداك._sentence"
+          ]
+        },
+        {
+          "uid": "apc_بس حابب أذكّركم:_sentence",
+          "language": "apc",
+          "content": "بس حابب أذكّركم:",
+          "linguType": "sentence",
+          "credits": [
+            {
+              "license": "CC-BY-NC-4.0",
+              "owner": "Guy Mor-Lan",
+              "ownerLink": "https://huggingface.co/guymorlan",
+              "source": "Levanti Dataset",
+              "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti"
+            }
+          ],
+          "translations": [
+            "en_I just want to remind you:_sentence"
+          ]
+        },
+        {
+          "uid": "en_I just want to remind you:_sentence",
+          "language": "en",
+          "content": "I just want to remind you:",
+          "linguType": "sentence",
+          "credits": [
+            {
+              "license": "CC-BY-NC-4.0",
+              "owner": "Guy Mor-Lan",
+              "ownerLink": "https://huggingface.co/guymorlan",
+              "source": "Levanti Dataset",
+              "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti"
+            }
+          ],
+          "translations": [
+            "apc_بس حابب أذكّركم:_sentence"
+          ]
+        },
+        {
+          "uid": "apc_حابب أتعلم عليها_sentence",
+          "language": "apc",
+          "content": "حابب أتعلم عليها",
+          "linguType": "sentence",
+          "credits": [
+            {
+              "license": "CC-BY-NC-4.0",
+              "owner": "Guy Mor-Lan",
+              "ownerLink": "https://huggingface.co/guymorlan",
+              "source": "Levanti Dataset",
+              "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti"
+            }
+          ],
+          "translations": [
+            "en_I want to learn it._sentence"
+          ]
+        },
+        {
+          "uid": "en_I want to learn it._sentence",
+          "language": "en",
+          "content": "I want to learn it.",
+          "linguType": "sentence",
+          "credits": [
+            {
+              "license": "CC-BY-NC-4.0",
+              "owner": "Guy Mor-Lan",
+              "ownerLink": "https://huggingface.co/guymorlan",
+              "source": "Levanti Dataset",
+              "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti"
+            }
+          ],
+          "translations": [
+            "apc_حابب أتعلم عليها_sentence"
           ]
         },
         {
@@ -1918,42 +1920,6 @@
           ],
           "translations": [
             "apc_لمى خلّتني احكي مع حالي_sentence"
-          ]
-        },
-        {
-          "uid": "apc_احكي مع ناس_sentence",
-          "language": "apc",
-          "content": "احكي مع ناس",
-          "linguType": "sentence",
-          "credits": [
-            {
-              "license": "CC-BY-NC-4.0",
-              "owner": "Guy Mor-Lan",
-              "ownerLink": "https://huggingface.co/guymorlan",
-              "source": "Levanti Dataset",
-              "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti"
-            }
-          ],
-          "translations": [
-            "en_Talk to people._sentence"
-          ]
-        },
-        {
-          "uid": "en_Talk to people._sentence",
-          "language": "en",
-          "content": "Talk to people.",
-          "linguType": "sentence",
-          "credits": [
-            {
-              "license": "CC-BY-NC-4.0",
-              "owner": "Guy Mor-Lan",
-              "ownerLink": "https://huggingface.co/guymorlan",
-              "source": "Levanti Dataset",
-              "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti"
-            }
-          ],
-          "translations": [
-            "apc_احكي مع ناس_sentence"
           ]
         },
         {
@@ -2785,42 +2751,6 @@
           ]
         },
         {
-          "uid": "apc_خليني احكي لكم_sentence",
-          "language": "apc",
-          "content": "خليني احكي لكم",
-          "linguType": "sentence",
-          "credits": [
-            {
-              "license": "CC-BY-NC-4.0",
-              "owner": "Guy Mor-Lan",
-              "ownerLink": "https://huggingface.co/guymorlan",
-              "source": "Levanti Dataset",
-              "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti"
-            }
-          ],
-          "translations": [
-            "en_Let me tell you_sentence"
-          ]
-        },
-        {
-          "uid": "en_Let me tell you_sentence",
-          "language": "en",
-          "content": "Let me tell you",
-          "linguType": "sentence",
-          "credits": [
-            {
-              "license": "CC-BY-NC-4.0",
-              "owner": "Guy Mor-Lan",
-              "ownerLink": "https://huggingface.co/guymorlan",
-              "source": "Levanti Dataset",
-              "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti"
-            }
-          ],
-          "translations": [
-            "apc_خليني احكي لكم_sentence"
-          ]
-        },
-        {
           "uid": "apc_احكي تليفون مع هذا الصديق_sentence",
           "language": "apc",
           "content": "احكي تليفون مع هذا الصديق",
@@ -3178,6 +3108,80 @@
           ],
           "translations": [
             "apc_فيني احكي مع المدير؟_sentence"
+          ]
+        }
+      ],
+      "primaryUnitsOfMeaning": [
+        {
+          "uid": "apc_احكي مع ناس_sentence",
+          "language": "apc",
+          "content": "احكي مع ناس",
+          "linguType": "sentence",
+          "credits": [
+            {
+              "license": "CC-BY-NC-4.0",
+              "owner": "Guy Mor-Lan",
+              "ownerLink": "https://huggingface.co/guymorlan",
+              "source": "Levanti Dataset",
+              "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti"
+            }
+          ],
+          "translations": [
+            "en_Talk to people._sentence"
+          ]
+        },
+        {
+          "uid": "en_Talk to people._sentence",
+          "language": "en",
+          "content": "Talk to people.",
+          "linguType": "sentence",
+          "credits": [
+            {
+              "license": "CC-BY-NC-4.0",
+              "owner": "Guy Mor-Lan",
+              "ownerLink": "https://huggingface.co/guymorlan",
+              "source": "Levanti Dataset",
+              "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti"
+            }
+          ],
+          "translations": [
+            "apc_احكي مع ناس_sentence"
+          ]
+        },
+        {
+          "uid": "apc_خليني احكي لكم_sentence",
+          "language": "apc",
+          "content": "خليني احكي لكم",
+          "linguType": "sentence",
+          "credits": [
+            {
+              "license": "CC-BY-NC-4.0",
+              "owner": "Guy Mor-Lan",
+              "ownerLink": "https://huggingface.co/guymorlan",
+              "source": "Levanti Dataset",
+              "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti"
+            }
+          ],
+          "translations": [
+            "en_Let me tell you_sentence"
+          ]
+        },
+        {
+          "uid": "en_Let me tell you_sentence",
+          "language": "en",
+          "content": "Let me tell you",
+          "linguType": "sentence",
+          "credits": [
+            {
+              "license": "CC-BY-NC-4.0",
+              "owner": "Guy Mor-Lan",
+              "ownerLink": "https://huggingface.co/guymorlan",
+              "source": "Levanti Dataset",
+              "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti"
+            }
+          ],
+          "translations": [
+            "apc_خليني احكي لكم_sentence"
           ]
         }
       ]
