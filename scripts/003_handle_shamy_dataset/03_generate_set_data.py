@@ -11,9 +11,9 @@ os.makedirs('data', exist_ok=True)
 MAX_WORDS_PER_SENTENCE = 7  # Maximum allowed words in Arabic sentence
 MIN_SENTENCE_OCCURRENCES = 25  # Minimum number of different sentences a word must appear in
 MAX_SENTENCE_OCCURRENCES = 50  # Maximum number of different sentences a word can appear in
-FILE_CREATION_LIMIT = 5  # Set to an integer to limit number of files created, or None for no limit
+FILE_CREATION_LIMIT = 2  # Set to an integer to limit number of files created, or None for no limit
 OVERWRITE_EXISTING_FILES = True  # Set to False to skip existing files instead of overwriting
-TASKS_PER_FILE = 5  # Number of word-based tasks to include in each file
+TASKS_PER_FILE = 2  # Number of word-based tasks to include in each file
 
 # Load the filtered CSV
 df = pd.read_csv('scripts/003_handle_shamy_dataset/levanti_filtered_3cols.csv')
@@ -85,11 +85,13 @@ for word in target_words:
                     "language": "apc",
                     "content": arabic_text,
                     "linguType": "sentence",
-                    "license": "CC-BY-NC-4.0",
-                    "owner": "Guy Mor-Lan",
-                    "ownerLink": "https://huggingface.co/guymorlan",
-                    "source": "Levanti Dataset",
-                    "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+                    "credits": [{
+                        "license": "CC-BY-NC-4.0",
+                        "owner": "Guy Mor-Lan",
+                        "ownerLink": "https://huggingface.co/guymorlan",
+                        "source": "Levanti Dataset",
+                        "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti"
+                    }],
                     "translations": [english_uid]
                 },
                 "english": {
@@ -97,11 +99,13 @@ for word in target_words:
                     "language": "en",
                     "content": english_text,
                     "linguType": "sentence",
-                    "license": "CC-BY-NC-4.0",
-                    "owner": "Guy Mor-Lan",
-                    "ownerLink": "https://huggingface.co/guymorlan",
-                    "source": "Levanti Dataset",
-                    "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti",
+                    "credits": [{
+                        "license": "CC-BY-NC-4.0",
+                        "owner": "Guy Mor-Lan",
+                        "ownerLink": "https://huggingface.co/guymorlan",
+                        "source": "Levanti Dataset",
+                        "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti"
+                    }],
                     "translations": [arabic_uid]
                 }
             }
