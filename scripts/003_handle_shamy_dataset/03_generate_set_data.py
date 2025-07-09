@@ -13,7 +13,7 @@ MIN_SENTENCE_OCCURRENCES = 25  # Minimum number of different sentences a word mu
 MAX_SENTENCE_OCCURRENCES = 50  # Maximum number of different sentences a word can appear in
 FILE_CREATION_LIMIT = 2  # Set to an integer to limit number of files created, or None for no limit
 OVERWRITE_EXISTING_FILES = True  # Set to False to skip existing files instead of overwriting
-TASKS_PER_FILE = 2  # Number of word-based tasks to include in each file
+TASKS_PER_FILE = 5  # Number of word-based tasks to include in each file
 CONSIDER_SENTENCE_PRIMARY_WHEN_HAS_LESS_THAN_N_WORDS = 4  # Sentences with fewer words go to primaryUnitsOfMeaning
 
 # Load the filtered CSV
@@ -134,24 +134,80 @@ for word in target_words:
             if cleaned_word and len(cleaned_word) > 1:
                 english_words.append(cleaned_word)
     
+    # Create word-to-sentence mappings for seeAlso
+    word_to_sentences = defaultdict(set)
+    sentence_to_words = defaultdict(set)
+    
+    # Process each sentence pair to build mappings
+    for pair in matching_sentences:
+        arabic_text = pair["arabic"]["content"]
+        english_text = pair["english"]["content"]
+        
+        # Extract Arabic words from this sentence
+        arabic_raw_words = arabic_text.split()
+        sentence_ar_words = set()
+        for ar_word in arabic_raw_words:
+            cleaned_word = re.sub(r'[^\w\u0600-\u06FF\u0750-\u077F\u08A0-\u08FF\uFB50-\uFDFF\uFE70-\uFEFF]', '', ar_word.strip())
+            if cleaned_word and len(cleaned_word) > 1:
+                sentence_ar_words.add(cleaned_word)
+                word_to_sentences[("apc", cleaned_word)].add(f"apc:{arabic_text}")
+        
+        # Extract English words from this sentence
+        english_raw_words = english_text.split()
+        sentence_en_words = set()
+        for en_word in english_raw_words:
+            cleaned_word = re.sub(r'[^\w]', '', en_word.strip().lower())
+            if cleaned_word and len(cleaned_word) > 1:
+                sentence_en_words.add(cleaned_word)
+                word_to_sentences[("en", cleaned_word)].add(f"en:{english_text}")
+        
+        # Add word references to sentence
+        sentence_to_words[f"apc:{arabic_text}"] = sentence_ar_words
+        sentence_to_words[f"en:{english_text}"] = sentence_en_words
+    
+    # Add seeAlso to sentences
+    for pair in matching_sentences:
+        arabic_text = pair["arabic"]["content"]
+        english_text = pair["english"]["content"]
+        
+        # Add seeAlso to Arabic sentence
+        ar_words = sentence_to_words.get(f"apc:{arabic_text}", set())
+        pair["arabic"]["seeAlso"] = [f"apc:{word}" for word in sorted(ar_words)]
+        
+        # Add seeAlso to English sentence
+        en_words = sentence_to_words.get(f"en:{english_text}", set())
+        pair["english"]["seeAlso"] = [f"en:{word}" for word in sorted(en_words)]
+    
     # Add all unique words as unitsOfMeaning (no linguType, credits, or translations), deduplicated by language+content
     for unique_ar_word in sorted(set(arabic_words)):
-        task["unitsOfMeaning"].append({
+        word_unit = {
             "language": "apc",
             "content": unique_ar_word
-        })
+        }
+        # Add seeAlso to word unit
+        word_sentences = word_to_sentences.get(("apc", unique_ar_word), set())
+        word_unit["seeAlso"] = sorted(list(word_sentences))
+        task["unitsOfMeaning"].append(word_unit)
+        
     for unique_en_word in sorted(set(english_words)):
-        task["unitsOfMeaning"].append({
+        word_unit = {
             "language": "en",
             "content": unique_en_word
-        })
-    # Add the main word for the task (the same one used in the task content) to the very top of primaryUnitsOfMeaning
-    task["primaryUnitsOfMeaning"] = [
-        {
-            "language": "apc",
-            "content": word
         }
-    ] + task["primaryUnitsOfMeaning"]
+        # Add seeAlso to word unit
+        word_sentences = word_to_sentences.get(("en", unique_en_word), set())
+        word_unit["seeAlso"] = sorted(list(word_sentences))
+        task["unitsOfMeaning"].append(word_unit)
+    # Add the main word for the task (the same one used in the task content) to the very top of primaryUnitsOfMeaning
+    # Create the main word unit with seeAlso
+    main_word_unit = {
+        "language": "apc",
+        "content": word
+    }
+    # Add seeAlso to main word unit - it should reference all sentences where it occurs
+    main_word_sentences = word_to_sentences.get(("apc", word), set())
+    main_word_unit["seeAlso"] = sorted(list(main_word_sentences))
+    task["primaryUnitsOfMeaning"] = [main_word_unit] + task["primaryUnitsOfMeaning"]
     
     # Deduplicate arrays at the end by converting to sets and back to lists
     # Convert to tuples for hashing, then back to dicts
