@@ -22,70 +22,100 @@ def copy_headers_file():
         print("Warning: _headers file not found")
 
 def copy_data_files():
-    """Copy all files from data/ to public/, preserving folder structure and compressing JSON"""
+    """Copy JSON files from data/ to public/ organized by language code"""
     data_dir = Path("data")
     public_dir = Path("public")
     
     if not data_dir.exists():
-        print("Warning: data/ folder not found")
-        return
+        raise FileNotFoundError("data/ folder not found")
     
-    for file_path in data_dir.rglob("*"):
-        if file_path.is_file():
-            # Calculate relative path from data/ to preserve structure
-            rel_path = file_path.relative_to(data_dir)
-            dst_path = public_dir / rel_path
-            
-            # Create parent directories if they don't exist
-            dst_path.parent.mkdir(parents=True, exist_ok=True)
-            
-            # Handle JSON files specially - compress them
-            if file_path.suffix.lower() == '.json':
-                try:
-                    with open(file_path, 'r', encoding='utf-8') as f:
-                        data = json.load(f)
-                    with open(dst_path, 'w', encoding='utf-8') as f:
-                        json.dump(data, f, ensure_ascii=False, separators=(',', ':'))
-                    print(f"Copied and compressed: {rel_path}")
-                except Exception as e:
-                    print(f"Error processing JSON file {file_path}: {e}")
-            else:
-                # Copy non-JSON files as-is
-                shutil.copy2(file_path, dst_path)
-                print(f"Copied: {rel_path}")
-
-def generate_sets_json():
-    """Generate public/sets.json with file paths and names"""
-    public_dir = Path("public")
-    sets_data = {}
+    # Check that data/ contains only JSON files (flat structure)
+    json_files = list(data_dir.glob("*.json"))
+    all_files = list(data_dir.iterdir())
     
-    # Find all JSON files in public/ (excluding sets.json itself)
-    for json_file in public_dir.rglob("*.json"):
-        if json_file.name == "sets.json":
-            continue
-            
-        # Calculate relative path from public/
-        rel_path = json_file.relative_to(public_dir)
-        file_path_str = str(rel_path).replace("\\", "/")  # Ensure forward slashes
-        
+    if len(json_files) != len(all_files):
+        non_json_files = [f for f in all_files if f.suffix.lower() != '.json']
+        raise ValueError(f"data/ folder must contain only JSON files. Found non-JSON files: {non_json_files}")
+    
+    if not json_files:
+        raise ValueError("No JSON files found in data/ folder")
+    
+    language_codes = set()
+    
+    for json_file in json_files:
         try:
             with open(json_file, 'r', encoding='utf-8') as f:
                 data = json.load(f)
             
-            # Get the "name" property from the JSON
-            name = data.get("name", f"Set {file_path_str}")
-            sets_data[file_path_str] = name
+            # Get language code from top-level "language" property
+            language_code = data.get("language")
+            if not language_code:
+                raise ValueError(f"JSON file {json_file.name} missing 'language' property")
+            
+            language_codes.add(language_code)
+            
+            # Create language subfolder
+            lang_dir = public_dir / language_code
+            lang_dir.mkdir(exist_ok=True)
+            
+            # Copy JSON file to language subfolder (compressed)
+            dst_path = lang_dir / json_file.name
+            with open(dst_path, 'w', encoding='utf-8') as f:
+                json.dump(data, f, ensure_ascii=False, separators=(',', ':'))
+            
+            print(f"Copied {json_file.name} to {language_code}/")
             
         except Exception as e:
-            print(f"Error reading JSON file {json_file}: {e}")
-            sets_data[file_path_str] = f"Set {file_path_str}"
+            print(f"Error processing {json_file.name}: {e}")
+            raise
     
-    # Write sets.json
-    sets_json_path = public_dir / "sets.json"
-    with open(sets_json_path, 'w', encoding='utf-8') as f:
-        json.dump(sets_data, f, ensure_ascii=False, separators=(',', ':'))
+    return language_codes
+
+def generate_language_indexes(language_codes):
+    """Generate index files for each language subfolder"""
+    public_dir = Path("public")
     
-    print(f"Generated sets.json with {len(sets_data)} entries")
+    for lang_code in language_codes:
+        lang_dir = public_dir / lang_code
+        if not lang_dir.exists():
+            continue
+        
+        # Find all JSON files in this language folder
+        json_files = list(lang_dir.glob("*.json"))
+        sets_data = {}
+        
+        for json_file in json_files:
+            try:
+                with open(json_file, 'r', encoding='utf-8') as f:
+                    data = json.load(f)
+                
+                # Get the "name" property from the JSON
+                name = data.get("name", f"Set {json_file.stem}")
+                sets_data[json_file.name] = name
+                
+            except Exception as e:
+                print(f"Error reading JSON file {json_file}: {e}")
+                sets_data[json_file.name] = f"Set {json_file.stem}"
+        
+        # Write index file for this language
+        index_path = lang_dir / "index.json"
+        with open(index_path, 'w', encoding='utf-8') as f:
+            json.dump(sets_data, f, ensure_ascii=False, separators=(',', ':'))
+        
+        print(f"Generated index for {lang_code}/ with {len(sets_data)} entries")
+
+def generate_languages_json(language_codes):
+    """Generate root-level languages.json with available language codes"""
+    public_dir = Path("public")
+    languages_path = public_dir / "languages.json"
+    
+    # Convert set to sorted list for consistent output
+    languages_list = sorted(list(language_codes))
+    
+    with open(languages_path, 'w', encoding='utf-8') as f:
+        json.dump(languages_list, f, ensure_ascii=False, separators=(',', ':'))
+    
+    print(f"Generated languages.json with {len(languages_list)} language codes: {languages_list}")
 
 def main():
     """Main conversion process"""
@@ -97,11 +127,18 @@ def main():
     # Step 2: Copy _headers file
     copy_headers_file()
     
-    # Step 3: Copy data/ files with compressed JSON
-    copy_data_files()
+    # Step 3: Copy data/ files organized by language
+    try:
+        language_codes = copy_data_files()
+    except Exception as e:
+        print(f"Error during file processing: {e}")
+        return
     
-    # Step 4: Generate sets.json
-    generate_sets_json()
+    # Step 4: Generate language-specific indexes
+    generate_language_indexes(language_codes)
+    
+    # Step 5: Generate root-level languages.json
+    generate_languages_json(language_codes)
     
     print("Conversion complete!")
 
