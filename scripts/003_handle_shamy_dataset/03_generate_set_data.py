@@ -12,7 +12,7 @@ MAX_WORDS_PER_SENTENCE = 7  # Maximum allowed words in Arabic sentence
 MIN_SENTENCE_OCCURRENCES = 25  # Minimum number of different sentences a word must appear in
 MAX_SENTENCE_OCCURRENCES = 50  # Maximum number of different sentences a word can appear in
 FILE_CREATION_LIMIT = 5  # Set to an integer to limit number of files created, or None for no limit
-OVERWRITE_EXISTING_FILES = False  # Set to False to skip existing files instead of overwriting
+OVERWRITE_EXISTING_FILES = True  # Set to False to skip existing files instead of overwriting
 
 # Load the filtered CSV
 df = pd.read_csv('scripts/003_handle_shamy_dataset/levanti_filtered_3cols.csv')
@@ -106,6 +106,7 @@ for word in target_words:
     
     # Create the JSON structure
     json_data = {
+        "uid": word,
         "language": "apc",
         "tasks": [
             f"Make a sentence with '{word}'."
