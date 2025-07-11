@@ -9,32 +9,32 @@
           {
             "language": "it",
             "content": "In bocca al lupo",
-            "translations": ["en:Good luck"]
+            "translations": [{"language": "en", "content": "Good luck"}]
           },
           {
             "language": "en",
             "content": "Good luck",
-            "translations": ["it:In bocca al lupo"]
+            "translations": [{"language": "it", "content": "In bocca al lupo"}]
           },
           {
             "language": "it",
             "content": "In",
-            "translations": ["en:in"]
+            "translations": [{"language": "en", "content": "in"}]
           },
           {
             "language": "it",
             "content": "bocca",
-            "translations": ["en:mouth"]
+            "translations": [{"language": "en", "content": "mouth"}]
           },
           {
             "language": "it",
             "content": "al",
-            "translations": ["en:to the"]
+            "translations": [{"language": "en", "content": "to the"}]
           },
           {
             "language": "it",
             "content": "lupo",
-            "translations": ["en:wolf"]
+            "translations": [{"language": "en", "content": "wolf"}]
           }
         ]
       },
@@ -45,27 +45,27 @@
           {
             "language": "it",
             "content": "Siamo a cavallo",
-            "translations": ["en:We're on horseback"]
+            "translations": [{"language": "en", "content": "We're on horseback"}]
           },
           {
             "language": "en",
             "content": "We're on horseback",
-            "translations": ["it:Siamo a cavallo"]
+            "translations": [{"language": "it", "content": "Siamo a cavallo"}]
           },
           {
             "language": "it",
             "content": "Siamo",
-            "translations": ["en:We are"]
+            "translations": [{"language": "en", "content": "We are"}]
           },
           {
             "language": "it",
             "content": "a",
-            "translations": ["en:on"]
+            "translations": [{"language": "en", "content": "on"}]
           },
           {
             "language": "it",
             "content": "cavallo",
-            "translations": ["en:horseback"]
+            "translations": [{"language": "en", "content": "horseback"}]
           }
         ]
       },
@@ -76,22 +76,22 @@
           {
             "language": "it",
             "content": "Meno male",
-            "translations": ["en:Thank goodness"]
+            "translations": [{"language": "en", "content": "Thank goodness"}]
           },
           {
             "language": "en",
             "content": "Thank goodness",
-            "translations": ["it:Meno male"]
+            "translations": [{"language": "it", "content": "Meno male"}]
           },
           {
             "language": "it",
             "content": "Meno",
-            "translations": ["en:less"]
+            "translations": [{"language": "en", "content": "less"}]
           },
           {
             "language": "it",
             "content": "male",
-            "translations": ["en:bad"]
+            "translations": [{"language": "en", "content": "bad"}]
           }
         ]
       }

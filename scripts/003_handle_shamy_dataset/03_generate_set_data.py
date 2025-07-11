@@ -71,6 +71,7 @@ for word in target_words:
             "arabic": {
                 "language": "apc",
                 "content": arabic_text,
+                "notes": "",
                 "credits": [{
                     "license": "CC-BY-NC-4.0",
                     "owner": "Guy Mor-Lan",
@@ -78,11 +79,13 @@ for word in target_words:
                     "source": "Levanti Dataset",
                     "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti"
                 }],
-                "translations": [f"en:{english_text}"]
+                "translations": [{"language": "en", "content": english_text}],
+                "card": {"type": "sentence"}
             },
             "english": {
                 "language": "en",
                 "content": english_text,
+                "notes": "",
                 "credits": [{
                     "license": "CC-BY-NC-4.0",
                     "owner": "Guy Mor-Lan",
@@ -90,7 +93,8 @@ for word in target_words:
                     "source": "Levanti Dataset",
                     "sourceLink": "https://huggingface.co/datasets/guymorlan/levanti"
                 }],
-                "translations": [f"apc:{arabic_text}"]
+                "translations": [{"language": "apc", "content": arabic_text}],
+                "card": {"type": "sentence"}
             }
         }
         matching_sentences.append(sentence_pair)
@@ -150,7 +154,7 @@ for word in target_words:
             cleaned_word = re.sub(r'[^\w\u0600-\u06FF\u0750-\u077F\u08A0-\u08FF\uFB50-\uFDFF\uFE70-\uFEFF]', '', ar_word.strip())
             if cleaned_word and len(cleaned_word) > 1:
                 sentence_ar_words.add(cleaned_word)
-                word_to_sentences[("apc", cleaned_word)].add(f"apc:{arabic_text}")
+                word_to_sentences[("apc", cleaned_word)].add((arabic_text, "apc"))
         
         # Extract English words from this sentence
         english_raw_words = english_text.split()
@@ -159,11 +163,11 @@ for word in target_words:
             cleaned_word = re.sub(r'[^\w]', '', en_word.strip().lower())
             if cleaned_word and len(cleaned_word) > 1:
                 sentence_en_words.add(cleaned_word)
-                word_to_sentences[("en", cleaned_word)].add(f"en:{english_text}")
+                word_to_sentences[("en", cleaned_word)].add((english_text, "en"))
         
         # Add word references to sentence
-        sentence_to_words[f"apc:{arabic_text}"] = sentence_ar_words
-        sentence_to_words[f"en:{english_text}"] = sentence_en_words
+        sentence_to_words[(arabic_text, "apc")] = sentence_ar_words
+        sentence_to_words[(english_text, "en")] = sentence_en_words
     
     # Add seeAlso to sentences
     for pair in matching_sentences:
@@ -171,42 +175,46 @@ for word in target_words:
         english_text = pair["english"]["content"]
         
         # Add seeAlso to Arabic sentence
-        ar_words = sentence_to_words.get(f"apc:{arabic_text}", set())
-        pair["arabic"]["seeAlso"] = [f"apc:{word}" for word in sorted(ar_words)]
+        ar_words = sentence_to_words.get((arabic_text, "apc"), set())
+        pair["arabic"]["seeAlso"] = [{"language": "apc", "content": word} for word in sorted(ar_words)]
         
         # Add seeAlso to English sentence
-        en_words = sentence_to_words.get(f"en:{english_text}", set())
-        pair["english"]["seeAlso"] = [f"en:{word}" for word in sorted(en_words)]
+        en_words = sentence_to_words.get((english_text, "en"), set())
+        pair["english"]["seeAlso"] = [{"language": "en", "content": word} for word in sorted(en_words)]
     
     # Add all unique words as unitsOfMeaning (no linguType, credits, or translations), deduplicated by language+content
     for unique_ar_word in sorted(set(arabic_words)):
         word_unit = {
             "language": "apc",
-            "content": unique_ar_word
+            "content": unique_ar_word,
+            "card": {"type": "word"}
         }
         # Add seeAlso to word unit
         word_sentences = word_to_sentences.get(("apc", unique_ar_word), set())
-        word_unit["seeAlso"] = sorted(list(word_sentences))
+        word_unit["seeAlso"] = [{"language": lang, "content": content} for content, lang in sorted(word_sentences)]
         task["unitsOfMeaning"].append(word_unit)
         
     for unique_en_word in sorted(set(english_words)):
         word_unit = {
             "language": "en",
-            "content": unique_en_word
+            "content": unique_en_word,
+            "card": {"type": "word"}
         }
         # Add seeAlso to word unit
         word_sentences = word_to_sentences.get(("en", unique_en_word), set())
-        word_unit["seeAlso"] = sorted(list(word_sentences))
+        word_unit["seeAlso"] = [{"language": lang, "content": content} for content, lang in sorted(word_sentences)]
         task["unitsOfMeaning"].append(word_unit)
+    
     # Add the main word for the task (the same one used in the task content) to the very top of primaryUnitsOfMeaning
     # Create the main word unit with seeAlso
     main_word_unit = {
         "language": "apc",
-        "content": word
+        "content": word,
+        "card": {"type": "word"}
     }
     # Add seeAlso to main word unit - it should reference all sentences where it occurs
     main_word_sentences = word_to_sentences.get(("apc", word), set())
-    main_word_unit["seeAlso"] = sorted(list(main_word_sentences))
+    main_word_unit["seeAlso"] = [{"language": lang, "content": content} for content, lang in sorted(main_word_sentences)]
     task["primaryUnitsOfMeaning"] = [main_word_unit] + task["primaryUnitsOfMeaning"]
     
     # Deduplicate arrays at the end by converting to sets and back to lists
