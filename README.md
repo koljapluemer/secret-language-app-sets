@@ -1,5 +1,7 @@
 # Linguanodon Data
 
+*Obsolete data repo for the linguanodon project. Now lives in [the project itself](https://github.com/koljapluemer/linguanodon), under the `/backend` folder.*
+
 ## Goal
 
 - Provide pure JSON data for the *linguanodon* frontend
