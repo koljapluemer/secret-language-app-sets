@@ -1,7 +1,4 @@
 {
     "title": "HSK1 Vocabulary",
-    "preferredMode": "practice-mode-set-study",
-    "description": "Essential Mandarin Chinese vocabulary from HSK Level 1",
-    "language": "cmn",
-    "version": "1.0.0"
+    "preferredMode": "practice-mode-set-study"
 }

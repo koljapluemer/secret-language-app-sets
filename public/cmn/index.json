@@ -5,27 +5,18 @@
   },
   "hsk1-vocab": {
     "title": "HSK1 Vocabulary",
-    "preferredMode": "practice-mode-set-study",
-    "description": "Essential Mandarin Chinese vocabulary from HSK Level 1",
-    "language": "cmn",
-    "version": "1.0.0"
+    "preferredMode": "practice-mode-set-study"
   },
   "basic-vocab-with-images-and-sound": {
     "preferredMode": "practice-mode-eyes-and-ears",
     "title": "Mandarin Essential Vocabulary with Images and Sound"
   },
   "mandarin-character-deck": {
-    "title": "Mandarin Character Deck",
-    "description": "A comprehensive deck of Mandarin Chinese characters and words with pronunciation and related characters",
-    "language": "cmn",
-    "version": "1.0.0"
+    "title": "Mandarin Character Deck"
   },
   "mulan-vocab": {
     "title": "Mulan Vocabulary",
-    "preferredMode": "practice-mode-set-study",
-    "description": "Vocabulary based on Disney's Mulan dialogue",
-    "language": "cmn",
-    "version": "1.0.0"
+    "preferredMode": "practice-mode-set-study"
   },
   "character-components": {
     "title": "Mandarin Character Components",
