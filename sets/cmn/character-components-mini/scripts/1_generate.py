@@ -166,8 +166,8 @@ def parse_definition(definition):
 
     return translations
 
-def generate_vocab_objects(top_components, unihan_data):
-    """Generate vocab objects for components"""
+def generate_vocab_objects(top_components, unihan_data, all_words):
+    """Generate vocab objects for components and words containing them"""
     vocab_list = []
     translation_list = []
     note_list = []
@@ -257,6 +257,23 @@ def generate_vocab_objects(top_components, unihan_data):
 
         vocab_list.append(vocab_obj)
 
+        # Find top 6 words containing this component (excluding the component itself)
+        words_with_component = [w for w in all_words if component in w and w != component][:6]
+
+        for word in words_with_component:
+            word_id = f"word_{abs(hash(word)) % 1000000:06d}"
+            word_vocab_obj = {
+                'id': word_id,
+                'language': 'cmn',
+                'content': word,
+                'consideredWord': True,
+                'notes': [],
+                'translations': [],
+                'links': [],
+                'contains': [vocab_id]
+            }
+            vocab_list.append(word_vocab_obj)
+
     return vocab_list, translation_list, note_list, link_list
 
 def write_jsonl(data, filepath):
@@ -311,7 +328,7 @@ def main():
     print("\n=== Generating mini set (20 components) ===")
     top_20 = sorted_components[:20]
     vocab_list_20, translation_list_20, note_list_20, link_list_20 = generate_vocab_objects(
-        top_20, unihan_data
+        top_20, unihan_data, words
     )
     print(f"Generated {len(vocab_list_20)} vocab items, {len(translation_list_20)} translations, {len(note_list_20)} notes")
 
