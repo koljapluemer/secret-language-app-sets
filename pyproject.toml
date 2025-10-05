@@ -1,16 +1,16 @@
-[project]
+[tool.poetry]
 name = "secret-language-app-sets"
 version = "0.1.0"
 description = ""
-authors = [
-    {name = "Kolja Sam",email = "github@koljapluemer.com"}
-]
+authors = ["Kolja Sam <github@koljapluemer.com>"]
 readme = "README.md"
-requires-python = ">=3.12"
-dependencies = [
-]
+package-mode = false
+
+[tool.poetry.dependencies]
+python = ">=3.12,<4"
+wordfreq = "^3.1.1"
 
 
 [build-system]
-requires = ["poetry-core>=2.0.0,<3.0.0"]
+requires = ["poetry-core"]
 build-backend = "poetry.core.masonry.api"
