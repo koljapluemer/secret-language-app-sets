@@ -12,6 +12,12 @@ def main():
         shutil.rmtree(public_dir)
     public_dir.mkdir()
 
+    # Copy _headers file to public/
+    headers_file = Path("_headers")
+    if headers_file.exists():
+        shutil.copy2(headers_file, public_dir / "_headers")
+        print("Copied _headers to public/")
+
     # Get all language code folders from sets/
     lang_folders = [f.name for f in sets_dir.iterdir() if f.is_dir()]
 
