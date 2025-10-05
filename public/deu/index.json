@@ -1,3 +1,6 @@
-[
-  "basic-vocab-with-images-and-sound"
-]
+{
+  "basic-vocab-with-images-and-sound": {
+    "preferredMode": "practice-mode-eyes-and-ears",
+    "title": "German Essential Vocabulary with Images and Sound"
+  }
+}
