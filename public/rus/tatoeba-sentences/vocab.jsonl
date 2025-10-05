@@ -1,0 +1,260 @@
+{"id": "1", "language": "rus", "content": "В каком месте?", "consideredSentence": true, "translations": ["1"], "links": ["3", "1"]}
+{"id": "2", "language": "rus", "content": "Отправьте его домой.", "consideredSentence": true, "translations": ["2"], "links": ["5", "1"]}
+{"id": "3", "language": "rus", "content": "Сравните результаты.", "consideredSentence": true, "translations": ["3"], "links": ["7", "1"]}
+{"id": "4", "language": "rus", "content": "Что-то должно произойти.", "consideredSentence": true, "translations": ["4"], "links": ["9", "1"]}
+{"id": "5", "language": "rus", "content": "Можно мне отдохнуть?", "consideredSentence": true, "translations": ["5"], "links": ["11", "1"]}
+{"id": "6", "language": "rus", "content": "Компьютер завис.", "consideredSentence": true, "translations": ["6"], "links": ["13", "1"]}
+{"id": "7", "language": "rus", "content": "Защищай своего брата.", "consideredSentence": true, "translations": ["7"], "links": ["15", "1"]}
+{"id": "8", "language": "rus", "content": "Она здесь!", "consideredSentence": true, "translations": ["8"], "links": ["17", "1"]}
+{"id": "9", "language": "rus", "content": "Он здесь!", "consideredSentence": true, "translations": ["9"], "links": ["19", "1"]}
+{"id": "10", "language": "rus", "content": "Вечерело.", "consideredSentence": true, "translations": ["10"], "links": ["21", "1"]}
+{"id": "11", "language": "rus", "content": "Я человек?", "consideredSentence": true, "translations": ["11"], "links": ["23", "1"]}
+{"id": "12", "language": "rus", "content": "Я дома!", "consideredSentence": true, "translations": ["12"], "links": ["25", "1"]}
+{"id": "13", "language": "rus", "content": "Ад существует?", "consideredSentence": true, "translations": ["13"], "links": ["27", "1"]}
+{"id": "14", "language": "rus", "content": "Чистилище существует?", "consideredSentence": true, "translations": ["14"], "links": ["29", "1"]}
+{"id": "15", "language": "rus", "content": "Я не могу сражаться.", "consideredSentence": true, "translations": ["15"], "links": ["31", "1"]}
+{"id": "16", "language": "rus", "content": "Он ест?", "consideredSentence": true, "translations": ["16"], "links": ["33", "1"]}
+{"id": "17", "language": "rus", "content": "Она ест?", "consideredSentence": true, "translations": ["17"], "links": ["35", "1"]}
+{"id": "18", "language": "rus", "content": "Они едят?", "consideredSentence": true, "translations": ["18"], "links": ["37", "1"]}
+{"id": "19", "language": "rus", "content": "Она огромная.", "consideredSentence": true, "translations": ["19"], "links": ["39", "1"]}
+{"id": "20", "language": "rus", "content": "Бог создал людей.", "consideredSentence": true, "translations": ["20"], "links": ["41", "1"]}
+{"id": "21", "language": "rus", "content": "Люди создали Бога.", "consideredSentence": true, "translations": ["21", "22"], "links": ["44", "42", "46"]}
+{"id": "22", "language": "rus", "content": "Они едят колбасу.", "consideredSentence": true, "translations": ["23"], "links": ["48", "42"]}
+{"id": "23", "language": "rus", "content": "Они тебя видят.", "consideredSentence": true, "translations": ["24"], "links": ["50", "42"]}
+{"id": "24", "language": "rus", "content": "Он получал деньги.", "consideredSentence": true, "translations": ["25"], "links": ["52", "42"]}
+{"id": "25", "language": "rus", "content": "Улыбайся и учись!", "consideredSentence": true, "translations": ["26"], "links": ["54", "42"]}
+{"id": "26", "language": "rus", "content": "Я сам себя наказал.", "consideredSentence": true, "translations": ["27"], "links": ["56", "42"]}
+{"id": "27", "language": "rus", "content": "Составь план.", "consideredSentence": true, "translations": ["28"], "links": ["58", "42"]}
+{"id": "28", "language": "rus", "content": "Она меня убила.", "consideredSentence": true, "translations": ["29"], "links": ["60", "42"]}
+{"id": "29", "language": "rus", "content": "Он меня убил.", "consideredSentence": true, "translations": ["30"], "links": ["62", "42"]}
+{"id": "30", "language": "rus", "content": "Я хочу это!", "consideredSentence": true, "translations": ["31"], "links": ["64", "42"]}
+{"id": "31", "language": "rus", "content": "Я же знаю.", "consideredSentence": true, "translations": ["32", "33"], "links": ["66", "42", "68"]}
+{"id": "32", "language": "rus", "content": "Вы ведь работаете?", "consideredSentence": true, "translations": ["34"], "links": ["70", "42"]}
+{"id": "33", "language": "rus", "content": "Поднимайся сюда!", "consideredSentence": true, "translations": ["35"], "links": ["72", "42"]}
+{"id": "34", "language": "rus", "content": "Я пожелал спокойной ночи.", "consideredSentence": true, "translations": ["36"], "links": ["74", "42"]}
+{"id": "35", "language": "rus", "content": "Пожелайте им спокойной ночи.", "consideredSentence": true, "translations": ["37"], "links": ["76", "42"]}
+{"id": "36", "language": "rus", "content": "Они неграмотные.", "consideredSentence": true, "translations": ["38", "39"], "links": ["78", "42", "80"]}
+{"id": "37", "language": "rus", "content": "О, как красиво!", "consideredSentence": true, "translations": ["40"], "links": ["82", "42"]}
+{"id": "38", "language": "rus", "content": "Алгоритмы изменились.", "consideredSentence": true, "translations": ["41"], "links": ["84", "42"]}
+{"id": "39", "language": "rus", "content": "Бабочка умерла.", "consideredSentence": true, "translations": ["42"], "links": ["86", "42"]}
+{"id": "40", "language": "rus", "content": "Всё дорогое.", "consideredSentence": true, "translations": ["43"], "links": ["88", "42"]}
+{"id": "41", "language": "rus", "content": "Это бы сработало?", "consideredSentence": true, "translations": ["44"], "links": ["90", "42"]}
+{"id": "42", "language": "rus", "content": "Зло уничтожает само себя.", "consideredSentence": true, "translations": ["45"], "links": ["92", "42"]}
+{"id": "43", "language": "rus", "content": "Я его остановил.", "consideredSentence": true, "translations": ["46"], "links": ["94", "42"]}
+{"id": "44", "language": "rus", "content": "Он остался на улице.", "consideredSentence": true, "translations": ["47"], "links": ["96", "42"]}
+{"id": "45", "language": "rus", "content": "Спорт - это смерть.", "consideredSentence": true, "translations": ["48"], "links": ["98", "42"]}
+{"id": "46", "language": "rus", "content": "Ну ты же обещал!", "consideredSentence": true, "translations": ["49"], "links": ["100", "42"]}
+{"id": "47", "language": "rus", "content": "Кто на кого напал?", "consideredSentence": true, "translations": ["50"], "links": ["102", "42"]}
+{"id": "48", "language": "rus", "content": "Он устал.", "consideredSentence": true, "translations": ["51"], "links": ["104", "42"]}
+{"id": "49", "language": "rus", "content": "Том ей ответил.", "consideredSentence": true, "translations": ["52"], "links": ["106", "42"]}
+{"id": "50", "language": "rus", "content": "Они бессердечные.", "consideredSentence": true, "translations": ["53"], "links": ["108", "42"]}
+{"id": "51", "language": "rus", "content": "Он бессердечный!", "consideredSentence": true, "translations": ["54"], "links": ["110", "42"]}
+{"id": "52", "language": "rus", "content": "Всё проще.", "consideredSentence": true, "translations": ["55"], "links": ["112", "42"]}
+{"id": "53", "language": "rus", "content": "Люди боятся смеяться.", "consideredSentence": true, "translations": ["56"], "links": ["114", "42"]}
+{"id": "54", "language": "rus", "content": "Я пил молоко.", "consideredSentence": true, "translations": ["57"], "links": ["116", "42"]}
+{"id": "55", "language": "rus", "content": "Она его отвергла.", "consideredSentence": true, "translations": ["58"], "links": ["118", "42"]}
+{"id": "56", "language": "rus", "content": "Ты в порядке!", "consideredSentence": true, "translations": ["59"], "links": ["120", "42"]}
+{"id": "57", "language": "rus", "content": "Ты молодец!", "consideredSentence": true, "translations": ["60", "61"], "links": ["122", "42", "124"]}
+{"id": "58", "language": "rus", "content": "Мы турки.", "consideredSentence": true, "translations": ["62", "224"], "links": ["126", "42", "450"]}
+{"id": "59", "language": "rus", "content": "Спасибо, хорошо.", "consideredSentence": true, "translations": ["63"], "links": ["128", "42"]}
+{"id": "60", "language": "rus", "content": "Дай взглянуть!", "consideredSentence": true, "translations": ["64"], "links": ["130", "42"]}
+{"id": "61", "language": "rus", "content": "Это вода.", "consideredSentence": true, "translations": ["65"], "links": ["132", "42"]}
+{"id": "62", "language": "rus", "content": "Вода мокрая?", "consideredSentence": true, "translations": ["66"], "links": ["134", "42"]}
+{"id": "63", "language": "rus", "content": "Да, я понял.", "consideredSentence": true, "translations": ["67"], "links": ["136", "42"]}
+{"id": "64", "language": "rus", "content": "Купите масла.", "consideredSentence": true, "translations": ["68"], "links": ["138", "42"]}
+{"id": "65", "language": "rus", "content": "Ему очень нравятся необычные ощущения.", "consideredSentence": true, "translations": ["69"], "links": ["140", "42"]}
+{"id": "66", "language": "rus", "content": "Война — это плохо.", "consideredSentence": true, "translations": ["70"], "links": ["142", "42"]}
+{"id": "67", "language": "rus", "content": "Время лечит?", "consideredSentence": true, "translations": ["71"], "links": ["144", "42"]}
+{"id": "68", "language": "rus", "content": "Ты взрослая.", "consideredSentence": true, "translations": ["72"], "links": ["146", "42"]}
+{"id": "69", "language": "rus", "content": "Я их приготовил.", "consideredSentence": true, "translations": ["73"], "links": ["148", "42"]}
+{"id": "70", "language": "rus", "content": "Они плохо себя ведут.", "consideredSentence": true, "translations": ["74"], "links": ["150", "42"]}
+{"id": "71", "language": "rus", "content": "Он его спрятал.", "consideredSentence": true, "translations": ["75"], "links": ["152", "42"]}
+{"id": "72", "language": "rus", "content": "Вы их потеряли.", "consideredSentence": true, "translations": ["76"], "links": ["154", "42"]}
+{"id": "73", "language": "rus", "content": "Я их понял.", "consideredSentence": true, "translations": ["77"], "links": ["156", "42"]}
+{"id": "74", "language": "rus", "content": "Жизнь бесценна.", "consideredSentence": true, "translations": ["78"], "links": ["158", "42"]}
+{"id": "75", "language": "rus", "content": "Нет войне.", "consideredSentence": true, "translations": ["79"], "links": ["160", "42"]}
+{"id": "76", "language": "rus", "content": "Вы были пунктуальны.", "consideredSentence": true, "translations": ["80"], "links": ["162", "42"]}
+{"id": "77", "language": "rus", "content": "Покормите птиц!", "consideredSentence": true, "translations": ["81"], "links": ["164", "42"]}
+{"id": "78", "language": "rus", "content": "Лучше некуда!", "consideredSentence": true, "translations": ["82"], "links": ["166", "42"]}
+{"id": "79", "language": "rus", "content": "Нажми на газ.", "consideredSentence": true, "translations": ["83"], "links": ["168", "42"]}
+{"id": "80", "language": "rus", "content": "Нажми на тормоз.", "consideredSentence": true, "translations": ["84"], "links": ["170", "42"]}
+{"id": "81", "language": "rus", "content": "Нажми на сцепление.", "consideredSentence": true, "translations": ["85"], "links": ["172", "42"]}
+{"id": "82", "language": "rus", "content": "Я голодный.", "consideredSentence": true, "translations": ["86"], "links": ["174", "42"]}
+{"id": "83", "language": "rus", "content": "Он идёт шатаясь.", "consideredSentence": true, "translations": ["87"], "links": ["176", "42"]}
+{"id": "84", "language": "rus", "content": "Возьмите зонтик.", "consideredSentence": true, "translations": ["88"], "links": ["178", "42"]}
+{"id": "85", "language": "rus", "content": "Легенды никогда не умирают.", "consideredSentence": true, "translations": ["89"], "links": ["180", "42"]}
+{"id": "86", "language": "rus", "content": "Они сдают оружие.", "consideredSentence": true, "translations": ["90"], "links": ["182", "42"]}
+{"id": "87", "language": "rus", "content": "Я переводила.", "consideredSentence": true, "translations": ["91"], "links": ["184", "42"]}
+{"id": "88", "language": "rus", "content": "Им стыдно.", "consideredSentence": true, "translations": ["92"], "links": ["186", "42"]}
+{"id": "89", "language": "rus", "content": "Прочтите его внимательно.", "consideredSentence": true, "translations": ["93"], "links": ["188", "42"]}
+{"id": "90", "language": "rus", "content": "Осмелься мыслить.", "consideredSentence": true, "translations": ["94"], "links": ["190", "42"]}
+{"id": "91", "language": "rus", "content": "Сделай так, чтобы она поняла.", "consideredSentence": true, "translations": ["95"], "links": ["192", "42"]}
+{"id": "92", "language": "rus", "content": "Это спам.", "consideredSentence": true, "translations": ["96", "97"], "links": ["194", "42", "196"]}
+{"id": "93", "language": "rus", "content": "Он встал?", "consideredSentence": true, "translations": ["98"], "links": ["198", "42"]}
+{"id": "94", "language": "rus", "content": "Ты медленно ешь.", "consideredSentence": true, "translations": ["99"], "links": ["200", "42"]}
+{"id": "95", "language": "rus", "content": "Мы беременны.", "consideredSentence": true, "translations": ["100"], "links": ["202", "42"]}
+{"id": "96", "language": "rus", "content": "Репутация - это деньги.", "consideredSentence": true, "translations": ["101"], "links": ["204", "42"]}
+{"id": "97", "language": "rus", "content": "Они фермеры.", "consideredSentence": true, "translations": ["102"], "links": ["206", "42"]}
+{"id": "98", "language": "rus", "content": "В машину, Симона!", "consideredSentence": true, "translations": ["103", "104"], "links": ["208", "42", "210"]}
+{"id": "99", "language": "rus", "content": "Измени пароль.", "consideredSentence": true, "translations": ["105"], "links": ["212", "42"]}
+{"id": "100", "language": "rus", "content": "Добро пожаловать на борт!", "consideredSentence": true, "translations": ["106"], "links": ["214", "42"]}
+{"id": "101", "language": "rus", "content": "Прекратите её оскорблять!", "consideredSentence": true, "translations": ["107"], "links": ["216", "42"]}
+{"id": "102", "language": "rus", "content": "Они их убили.", "consideredSentence": true, "translations": ["108"], "links": ["218", "42"]}
+{"id": "103", "language": "rus", "content": "Пожалуйста, сядьте!", "consideredSentence": true, "translations": ["109"], "links": ["220", "42"]}
+{"id": "104", "language": "rus", "content": "Соглашайтесь!", "consideredSentence": true, "translations": ["110"], "links": ["222", "42"]}
+{"id": "105", "language": "rus", "content": "Я оджибве.", "consideredSentence": true, "translations": ["111"], "links": ["224", "42"]}
+{"id": "106", "language": "rus", "content": "Я говорю на оджибве.", "consideredSentence": true, "translations": ["112"], "links": ["226", "42"]}
+{"id": "107", "language": "rus", "content": "Кофе чёрный.", "consideredSentence": true, "translations": ["113"], "links": ["228", "42"]}
+{"id": "108", "language": "rus", "content": "Вино красное.", "consideredSentence": true, "translations": ["114"], "links": ["230", "42"]}
+{"id": "109", "language": "rus", "content": "Смотри! Буйвол.", "consideredSentence": true, "translations": ["115"], "links": ["232", "42"]}
+{"id": "110", "language": "rus", "content": "Мы воры.", "consideredSentence": true, "translations": ["116"], "links": ["234", "42"]}
+{"id": "111", "language": "rus", "content": "Вчера было тепло.", "consideredSentence": true, "translations": ["117"], "links": ["236", "42"]}
+{"id": "112", "language": "rus", "content": "Так что, давай?", "consideredSentence": true, "translations": ["118"], "links": ["238", "42"]}
+{"id": "113", "language": "rus", "content": "Мы остались друзьями.", "consideredSentence": true, "translations": ["119"], "links": ["240", "42"]}
+{"id": "114", "language": "rus", "content": "Это серьёзно.", "consideredSentence": true, "translations": ["120"], "links": ["242", "42"]}
+{"id": "115", "language": "rus", "content": "Рыба плывёт.", "consideredSentence": true, "translations": ["121"], "links": ["244", "42"]}
+{"id": "116", "language": "rus", "content": "Сердце бьётся.", "consideredSentence": true, "translations": ["122"], "links": ["246", "42"]}
+{"id": "117", "language": "rus", "content": "Это началось.", "consideredSentence": true, "translations": ["123", "124"], "links": ["248", "42", "250"]}
+{"id": "118", "language": "rus", "content": "Кринж — это свобода.", "consideredSentence": true, "translations": ["125"], "links": ["252", "42"]}
+{"id": "119", "language": "rus", "content": "Телеграм - это что?", "consideredSentence": true, "translations": ["126"], "links": ["254", "42"]}
+{"id": "120", "language": "rus", "content": "Она ведёт себя агрессивно.", "consideredSentence": true, "translations": ["127"], "links": ["256", "42"]}
+{"id": "121", "language": "rus", "content": "Кто мяукает?", "consideredSentence": true, "translations": ["128"], "links": ["258", "42"]}
+{"id": "122", "language": "rus", "content": "Она была красивая?", "consideredSentence": true, "translations": ["129"], "links": ["260", "42"]}
+{"id": "123", "language": "rus", "content": "Да плевать.", "consideredSentence": true, "translations": ["130"], "links": ["262", "42"]}
+{"id": "124", "language": "rus", "content": "Мы поели мяса.", "consideredSentence": true, "translations": ["131"], "links": ["264", "42"]}
+{"id": "125", "language": "rus", "content": "Моё отношение изменилось.", "consideredSentence": true, "translations": ["132"], "links": ["266", "42"]}
+{"id": "126", "language": "rus", "content": "Наша мама умерла.", "consideredSentence": true, "translations": ["133", "134", "135"], "links": ["268", "42", "270", "272"]}
+{"id": "127", "language": "rus", "content": "Прошло сорок минут.", "consideredSentence": true, "translations": ["136"], "links": ["274", "42"]}
+{"id": "128", "language": "rus", "content": "Поешьте спагетти.", "consideredSentence": true, "translations": ["137"], "links": ["276", "42"]}
+{"id": "129", "language": "rus", "content": "Он умер мгновенно.", "consideredSentence": true, "translations": ["138"], "links": ["278", "42"]}
+{"id": "130", "language": "rus", "content": "Они умерли мгновенно.", "consideredSentence": true, "translations": ["139"], "links": ["280", "42"]}
+{"id": "131", "language": "rus", "content": "Его никто не знает.", "consideredSentence": true, "translations": ["140"], "links": ["282", "42"]}
+{"id": "132", "language": "rus", "content": "Спасибо за игру!", "consideredSentence": true, "translations": ["141"], "links": ["284", "42"]}
+{"id": "133", "language": "rus", "content": "Купи банан.", "consideredSentence": true, "translations": ["142"], "links": ["286", "42"]}
+{"id": "134", "language": "rus", "content": "Мне это противно.", "consideredSentence": true, "translations": ["143"], "links": ["288", "42"]}
+{"id": "135", "language": "rus", "content": "Ей нравится шоколад.", "consideredSentence": true, "translations": ["144"], "links": ["290", "42"]}
+{"id": "136", "language": "rus", "content": "Есть ручка?", "consideredSentence": true, "translations": ["145"], "links": ["292", "42"]}
+{"id": "137", "language": "rus", "content": "Она приготовила обед.", "consideredSentence": true, "translations": ["146"], "links": ["294", "42"]}
+{"id": "138", "language": "rus", "content": "Проснитесь, братья!", "consideredSentence": true, "translations": ["147"], "links": ["296", "42"]}
+{"id": "139", "language": "rus", "content": "Тигры любят воду.", "consideredSentence": true, "translations": ["148"], "links": ["298", "42"]}
+{"id": "140", "language": "rus", "content": "Я следую за Калессом.", "consideredSentence": true, "translations": ["149"], "links": ["300", "42"]}
+{"id": "141", "language": "rus", "content": "Дуракам везёт.", "consideredSentence": true, "translations": ["150"], "links": ["302", "42"]}
+{"id": "142", "language": "rus", "content": "Они жестикулировали.", "consideredSentence": true, "translations": ["151"], "links": ["304", "42"]}
+{"id": "143", "language": "rus", "content": "Я люблю декабрь.", "consideredSentence": true, "translations": ["152", "153"], "links": ["306", "42", "308"]}
+{"id": "144", "language": "rus", "content": "Засмеялся – проиграл.", "consideredSentence": true, "translations": ["154"], "links": ["310", "42"]}
+{"id": "145", "language": "rus", "content": "Мэри хочет есть.", "consideredSentence": true, "translations": ["155"], "links": ["312", "42"]}
+{"id": "146", "language": "rus", "content": "Удали свой аккаунт.", "consideredSentence": true, "translations": ["156"], "links": ["314", "42"]}
+{"id": "147", "language": "rus", "content": "Том рассвирепел.", "consideredSentence": true, "translations": ["157"], "links": ["316", "42"]}
+{"id": "148", "language": "rus", "content": "Она высокая.", "consideredSentence": true, "translations": ["158"], "links": ["318", "42"]}
+{"id": "149", "language": "rus", "content": "Он высокий.", "consideredSentence": true, "translations": ["159"], "links": ["320", "42"]}
+{"id": "150", "language": "rus", "content": "Мы умные.", "consideredSentence": true, "translations": ["160", "161"], "links": ["322", "42", "324"]}
+{"id": "151", "language": "rus", "content": "Продолжай мечтать.", "consideredSentence": true, "translations": ["162"], "links": ["326", "42"]}
+{"id": "152", "language": "rus", "content": "С чего начать?", "consideredSentence": true, "translations": ["163"], "links": ["328", "42"]}
+{"id": "153", "language": "rus", "content": "Розы белые.", "consideredSentence": true, "translations": ["164"], "links": ["330", "42"]}
+{"id": "154", "language": "rus", "content": "Политики забывчивы.", "consideredSentence": true, "translations": ["165"], "links": ["332", "42"]}
+{"id": "155", "language": "rus", "content": "Она выглядела довольной.", "consideredSentence": true, "translations": ["166"], "links": ["334", "42"]}
+{"id": "156", "language": "rus", "content": "Ты всех ненавидишь.", "consideredSentence": true, "translations": ["167"], "links": ["336", "42"]}
+{"id": "157", "language": "rus", "content": "Стемнело.", "consideredSentence": true, "translations": ["168"], "links": ["338", "42"]}
+{"id": "158", "language": "rus", "content": "Всё ничего.", "consideredSentence": true, "translations": ["169"], "links": ["340", "42"]}
+{"id": "159", "language": "rus", "content": "Любовь двигает горы.", "consideredSentence": true, "translations": ["170"], "links": ["342", "42"]}
+{"id": "160", "language": "rus", "content": "У меня телефон сломался.", "consideredSentence": true, "translations": ["171"], "links": ["344", "42"]}
+{"id": "161", "language": "rus", "content": "Мэри похудела.", "consideredSentence": true, "translations": ["172"], "links": ["346", "42"]}
+{"id": "162", "language": "rus", "content": "Это сленг?", "consideredSentence": true, "translations": ["173"], "links": ["348", "42"]}
+{"id": "163", "language": "rus", "content": "У меня очки разбились.", "consideredSentence": true, "translations": ["174"], "links": ["350", "42"]}
+{"id": "164", "language": "rus", "content": "Цена снизилась.", "consideredSentence": true, "translations": ["175"], "links": ["352", "42"]}
+{"id": "165", "language": "rus", "content": "Зови меня Джек.", "consideredSentence": true, "translations": ["176"], "links": ["354", "42"]}
+{"id": "166", "language": "rus", "content": "Сделай это сейчас!", "consideredSentence": true, "translations": ["177"], "links": ["356", "42"]}
+{"id": "167", "language": "rus", "content": "Том - европеец.", "consideredSentence": true, "translations": ["178"], "links": ["358", "42"]}
+{"id": "168", "language": "rus", "content": "Я принимаю душ каждый день.", "consideredSentence": true, "translations": ["179"], "links": ["360", "42"]}
+{"id": "169", "language": "rus", "content": "Время лечит раны.", "consideredSentence": true, "translations": ["180"], "links": ["362", "42"]}
+{"id": "170", "language": "rus", "content": "Что за жидкость?", "consideredSentence": true, "translations": ["181"], "links": ["364", "42"]}
+{"id": "171", "language": "rus", "content": "Они белые.", "consideredSentence": true, "translations": ["182"], "links": ["366", "42"]}
+{"id": "172", "language": "rus", "content": "Ты американец.", "consideredSentence": true, "translations": ["183"], "links": ["368", "42"]}
+{"id": "173", "language": "rus", "content": "У неё всё есть.", "consideredSentence": true, "translations": ["184"], "links": ["370", "42"]}
+{"id": "174", "language": "rus", "content": "Родители работают.", "consideredSentence": true, "translations": ["185"], "links": ["372", "42"]}
+{"id": "175", "language": "rus", "content": "У неё есть дети.", "consideredSentence": true, "translations": ["186"], "links": ["374", "42"]}
+{"id": "176", "language": "rus", "content": "Я их съел.", "consideredSentence": true, "translations": ["187"], "links": ["376", "42"]}
+{"id": "177", "language": "rus", "content": "Цунами обрушилось на Японию.", "consideredSentence": true, "translations": ["188"], "links": ["378", "42"]}
+{"id": "178", "language": "rus", "content": "Пусть он поможет.", "consideredSentence": true, "translations": ["189"], "links": ["380", "42"]}
+{"id": "179", "language": "rus", "content": "Мы едим суп.", "consideredSentence": true, "translations": ["190"], "links": ["382", "42"]}
+{"id": "180", "language": "rus", "content": "Саламандры - это амфибии.", "consideredSentence": true, "translations": ["191"], "links": ["384", "42"]}
+{"id": "181", "language": "rus", "content": "Он обожает рисовать.", "consideredSentence": true, "translations": ["192", "193"], "links": ["386", "42", "388"]}
+{"id": "182", "language": "rus", "content": "Художник рисует картину.", "consideredSentence": true, "translations": ["194", "195", "196", "197"], "links": ["390", "42", "392", "394", "396"]}
+{"id": "183", "language": "rus", "content": "Привет, занят?", "consideredSentence": true, "translations": ["198"], "links": ["398", "42"]}
+{"id": "184", "language": "rus", "content": "Накрась губы.", "consideredSentence": true, "translations": ["199"], "links": ["400", "42"]}
+{"id": "185", "language": "rus", "content": "Математика - это скучно.", "consideredSentence": true, "translations": ["200", "206"], "links": ["402", "42", "414"]}
+{"id": "186", "language": "rus", "content": "Овощи - это полезно.", "consideredSentence": true, "translations": ["201"], "links": ["404", "42"]}
+{"id": "187", "language": "rus", "content": "Редис красный.", "consideredSentence": true, "translations": ["202"], "links": ["406", "42"]}
+{"id": "188", "language": "rus", "content": "Пожалуйста, доверься мне!", "consideredSentence": true, "translations": ["203"], "links": ["408", "42"]}
+{"id": "189", "language": "rus", "content": "Она её ненавидела.", "consideredSentence": true, "translations": ["204"], "links": ["410", "42"]}
+{"id": "190", "language": "rus", "content": "У нас есть лошади.", "consideredSentence": true, "translations": ["205"], "links": ["412", "42"]}
+{"id": "191", "language": "rus", "content": "Моё зрение улучшилось.", "consideredSentence": true, "translations": ["207"], "links": ["416", "42"]}
+{"id": "192", "language": "rus", "content": "Моё зрение ухудшилось.", "consideredSentence": true, "translations": ["208"], "links": ["418", "42"]}
+{"id": "193", "language": "rus", "content": "Всё или ничего!", "consideredSentence": true, "translations": ["209"], "links": ["420", "42"]}
+{"id": "194", "language": "rus", "content": "Том избегает людей.", "consideredSentence": true, "translations": ["210"], "links": ["422", "42"]}
+{"id": "195", "language": "rus", "content": "Мэри уволили.", "consideredSentence": true, "translations": ["211", "212"], "links": ["424", "42", "426"]}
+{"id": "196", "language": "rus", "content": "Полей цветы.", "consideredSentence": true, "translations": ["213"], "links": ["428", "42"]}
+{"id": "197", "language": "rus", "content": "Ничего и никогда не бывает.", "consideredSentence": true, "translations": ["214"], "links": ["430", "42"]}
+{"id": "198", "language": "rus", "content": "Платон рисовал.", "consideredSentence": true, "translations": ["215"], "links": ["432", "42"]}
+{"id": "199", "language": "rus", "content": "Он сократил налоги.", "consideredSentence": true, "translations": ["216"], "links": ["434", "42"]}
+{"id": "200", "language": "rus", "content": "Это круто?", "consideredSentence": true, "translations": ["217"], "links": ["436", "42"]}
+{"id": "201", "language": "rus", "content": "Кто-нибудь будет играть?", "consideredSentence": true, "translations": ["218"], "links": ["438", "42"]}
+{"id": "202", "language": "rus", "content": "Изменения шли полным ходом.", "consideredSentence": true, "translations": ["219"], "links": ["440", "42"]}
+{"id": "203", "language": "rus", "content": "Она любит петь.", "consideredSentence": true, "translations": ["220"], "links": ["442", "42"]}
+{"id": "204", "language": "rus", "content": "Она здесь жила.", "consideredSentence": true, "translations": ["221"], "links": ["444", "42"]}
+{"id": "205", "language": "rus", "content": "Он здесь жил.", "consideredSentence": true, "translations": ["222"], "links": ["446", "42"]}
+{"id": "206", "language": "rus", "content": "Вам надо выбрать.", "consideredSentence": true, "translations": ["223"], "links": ["448", "42"]}
+{"id": "207", "language": "rus", "content": "Тому не везёт.", "consideredSentence": true, "translations": ["225"], "links": ["452", "42"]}
+{"id": "208", "language": "rus", "content": "Ладно, забудь.", "consideredSentence": true, "translations": ["226"], "links": ["454", "42"]}
+{"id": "209", "language": "rus", "content": "Мы едим масло.", "consideredSentence": true, "translations": ["227"], "links": ["456", "42"]}
+{"id": "210", "language": "rus", "content": "Мэри раздевалась.", "consideredSentence": true, "translations": ["228"], "links": ["458", "42"]}
+{"id": "211", "language": "rus", "content": "Я начал запись.", "consideredSentence": true, "translations": ["229"], "links": ["460", "42"]}
+{"id": "212", "language": "rus", "content": "Мы одеты.", "consideredSentence": true, "translations": ["230"], "links": ["462", "42"]}
+{"id": "213", "language": "rus", "content": "Доверию нужно время.", "consideredSentence": true, "translations": ["231"], "links": ["464", "42"]}
+{"id": "214", "language": "rus", "content": "Он уладит проблему.", "consideredSentence": true, "translations": ["232"], "links": ["466", "42"]}
+{"id": "215", "language": "rus", "content": "Мы играли в бадминтон.", "consideredSentence": true, "translations": ["233"], "links": ["468", "42"]}
+{"id": "216", "language": "rus", "content": "Уважай моё личное пространство.", "consideredSentence": true, "translations": ["234"], "links": ["470", "42"]}
+{"id": "217", "language": "rus", "content": "Это официально?", "consideredSentence": true, "translations": ["235"], "links": ["472", "42"]}
+{"id": "218", "language": "rus", "content": "Она знает английский.", "consideredSentence": true, "translations": ["236"], "links": ["474", "42"]}
+{"id": "219", "language": "rus", "content": "Они всё съели.", "consideredSentence": true, "translations": ["237"], "links": ["476", "42"]}
+{"id": "220", "language": "rus", "content": "Один кофе, пожалуйста.", "consideredSentence": true, "translations": ["238"], "links": ["478", "42"]}
+{"id": "221", "language": "rus", "content": "Ты молишься?", "consideredSentence": true, "translations": ["239"], "links": ["480", "42"]}
+{"id": "222", "language": "rus", "content": "Вы молились?", "consideredSentence": true, "translations": ["240"], "links": ["482", "42"]}
+{"id": "223", "language": "rus", "content": "Она ненавидела ходить пешком.", "consideredSentence": true, "translations": ["241"], "links": ["484", "42"]}
+{"id": "224", "language": "rus", "content": "Больно! Перестань!", "consideredSentence": true, "translations": ["242"], "links": ["486", "42"]}
+{"id": "225", "language": "rus", "content": "Путин убил Навального.", "consideredSentence": true, "translations": ["243"], "links": ["488", "42"]}
+{"id": "226", "language": "rus", "content": "Ты канадец.", "consideredSentence": true, "translations": ["244"], "links": ["490", "42"]}
+{"id": "227", "language": "rus", "content": "Я Мэри.", "consideredSentence": true, "translations": ["245"], "links": ["492", "42"]}
+{"id": "228", "language": "rus", "content": "Немедленно свяжитесь со мной.", "consideredSentence": true, "translations": ["246"], "links": ["494", "42"]}
+{"id": "229", "language": "rus", "content": "Пожалуйста, представьтесь.", "consideredSentence": true, "translations": ["247"], "links": ["496", "42"]}
+{"id": "230", "language": "rus", "content": "Представьтесь, пожалуйста.", "consideredSentence": true, "translations": ["248"], "links": ["498", "42"]}
+{"id": "231", "language": "rus", "content": "Ты изучаешь музыку.", "consideredSentence": true, "translations": ["249"], "links": ["500", "42"]}
+{"id": "232", "language": "rus", "content": "Я знаю кто.", "consideredSentence": true, "translations": ["250"], "links": ["502", "42"]}
+{"id": "233", "language": "rus", "content": "Лают ли волки?", "consideredSentence": true, "translations": ["251"], "links": ["504", "42"]}
+{"id": "234", "language": "rus", "content": "Я знаю где.", "consideredSentence": true, "translations": ["252"], "links": ["506", "42"]}
+{"id": "235", "language": "rus", "content": "Мы писали письма.", "consideredSentence": true, "translations": ["253"], "links": ["508", "42"]}
+{"id": "236", "language": "rus", "content": "Это были цитаты.", "consideredSentence": true, "translations": ["254"], "links": ["510", "42"]}
+{"id": "237", "language": "rus", "content": "Кто ест?", "consideredSentence": true, "translations": ["255"], "links": ["512", "42"]}
+{"id": "238", "language": "rus", "content": "Это пластик?", "consideredSentence": true, "translations": ["256"], "links": ["514", "42"]}
+{"id": "239", "language": "rus", "content": "За погляд денег не берут.", "consideredSentence": true, "translations": ["257"], "links": ["516", "42"]}
+{"id": "240", "language": "rus", "content": "Это ноль.", "consideredSentence": true, "translations": ["258", "259"], "links": ["518", "42", "520"]}
+{"id": "241", "language": "rus", "content": "Счёт, пожалуйста!", "consideredSentence": true, "translations": ["260", "261"], "links": ["522", "42", "524"]}
+{"id": "242", "language": "rus", "content": "Ешьте больше яблок.", "consideredSentence": true, "translations": ["262"], "links": ["526", "42"]}
+{"id": "243", "language": "rus", "content": "Купите хлеба.", "consideredSentence": true, "translations": ["263"], "links": ["528", "42"]}
+{"id": "244", "language": "rus", "content": "Милота!", "consideredSentence": true, "translations": ["264"], "links": ["530", "42"]}
+{"id": "245", "language": "rus", "content": "Просто скажи что-нибудь!", "consideredSentence": true, "translations": ["265"], "links": ["532", "42"]}
+{"id": "246", "language": "rus", "content": "Повторно не использовать!", "consideredSentence": true, "translations": ["266"], "links": ["534", "42"]}
+{"id": "247", "language": "rus", "content": "Пожалуйста!", "consideredSentence": true, "translations": ["267"], "links": ["536", "42"]}
+{"id": "248", "language": "rus", "content": "Дай им войти.", "consideredSentence": true, "translations": ["268"], "links": ["538", "42"]}
+{"id": "249", "language": "rus", "content": "Пусть войдёт.", "consideredSentence": true, "translations": ["269"], "links": ["540", "42"]}
+{"id": "250", "language": "rus", "content": "Он киприот.", "consideredSentence": true, "translations": ["270"], "links": ["542", "42"]}
+{"id": "251", "language": "rus", "content": "Ёб твою мать!", "consideredSentence": true, "translations": ["271"], "links": ["544", "42"]}
+{"id": "252", "language": "rus", "content": "Я колумбийка.", "consideredSentence": true, "translations": ["272"], "links": ["546", "42"]}
+{"id": "253", "language": "rus", "content": "Завтра четверг?", "consideredSentence": true, "translations": ["273"], "links": ["548", "42"]}
+{"id": "254", "language": "rus", "content": "Кто выйдет?", "consideredSentence": true, "translations": ["274"], "links": ["550", "42"]}
+{"id": "255", "language": "rus", "content": "Он католик.", "consideredSentence": true, "translations": ["275"], "links": ["552", "42"]}
+{"id": "256", "language": "rus", "content": "А как же любовь?", "consideredSentence": true, "translations": ["276"], "links": ["554", "42"]}
+{"id": "257", "language": "rus", "content": "Они наёмники?", "consideredSentence": true, "translations": ["277"], "links": ["556", "42"]}
+{"id": "258", "language": "rus", "content": "Спасибо!", "consideredSentence": true, "translations": ["278"], "links": ["558", "42"]}
+{"id": "259", "language": "rus", "content": "Я должен идти?", "consideredSentence": true, "translations": ["279"], "links": ["560", "42"]}
+{"id": "260", "language": "rus", "content": "Курицу будешь?", "consideredSentence": true, "translations": ["280"], "links": ["562", "42"]}

@@ -1,0 +1,143 @@
+{"id": "1", "language": "cmn", "content": "我", "consideredWord": true, "translations": ["1", "2"], "notes": ["1"]}
+{"id": "2", "language": "cmn", "content": "我们", "consideredWord": true, "translations": ["3", "4"], "notes": ["2", "3"]}
+{"id": "3", "language": "cmn", "content": "你", "consideredWord": true, "translations": ["5"], "notes": ["4"]}
+{"id": "4", "language": "cmn", "content": "他", "consideredWord": true, "translations": ["6", "7"], "notes": ["5"]}
+{"id": "5", "language": "cmn", "content": "她", "consideredWord": true, "translations": ["8", "9"], "notes": ["5"]}
+{"id": "6", "language": "cmn", "content": "这 (这儿)", "consideredWord": true, "translations": ["10"], "notes": ["6", "7"]}
+{"id": "7", "language": "cmn", "content": "那 (那儿)", "consideredWord": true, "translations": ["11"], "notes": ["8", "9"]}
+{"id": "8", "language": "cmn", "content": "哪", "consideredWord": true, "translations": ["12"], "notes": ["10"]}
+{"id": "9", "language": "cmn", "content": "哪儿", "consideredWord": true, "translations": ["13"], "notes": ["11"]}
+{"id": "10", "language": "cmn", "content": "谁", "consideredWord": true, "translations": ["14"], "notes": ["12"]}
+{"id": "11", "language": "cmn", "content": "什么", "consideredWord": true, "translations": ["15", "16"], "notes": ["13"]}
+{"id": "12", "language": "cmn", "content": "多少", "consideredWord": true, "translations": ["17", "18"], "notes": ["14"]}
+{"id": "13", "language": "cmn", "content": "几", "consideredWord": true, "translations": ["19", "17"], "notes": ["15"]}
+{"id": "14", "language": "cmn", "content": "怎么", "consideredWord": true, "translations": ["20"], "notes": ["16"]}
+{"id": "15", "language": "cmn", "content": "怎么样", "consideredWord": true, "translations": ["21"], "notes": ["17"]}
+{"id": "16", "language": "cmn", "content": "一", "consideredWord": true, "translations": ["22"], "notes": ["18"]}
+{"id": "17", "language": "cmn", "content": "二", "consideredWord": true, "translations": ["23"], "notes": ["19"]}
+{"id": "18", "language": "cmn", "content": "三", "consideredWord": true, "translations": ["24"], "notes": ["20"]}
+{"id": "19", "language": "cmn", "content": "四", "consideredWord": true, "translations": ["25"], "notes": ["21"]}
+{"id": "20", "language": "cmn", "content": "五", "consideredWord": true, "translations": ["26"], "notes": ["22"]}
+{"id": "21", "language": "cmn", "content": "六", "consideredWord": true, "translations": ["27"], "notes": ["23"]}
+{"id": "22", "language": "cmn", "content": "七", "consideredWord": true, "translations": ["28"], "notes": ["24"]}
+{"id": "23", "language": "cmn", "content": "八", "consideredWord": true, "translations": ["29"], "notes": ["25"]}
+{"id": "24", "language": "cmn", "content": "九", "consideredWord": true, "translations": ["30"], "notes": ["26"]}
+{"id": "25", "language": "cmn", "content": "十", "consideredWord": true, "translations": ["31"], "notes": ["27"]}
+{"id": "26", "language": "cmn", "content": "些", "consideredWord": true, "translations": ["32"], "notes": ["28"]}
+{"id": "27", "language": "cmn", "content": "块", "consideredWord": true, "translations": ["33", "34"], "notes": ["29"]}
+{"id": "28", "language": "cmn", "content": "不", "consideredWord": true, "translations": ["35"], "notes": ["30"]}
+{"id": "29", "language": "cmn", "content": "没", "consideredWord": true, "translations": ["35"], "notes": ["31"]}
+{"id": "30", "language": "cmn", "content": "很", "consideredWord": true, "translations": ["36", "37"], "notes": ["32"]}
+{"id": "31", "language": "cmn", "content": "太", "consideredWord": true, "translations": ["38"], "notes": ["33"]}
+{"id": "32", "language": "cmn", "content": "都", "consideredWord": true, "translations": ["39"], "notes": ["34"]}
+{"id": "33", "language": "cmn", "content": "一点儿", "consideredWord": true, "translations": ["40"], "notes": ["35"]}
+{"id": "34", "language": "cmn", "content": "和", "consideredWord": true, "translations": ["41"], "notes": ["36"]}
+{"id": "35", "language": "cmn", "content": "在", "consideredWord": true, "translations": ["42", "43"], "notes": ["37"]}
+{"id": "36", "language": "cmn", "content": "喂", "consideredWord": true, "translations": ["44"], "notes": ["38"]}
+{"id": "37", "language": "cmn", "content": "家", "consideredWord": true, "translations": ["45"], "notes": ["39"]}
+{"id": "38", "language": "cmn", "content": "学校", "consideredWord": true, "translations": ["46"], "notes": ["40"]}
+{"id": "39", "language": "cmn", "content": "饭店", "consideredWord": true, "translations": ["47"], "notes": ["41"]}
+{"id": "40", "language": "cmn", "content": "商店", "consideredWord": true, "translations": ["48"], "notes": ["42"]}
+{"id": "41", "language": "cmn", "content": "医院", "consideredWord": true, "translations": ["49"], "notes": ["43"]}
+{"id": "42", "language": "cmn", "content": "中国", "consideredWord": true, "translations": ["50"], "notes": ["44"]}
+{"id": "43", "language": "cmn", "content": "北京", "consideredWord": true, "translations": ["51"], "notes": ["45"]}
+{"id": "44", "language": "cmn", "content": "上", "consideredWord": true, "translations": ["52"], "notes": ["46"]}
+{"id": "45", "language": "cmn", "content": "下", "consideredWord": true, "translations": ["53"], "notes": ["47"]}
+{"id": "46", "language": "cmn", "content": "前面", "consideredWord": true, "translations": ["54"], "notes": ["48"]}
+{"id": "47", "language": "cmn", "content": "后面", "consideredWord": true, "translations": ["55"], "notes": ["49"]}
+{"id": "48", "language": "cmn", "content": "里面", "consideredWord": true, "translations": ["56"], "notes": ["50"]}
+{"id": "49", "language": "cmn", "content": "今天", "consideredWord": true, "translations": ["57"], "notes": ["51"]}
+{"id": "50", "language": "cmn", "content": "明天", "consideredWord": true, "translations": ["58"], "notes": ["52"]}
+{"id": "51", "language": "cmn", "content": "昨天", "consideredWord": true, "translations": ["59"], "notes": ["53"]}
+{"id": "52", "language": "cmn", "content": "上午", "consideredWord": true, "translations": ["60"], "notes": ["54"]}
+{"id": "53", "language": "cmn", "content": "中午", "consideredWord": true, "translations": ["61"], "notes": ["55"]}
+{"id": "54", "language": "cmn", "content": "下午", "consideredWord": true, "translations": ["62"], "notes": ["56"]}
+{"id": "55", "language": "cmn", "content": "年", "consideredWord": true, "translations": ["63"], "notes": ["57"]}
+{"id": "56", "language": "cmn", "content": "月", "consideredWord": true, "translations": ["64"], "notes": ["58"]}
+{"id": "57", "language": "cmn", "content": "号", "consideredWord": true, "translations": ["65"], "notes": ["59"]}
+{"id": "58", "language": "cmn", "content": "星期", "consideredWord": true, "translations": ["66"], "notes": ["60"]}
+{"id": "59", "language": "cmn", "content": "点", "consideredWord": true, "translations": ["67"], "notes": ["61"]}
+{"id": "60", "language": "cmn", "content": "分钟", "consideredWord": true, "translations": ["68"], "notes": ["62"]}
+{"id": "61", "language": "cmn", "content": "现在", "consideredWord": true, "translations": ["69"], "notes": ["63"]}
+{"id": "62", "language": "cmn", "content": "时候", "consideredWord": true, "translations": ["70"], "notes": ["64"]}
+{"id": "63", "language": "cmn", "content": "爸爸", "consideredWord": true, "translations": ["71"], "notes": ["65"]}
+{"id": "64", "language": "cmn", "content": "妈妈", "consideredWord": true, "translations": ["72"], "notes": ["66"]}
+{"id": "65", "language": "cmn", "content": "儿子", "consideredWord": true, "translations": ["73"], "notes": ["67"]}
+{"id": "66", "language": "cmn", "content": "女儿", "consideredWord": true, "translations": ["74"], "notes": ["68"]}
+{"id": "67", "language": "cmn", "content": "老师", "consideredWord": true, "translations": ["75"], "notes": ["69"]}
+{"id": "68", "language": "cmn", "content": "学生", "consideredWord": true, "translations": ["76"], "notes": ["70"]}
+{"id": "69", "language": "cmn", "content": "同学", "consideredWord": true, "translations": ["77"], "notes": ["71"]}
+{"id": "70", "language": "cmn", "content": "朋友", "consideredWord": true, "translations": ["78"], "notes": ["72"]}
+{"id": "71", "language": "cmn", "content": "医生", "consideredWord": true, "translations": ["79"], "notes": ["73"]}
+{"id": "72", "language": "cmn", "content": "先生", "consideredWord": true, "translations": ["80"], "notes": ["74"]}
+{"id": "73", "language": "cmn", "content": "小姐", "consideredWord": true, "translations": ["81"], "notes": ["75"]}
+{"id": "74", "language": "cmn", "content": "衣服", "consideredWord": true, "translations": ["82"], "notes": ["76"]}
+{"id": "75", "language": "cmn", "content": "水", "consideredWord": true, "translations": ["83"], "notes": ["77"]}
+{"id": "76", "language": "cmn", "content": "菜", "consideredWord": true, "translations": ["84"], "notes": ["78"]}
+{"id": "77", "language": "cmn", "content": "米饭", "consideredWord": true, "translations": ["85"], "notes": ["79"]}
+{"id": "78", "language": "cmn", "content": "水果", "consideredWord": true, "translations": ["86"], "notes": ["80"]}
+{"id": "79", "language": "cmn", "content": "苹果", "consideredWord": true, "translations": ["87"], "notes": ["81"]}
+{"id": "80", "language": "cmn", "content": "茶", "consideredWord": true, "translations": ["88"], "notes": ["82"]}
+{"id": "81", "language": "cmn", "content": "杯子", "consideredWord": true, "translations": ["89"], "notes": ["83"]}
+{"id": "82", "language": "cmn", "content": "钱", "consideredWord": true, "translations": ["90"], "notes": ["84"]}
+{"id": "83", "language": "cmn", "content": "飞机", "consideredWord": true, "translations": ["91"], "notes": ["85"]}
+{"id": "84", "language": "cmn", "content": "出租车", "consideredWord": true, "translations": ["92"], "notes": ["86"]}
+{"id": "85", "language": "cmn", "content": "电视", "consideredWord": true, "translations": ["93"], "notes": ["87"]}
+{"id": "86", "language": "cmn", "content": "电脑", "consideredWord": true, "translations": ["94"], "notes": ["88"]}
+{"id": "87", "language": "cmn", "content": "电影", "consideredWord": true, "translations": ["95"], "notes": ["89"]}
+{"id": "88", "language": "cmn", "content": "天气", "consideredWord": true, "translations": ["96"], "notes": ["90"]}
+{"id": "89", "language": "cmn", "content": "猫", "consideredWord": true, "translations": ["97"], "notes": ["91"]}
+{"id": "90", "language": "cmn", "content": "狗", "consideredWord": true, "translations": ["98"], "notes": ["92"]}
+{"id": "91", "language": "cmn", "content": "东西", "consideredWord": true, "translations": ["99"], "notes": ["93"]}
+{"id": "92", "language": "cmn", "content": "人", "consideredWord": true, "translations": ["100"], "notes": ["94"]}
+{"id": "93", "language": "cmn", "content": "名字", "consideredWord": true, "translations": ["101"], "notes": ["95"]}
+{"id": "94", "language": "cmn", "content": "书", "consideredWord": true, "translations": ["102"], "notes": ["96"]}
+{"id": "95", "language": "cmn", "content": "汉语", "consideredWord": true, "translations": ["103"], "notes": ["97"]}
+{"id": "96", "language": "cmn", "content": "字", "consideredWord": true, "translations": ["104"], "notes": ["98"]}
+{"id": "97", "language": "cmn", "content": "桌子", "consideredWord": true, "translations": ["105"], "notes": ["99"]}
+{"id": "98", "language": "cmn", "content": "椅子", "consideredWord": true, "translations": ["106"], "notes": ["100"]}
+{"id": "99", "language": "cmn", "content": "谢谢", "consideredWord": true, "translations": ["107"], "notes": ["101"]}
+{"id": "100", "language": "cmn", "content": "不客气", "consideredWord": true, "translations": ["108"], "notes": ["102"]}
+{"id": "101", "language": "cmn", "content": "再见", "consideredWord": true, "translations": ["109"], "notes": ["103"]}
+{"id": "102", "language": "cmn", "content": "请", "consideredWord": true, "translations": ["110"], "notes": ["104"]}
+{"id": "103", "language": "cmn", "content": "对不起", "consideredWord": true, "translations": ["111"], "notes": ["105"]}
+{"id": "104", "language": "cmn", "content": "没关系", "consideredWord": true, "translations": ["112"], "notes": ["106"]}
+{"id": "105", "language": "cmn", "content": "是", "consideredWord": true, "translations": ["113"], "notes": ["107", "108"]}
+{"id": "106", "language": "cmn", "content": "有", "consideredWord": true, "translations": ["114"], "notes": ["109"]}
+{"id": "107", "language": "cmn", "content": "看", "consideredWord": true, "translations": ["115"], "notes": ["110"]}
+{"id": "108", "language": "cmn", "content": "听", "consideredWord": true, "translations": ["116"], "notes": ["111"]}
+{"id": "109", "language": "cmn", "content": "说", "consideredWord": true, "translations": ["117"], "notes": ["112"]}
+{"id": "110", "language": "cmn", "content": "读", "consideredWord": true, "translations": ["118"], "notes": ["113"]}
+{"id": "111", "language": "cmn", "content": "写", "consideredWord": true, "translations": ["119"], "notes": ["114"]}
+{"id": "112", "language": "cmn", "content": "看见", "consideredWord": true, "translations": ["120"], "notes": ["115"]}
+{"id": "113", "language": "cmn", "content": "叫", "consideredWord": true, "translations": ["121"], "notes": ["116"]}
+{"id": "114", "language": "cmn", "content": "来", "consideredWord": true, "translations": ["122"], "notes": ["117"]}
+{"id": "115", "language": "cmn", "content": "回", "consideredWord": true, "translations": ["123"], "notes": ["118"]}
+{"id": "116", "language": "cmn", "content": "去", "consideredWord": true, "translations": ["124"], "notes": ["119"]}
+{"id": "117", "language": "cmn", "content": "吃", "consideredWord": true, "translations": ["125"], "notes": ["120"]}
+{"id": "118", "language": "cmn", "content": "喝", "consideredWord": true, "translations": ["126"], "notes": ["121"]}
+{"id": "119", "language": "cmn", "content": "睡觉", "consideredWord": true, "translations": ["127"], "notes": ["122"]}
+{"id": "120", "language": "cmn", "content": "打电话", "consideredWord": true, "translations": ["128"], "notes": ["123"]}
+{"id": "121", "language": "cmn", "content": "做", "consideredWord": true, "translations": ["129"], "notes": ["124"]}
+{"id": "122", "language": "cmn", "content": "买", "consideredWord": true, "translations": ["130"], "notes": ["125"]}
+{"id": "123", "language": "cmn", "content": "开", "consideredWord": true, "translations": ["131"], "notes": ["126"]}
+{"id": "124", "language": "cmn", "content": "坐", "consideredWord": true, "translations": ["132"], "notes": ["124"]}
+{"id": "125", "language": "cmn", "content": "住", "consideredWord": true, "translations": ["133"], "notes": ["127"]}
+{"id": "126", "language": "cmn", "content": "学习", "consideredWord": true, "translations": ["134"], "notes": ["128"]}
+{"id": "127", "language": "cmn", "content": "工作", "consideredWord": true, "translations": ["135"], "notes": ["129"]}
+{"id": "128", "language": "cmn", "content": "下雨", "consideredWord": true, "translations": ["136"], "notes": ["130"]}
+{"id": "129", "language": "cmn", "content": "爱", "consideredWord": true, "translations": ["137"], "notes": ["131"]}
+{"id": "130", "language": "cmn", "content": "喜欢", "consideredWord": true, "translations": ["137", "138"], "notes": ["132"]}
+{"id": "131", "language": "cmn", "content": "想", "consideredWord": true, "translations": ["139"], "notes": ["133"]}
+{"id": "132", "language": "cmn", "content": "认识", "consideredWord": true, "translations": ["140"], "notes": ["134"]}
+{"id": "133", "language": "cmn", "content": "会", "consideredWord": true, "translations": ["141"], "notes": ["135"]}
+{"id": "134", "language": "cmn", "content": "能", "consideredWord": true, "translations": ["141", "142"], "notes": ["136"]}
+{"id": "135", "language": "cmn", "content": "好", "consideredWord": true, "translations": ["143"], "notes": ["137"]}
+{"id": "136", "language": "cmn", "content": "大", "consideredWord": true, "translations": ["144"], "notes": ["138"]}
+{"id": "137", "language": "cmn", "content": "小", "consideredWord": true, "translations": ["145"], "notes": ["139"]}
+{"id": "138", "language": "cmn", "content": "多", "consideredWord": true, "translations": ["146", "147"], "notes": ["140"]}
+{"id": "139", "language": "cmn", "content": "少", "consideredWord": true, "translations": ["148", "149"], "notes": ["141"]}
+{"id": "140", "language": "cmn", "content": "冷", "consideredWord": true, "translations": ["150"], "notes": ["142"]}
+{"id": "141", "language": "cmn", "content": "热", "consideredWord": true, "translations": ["151"], "notes": ["143"]}
+{"id": "142", "language": "cmn", "content": "高兴", "consideredWord": true, "translations": ["152"], "notes": ["144"]}
+{"id": "143", "language": "cmn", "content": "漂亮", "consideredWord": true, "translations": ["153"], "notes": ["145"]}
