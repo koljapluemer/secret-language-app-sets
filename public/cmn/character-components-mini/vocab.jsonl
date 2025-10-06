@@ -1,61 +1,146 @@
 {"id": "comp_4E00", "language": "cmn", "content": "一", "consideredCharacter": true, "notes": ["note_comp_4E00_pinyin"], "translations": ["trans_comp_4E00_0", "trans_comp_4E00_1", "trans_comp_4E00_2", "trans_comp_4E00_3"], "links": ["link_unihan_license"], "contains": []}
-{"id": "word_971636", "language": "cmn", "content": "一个", "consideredWord": true, "notes": [], "translations": [], "links": [], "contains": ["comp_4E00"]}
-{"id": "word_575728", "language": "cmn", "content": "一些", "consideredWord": true, "notes": [], "translations": [], "links": [], "contains": ["comp_4E00"]}
-{"id": "word_913604", "language": "cmn", "content": "一样", "consideredWord": true, "notes": [], "translations": [], "links": [], "contains": ["comp_4E00"]}
-{"id": "word_967101", "language": "cmn", "content": "一定", "consideredWord": true, "notes": [], "translations": [], "links": [], "contains": ["comp_4E00"]}
-{"id": "word_654732", "language": "cmn", "content": "一起", "consideredWord": true, "notes": [], "translations": [], "links": [], "contains": ["comp_4E00"]}
-{"id": "word_918628", "language": "cmn", "content": "一直", "consideredWord": true, "notes": [], "translations": [], "links": [], "contains": ["comp_4E00"]}
+{"id": "word_158953", "language": "cmn", "content": "一个", "consideredWord": true, "notes": [], "translations": ["trans_word_158953_0"], "links": [], "contains": ["comp_4E00"]}
+{"id": "word_080936", "language": "cmn", "content": "一些", "consideredWord": true, "notes": [], "translations": ["trans_word_080936_0"], "links": [], "contains": ["comp_4E00"]}
+{"id": "word_756474", "language": "cmn", "content": "一样", "consideredWord": true, "notes": [], "translations": ["trans_word_756474_0"], "links": [], "contains": ["comp_4E00"]}
+{"id": "word_578067", "language": "cmn", "content": "一定", "consideredWord": true, "notes": [], "translations": ["trans_word_578067_0"], "links": [], "contains": ["comp_4E00"]}
+{"id": "word_412241", "language": "cmn", "content": "一起", "consideredWord": true, "notes": [], "translations": ["trans_word_412241_0"], "links": [], "contains": ["comp_4E00"]}
+{"id": "word_487103", "language": "cmn", "content": "一直", "consideredWord": true, "notes": [], "translations": ["trans_word_487103_0"], "links": [], "contains": ["comp_4E00"]}
 {"id": "comp_53E3", "language": "cmn", "content": "口", "consideredCharacter": true, "notes": ["note_comp_53E3_pinyin"], "translations": ["trans_comp_53E3_0", "trans_comp_53E3_1", "trans_comp_53E3_2", "trans_comp_53E3_3"], "links": ["link_unihan_license"], "contains": []}
-{"id": "word_210077", "language": "cmn", "content": "人口", "consideredWord": true, "notes": [], "translations": [], "links": [], "contains": ["comp_53E3"]}
-{"id": "word_969247", "language": "cmn", "content": "出口", "consideredWord": true, "notes": [], "translations": [], "links": [], "contains": ["comp_53E3"]}
-{"id": "word_508280", "language": "cmn", "content": "进口", "consideredWord": true, "notes": [], "translations": [], "links": [], "contains": ["comp_53E3"]}
-{"id": "word_291531", "language": "cmn", "content": "口号", "consideredWord": true, "notes": [], "translations": [], "links": [], "contains": ["comp_53E3"]}
-{"id": "word_460037", "language": "cmn", "content": "门口", "consideredWord": true, "notes": [], "translations": [], "links": [], "contains": ["comp_53E3"]}
-{"id": "word_168537", "language": "cmn", "content": "入口", "consideredWord": true, "notes": [], "translations": [], "links": [], "contains": ["comp_53E3"]}
+{"id": "word_196392", "language": "cmn", "content": "人口", "consideredWord": true, "notes": [], "translations": ["trans_word_196392_0"], "links": [], "contains": ["comp_53E3"]}
+{"id": "word_645217", "language": "cmn", "content": "出口", "consideredWord": true, "notes": [], "translations": ["trans_word_645217_0"], "links": [], "contains": ["comp_53E3"]}
+{"id": "word_237595", "language": "cmn", "content": "进口", "consideredWord": true, "notes": [], "translations": ["trans_word_237595_0"], "links": [], "contains": ["comp_53E3"]}
+{"id": "word_041774", "language": "cmn", "content": "口号", "consideredWord": true, "notes": [], "translations": ["trans_word_041774_0"], "links": [], "contains": ["comp_53E3"]}
+{"id": "word_715153", "language": "cmn", "content": "门口", "consideredWord": true, "notes": [], "translations": ["trans_word_715153_0"], "links": [], "contains": ["comp_53E3"]}
+{"id": "word_598629", "language": "cmn", "content": "入口", "consideredWord": true, "notes": [], "translations": ["trans_word_598629_0"], "links": [], "contains": ["comp_53E3"]}
 {"id": "comp_4EBB", "language": "cmn", "content": "亻", "consideredCharacter": true, "notes": ["note_comp_4EBB_pinyin", "note_comp_4EBB_radical_0"], "translations": [], "links": ["link_unihan_license"], "contains": []}
 {"id": "comp_6728", "language": "cmn", "content": "木", "consideredCharacter": true, "notes": ["note_comp_6728_pinyin"], "translations": ["trans_comp_6728_0", "trans_comp_6728_1", "trans_comp_6728_2", "trans_comp_6728_3"], "links": ["link_unihan_license"], "contains": []}
 {"id": "comp_624C", "language": "cmn", "content": "扌", "consideredCharacter": true, "notes": ["note_comp_624C_pinyin", "note_comp_624C_radical_1"], "translations": ["trans_comp_624C_0"], "links": ["link_unihan_license"], "contains": []}
 {"id": "comp_4EBA", "language": "cmn", "content": "人", "consideredCharacter": true, "notes": ["note_comp_4EBA_pinyin"], "translations": ["trans_comp_4EBA_0", "trans_comp_4EBA_1", "trans_comp_4EBA_2", "trans_comp_4EBA_3"], "links": ["link_unihan_license"], "contains": []}
-{"id": "word_500215", "language": "cmn", "content": "人民", "consideredWord": true, "notes": [], "translations": [], "links": [], "contains": ["comp_4EBA"]}
-{"id": "word_882374", "language": "cmn", "content": "人们", "consideredWord": true, "notes": [], "translations": [], "links": [], "contains": ["comp_4EBA"]}
-{"id": "word_533261", "language": "cmn", "content": "有人", "consideredWord": true, "notes": [], "translations": [], "links": [], "contains": ["comp_4EBA"]}
-{"id": "word_210077", "language": "cmn", "content": "人口", "consideredWord": true, "notes": [], "translations": [], "links": [], "contains": ["comp_4EBA"]}
-{"id": "word_471307", "language": "cmn", "content": "个人", "consideredWord": true, "notes": [], "translations": [], "links": [], "contains": ["comp_4EBA"]}
-{"id": "word_349324", "language": "cmn", "content": "人员", "consideredWord": true, "notes": [], "translations": [], "links": [], "contains": ["comp_4EBA"]}
+{"id": "word_731602", "language": "cmn", "content": "人民", "consideredWord": true, "notes": [], "translations": ["trans_word_731602_0"], "links": [], "contains": ["comp_4EBA"]}
+{"id": "word_783170", "language": "cmn", "content": "人们", "consideredWord": true, "notes": [], "translations": ["trans_word_783170_0"], "links": [], "contains": ["comp_4EBA"]}
+{"id": "word_634861", "language": "cmn", "content": "有人", "consideredWord": true, "notes": [], "translations": ["trans_word_634861_0"], "links": [], "contains": ["comp_4EBA"]}
+{"id": "word_196392", "language": "cmn", "content": "人口", "consideredWord": true, "notes": [], "translations": ["trans_word_196392_0"], "links": [], "contains": ["comp_53E3"]}
+{"id": "word_860301", "language": "cmn", "content": "个人", "consideredWord": true, "notes": [], "translations": ["trans_word_860301_0"], "links": [], "contains": ["comp_4EBA"]}
+{"id": "word_641645", "language": "cmn", "content": "人员", "consideredWord": true, "notes": [], "translations": ["trans_word_641645_0"], "links": [], "contains": ["comp_4EBA"]}
 {"id": "comp_571F", "language": "cmn", "content": "土", "consideredCharacter": true, "notes": ["note_comp_571F_pinyin"], "translations": ["trans_comp_571F_0", "trans_comp_571F_1", "trans_comp_571F_2"], "links": ["link_unihan_license"], "contains": []}
-{"id": "word_172085", "language": "cmn", "content": "土地", "consideredWord": true, "notes": [], "translations": [], "links": [], "contains": ["comp_571F"]}
-{"id": "word_519219", "language": "cmn", "content": "领土", "consideredWord": true, "notes": [], "translations": [], "links": [], "contains": ["comp_571F"]}
-{"id": "word_490283", "language": "cmn", "content": "土耳其", "consideredWord": true, "notes": [], "translations": [], "links": [], "contains": ["comp_571F"]}
-{"id": "word_210901", "language": "cmn", "content": "本土", "consideredWord": true, "notes": [], "translations": [], "links": [], "contains": ["comp_571F"]}
-{"id": "word_653652", "language": "cmn", "content": "土壤", "consideredWord": true, "notes": [], "translations": [], "links": [], "contains": ["comp_571F"]}
-{"id": "word_174309", "language": "cmn", "content": "国土", "consideredWord": true, "notes": [], "translations": [], "links": [], "contains": ["comp_571F"]}
+{"id": "word_545424", "language": "cmn", "content": "土地", "consideredWord": true, "notes": [], "translations": ["trans_word_545424_0"], "links": [], "contains": ["comp_571F"]}
+{"id": "word_574011", "language": "cmn", "content": "领土", "consideredWord": true, "notes": [], "translations": ["trans_word_574011_0"], "links": [], "contains": ["comp_571F"]}
+{"id": "word_630048", "language": "cmn", "content": "土耳其", "consideredWord": true, "notes": [], "translations": ["trans_word_630048_0"], "links": [], "contains": ["comp_571F"]}
+{"id": "word_740362", "language": "cmn", "content": "本土", "consideredWord": true, "notes": [], "translations": ["trans_word_740362_0"], "links": [], "contains": ["comp_571F"]}
+{"id": "word_617395", "language": "cmn", "content": "土壤", "consideredWord": true, "notes": [], "translations": ["trans_word_617395_0"], "links": [], "contains": ["comp_571F"]}
+{"id": "word_282209", "language": "cmn", "content": "国土", "consideredWord": true, "notes": [], "translations": ["trans_word_282209_0"], "links": [], "contains": ["comp_571F"]}
 {"id": "comp_6C35", "language": "cmn", "content": "氵", "consideredCharacter": true, "notes": ["note_comp_6C35_pinyin", "note_comp_6C35_radical_1"], "translations": ["trans_comp_6C35_0"], "links": ["link_unihan_license"], "contains": []}
 {"id": "comp_53C8", "language": "cmn", "content": "又", "consideredCharacter": true, "notes": ["note_comp_53C8_pinyin"], "translations": ["trans_comp_53C8_0", "trans_comp_53C8_1", "trans_comp_53C8_2", "trans_comp_53C8_3"], "links": ["link_unihan_license"], "contains": []}
 {"id": "comp_8FB6", "language": "cmn", "content": "辶", "consideredCharacter": true, "notes": ["note_comp_8FB6_pinyin", "note_comp_8FB6_radical_2"], "translations": ["trans_comp_8FB6_0", "trans_comp_8FB6_1"], "links": ["link_unihan_license"], "contains": []}
 {"id": "comp_8BA0", "language": "cmn", "content": "讠", "consideredCharacter": true, "notes": ["note_comp_8BA0_pinyin", "note_comp_8BA0_radical_0"], "translations": [], "links": ["link_unihan_license"], "contains": []}
 {"id": "comp_4E37", "language": "cmn", "content": "丷", "consideredCharacter": true, "notes": ["note_comp_4E37_pinyin"], "translations": ["trans_comp_4E37_0", "trans_comp_4E37_1", "trans_comp_4E37_2", "trans_comp_4E37_3", "trans_comp_4E37_4"], "links": ["link_unihan_license"], "contains": []}
 {"id": "comp_65E5", "language": "cmn", "content": "日", "consideredCharacter": true, "notes": ["note_comp_65E5_pinyin"], "translations": ["trans_comp_65E5_0", "trans_comp_65E5_1", "trans_comp_65E5_2"], "links": ["link_unihan_license"], "contains": []}
-{"id": "word_217931", "language": "cmn", "content": "日本", "consideredWord": true, "notes": [], "translations": [], "links": [], "contains": ["comp_65E5"]}
-{"id": "word_484822", "language": "cmn", "content": "今日", "consideredWord": true, "notes": [], "translations": [], "links": [], "contains": ["comp_65E5"]}
-{"id": "word_180350", "language": "cmn", "content": "日子", "consideredWord": true, "notes": [], "translations": [], "links": [], "contains": ["comp_65E5"]}
-{"id": "word_715951", "language": "cmn", "content": "日常", "consideredWord": true, "notes": [], "translations": [], "links": [], "contains": ["comp_65E5"]}
-{"id": "word_056021", "language": "cmn", "content": "日报", "consideredWord": true, "notes": [], "translations": [], "links": [], "contains": ["comp_65E5"]}
-{"id": "word_440070", "language": "cmn", "content": "每日", "consideredWord": true, "notes": [], "translations": [], "links": [], "contains": ["comp_65E5"]}
+{"id": "word_255760", "language": "cmn", "content": "日本", "consideredWord": true, "notes": [], "translations": ["trans_word_255760_0"], "links": [], "contains": ["comp_65E5"]}
+{"id": "word_724066", "language": "cmn", "content": "今日", "consideredWord": true, "notes": [], "translations": ["trans_word_724066_0"], "links": [], "contains": ["comp_65E5"]}
+{"id": "word_679775", "language": "cmn", "content": "日子", "consideredWord": true, "notes": [], "translations": ["trans_word_679775_0"], "links": [], "contains": ["comp_65E5"]}
+{"id": "word_223556", "language": "cmn", "content": "日常", "consideredWord": true, "notes": [], "translations": ["trans_word_223556_0"], "links": [], "contains": ["comp_65E5"]}
+{"id": "word_959585", "language": "cmn", "content": "日报", "consideredWord": true, "notes": [], "translations": ["trans_word_959585_0"], "links": [], "contains": ["comp_65E5"]}
+{"id": "word_400176", "language": "cmn", "content": "每日", "consideredWord": true, "notes": [], "translations": ["trans_word_400176_0"], "links": [], "contains": ["comp_65E5"]}
 {"id": "comp_5B80", "language": "cmn", "content": "宀", "consideredCharacter": true, "notes": ["note_comp_5B80_pinyin", "note_comp_5B80_radical_1"], "translations": ["trans_comp_5B80_0"], "links": ["link_unihan_license"], "contains": []}
 {"id": "comp_5341", "language": "cmn", "content": "十", "consideredCharacter": true, "notes": ["note_comp_5341_pinyin"], "translations": ["trans_comp_5341_0", "trans_comp_5341_1", "trans_comp_5341_2", "trans_comp_5341_3"], "links": ["link_unihan_license"], "contains": []}
-{"id": "word_540962", "language": "cmn", "content": "十分", "consideredWord": true, "notes": [], "translations": [], "links": [], "contains": ["comp_5341"]}
-{"id": "word_385725", "language": "cmn", "content": "十年", "consideredWord": true, "notes": [], "translations": [], "links": [], "contains": ["comp_5341"]}
-{"id": "word_747629", "language": "cmn", "content": "十大", "consideredWord": true, "notes": [], "translations": [], "links": [], "contains": ["comp_5341"]}
-{"id": "word_479235", "language": "cmn", "content": "十五", "consideredWord": true, "notes": [], "translations": [], "links": [], "contains": ["comp_5341"]}
-{"id": "word_933969", "language": "cmn", "content": "十八", "consideredWord": true, "notes": [], "translations": [], "links": [], "contains": ["comp_5341"]}
+{"id": "word_848478", "language": "cmn", "content": "十分", "consideredWord": true, "notes": [], "translations": ["trans_word_848478_0"], "links": [], "contains": ["comp_5341"]}
+{"id": "word_377765", "language": "cmn", "content": "十年", "consideredWord": true, "notes": [], "translations": ["trans_word_377765_0"], "links": [], "contains": ["comp_5341"]}
+{"id": "word_083852", "language": "cmn", "content": "十大", "consideredWord": true, "notes": [], "translations": ["trans_word_083852_0"], "links": [], "contains": ["comp_5341"]}
+{"id": "word_018898", "language": "cmn", "content": "十五", "consideredWord": true, "notes": [], "translations": ["trans_word_018898_0"], "links": [], "contains": ["comp_5341"]}
+{"id": "word_836113", "language": "cmn", "content": "十八", "consideredWord": true, "notes": [], "translations": ["trans_word_836113_0"], "links": [], "contains": ["comp_5341"]}
 {"id": "comp_4EA0", "language": "cmn", "content": "亠", "consideredCharacter": true, "notes": ["note_comp_4EA0_pinyin", "note_comp_4EA0_radical_1"], "translations": ["trans_comp_4EA0_0"], "links": ["link_unihan_license"], "contains": []}
 {"id": "comp_5202", "language": "cmn", "content": "刂", "consideredCharacter": true, "notes": ["note_comp_5202_pinyin", "note_comp_5202_radical_1"], "translations": ["trans_comp_5202_0"], "links": ["link_unihan_license"], "contains": []}
 {"id": "comp_529B", "language": "cmn", "content": "力", "consideredCharacter": true, "notes": ["note_comp_529B_pinyin", "note_comp_529B_radical_3"], "translations": ["trans_comp_529B_0", "trans_comp_529B_1", "trans_comp_529B_2"], "links": ["link_unihan_license"], "contains": []}
-{"id": "word_175048", "language": "cmn", "content": "能力", "consideredWord": true, "notes": [], "translations": [], "links": [], "contains": ["comp_529B"]}
-{"id": "word_411953", "language": "cmn", "content": "努力", "consideredWord": true, "notes": [], "translations": [], "links": [], "contains": ["comp_529B"]}
-{"id": "word_234233", "language": "cmn", "content": "力量", "consideredWord": true, "notes": [], "translations": [], "links": [], "contains": ["comp_529B"]}
-{"id": "word_828567", "language": "cmn", "content": "权力", "consideredWord": true, "notes": [], "translations": [], "links": [], "contains": ["comp_529B"]}
-{"id": "word_702522", "language": "cmn", "content": "压力", "consideredWord": true, "notes": [], "translations": [], "links": [], "contains": ["comp_529B"]}
-{"id": "word_808303", "language": "cmn", "content": "势力", "consideredWord": true, "notes": [], "translations": [], "links": [], "contains": ["comp_529B"]}
+{"id": "word_022872", "language": "cmn", "content": "能力", "consideredWord": true, "notes": [], "translations": ["trans_word_022872_0"], "links": [], "contains": ["comp_529B"]}
+{"id": "word_775401", "language": "cmn", "content": "努力", "consideredWord": true, "notes": [], "translations": ["trans_word_775401_0"], "links": [], "contains": ["comp_529B"]}
+{"id": "word_456519", "language": "cmn", "content": "力量", "consideredWord": true, "notes": [], "translations": ["trans_word_456519_0"], "links": [], "contains": ["comp_529B"]}
+{"id": "word_753815", "language": "cmn", "content": "权力", "consideredWord": true, "notes": [], "translations": ["trans_word_753815_0"], "links": [], "contains": ["comp_529B"]}
+{"id": "word_712350", "language": "cmn", "content": "压力", "consideredWord": true, "notes": [], "translations": ["trans_word_712350_0"], "links": [], "contains": ["comp_529B"]}
+{"id": "word_034898", "language": "cmn", "content": "势力", "consideredWord": true, "notes": [], "translations": ["trans_word_034898_0"], "links": [], "contains": ["comp_529B"]}
 {"id": "comp_7E9F", "language": "cmn", "content": "纟", "consideredCharacter": true, "notes": ["note_comp_7E9F_pinyin", "note_comp_7E9F_radical_1"], "translations": ["trans_comp_7E9F_0"], "links": ["link_unihan_license"], "contains": []}
 {"id": "comp_5182", "language": "cmn", "content": "冂", "consideredCharacter": true, "notes": ["note_comp_5182_pinyin", "note_comp_5182_radical_1"], "translations": ["trans_comp_5182_0"], "links": ["link_unihan_license"], "contains": []}
+{"id": "comp_961D", "language": "cmn", "content": "阝", "consideredCharacter": true, "notes": ["note_comp_961D_pinyin", "note_comp_961D_radical_1"], "translations": ["trans_comp_961D_0"], "links": ["link_unihan_license"], "contains": []}
+{"id": "comp_516B", "language": "cmn", "content": "八", "consideredCharacter": true, "notes": ["note_comp_516B_pinyin"], "translations": ["trans_comp_516B_0", "trans_comp_516B_1", "trans_comp_516B_2"], "links": ["link_unihan_license"], "contains": []}
+{"id": "word_836113", "language": "cmn", "content": "十八", "consideredWord": true, "notes": [], "translations": ["trans_word_836113_0"], "links": [], "contains": ["comp_5341"]}
+{"id": "word_524365", "language": "cmn", "content": "八年", "consideredWord": true, "notes": [], "translations": ["trans_word_524365_0"], "links": [], "contains": ["comp_516B"]}
+{"id": "word_754651", "language": "cmn", "content": "八月", "consideredWord": true, "notes": [], "translations": ["trans_word_754651_0"], "links": [], "contains": ["comp_516B"]}
+{"id": "comp_5FC3", "language": "cmn", "content": "心", "consideredCharacter": true, "notes": ["note_comp_5FC3_pinyin"], "translations": ["trans_comp_5FC3_0", "trans_comp_5FC3_1", "trans_comp_5FC3_2", "trans_comp_5FC3_3", "trans_comp_5FC3_4", "trans_comp_5FC3_5"], "links": ["link_unihan_license"], "contains": []}
+{"id": "word_283538", "language": "cmn", "content": "中心", "consideredWord": true, "notes": [], "translations": ["trans_word_283538_0"], "links": [], "contains": ["comp_5FC3"]}
+{"id": "word_104294", "language": "cmn", "content": "担心", "consideredWord": true, "notes": [], "translations": ["trans_word_104294_0"], "links": [], "contains": ["comp_5FC3"]}
+{"id": "word_109555", "language": "cmn", "content": "关心", "consideredWord": true, "notes": [], "translations": ["trans_word_109555_0"], "links": [], "contains": ["comp_5FC3"]}
+{"id": "word_237593", "language": "cmn", "content": "核心", "consideredWord": true, "notes": [], "translations": ["trans_word_237593_0"], "links": [], "contains": ["comp_5FC3"]}
+{"id": "word_691242", "language": "cmn", "content": "开心", "consideredWord": true, "notes": [], "translations": ["trans_word_691242_0"], "links": [], "contains": ["comp_5FC3"]}
+{"id": "word_099252", "language": "cmn", "content": "心里", "consideredWord": true, "notes": [], "translations": ["trans_word_099252_0"], "links": [], "contains": ["comp_5FC3"]}
+{"id": "comp_5BF8", "language": "cmn", "content": "寸", "consideredCharacter": true, "notes": ["note_comp_5BF8_pinyin", "note_comp_5BF8_radical_3"], "translations": ["trans_comp_5BF8_0", "trans_comp_5BF8_1", "trans_comp_5BF8_2"], "links": ["link_unihan_license"], "contains": []}
+{"id": "word_289465", "language": "cmn", "content": "尺寸", "consideredWord": true, "notes": [], "translations": ["trans_word_289465_0"], "links": [], "contains": ["comp_5BF8"]}
+{"id": "comp_56D7", "language": "cmn", "content": "囗", "consideredCharacter": true, "notes": ["note_comp_56D7_pinyin"], "translations": ["trans_comp_56D7_0", "trans_comp_56D7_1", "trans_comp_56D7_2", "trans_comp_56D7_3"], "links": ["link_unihan_license"], "contains": []}
+{"id": "comp_4E3F", "language": "cmn", "content": "丿", "consideredCharacter": true, "notes": ["note_comp_4E3F_pinyin", "note_comp_4E3F_radical_1"], "translations": ["trans_comp_4E3F_0"], "links": ["link_unihan_license"], "contains": []}
+{"id": "comp_8D1D", "language": "cmn", "content": "贝", "consideredCharacter": true, "notes": ["note_comp_8D1D_pinyin"], "translations": ["trans_comp_8D1D_0", "trans_comp_8D1D_1", "trans_comp_8D1D_2"], "links": ["link_unihan_license"], "contains": []}
+{"id": "word_045318", "language": "cmn", "content": "宝贝", "consideredWord": true, "notes": [], "translations": ["trans_word_045318_0"], "links": [], "contains": ["comp_8D1D"]}
+{"id": "comp_738B", "language": "cmn", "content": "王", "consideredCharacter": true, "notes": ["note_comp_738B_pinyin"], "translations": ["trans_comp_738B_0", "trans_comp_738B_1", "trans_comp_738B_2", "trans_comp_738B_3"], "links": ["link_unihan_license"], "contains": []}
+{"id": "word_372160", "language": "cmn", "content": "国王", "consideredWord": true, "notes": [], "translations": ["trans_word_372160_0"], "links": [], "contains": ["comp_738B"]}
+{"id": "word_984109", "language": "cmn", "content": "王国", "consideredWord": true, "notes": [], "translations": ["trans_word_984109_0"], "links": [], "contains": ["comp_738B"]}
+{"id": "word_824468", "language": "cmn", "content": "女王", "consideredWord": true, "notes": [], "translations": ["trans_word_824468_0"], "links": [], "contains": ["comp_738B"]}
+{"id": "word_814945", "language": "cmn", "content": "王子", "consideredWord": true, "notes": [], "translations": ["trans_word_814945_0"], "links": [], "contains": ["comp_738B"]}
+{"id": "word_612797", "language": "cmn", "content": "王朝", "consideredWord": true, "notes": [], "translations": ["trans_word_612797_0"], "links": [], "contains": ["comp_738B"]}
+{"id": "comp_6535", "language": "cmn", "content": "攵", "consideredCharacter": true, "notes": ["note_comp_6535_pinyin", "note_comp_6535_radical_2"], "translations": ["trans_comp_6535_0", "trans_comp_6535_1"], "links": ["link_unihan_license"], "contains": []}
+{"id": "comp_4E36", "language": "cmn", "content": "丶", "consideredCharacter": true, "notes": ["note_comp_4E36_pinyin", "note_comp_4E36_radical_1"], "translations": ["trans_comp_4E36_0"], "links": ["link_unihan_license"], "contains": []}
+{"id": "comp_5927", "language": "cmn", "content": "大", "consideredCharacter": true, "notes": ["note_comp_5927_pinyin"], "translations": ["trans_comp_5927_0", "trans_comp_5927_1", "trans_comp_5927_2", "trans_comp_5927_3", "trans_comp_5927_4"], "links": ["link_unihan_license"], "contains": []}
+{"id": "word_041978", "language": "cmn", "content": "大学", "consideredWord": true, "notes": [], "translations": ["trans_word_041978_0"], "links": [], "contains": ["comp_5927"]}
+{"id": "word_905009", "language": "cmn", "content": "大家", "consideredWord": true, "notes": [], "translations": ["trans_word_905009_0"], "links": [], "contains": ["comp_5927"]}
+{"id": "word_184651", "language": "cmn", "content": "最大", "consideredWord": true, "notes": [], "translations": ["trans_word_184651_0"], "links": [], "contains": ["comp_5927"]}
+{"id": "word_060610", "language": "cmn", "content": "大量", "consideredWord": true, "notes": [], "translations": ["trans_word_060610_0"], "links": [], "contains": ["comp_5927"]}
+{"id": "word_159664", "language": "cmn", "content": "大陆", "consideredWord": true, "notes": [], "translations": ["trans_word_159664_0"], "links": [], "contains": ["comp_5927"]}
+{"id": "word_799607", "language": "cmn", "content": "加拿大", "consideredWord": true, "notes": [], "translations": ["trans_word_799607_0"], "links": [], "contains": ["comp_5927"]}
+{"id": "comp_5973", "language": "cmn", "content": "女", "consideredCharacter": true, "notes": ["note_comp_5973_pinyin", "note_comp_5973_radical_3"], "translations": ["trans_comp_5973_0", "trans_comp_5973_1", "trans_comp_5973_2", "trans_comp_5973_3", "trans_comp_5973_4"], "links": ["link_unihan_license"], "contains": []}
+{"id": "word_251754", "language": "cmn", "content": "女人", "consideredWord": true, "notes": [], "translations": ["trans_word_251754_0"], "links": [], "contains": ["comp_5973"]}
+{"id": "word_758788", "language": "cmn", "content": "女性", "consideredWord": true, "notes": [], "translations": ["trans_word_758788_0"], "links": [], "contains": ["comp_5973"]}
+{"id": "word_328856", "language": "cmn", "content": "女儿", "consideredWord": true, "notes": [], "translations": ["trans_word_328856_0"], "links": [], "contains": ["comp_5973"]}
+{"id": "word_673356", "language": "cmn", "content": "女孩", "consideredWord": true, "notes": [], "translations": ["trans_word_673356_0"], "links": [], "contains": ["comp_5973"]}
+{"id": "word_135590", "language": "cmn", "content": "妇女", "consideredWord": true, "notes": [], "translations": ["trans_word_135590_0"], "links": [], "contains": ["comp_5973"]}
+{"id": "word_793713", "language": "cmn", "content": "女子", "consideredWord": true, "notes": [], "translations": ["trans_word_793713_0"], "links": [], "contains": ["comp_5973"]}
+{"id": "comp_4E28", "language": "cmn", "content": "丨", "consideredCharacter": true, "notes": ["note_comp_4E28_pinyin"], "translations": ["trans_comp_4E28_0", "trans_comp_4E28_1"], "links": ["link_unihan_license"], "contains": []}
+{"id": "comp_6708", "language": "cmn", "content": "月", "consideredCharacter": true, "notes": ["note_comp_6708_pinyin", "note_comp_6708_radical_2"], "translations": ["trans_comp_6708_0", "trans_comp_6708_1"], "links": ["link_unihan_license"], "contains": []}
+{"id": "word_600124", "language": "cmn", "content": "一个月", "consideredWord": true, "notes": [], "translations": ["trans_word_600124_0"], "links": [], "contains": ["comp_6708"]}
+{"id": "word_879489", "language": "cmn", "content": "五月", "consideredWord": true, "notes": [], "translations": ["trans_word_879489_0"], "links": [], "contains": ["comp_6708"]}
+{"id": "word_673379", "language": "cmn", "content": "月份", "consideredWord": true, "notes": [], "translations": ["trans_word_673379_0"], "links": [], "contains": ["comp_6708"]}
+{"id": "word_078954", "language": "cmn", "content": "每月", "consideredWord": true, "notes": [], "translations": ["trans_word_078954_0"], "links": [], "contains": ["comp_6708"]}
+{"id": "word_688982", "language": "cmn", "content": "六月", "consideredWord": true, "notes": [], "translations": ["trans_word_688982_0"], "links": [], "contains": ["comp_6708"]}
+{"id": "word_758480", "language": "cmn", "content": "月底", "consideredWord": true, "notes": [], "translations": ["trans_word_758480_0"], "links": [], "contains": ["comp_6708"]}
+{"id": "comp_53B6", "language": "cmn", "content": "厶", "consideredCharacter": true, "notes": ["note_comp_53B6_pinyin", "note_comp_53B6_radical_2"], "translations": ["trans_comp_53B6_0", "trans_comp_53B6_1"], "links": ["link_unihan_license"], "contains": []}
+{"id": "comp_5196", "language": "cmn", "content": "冖", "consideredCharacter": true, "notes": ["note_comp_5196_pinyin", "note_comp_5196_radical_1"], "translations": ["trans_comp_5196_0"], "links": ["link_unihan_license"], "contains": []}
+{"id": "comp_79BE", "language": "cmn", "content": "禾", "consideredCharacter": true, "notes": ["note_comp_79BE_pinyin"], "translations": ["trans_comp_79BE_0", "trans_comp_79BE_1"], "links": ["link_unihan_license"], "contains": []}
+{"id": "comp_6208", "language": "cmn", "content": "戈", "consideredCharacter": true, "notes": ["note_comp_6208_pinyin"], "translations": ["trans_comp_6208_0", "trans_comp_6208_1", "trans_comp_6208_2", "trans_comp_6208_3"], "links": ["link_unihan_license"], "contains": []}
+{"id": "comp_76EE", "language": "cmn", "content": "目", "consideredCharacter": true, "notes": ["note_comp_76EE_pinyin", "note_comp_76EE_radical_5"], "translations": ["trans_comp_76EE_0", "trans_comp_76EE_1", "trans_comp_76EE_2", "trans_comp_76EE_3", "trans_comp_76EE_4"], "links": ["link_unihan_license"], "contains": []}
+{"id": "word_774566", "language": "cmn", "content": "目前", "consideredWord": true, "notes": [], "translations": ["trans_word_774566_0"], "links": [], "contains": ["comp_76EE"]}
+{"id": "word_884567", "language": "cmn", "content": "项目", "consideredWord": true, "notes": [], "translations": ["trans_word_884567_0"], "links": [], "contains": ["comp_76EE"]}
+{"id": "word_549749", "language": "cmn", "content": "目标", "consideredWord": true, "notes": [], "translations": ["trans_word_549749_0"], "links": [], "contains": ["comp_76EE"]}
+{"id": "word_016563", "language": "cmn", "content": "目的", "consideredWord": true, "notes": [], "translations": ["trans_word_016563_0"], "links": [], "contains": ["comp_76EE"]}
+{"id": "word_917111", "language": "cmn", "content": "节目", "consideredWord": true, "notes": [], "translations": ["trans_word_917111_0"], "links": [], "contains": ["comp_76EE"]}
+{"id": "word_813386", "language": "cmn", "content": "目录", "consideredWord": true, "notes": [], "translations": ["trans_word_813386_0"], "links": [], "contains": ["comp_76EE"]}
+{"id": "comp_4E42", "language": "cmn", "content": "乂", "consideredCharacter": true, "notes": ["note_comp_4E42_pinyin"], "translations": ["trans_comp_4E42_0", "trans_comp_4E42_1", "trans_comp_4E42_2", "trans_comp_4E42_3"], "links": ["link_unihan_license"], "contains": []}
+{"id": "comp_4E8C", "language": "cmn", "content": "二", "consideredCharacter": true, "notes": ["note_comp_4E8C_pinyin"], "translations": ["trans_comp_4E8C_0", "trans_comp_4E8C_1"], "links": ["link_unihan_license"], "contains": []}
+{"id": "word_014813", "language": "cmn", "content": "第二", "consideredWord": true, "notes": [], "translations": ["trans_word_014813_0"], "links": [], "contains": ["comp_4E8C"]}
+{"id": "word_277128", "language": "cmn", "content": "第二次", "consideredWord": true, "notes": [], "translations": ["trans_word_277128_0"], "links": [], "contains": ["comp_4E8C"]}
+{"id": "word_010648", "language": "cmn", "content": "二人", "consideredWord": true, "notes": [], "translations": ["trans_word_010648_0"], "links": [], "contains": ["comp_4E8C"]}
+{"id": "word_069038", "language": "cmn", "content": "第二天", "consideredWord": true, "notes": [], "translations": ["trans_word_069038_0"], "links": [], "contains": ["comp_4E8C"]}
+{"id": "word_986411", "language": "cmn", "content": "第二个", "consideredWord": true, "notes": [], "translations": ["trans_word_986411_0"], "links": [], "contains": ["comp_4E8C"]}
+{"id": "word_078272", "language": "cmn", "content": "二战", "consideredWord": true, "notes": [], "translations": ["trans_word_078272_0"], "links": [], "contains": ["comp_4E8C"]}
+{"id": "comp_8279", "language": "cmn", "content": "艹", "consideredCharacter": true, "notes": ["note_comp_8279_pinyin", "note_comp_8279_radical_1"], "translations": ["trans_comp_8279_0"], "links": ["link_unihan_license"], "contains": []}
+{"id": "comp_5315", "language": "cmn", "content": "匕", "consideredCharacter": true, "notes": ["note_comp_5315_pinyin"], "translations": ["trans_comp_5315_0", "trans_comp_5315_1", "trans_comp_5315_2", "trans_comp_5315_3"], "links": ["link_unihan_license"], "contains": []}
+{"id": "comp_5382", "language": "cmn", "content": "厂", "consideredCharacter": true, "notes": ["note_comp_5382_pinyin", "note_comp_5382_radical_2"], "translations": ["trans_comp_5382_0", "trans_comp_5382_1"], "links": ["link_unihan_license"], "contains": []}
+{"id": "word_992658", "language": "cmn", "content": "工厂", "consideredWord": true, "notes": [], "translations": ["trans_word_992658_0"], "links": [], "contains": ["comp_5382"]}
+{"id": "word_256604", "language": "cmn", "content": "厂商", "consideredWord": true, "notes": [], "translations": ["trans_word_256604_0"], "links": [], "contains": ["comp_5382"]}
+{"id": "comp_5F73", "language": "cmn", "content": "彳", "consideredCharacter": true, "notes": ["note_comp_5F73_pinyin"], "translations": ["trans_comp_5F73_0", "trans_comp_5F73_1"], "links": ["link_unihan_license"], "contains": []}
+{"id": "comp_5E72", "language": "cmn", "content": "干", "consideredCharacter": true, "notes": ["note_comp_5E72_pinyin"], "translations": ["trans_comp_5E72_0", "trans_comp_5E72_1", "trans_comp_5E72_2", "trans_comp_5E72_3"], "links": ["link_unihan_license"], "contains": []}
+{"id": "word_511866", "language": "cmn", "content": "干部", "consideredWord": true, "notes": [], "translations": ["trans_word_511866_0"], "links": [], "contains": ["comp_5E72"]}
+{"id": "word_720953", "language": "cmn", "content": "干净", "consideredWord": true, "notes": [], "translations": ["trans_word_720953_0"], "links": [], "contains": ["comp_5E72"]}
+{"id": "word_668706", "language": "cmn", "content": "干嘛", "consideredWord": true, "notes": [], "translations": ["trans_word_668706_0"], "links": [], "contains": ["comp_5E72"]}
+{"id": "word_740114", "language": "cmn", "content": "若干", "consideredWord": true, "notes": [], "translations": ["trans_word_740114_0"], "links": [], "contains": ["comp_5E72"]}
+{"id": "word_736681", "language": "cmn", "content": "干扰", "consideredWord": true, "notes": [], "translations": ["trans_word_736681_0"], "links": [], "contains": ["comp_5E72"]}
+{"id": "word_842101", "language": "cmn", "content": "干涉", "consideredWord": true, "notes": [], "translations": ["trans_word_842101_0"], "links": [], "contains": ["comp_5E72"]}
+{"id": "comp_5DFE", "language": "cmn", "content": "巾", "consideredCharacter": true, "notes": ["note_comp_5DFE_pinyin", "note_comp_5DFE_radical_3"], "translations": ["trans_comp_5DFE_0", "trans_comp_5DFE_1", "trans_comp_5DFE_2"], "links": ["link_unihan_license"], "contains": []}
+{"id": "comp_7530", "language": "cmn", "content": "田", "consideredCharacter": true, "notes": ["note_comp_7530_pinyin"], "translations": ["trans_comp_7530_0", "trans_comp_7530_1", "trans_comp_7530_2"], "links": ["link_unihan_license"], "contains": []}
+{"id": "comp_4E91", "language": "cmn", "content": "云", "consideredCharacter": true, "notes": ["note_comp_4E91_pinyin"], "translations": ["trans_comp_4E91_0", "trans_comp_4E91_1", "trans_comp_4E91_2"], "links": ["link_unihan_license"], "contains": []}
+{"id": "word_896312", "language": "cmn", "content": "云南", "consideredWord": true, "notes": [], "translations": ["trans_word_896312_0"], "links": [], "contains": ["comp_4E91"]}
+{"id": "comp_5F50", "language": "cmn", "content": "彐", "consideredCharacter": true, "notes": ["note_comp_5F50_pinyin", "note_comp_5F50_radical_1"], "translations": ["trans_comp_5F50_0"], "links": ["link_unihan_license"], "contains": []}

@@ -326,7 +326,7 @@ def main():
 
     # Generate mini set (20 components)
     print("\n=== Generating mini set (20 components) ===")
-    top_20 = sorted_components[:20]
+    top_20 = sorted_components[:50]
     vocab_list_20, translation_list_20, note_list_20, link_list_20 = generate_vocab_objects(
         top_20, unihan_data, words
     )
