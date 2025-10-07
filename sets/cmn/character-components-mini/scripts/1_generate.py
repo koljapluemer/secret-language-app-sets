@@ -54,7 +54,9 @@ IDS_CHARS = set([
 ])
 
 # License link
+LINK_ID = "link_unihan_license"
 LICENSE_LINK = {
+    "id": LINK_ID,
     "label": "Unihan Database License",
     "url": "https://hexdocs.pm/unicode_unihan/license.html",
     "owner": "Unicode, Inc.",
@@ -173,8 +175,6 @@ def generate_vocab_objects(top_components, unihan_data, all_words):
     note_list = []
     link_list = [LICENSE_LINK]
 
-    link_id = "link_unihan_license"
-
     for comp_data in top_components:
         component = comp_data['component']
 
@@ -190,7 +190,7 @@ def generate_vocab_objects(top_components, unihan_data, all_words):
             'consideredCharacter': True,
             'notes': [],
             'translations': [],
-            'links': [link_id],
+            'links': [LINK_ID],
             'contains': []
         }
 
