@@ -324,15 +324,15 @@ def main():
     print("Loading Unihan readings...")
     unihan_data = load_unihan_readings()
 
-    # Generate mini set (20 components)
-    print("\n=== Generating mini set (20 components) ===")
-    top_20 = sorted_components[:50]
-    vocab_list_20, translation_list_20, note_list_20, link_list_20 = generate_vocab_objects(
-        top_20, unihan_data, words
+    # Generate mini set (100 components)
+    print("\n=== Generating mini set (100 components) ===")
+    top_100 = sorted_components[:50]
+    vocab_list_100, translation_list_100, note_list_100, link_list_100 = generate_vocab_objects(
+        top_100, unihan_data, words
     )
-    print(f"Generated {len(vocab_list_20)} vocab items, {len(translation_list_20)} translations, {len(note_list_20)} notes")
+    print(f"Generated {len(vocab_list_100)} vocab items, {len(translation_list_100)} translations, {len(note_list_100)} notes")
 
-    write_set(vocab_list_20, translation_list_20, note_list_20, link_list_20, OUTPUT_DIR)
+    write_set(vocab_list_100, translation_list_100, note_list_100, link_list_100, OUTPUT_DIR)
 
     print(f"\n✓ All done!")
 
