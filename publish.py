@@ -51,6 +51,10 @@ def main():
                     metadata = json.load(f)
                     lang_metadata[set_name] = metadata
 
+            license_file = set_src / "license.txt"
+            if license_file.exists():
+                shutil.copy2(license_file, set_dest)
+
             # Copy contents from out/ subfolder to public set folder
             out_dir = set_src / "out"
             if out_dir.exists():
