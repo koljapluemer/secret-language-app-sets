@@ -10,6 +10,10 @@
   "mandarin-character-deck": {
     "title": "Mandarin Character Deck"
   },
+  "restaurant-menu-vocabulary": {
+    "title": "Restaurant Vocabulary",
+    "preferredMode": "practice-mode-set-study"
+  },
   "mulan-vocab": {
     "title": "Mulan Vocabulary",
     "preferredMode": "practice-mode-set-study"
