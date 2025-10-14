@@ -1,271 +1,271 @@
-{"id": "note_pinyin_001", "content": "mǐfàn"}
-{"id": "note_pinyin_002", "content": "miàntiáo"}
-{"id": "note_pinyin_003", "content": "bāozi"}
-{"id": "note_pinyin_004", "content": "jiǎozi"}
-{"id": "note_pinyin_005", "content": "tāng"}
-{"id": "note_pinyin_006", "content": "zhōu"}
-{"id": "note_pinyin_007", "content": "chǎofàn"}
-{"id": "note_pinyin_008", "content": "chǎomiàn"}
-{"id": "note_pinyin_009", "content": "mántou"}
-{"id": "note_pinyin_010", "content": "shāomài"}
-{"id": "note_pinyin_011", "content": "chūnjuǎn"}
-{"id": "note_pinyin_012", "content": "dàn chǎofàn"}
-{"id": "note_pinyin_013", "content": "niúròu"}
-{"id": "note_pinyin_014", "content": "zhūròu"}
-{"id": "note_pinyin_015", "content": "jīròu"}
-{"id": "note_pinyin_016", "content": "yú"}
-{"id": "note_pinyin_017", "content": "xiā"}
-{"id": "note_pinyin_018", "content": "xiè"}
-{"id": "note_pinyin_019", "content": "dòufu"}
-{"id": "note_pinyin_020", "content": "shūcài"}
-{"id": "note_pinyin_021", "content": "qīngcài"}
-{"id": "note_pinyin_022", "content": "báicài"}
-{"id": "note_pinyin_023", "content": "qiézi"}
-{"id": "note_pinyin_024", "content": "tǔdòu"}
-{"id": "note_pinyin_025", "content": "yángcōng"}
-{"id": "note_pinyin_026", "content": "làjiāo"}
-{"id": "note_pinyin_027", "content": "suàn"}
-{"id": "note_pinyin_028", "content": "jiāng"}
-{"id": "note_pinyin_029", "content": "jiàngyóu"}
-{"id": "note_pinyin_030", "content": "cù"}
-{"id": "note_pinyin_031", "content": "yán"}
-{"id": "note_pinyin_032", "content": "táng"}
-{"id": "note_pinyin_033", "content": "yóu"}
-{"id": "note_pinyin_034", "content": "xiāngyóu"}
-{"id": "note_pinyin_035", "content": "zhīmájiàng"}
-{"id": "note_pinyin_036", "content": "huāshēng"}
-{"id": "note_pinyin_037", "content": "huāshēng jiàng"}
-{"id": "note_pinyin_038", "content": "jiàng"}
-{"id": "note_pinyin_039", "content": "spicy"}
-{"id": "note_pinyin_040", "content": "sweet"}
-{"id": "note_pinyin_041", "content": "sour"}
-{"id": "note_pinyin_042", "content": "salty"}
-{"id": "note_pinyin_043", "content": "bitter"}
-{"id": "note_pinyin_044", "content": "light taste"}
-{"id": "note_pinyin_045", "content": "zhòng kǒuwèi"}
-{"id": "note_pinyin_046", "content": "qīngdàn"}
-{"id": "note_pinyin_047", "content": "mǐfěn"}
-{"id": "note_pinyin_048", "content": "fěnsī"}
-{"id": "note_pinyin_049", "content": "liángcài"}
-{"id": "note_pinyin_050", "content": "rècài"}
-{"id": "note_pinyin_051", "content": "zhǔshí"}
-{"id": "note_pinyin_052", "content": "xiǎochī"}
-{"id": "note_pinyin_053", "content": "tiándiǎn"}
-{"id": "note_pinyin_054", "content": "shuǐguǒ"}
-{"id": "note_pinyin_055", "content": "yǐnliào"}
-{"id": "note_pinyin_056", "content": "píjiǔ"}
-{"id": "note_pinyin_057", "content": "báijiǔ"}
-{"id": "note_pinyin_058", "content": "pútáojiǔ"}
-{"id": "note_pinyin_059", "content": "hóngjiǔ"}
-{"id": "note_pinyin_060", "content": "lǜchá"}
-{"id": "note_pinyin_061", "content": "hóngchá"}
-{"id": "note_pinyin_062", "content": "wūlóngchá"}
-{"id": "note_pinyin_063", "content": "huāchá"}
-{"id": "note_pinyin_064", "content": "bīngchá"}
-{"id": "note_pinyin_065", "content": "kuàngquánshuǐ"}
+{"id": "note_pinyin_001", "content": "mǐfàn", "noteType": "pinyin"}
+{"id": "note_pinyin_002", "content": "miàntiáo", "noteType": "pinyin"}
+{"id": "note_pinyin_003", "content": "bāozi", "noteType": "pinyin"}
+{"id": "note_pinyin_004", "content": "jiǎozi", "noteType": "pinyin"}
+{"id": "note_pinyin_005", "content": "tāng", "noteType": "pinyin"}
+{"id": "note_pinyin_006", "content": "zhōu", "noteType": "pinyin"}
+{"id": "note_pinyin_007", "content": "chǎofàn", "noteType": "pinyin"}
+{"id": "note_pinyin_008", "content": "chǎomiàn", "noteType": "pinyin"}
+{"id": "note_pinyin_009", "content": "mántou", "noteType": "pinyin"}
+{"id": "note_pinyin_010", "content": "shāomài", "noteType": "pinyin"}
+{"id": "note_pinyin_011", "content": "chūnjuǎn", "noteType": "pinyin"}
+{"id": "note_pinyin_012", "content": "dàn chǎofàn", "noteType": "pinyin"}
+{"id": "note_pinyin_013", "content": "niúròu", "noteType": "pinyin"}
+{"id": "note_pinyin_014", "content": "zhūròu", "noteType": "pinyin"}
+{"id": "note_pinyin_015", "content": "jīròu", "noteType": "pinyin"}
+{"id": "note_pinyin_016", "content": "yú", "noteType": "pinyin"}
+{"id": "note_pinyin_017", "content": "xiā", "noteType": "pinyin"}
+{"id": "note_pinyin_018", "content": "xiè", "noteType": "pinyin"}
+{"id": "note_pinyin_019", "content": "dòufu", "noteType": "pinyin"}
+{"id": "note_pinyin_020", "content": "shūcài", "noteType": "pinyin"}
+{"id": "note_pinyin_021", "content": "qīngcài", "noteType": "pinyin"}
+{"id": "note_pinyin_022", "content": "báicài", "noteType": "pinyin"}
+{"id": "note_pinyin_023", "content": "qiézi", "noteType": "pinyin"}
+{"id": "note_pinyin_024", "content": "tǔdòu", "noteType": "pinyin"}
+{"id": "note_pinyin_025", "content": "yángcōng", "noteType": "pinyin"}
+{"id": "note_pinyin_026", "content": "làjiāo", "noteType": "pinyin"}
+{"id": "note_pinyin_027", "content": "suàn", "noteType": "pinyin"}
+{"id": "note_pinyin_028", "content": "jiāng", "noteType": "pinyin"}
+{"id": "note_pinyin_029", "content": "jiàngyóu", "noteType": "pinyin"}
+{"id": "note_pinyin_030", "content": "cù", "noteType": "pinyin"}
+{"id": "note_pinyin_031", "content": "yán", "noteType": "pinyin"}
+{"id": "note_pinyin_032", "content": "táng", "noteType": "pinyin"}
+{"id": "note_pinyin_033", "content": "yóu", "noteType": "pinyin"}
+{"id": "note_pinyin_034", "content": "xiāngyóu", "noteType": "pinyin"}
+{"id": "note_pinyin_035", "content": "zhīmájiàng", "noteType": "pinyin"}
+{"id": "note_pinyin_036", "content": "huāshēng", "noteType": "pinyin"}
+{"id": "note_pinyin_037", "content": "huāshēng jiàng", "noteType": "pinyin"}
+{"id": "note_pinyin_038", "content": "jiàng", "noteType": "pinyin"}
+{"id": "note_pinyin_039", "content": "spicy", "noteType": "pinyin"}
+{"id": "note_pinyin_040", "content": "sweet", "noteType": "pinyin"}
+{"id": "note_pinyin_041", "content": "sour", "noteType": "pinyin"}
+{"id": "note_pinyin_042", "content": "salty", "noteType": "pinyin"}
+{"id": "note_pinyin_043", "content": "bitter", "noteType": "pinyin"}
+{"id": "note_pinyin_044", "content": "light taste", "noteType": "pinyin"}
+{"id": "note_pinyin_045", "content": "zhòng kǒuwèi", "noteType": "pinyin"}
+{"id": "note_pinyin_046", "content": "qīngdàn", "noteType": "pinyin"}
+{"id": "note_pinyin_047", "content": "mǐfěn", "noteType": "pinyin"}
+{"id": "note_pinyin_048", "content": "fěnsī", "noteType": "pinyin"}
+{"id": "note_pinyin_049", "content": "liángcài", "noteType": "pinyin"}
+{"id": "note_pinyin_050", "content": "rècài", "noteType": "pinyin"}
+{"id": "note_pinyin_051", "content": "zhǔshí", "noteType": "pinyin"}
+{"id": "note_pinyin_052", "content": "xiǎochī", "noteType": "pinyin"}
+{"id": "note_pinyin_053", "content": "tiándiǎn", "noteType": "pinyin"}
+{"id": "note_pinyin_054", "content": "shuǐguǒ", "noteType": "pinyin"}
+{"id": "note_pinyin_055", "content": "yǐnliào", "noteType": "pinyin"}
+{"id": "note_pinyin_056", "content": "píjiǔ", "noteType": "pinyin"}
+{"id": "note_pinyin_057", "content": "báijiǔ", "noteType": "pinyin"}
+{"id": "note_pinyin_058", "content": "pútáojiǔ", "noteType": "pinyin"}
+{"id": "note_pinyin_059", "content": "hóngjiǔ", "noteType": "pinyin"}
+{"id": "note_pinyin_060", "content": "lǜchá", "noteType": "pinyin"}
+{"id": "note_pinyin_061", "content": "hóngchá", "noteType": "pinyin"}
+{"id": "note_pinyin_062", "content": "wūlóngchá", "noteType": "pinyin"}
+{"id": "note_pinyin_063", "content": "huāchá", "noteType": "pinyin"}
+{"id": "note_pinyin_064", "content": "bīngchá", "noteType": "pinyin"}
+{"id": "note_pinyin_065", "content": "kuàngquánshuǐ", "noteType": "pinyin"}
 {"id": "note_pinyin_066", "content": ""}
-{"id": "note_pinyin_067", "content": "kělè"}
-{"id": "note_pinyin_068", "content": "xuěbì"}
-{"id": "note_pinyin_069", "content": "càidān"}
-{"id": "note_pinyin_070", "content": "fúwùyuán"}
-{"id": "note_pinyin_071", "content": "gùkè"}
-{"id": "note_pinyin_072", "content": "zhàngdān"}
-{"id": "note_pinyin_073", "content": "xiànjīn"}
-{"id": "note_pinyin_074", "content": "xìnyòngkǎ"}
-{"id": "note_pinyin_075", "content": "qǐng shāo děng"}
+{"id": "note_pinyin_067", "content": "kělè", "noteType": "pinyin"}
+{"id": "note_pinyin_068", "content": "xuěbì", "noteType": "pinyin"}
+{"id": "note_pinyin_069", "content": "càidān", "noteType": "pinyin"}
+{"id": "note_pinyin_070", "content": "fúwùyuán", "noteType": "pinyin"}
+{"id": "note_pinyin_071", "content": "gùkè", "noteType": "pinyin"}
+{"id": "note_pinyin_072", "content": "zhàngdān", "noteType": "pinyin"}
+{"id": "note_pinyin_073", "content": "xiànjīn", "noteType": "pinyin"}
+{"id": "note_pinyin_074", "content": "xìnyòngkǎ", "noteType": "pinyin"}
+{"id": "note_pinyin_075", "content": "qǐng shāo děng", "noteType": "pinyin"}
 {"id": "note_misc_075", "content": "common phrase"}
-{"id": "note_pinyin_076", "content": "xièxie"}
-{"id": "note_pinyin_077", "content": "bú yòng xiè"}
-{"id": "note_pinyin_078", "content": "zài lái yī fèn"}
-{"id": "note_pinyin_079", "content": "mǎidān"}
+{"id": "note_pinyin_076", "content": "xièxie", "noteType": "pinyin"}
+{"id": "note_pinyin_077", "content": "bú yòng xiè", "noteType": "pinyin"}
+{"id": "note_pinyin_078", "content": "zài lái yī fèn", "noteType": "pinyin"}
+{"id": "note_pinyin_079", "content": "mǎidān", "noteType": "pinyin"}
 {"id": "note_misc_079", "content": "verb"}
-{"id": "note_pinyin_080", "content": "dǎbāo"}
+{"id": "note_pinyin_080", "content": "dǎbāo", "noteType": "pinyin"}
 {"id": "note_misc_080", "content": "verb"}
-{"id": "note_pinyin_081", "content": "wàimài"}
-{"id": "note_pinyin_082", "content": "tángshí"}
-{"id": "note_pinyin_083", "content": "là bù là"}
+{"id": "note_pinyin_081", "content": "wàimài", "noteType": "pinyin"}
+{"id": "note_pinyin_082", "content": "tángshí", "noteType": "pinyin"}
+{"id": "note_pinyin_083", "content": "là bù là", "noteType": "pinyin"}
 {"id": "note_misc_083", "content": "question phrase"}
-{"id": "note_pinyin_084", "content": "bú là"}
-{"id": "note_pinyin_085", "content": "wēi là"}
-{"id": "note_pinyin_086", "content": "zhōng là"}
-{"id": "note_pinyin_087", "content": "tè là"}
-{"id": "note_pinyin_088", "content": "qǐng gěi wǒ..."}
+{"id": "note_pinyin_084", "content": "bú là", "noteType": "pinyin"}
+{"id": "note_pinyin_085", "content": "wēi là", "noteType": "pinyin"}
+{"id": "note_pinyin_086", "content": "zhōng là", "noteType": "pinyin"}
+{"id": "note_pinyin_087", "content": "tè là", "noteType": "pinyin"}
+{"id": "note_pinyin_088", "content": "qǐng gěi wǒ...", "noteType": "pinyin"}
 {"id": "note_misc_088", "content": "phrase"}
-{"id": "note_pinyin_089", "content": "yī wǎn"}
+{"id": "note_pinyin_089", "content": "yī wǎn", "noteType": "pinyin"}
 {"id": "note_misc_089", "content": "measure word"}
-{"id": "note_pinyin_090", "content": "yī pán"}
+{"id": "note_pinyin_090", "content": "yī pán", "noteType": "pinyin"}
 {"id": "note_misc_090", "content": "measure word"}
-{"id": "note_pinyin_091", "content": "yī fèn"}
+{"id": "note_pinyin_091", "content": "yī fèn", "noteType": "pinyin"}
 {"id": "note_misc_091", "content": "measure word"}
-{"id": "note_pinyin_092", "content": "yī píng"}
+{"id": "note_pinyin_092", "content": "yī píng", "noteType": "pinyin"}
 {"id": "note_misc_092", "content": "measure word"}
-{"id": "note_pinyin_093", "content": "yī bēi"}
+{"id": "note_pinyin_093", "content": "yī bēi", "noteType": "pinyin"}
 {"id": "note_misc_093", "content": "measure word"}
 {"id": "note_pinyin_094", "content": ""}
-{"id": "note_pinyin_095", "content": "kuàizi"}
-{"id": "note_pinyin_096", "content": "chāzi"}
-{"id": "note_pinyin_097", "content": "dāozi"}
-{"id": "note_pinyin_098", "content": "wǎn"}
-{"id": "note_pinyin_099", "content": "pánzi"}
-{"id": "note_pinyin_100", "content": "bēizi"}
-{"id": "note_pinyin_101", "content": "zhuōzi"}
-{"id": "note_pinyin_102", "content": "yǐzi"}
-{"id": "note_pinyin_103", "content": "zhǐjīn"}
-{"id": "note_pinyin_104", "content": "cānjīnzhǐ"}
-{"id": "note_pinyin_105", "content": "cānjù"}
-{"id": "note_pinyin_106", "content": "guō"}
-{"id": "note_pinyin_107", "content": "huǒguō"}
-{"id": "note_pinyin_108", "content": "tiěbǎn"}
-{"id": "note_pinyin_109", "content": "shāguō"}
-{"id": "note_pinyin_110", "content": "zhēng"}
+{"id": "note_pinyin_095", "content": "kuàizi", "noteType": "pinyin"}
+{"id": "note_pinyin_096", "content": "chāzi", "noteType": "pinyin"}
+{"id": "note_pinyin_097", "content": "dāozi", "noteType": "pinyin"}
+{"id": "note_pinyin_098", "content": "wǎn", "noteType": "pinyin"}
+{"id": "note_pinyin_099", "content": "pánzi", "noteType": "pinyin"}
+{"id": "note_pinyin_100", "content": "bēizi", "noteType": "pinyin"}
+{"id": "note_pinyin_101", "content": "zhuōzi", "noteType": "pinyin"}
+{"id": "note_pinyin_102", "content": "yǐzi", "noteType": "pinyin"}
+{"id": "note_pinyin_103", "content": "zhǐjīn", "noteType": "pinyin"}
+{"id": "note_pinyin_104", "content": "cānjīnzhǐ", "noteType": "pinyin"}
+{"id": "note_pinyin_105", "content": "cānjù", "noteType": "pinyin"}
+{"id": "note_pinyin_106", "content": "guō", "noteType": "pinyin"}
+{"id": "note_pinyin_107", "content": "huǒguō", "noteType": "pinyin"}
+{"id": "note_pinyin_108", "content": "tiěbǎn", "noteType": "pinyin"}
+{"id": "note_pinyin_109", "content": "shāguō", "noteType": "pinyin"}
+{"id": "note_pinyin_110", "content": "zhēng", "noteType": "pinyin"}
 {"id": "note_misc_110", "content": "verb"}
-{"id": "note_pinyin_111", "content": "zhǔ"}
+{"id": "note_pinyin_111", "content": "zhǔ", "noteType": "pinyin"}
 {"id": "note_misc_111", "content": "verb"}
-{"id": "note_pinyin_112", "content": "chǎo"}
+{"id": "note_pinyin_112", "content": "chǎo", "noteType": "pinyin"}
 {"id": "note_misc_112", "content": "verb"}
-{"id": "note_pinyin_113", "content": "zhà"}
+{"id": "note_pinyin_113", "content": "zhà", "noteType": "pinyin"}
 {"id": "note_misc_113", "content": "verb"}
-{"id": "note_pinyin_114", "content": "kǎo"}
+{"id": "note_pinyin_114", "content": "kǎo", "noteType": "pinyin"}
 {"id": "note_misc_114", "content": "verb"}
-{"id": "note_pinyin_115", "content": "mèn"}
+{"id": "note_pinyin_115", "content": "mèn", "noteType": "pinyin"}
 {"id": "note_misc_115", "content": "verb"}
-{"id": "note_pinyin_116", "content": "dùn"}
+{"id": "note_pinyin_116", "content": "dùn", "noteType": "pinyin"}
 {"id": "note_misc_116", "content": "verb"}
-{"id": "note_pinyin_117", "content": "qiē"}
+{"id": "note_pinyin_117", "content": "qiē", "noteType": "pinyin"}
 {"id": "note_misc_117", "content": "verb"}
-{"id": "note_pinyin_118", "content": "duò"}
+{"id": "note_pinyin_118", "content": "duò", "noteType": "pinyin"}
 {"id": "note_misc_118", "content": "verb"}
-{"id": "note_pinyin_119", "content": "pèiliào"}
-{"id": "note_pinyin_120", "content": "zhǔliào"}
-{"id": "note_pinyin_121", "content": "fǔliào"}
-{"id": "note_pinyin_122", "content": "tiáoliào"}
-{"id": "note_pinyin_123", "content": "xiāngcài"}
-{"id": "note_pinyin_124", "content": "cōng"}
-{"id": "note_pinyin_125", "content": "suànní"}
-{"id": "note_pinyin_126", "content": "jiāngpiàn"}
-{"id": "note_pinyin_127", "content": "huājiāo"}
-{"id": "note_pinyin_128", "content": "bājiǎo"}
-{"id": "note_pinyin_129", "content": "guìpí"}
-{"id": "note_pinyin_130", "content": "xiāngyè"}
-{"id": "note_pinyin_131", "content": "jīdàn"}
-{"id": "note_pinyin_132", "content": "pídàn"}
-{"id": "note_pinyin_133", "content": "yādàn"}
-{"id": "note_pinyin_134", "content": "dòuyá"}
-{"id": "note_pinyin_135", "content": "huángguā"}
-{"id": "note_pinyin_136", "content": "xīhóngshì"}
-{"id": "note_pinyin_137", "content": "húluóbo"}
-{"id": "note_pinyin_138", "content": "mùěr"}
-{"id": "note_pinyin_139", "content": "xiānggū"}
-{"id": "note_pinyin_140", "content": "jīnzhēngū"}
-{"id": "note_pinyin_141", "content": "dòupí"}
-{"id": "note_pinyin_142", "content": "dòugān"}
-{"id": "note_pinyin_143", "content": "dòuhuā"}
-{"id": "note_pinyin_144", "content": "niúnǎi"}
-{"id": "note_pinyin_145", "content": "suānnǎi"}
-{"id": "note_pinyin_146", "content": "bīngqílín"}
-{"id": "note_pinyin_147", "content": "dàngāo"}
-{"id": "note_pinyin_148", "content": "bǐng"}
-{"id": "note_pinyin_149", "content": "jiānbǐng"}
-{"id": "note_pinyin_150", "content": "yuèbǐng"}
-{"id": "note_pinyin_151", "content": "bāofàn"}
-{"id": "note_pinyin_152", "content": "shòusī"}
+{"id": "note_pinyin_119", "content": "pèiliào", "noteType": "pinyin"}
+{"id": "note_pinyin_120", "content": "zhǔliào", "noteType": "pinyin"}
+{"id": "note_pinyin_121", "content": "fǔliào", "noteType": "pinyin"}
+{"id": "note_pinyin_122", "content": "tiáoliào", "noteType": "pinyin"}
+{"id": "note_pinyin_123", "content": "xiāngcài", "noteType": "pinyin"}
+{"id": "note_pinyin_124", "content": "cōng", "noteType": "pinyin"}
+{"id": "note_pinyin_125", "content": "suànní", "noteType": "pinyin"}
+{"id": "note_pinyin_126", "content": "jiāngpiàn", "noteType": "pinyin"}
+{"id": "note_pinyin_127", "content": "huājiāo", "noteType": "pinyin"}
+{"id": "note_pinyin_128", "content": "bājiǎo", "noteType": "pinyin"}
+{"id": "note_pinyin_129", "content": "guìpí", "noteType": "pinyin"}
+{"id": "note_pinyin_130", "content": "xiāngyè", "noteType": "pinyin"}
+{"id": "note_pinyin_131", "content": "jīdàn", "noteType": "pinyin"}
+{"id": "note_pinyin_132", "content": "pídàn", "noteType": "pinyin"}
+{"id": "note_pinyin_133", "content": "yādàn", "noteType": "pinyin"}
+{"id": "note_pinyin_134", "content": "dòuyá", "noteType": "pinyin"}
+{"id": "note_pinyin_135", "content": "huángguā", "noteType": "pinyin"}
+{"id": "note_pinyin_136", "content": "xīhóngshì", "noteType": "pinyin"}
+{"id": "note_pinyin_137", "content": "húluóbo", "noteType": "pinyin"}
+{"id": "note_pinyin_138", "content": "mùěr", "noteType": "pinyin"}
+{"id": "note_pinyin_139", "content": "xiānggū", "noteType": "pinyin"}
+{"id": "note_pinyin_140", "content": "jīnzhēngū", "noteType": "pinyin"}
+{"id": "note_pinyin_141", "content": "dòupí", "noteType": "pinyin"}
+{"id": "note_pinyin_142", "content": "dòugān", "noteType": "pinyin"}
+{"id": "note_pinyin_143", "content": "dòuhuā", "noteType": "pinyin"}
+{"id": "note_pinyin_144", "content": "niúnǎi", "noteType": "pinyin"}
+{"id": "note_pinyin_145", "content": "suānnǎi", "noteType": "pinyin"}
+{"id": "note_pinyin_146", "content": "bīngqílín", "noteType": "pinyin"}
+{"id": "note_pinyin_147", "content": "dàngāo", "noteType": "pinyin"}
+{"id": "note_pinyin_148", "content": "bǐng", "noteType": "pinyin"}
+{"id": "note_pinyin_149", "content": "jiānbǐng", "noteType": "pinyin"}
+{"id": "note_pinyin_150", "content": "yuèbǐng", "noteType": "pinyin"}
+{"id": "note_pinyin_151", "content": "bāofàn", "noteType": "pinyin"}
+{"id": "note_pinyin_152", "content": "shòusī", "noteType": "pinyin"}
 {"id": "note_misc_152", "content": "loanword"}
-{"id": "note_pinyin_153", "content": "shālā"}
+{"id": "note_pinyin_153", "content": "shālā", "noteType": "pinyin"}
 {"id": "note_misc_153", "content": "loanword"}
-{"id": "note_pinyin_154", "content": "niúpái"}
-{"id": "note_pinyin_155", "content": "pīsà"}
+{"id": "note_pinyin_154", "content": "niúpái", "noteType": "pinyin"}
+{"id": "note_pinyin_155", "content": "pīsà", "noteType": "pinyin"}
 {"id": "note_misc_155", "content": "loanword"}
-{"id": "note_pinyin_156", "content": "hànbǎo"}
+{"id": "note_pinyin_156", "content": "hànbǎo", "noteType": "pinyin"}
 {"id": "note_misc_156", "content": "loanword"}
-{"id": "note_pinyin_157", "content": "shǔtiáo"}
-{"id": "note_pinyin_158", "content": "shǔpiàn"}
-{"id": "note_pinyin_159", "content": "sānmíngzhì"}
-{"id": "note_pinyin_160", "content": "règǒu"}
-{"id": "note_pinyin_161", "content": "chǎo qīngcài"}
-{"id": "note_pinyin_162", "content": "gōngbǎo jīdīng"}
-{"id": "note_pinyin_163", "content": "mápó dòufu"}
-{"id": "note_pinyin_164", "content": "yúxiāng ròusī"}
-{"id": "note_pinyin_165", "content": "táng cù lǐjǐ"}
-{"id": "note_pinyin_166", "content": "hóngshāo ròu"}
-{"id": "note_pinyin_167", "content": "qīngzhēng yú"}
-{"id": "note_pinyin_168", "content": "shuǐzhǔ yú"}
-{"id": "note_pinyin_169", "content": "xiānglà xiā"}
-{"id": "note_pinyin_170", "content": "suānlà tāng"}
-{"id": "note_pinyin_171", "content": "húntun"}
-{"id": "note_pinyin_172", "content": "lāmiàn"}
-{"id": "note_pinyin_173", "content": "dāoxiāomiàn"}
-{"id": "note_pinyin_174", "content": "mǐxiàn"}
-{"id": "note_pinyin_175", "content": "liángpí"}
-{"id": "note_pinyin_176", "content": "lǔròu"}
-{"id": "note_pinyin_177", "content": "kǎoyā"}
-{"id": "note_pinyin_178", "content": "běijīng kǎoyā"}
-{"id": "note_pinyin_179", "content": "chāshāo"}
-{"id": "note_pinyin_180", "content": "shāo é"}
-{"id": "note_pinyin_181", "content": "xiǎolóngbāo"}
-{"id": "note_pinyin_182", "content": "shēngjiānbāo"}
-{"id": "note_pinyin_183", "content": "tāngbāo"}
-{"id": "note_pinyin_184", "content": "mǐgāo"}
-{"id": "note_pinyin_185", "content": "niángāo"}
-{"id": "note_pinyin_186", "content": "zòngzi"}
-{"id": "note_pinyin_187", "content": "dòushābāo"}
-{"id": "note_pinyin_188", "content": "liánróngbāo"}
-{"id": "note_pinyin_189", "content": "zhīmáqiú"}
-{"id": "note_pinyin_190", "content": "shāobǐng"}
-{"id": "note_pinyin_191", "content": "yóutiáo"}
-{"id": "note_pinyin_192", "content": "dòujiāng"}
-{"id": "note_pinyin_193", "content": "xiǎomǐ zhōu"}
-{"id": "note_pinyin_194", "content": "hóngdòu tāng"}
-{"id": "note_pinyin_195", "content": "lǜdòu tāng"}
-{"id": "note_pinyin_196", "content": "bābǎo zhōu"}
-{"id": "note_pinyin_197", "content": "liánzǐ gēng"}
-{"id": "note_pinyin_198", "content": "bīngfěn"}
-{"id": "note_pinyin_199", "content": "bàobīng"}
-{"id": "note_pinyin_200", "content": "tángshuǐ"}
-{"id": "note_pinyin_201", "content": "guìhuā gāo"}
-{"id": "note_pinyin_202", "content": "nuòmǐcí"}
-{"id": "note_pinyin_203", "content": "tāngyuán"}
-{"id": "note_pinyin_204", "content": "yuánxiāo"}
-{"id": "note_pinyin_205", "content": "máhuā"}
-{"id": "note_pinyin_206", "content": "lǜdòu gāo"}
-{"id": "note_pinyin_207", "content": "liánzǐ zhōu"}
-{"id": "note_pinyin_208", "content": "bīngzhèn yǐnliào"}
-{"id": "note_pinyin_209", "content": "rèyǐn"}
-{"id": "note_pinyin_210", "content": "qīngtāng"}
-{"id": "note_pinyin_211", "content": "nóngtāng"}
-{"id": "note_pinyin_212", "content": "páigǔ tāng"}
-{"id": "note_pinyin_213", "content": "hǎixiān tāng"}
-{"id": "note_pinyin_214", "content": "jītāng"}
-{"id": "note_pinyin_215", "content": "niúgǔ tāng"}
-{"id": "note_pinyin_216", "content": "huǒtuǐ"}
-{"id": "note_pinyin_217", "content": "xiāngcháng"}
-{"id": "note_pinyin_218", "content": "péigēn"}
-{"id": "note_pinyin_219", "content": "dànhuā tāng"}
-{"id": "note_pinyin_220", "content": "zǐcài dànhuā tāng"}
-{"id": "note_pinyin_221", "content": "yùmǐ tāng"}
-{"id": "note_pinyin_222", "content": "fānqié tāng"}
-{"id": "note_pinyin_223", "content": "shūcài tāng"}
-{"id": "note_pinyin_224", "content": "dòufu tāng"}
-{"id": "note_pinyin_225", "content": "hǎidài tāng"}
-{"id": "note_pinyin_226", "content": "báizhōu"}
-{"id": "note_pinyin_227", "content": "pídàn shòuròu zhōu"}
-{"id": "note_pinyin_228", "content": "niúròu miàn"}
-{"id": "note_pinyin_229", "content": "zhájiàng miàn"}
-{"id": "note_pinyin_230", "content": "dàndàn miàn"}
-{"id": "note_pinyin_231", "content": "liángmiàn"}
-{"id": "note_pinyin_232", "content": "guōtiē"}
-{"id": "note_pinyin_233", "content": "jiānjiǎo"}
-{"id": "note_pinyin_234", "content": "shuǐjiǎo"}
-{"id": "note_pinyin_235", "content": "zhēngjiǎo"}
-{"id": "note_pinyin_236", "content": "vegetarian"}
-{"id": "note_pinyin_237", "content": "meat dish"}
-{"id": "note_pinyin_238", "content": "qīngzhēn"}
-{"id": "note_pinyin_239", "content": "niúnǎi kāfēi"}
-{"id": "note_pinyin_240", "content": "kāfēi"}
-{"id": "note_pinyin_241", "content": "nǎichá"}
-{"id": "note_pinyin_242", "content": "zhēnzhū nǎichá"}
-{"id": "note_pinyin_243", "content": "níngméng chá"}
-{"id": "note_pinyin_244", "content": "chéngzhī"}
-{"id": "note_pinyin_245", "content": "píngguǒ zhī"}
-{"id": "note_pinyin_246", "content": "xīguā zhī"}
-{"id": "note_pinyin_247", "content": "mángguǒ zhī"}
-{"id": "note_pinyin_248", "content": "yē zhī"}
+{"id": "note_pinyin_157", "content": "shǔtiáo", "noteType": "pinyin"}
+{"id": "note_pinyin_158", "content": "shǔpiàn", "noteType": "pinyin"}
+{"id": "note_pinyin_159", "content": "sānmíngzhì", "noteType": "pinyin"}
+{"id": "note_pinyin_160", "content": "règǒu", "noteType": "pinyin"}
+{"id": "note_pinyin_161", "content": "chǎo qīngcài", "noteType": "pinyin"}
+{"id": "note_pinyin_162", "content": "gōngbǎo jīdīng", "noteType": "pinyin"}
+{"id": "note_pinyin_163", "content": "mápó dòufu", "noteType": "pinyin"}
+{"id": "note_pinyin_164", "content": "yúxiāng ròusī", "noteType": "pinyin"}
+{"id": "note_pinyin_165", "content": "táng cù lǐjǐ", "noteType": "pinyin"}
+{"id": "note_pinyin_166", "content": "hóngshāo ròu", "noteType": "pinyin"}
+{"id": "note_pinyin_167", "content": "qīngzhēng yú", "noteType": "pinyin"}
+{"id": "note_pinyin_168", "content": "shuǐzhǔ yú", "noteType": "pinyin"}
+{"id": "note_pinyin_169", "content": "xiānglà xiā", "noteType": "pinyin"}
+{"id": "note_pinyin_170", "content": "suānlà tāng", "noteType": "pinyin"}
+{"id": "note_pinyin_171", "content": "húntun", "noteType": "pinyin"}
+{"id": "note_pinyin_172", "content": "lāmiàn", "noteType": "pinyin"}
+{"id": "note_pinyin_173", "content": "dāoxiāomiàn", "noteType": "pinyin"}
+{"id": "note_pinyin_174", "content": "mǐxiàn", "noteType": "pinyin"}
+{"id": "note_pinyin_175", "content": "liángpí", "noteType": "pinyin"}
+{"id": "note_pinyin_176", "content": "lǔròu", "noteType": "pinyin"}
+{"id": "note_pinyin_177", "content": "kǎoyā", "noteType": "pinyin"}
+{"id": "note_pinyin_178", "content": "běijīng kǎoyā", "noteType": "pinyin"}
+{"id": "note_pinyin_179", "content": "chāshāo", "noteType": "pinyin"}
+{"id": "note_pinyin_180", "content": "shāo é", "noteType": "pinyin"}
+{"id": "note_pinyin_181", "content": "xiǎolóngbāo", "noteType": "pinyin"}
+{"id": "note_pinyin_182", "content": "shēngjiānbāo", "noteType": "pinyin"}
+{"id": "note_pinyin_183", "content": "tāngbāo", "noteType": "pinyin"}
+{"id": "note_pinyin_184", "content": "mǐgāo", "noteType": "pinyin"}
+{"id": "note_pinyin_185", "content": "niángāo", "noteType": "pinyin"}
+{"id": "note_pinyin_186", "content": "zòngzi", "noteType": "pinyin"}
+{"id": "note_pinyin_187", "content": "dòushābāo", "noteType": "pinyin"}
+{"id": "note_pinyin_188", "content": "liánróngbāo", "noteType": "pinyin"}
+{"id": "note_pinyin_189", "content": "zhīmáqiú", "noteType": "pinyin"}
+{"id": "note_pinyin_190", "content": "shāobǐng", "noteType": "pinyin"}
+{"id": "note_pinyin_191", "content": "yóutiáo", "noteType": "pinyin"}
+{"id": "note_pinyin_192", "content": "dòujiāng", "noteType": "pinyin"}
+{"id": "note_pinyin_193", "content": "xiǎomǐ zhōu", "noteType": "pinyin"}
+{"id": "note_pinyin_194", "content": "hóngdòu tāng", "noteType": "pinyin"}
+{"id": "note_pinyin_195", "content": "lǜdòu tāng", "noteType": "pinyin"}
+{"id": "note_pinyin_196", "content": "bābǎo zhōu", "noteType": "pinyin"}
+{"id": "note_pinyin_197", "content": "liánzǐ gēng", "noteType": "pinyin"}
+{"id": "note_pinyin_198", "content": "bīngfěn", "noteType": "pinyin"}
+{"id": "note_pinyin_199", "content": "bàobīng", "noteType": "pinyin"}
+{"id": "note_pinyin_200", "content": "tángshuǐ", "noteType": "pinyin"}
+{"id": "note_pinyin_201", "content": "guìhuā gāo", "noteType": "pinyin"}
+{"id": "note_pinyin_202", "content": "nuòmǐcí", "noteType": "pinyin"}
+{"id": "note_pinyin_203", "content": "tāngyuán", "noteType": "pinyin"}
+{"id": "note_pinyin_204", "content": "yuánxiāo", "noteType": "pinyin"}
+{"id": "note_pinyin_205", "content": "máhuā", "noteType": "pinyin"}
+{"id": "note_pinyin_206", "content": "lǜdòu gāo", "noteType": "pinyin"}
+{"id": "note_pinyin_207", "content": "liánzǐ zhōu", "noteType": "pinyin"}
+{"id": "note_pinyin_208", "content": "bīngzhèn yǐnliào", "noteType": "pinyin"}
+{"id": "note_pinyin_209", "content": "rèyǐn", "noteType": "pinyin"}
+{"id": "note_pinyin_210", "content": "qīngtāng", "noteType": "pinyin"}
+{"id": "note_pinyin_211", "content": "nóngtāng", "noteType": "pinyin"}
+{"id": "note_pinyin_212", "content": "páigǔ tāng", "noteType": "pinyin"}
+{"id": "note_pinyin_213", "content": "hǎixiān tāng", "noteType": "pinyin"}
+{"id": "note_pinyin_214", "content": "jītāng", "noteType": "pinyin"}
+{"id": "note_pinyin_215", "content": "niúgǔ tāng", "noteType": "pinyin"}
+{"id": "note_pinyin_216", "content": "huǒtuǐ", "noteType": "pinyin"}
+{"id": "note_pinyin_217", "content": "xiāngcháng", "noteType": "pinyin"}
+{"id": "note_pinyin_218", "content": "péigēn", "noteType": "pinyin"}
+{"id": "note_pinyin_219", "content": "dànhuā tāng", "noteType": "pinyin"}
+{"id": "note_pinyin_220", "content": "zǐcài dànhuā tāng", "noteType": "pinyin"}
+{"id": "note_pinyin_221", "content": "yùmǐ tāng", "noteType": "pinyin"}
+{"id": "note_pinyin_222", "content": "fānqié tāng", "noteType": "pinyin"}
+{"id": "note_pinyin_223", "content": "shūcài tāng", "noteType": "pinyin"}
+{"id": "note_pinyin_224", "content": "dòufu tāng", "noteType": "pinyin"}
+{"id": "note_pinyin_225", "content": "hǎidài tāng", "noteType": "pinyin"}
+{"id": "note_pinyin_226", "content": "báizhōu", "noteType": "pinyin"}
+{"id": "note_pinyin_227", "content": "pídàn shòuròu zhōu", "noteType": "pinyin"}
+{"id": "note_pinyin_228", "content": "niúròu miàn", "noteType": "pinyin"}
+{"id": "note_pinyin_229", "content": "zhájiàng miàn", "noteType": "pinyin"}
+{"id": "note_pinyin_230", "content": "dàndàn miàn", "noteType": "pinyin"}
+{"id": "note_pinyin_231", "content": "liángmiàn", "noteType": "pinyin"}
+{"id": "note_pinyin_232", "content": "guōtiē", "noteType": "pinyin"}
+{"id": "note_pinyin_233", "content": "jiānjiǎo", "noteType": "pinyin"}
+{"id": "note_pinyin_234", "content": "shuǐjiǎo", "noteType": "pinyin"}
+{"id": "note_pinyin_235", "content": "zhēngjiǎo", "noteType": "pinyin"}
+{"id": "note_pinyin_236", "content": "vegetarian", "noteType": "pinyin"}
+{"id": "note_pinyin_237", "content": "meat dish", "noteType": "pinyin"}
+{"id": "note_pinyin_238", "content": "qīngzhēn", "noteType": "pinyin"}
+{"id": "note_pinyin_239", "content": "niúnǎi kāfēi", "noteType": "pinyin"}
+{"id": "note_pinyin_240", "content": "kāfēi", "noteType": "pinyin"}
+{"id": "note_pinyin_241", "content": "nǎichá", "noteType": "pinyin"}
+{"id": "note_pinyin_242", "content": "zhēnzhū nǎichá", "noteType": "pinyin"}
+{"id": "note_pinyin_243", "content": "níngméng chá", "noteType": "pinyin"}
+{"id": "note_pinyin_244", "content": "chéngzhī", "noteType": "pinyin"}
+{"id": "note_pinyin_245", "content": "píngguǒ zhī", "noteType": "pinyin"}
+{"id": "note_pinyin_246", "content": "xīguā zhī", "noteType": "pinyin"}
+{"id": "note_pinyin_247", "content": "mángguǒ zhī", "noteType": "pinyin"}
+{"id": "note_pinyin_248", "content": "yē zhī", "noteType": "pinyin"}
