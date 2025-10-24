@@ -1,5 +1,7 @@
 {
   "lisaanmasry-examples": {
-    "title": "LisaanMasry Example Sentences"
+    "title": "LisaanMasry Example Sentences",
+    "preferredMode": "practice-mode-sentence-slide",
+    "description": "Learn essential Egyptian Arabic vocabulary based on example sentences."
   }
 }
