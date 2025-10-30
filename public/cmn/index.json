@@ -18,6 +18,10 @@
     "title": "Mulan Vocabulary",
     "preferredMode": "practice-mode-set-study"
   },
+  "i-dont-understand": {
+    "title": "Not Understanding Anything In Mandarin",
+    "preferredMode": "cram"
+  },
   "character-components": {
     "title": "Mandarin Character Components",
     "preferredMode": "practice-mode-set-study"
