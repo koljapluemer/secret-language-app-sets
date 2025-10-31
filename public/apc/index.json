@@ -1,5 +1,9 @@
 {
   "youtube-apc-ar": {
     "title": "Levantine Arabic Youtube Immersion Content"
+  },
+  "i-dont-understand": {
+    "title": "Not Understanding Anything In Levantine Arabic",
+    "preferredMode": "cram"
   }
 }

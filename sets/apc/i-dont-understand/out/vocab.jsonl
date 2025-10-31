@@ -1,0 +1,6 @@
+{"id": "vocab_001", "language": "apc", "content": "ما فهمت", "consideredSentence": true, "transcriptions": ["note_pron_001"], "translations": ["trans_001_0", "trans_001_1"]}
+{"id": "vocab_002", "language": "apc", "content": "آسف ما فهمت", "consideredSentence": true, "transcriptions": ["note_pron_002"], "translations": ["trans_002_0"], "contains": ["vocab_001", "vocab_006"]}
+{"id": "vocab_003", "language": "apc", "content": "شو يعني؟", "consideredSentence": true, "transcriptions": ["note_pron_003"], "translations": ["trans_003_0"], "contains": ["vocab_004", "vocab_005"]}
+{"id": "vocab_004", "language": "apc", "content": "شو", "consideredWord": true, "transcriptions": ["note_pron_004"], "translations": ["trans_004_0"]}
+{"id": "vocab_005", "language": "apc", "content": "يعني", "consideredWord": true, "transcriptions": ["note_pron_005"], "translations": ["trans_005_0"]}
+{"id": "vocab_006", "language": "apc", "content": "آسف", "consideredWord": true,  "transcriptions": ["note_pron_006"], "translations": ["trans_006_0"]}

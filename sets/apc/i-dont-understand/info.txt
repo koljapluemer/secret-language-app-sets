@@ -1,0 +1,18 @@
+I don't understand = ما فهمت
+/ma fɪˈhɪmt/
+
+You can soften it with آسف ما فهمت (aasif ma fhimt) = “Sorry, I didn’t understand.” (make this another vocab with `contains` including the main phrase)
+
+
+
+---
+
+To ask for clarification: شو يعني؟ (shū ya3ni?) = “What does that mean?”
+
+شو (shū) → “what” Common in Levantine instead of Standard Arabic ماذا (mādhā).
+يعني (ya3nī) → verb “it means”
+
+
+---
+
+Also add a add `goal` with title "Express that you didn't understand" 
