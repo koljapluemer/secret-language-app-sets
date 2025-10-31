@@ -1,0 +1,12 @@
+{"id": "vocab_001", "language": "deu", "content": "Ist dieses Taxi frei?", "consideredSentence": true, "notes": ["note_usage_001"], "transcriptions": ["note_pron_001"], "translations": ["trans_001_0"], "contains": ["vocab_002", "vocab_003", "vocab_004", "vocab_005"]}
+{"id": "vocab_002", "language": "deu", "content": "ist", "consideredWord": true, "translations": ["trans_002_0"]}
+{"id": "vocab_003", "language": "deu", "content": "dieses", "consideredWord": true, "translations": ["trans_003_0"]}
+{"id": "vocab_004", "language": "deu", "content": "Taxi", "consideredWord": true, "translations": ["trans_004_0"]}
+{"id": "vocab_005", "language": "deu", "content": "frei", "consideredWord": true, "translations": ["trans_005_0"]}
+{"id": "vocab_006", "language": "deu", "content": "Können Sie mich zum Bahnhof fahren?", "consideredSentence": true, "notes": ["note_usage_002"], "transcriptions": ["note_pron_002"], "translations": ["trans_006_0"], "contains": ["vocab_007", "vocab_008", "vocab_009", "vocab_010", "vocab_011", "vocab_012"]}
+{"id": "vocab_007", "language": "deu", "content": "Können", "consideredWord": true, "translations": ["trans_007_0"]}
+{"id": "vocab_008", "language": "deu", "content": "Sie", "consideredWord": true, "translations": ["trans_008_0"]}
+{"id": "vocab_009", "language": "deu", "content": "mich", "consideredWord": true, "translations": ["trans_009_0"]}
+{"id": "vocab_010", "language": "deu", "content": "zum", "consideredWord": true, "translations": ["trans_010_0"]}
+{"id": "vocab_011", "language": "deu", "content": "Bahnhof", "consideredWord": true, "translations": ["trans_011_0"]}
+{"id": "vocab_012", "language": "deu", "content": "fahren", "consideredWord": true, "translations": ["trans_012_0"]}

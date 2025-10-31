@@ -1,0 +1,14 @@
+{"id": "vocab_001", "language": "fra", "content": "Je ne comprends pas.", "consideredSentence": true, "notes": ["note_usage_001"], "transcriptions": ["note_pron_001"], "translations": ["trans_001_0"], "contains": ["vocab_002", "vocab_003", "vocab_004", "vocab_005"]}
+{"id": "vocab_002", "language": "fra", "content": "Je", "consideredWord": true, "translations": ["trans_002_0"]}
+{"id": "vocab_003", "language": "fra", "content": "ne", "consideredWord": true, "translations": ["trans_003_0"]}
+{"id": "vocab_004", "language": "fra", "content": "comprends", "consideredWord": true, "translations": ["trans_004_0"]}
+{"id": "vocab_005", "language": "fra", "content": "pas", "consideredWord": true, "translations": ["trans_005_0"]}
+{"id": "vocab_006", "language": "fra", "content": "Pouvez-vous répéter, s'il vous plaît ?", "consideredSentence": true, "notes": ["note_usage_002"], "transcriptions": ["note_pron_002"], "translations": ["trans_006_0"], "contains": ["vocab_007", "vocab_008", "vocab_009", "vocab_010"]}
+{"id": "vocab_007", "language": "fra", "content": "Pouvez", "consideredWord": true, "translations": ["trans_007_0"]}
+{"id": "vocab_008", "language": "fra", "content": "vous", "consideredWord": true, "translations": ["trans_008_0"]}
+{"id": "vocab_009", "language": "fra", "content": "répéter", "consideredWord": true, "translations": ["trans_009_0"]}
+{"id": "vocab_010", "language": "fra", "content": "s'il vous plaît", "consideredWord": true, "translations": ["trans_010_0"]}
+{"id": "vocab_011", "language": "fra", "content": "Parlez plus lentement, s'il vous plaît.", "consideredSentence": true, "notes": ["note_usage_003"], "transcriptions": ["note_pron_003"], "translations": ["trans_011_0"], "contains": ["vocab_012", "vocab_013", "vocab_014", "vocab_010"]}
+{"id": "vocab_012", "language": "fra", "content": "Parlez", "consideredWord": true, "translations": ["trans_012_0"]}
+{"id": "vocab_013", "language": "fra", "content": "plus", "consideredWord": true, "translations": ["trans_013_0"]}
+{"id": "vocab_014", "language": "fra", "content": "lentement", "consideredWord": true, "translations": ["trans_014_0"]}

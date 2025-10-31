@@ -1,6 +1,16 @@
 {
+  "smalltalk-intros": {
+    "title": "Introductions and Small Talk in Spanish",
+    "description": "Learn phrases to exchange names, origins, and polite greetings during casual Spanish chit-chat.",
+    "preferredMode": "cram"
+  },
   "basic-vocab-with-images-and-sound": {
     "preferredMode": "practice-mode-eyes-and-ears",
     "title": "Spanish Essential Vocabulary with Images and Sound"
+  },
+  "taxi-availability": {
+    "title": "Checking Taxi Availability in Spanish",
+    "description": "Get ready to ask if a taxi is free and request a ride politely in Spanish.",
+    "preferredMode": "cram"
   }
 }

@@ -1,0 +1,14 @@
+{"id": "vocab_001", "language": "spa", "content": "¿De dónde eres?", "consideredSentence": true, "notes": ["note_usage_001"], "transcriptions": ["note_pron_001"], "translations": ["trans_001_0"], "contains": ["vocab_002", "vocab_003", "vocab_004"]}
+{"id": "vocab_002", "language": "spa", "content": "de", "consideredWord": true, "translations": ["trans_002_0"]}
+{"id": "vocab_003", "language": "spa", "content": "dónde", "consideredWord": true, "translations": ["trans_003_0"]}
+{"id": "vocab_004", "language": "spa", "content": "eres", "consideredWord": true, "translations": ["trans_004_0"]}
+{"id": "vocab_005", "language": "spa", "content": "Soy de Madrid.", "consideredSentence": true, "notes": ["note_usage_002"], "transcriptions": ["note_pron_002"], "translations": ["trans_005_0"], "contains": ["vocab_006", "vocab_002", "vocab_007"]}
+{"id": "vocab_006", "language": "spa", "content": "Soy", "consideredWord": true, "translations": ["trans_006_0"]}
+{"id": "vocab_007", "language": "spa", "content": "Madrid", "consideredWord": true, "translations": ["trans_007_0"]}
+{"id": "vocab_008", "language": "spa", "content": "Me llamo Ana.", "consideredSentence": true, "notes": ["note_usage_003"], "transcriptions": ["note_pron_003"], "translations": ["trans_008_0"], "contains": ["vocab_009", "vocab_010", "vocab_011"]}
+{"id": "vocab_009", "language": "spa", "content": "Me", "consideredWord": true, "translations": ["trans_009_0"]}
+{"id": "vocab_010", "language": "spa", "content": "llamo", "consideredWord": true, "translations": ["trans_010_0"]}
+{"id": "vocab_011", "language": "spa", "content": "Ana", "consideredWord": true, "translations": ["trans_011_0"]}
+{"id": "vocab_012", "language": "spa", "content": "Mucho gusto.", "consideredSentence": true, "notes": ["note_usage_004"], "transcriptions": ["note_pron_004"], "translations": ["trans_012_0"], "contains": ["vocab_013", "vocab_014"]}
+{"id": "vocab_013", "language": "spa", "content": "Mucho", "consideredWord": true, "translations": ["trans_013_0"]}
+{"id": "vocab_014", "language": "spa", "content": "gusto", "consideredWord": true, "translations": ["trans_014_0"]}

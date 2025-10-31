@@ -1,0 +1,12 @@
+{"id": "vocab_001", "language": "spa", "content": "¿Está libre este taxi?", "consideredSentence": true, "notes": ["note_usage_001"], "transcriptions": ["note_pron_001"], "translations": ["trans_001_0"], "contains": ["vocab_002", "vocab_003", "vocab_004", "vocab_005"]}
+{"id": "vocab_002", "language": "spa", "content": "está", "consideredWord": true, "translations": ["trans_002_0"]}
+{"id": "vocab_003", "language": "spa", "content": "libre", "consideredWord": true, "translations": ["trans_003_0"]}
+{"id": "vocab_004", "language": "spa", "content": "este", "consideredWord": true, "translations": ["trans_004_0"]}
+{"id": "vocab_005", "language": "spa", "content": "taxi", "consideredWord": true, "translations": ["trans_005_0"]}
+{"id": "vocab_006", "language": "spa", "content": "¿Puede llevarme a la estación, por favor?", "consideredSentence": true, "notes": ["note_usage_002"], "transcriptions": ["note_pron_002"], "translations": ["trans_006_0"], "contains": ["vocab_007", "vocab_008", "vocab_009", "vocab_010", "vocab_011", "vocab_012"]}
+{"id": "vocab_007", "language": "spa", "content": "puede", "consideredWord": true, "translations": ["trans_007_0"]}
+{"id": "vocab_008", "language": "spa", "content": "llevarme", "consideredWord": true, "translations": ["trans_008_0"]}
+{"id": "vocab_009", "language": "spa", "content": "a", "consideredWord": true, "translations": ["trans_009_0"]}
+{"id": "vocab_010", "language": "spa", "content": "la", "consideredWord": true, "translations": ["trans_010_0"]}
+{"id": "vocab_011", "language": "spa", "content": "estación", "consideredWord": true, "translations": ["trans_011_0"]}
+{"id": "vocab_012", "language": "spa", "content": "por favor", "consideredWord": true, "translations": ["trans_012_0"]}

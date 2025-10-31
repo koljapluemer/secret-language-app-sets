@@ -1,6 +1,16 @@
 {
+  "express-not-understand": {
+    "title": "Handling Misunderstandings in German",
+    "description": "Learn phrases to say you do not understand and to request repetition or slower speech.",
+    "preferredMode": "cram"
+  },
   "basic-vocab-with-images-and-sound": {
     "preferredMode": "practice-mode-eyes-and-ears",
     "title": "German Essential Vocabulary with Images and Sound"
+  },
+  "taxi-availability": {
+    "title": "Checking Taxi Availability in German",
+    "description": "Practice quick German questions to confirm a taxi is free and request a ride to the station.",
+    "preferredMode": "cram"
   }
 }

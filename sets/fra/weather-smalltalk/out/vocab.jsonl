@@ -1,0 +1,10 @@
+{"id": "vocab_001", "language": "fra", "content": "Quel temps fait-il aujourd'hui ?", "consideredSentence": true, "notes": ["note_usage_001"], "transcriptions": ["note_pron_001"], "translations": ["trans_001_0"], "contains": ["vocab_002", "vocab_003", "vocab_004", "vocab_005"]}
+{"id": "vocab_002", "language": "fra", "content": "Quel", "consideredWord": true, "translations": ["trans_002_0"]}
+{"id": "vocab_003", "language": "fra", "content": "temps", "consideredWord": true, "translations": ["trans_003_0"]}
+{"id": "vocab_004", "language": "fra", "content": "fait-il", "consideredWord": true, "translations": ["trans_004_0"]}
+{"id": "vocab_005", "language": "fra", "content": "aujourd'hui", "consideredWord": true, "translations": ["trans_005_0"]}
+{"id": "vocab_006", "language": "fra", "content": "Il fait beau, non ?", "consideredSentence": true, "notes": ["note_usage_002"], "transcriptions": ["note_pron_002"], "translations": ["trans_006_0"], "contains": ["vocab_007", "vocab_008", "vocab_009", "vocab_010"]}
+{"id": "vocab_007", "language": "fra", "content": "Il", "consideredWord": true, "translations": ["trans_007_0"]}
+{"id": "vocab_008", "language": "fra", "content": "fait", "consideredWord": true, "translations": ["trans_008_0"]}
+{"id": "vocab_009", "language": "fra", "content": "beau", "consideredWord": true, "translations": ["trans_009_0"]}
+{"id": "vocab_010", "language": "fra", "content": "non", "consideredWord": true, "translations": ["trans_010_0"]}
