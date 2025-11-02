@@ -8,7 +8,9 @@
     "title": "Mandarin Essential Vocabulary with Images and Sound"
   },
   "mandarin-character-deck": {
-    "title": "Mandarin Character Deck"
+    "title": "Mandarin Character Pronunciation Deck",
+    "description": "Practice subtle hearing the subtle differences of mandarin tones.",
+    "preferredMode": "minimal-pairs"
   },
   "restaurant-menu-vocabulary": {
     "title": "Restaurant Vocabulary",

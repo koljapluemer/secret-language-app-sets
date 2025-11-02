@@ -1,3 +1,5 @@
 {
-  "title": "Mandarin Character Deck"
+  "title": "Mandarin Character Pronunciation Deck",
+  "description": "Practice subtle hearing the subtle differences of mandarin tones.",
+  "preferredMode": "minimal-pairs"
 }
